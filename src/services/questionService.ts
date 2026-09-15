@@ -184,7 +184,7 @@ class QuestionService {
       filtered = filtered.filter(q => q.unitId === unitFilter);
     }
 
-    return filtered.sort(() => Math.random() - 0.5);
+    return this.shuffle(filtered);
   }
 }
 

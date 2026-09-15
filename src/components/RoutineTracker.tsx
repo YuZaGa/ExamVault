@@ -63,7 +63,9 @@ export const RoutineTracker: React.FC<RoutineTrackerProps> = ({
         : 'Mistake Vault (Clean & Mastered!)',
       icon: <Coffee size={18} color="#F43F5E" />,
       isDone: habit.recessMistakeDone,
-      actionText: habit.recessMistakeDone ? 'Practice Again' : 'Clear 5 Qs',
+      actionText: habit.recessMistakeDone 
+        ? 'Drill Again' 
+        : (activeMistakesCount > 0 ? 'Clear 5 Qs' : 'All Clear ✨'),
       onAction: onLaunchMidday,
       color: '#F43F5E',
       badge: '5 mins',
@@ -86,7 +88,7 @@ export const RoutineTracker: React.FC<RoutineTrackerProps> = ({
       subtitle: 'Timed NTA CBT Simulation',
       icon: <Trophy size={18} color="#34D399" />,
       isDone: habit.mockDone,
-      actionText: habit.mockDone ? 'Take Another' : 'Launch Mock',
+      actionText: habit.mockDone ? 'Retake Mock' : 'Launch Mock',
       onAction: onLaunchMock,
       color: '#34D399',
       badge: 'Full CBT'
@@ -225,26 +227,39 @@ export const RoutineTracker: React.FC<RoutineTrackerProps> = ({
                 disabled={item.disabled}
                 style={{
                   flexShrink: 0,
+                  minWidth: '118px',
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '4px',
+                  justifyContent: 'center',
+                  gap: '6px',
                   background: item.isDone 
-                    ? 'rgba(255, 255, 255, 0.06)' 
-                    : `rgba(${item.id === 'morning' ? '245, 158, 11' : item.id === 'midday' ? '244, 63, 94' : item.id === 'evening' ? '99, 102, 241' : '16, 185, 129'}, 0.15)`,
-                  border: `1px solid ${item.isDone ? 'var(--border-subtle)' : item.color}`,
-                  color: item.isDone ? 'var(--text-muted)' : item.color,
-                  padding: '6px 10px',
-                  borderRadius: '6px',
+                    ? 'rgba(16, 185, 129, 0.12)' 
+                    : item.disabled
+                      ? 'rgba(255, 255, 255, 0.03)'
+                      : `rgba(${item.id === 'morning' ? '245, 158, 11' : item.id === 'midday' ? '244, 63, 94' : item.id === 'evening' ? '99, 102, 241' : '16, 185, 129'}, 0.14)`,
+                  border: item.isDone
+                    ? '1px solid rgba(16, 185, 129, 0.35)'
+                    : item.disabled
+                      ? '1px solid rgba(255, 255, 255, 0.08)'
+                      : `1px solid ${item.color}`,
+                  color: item.isDone
+                    ? '#34D399'
+                    : item.disabled
+                      ? 'var(--text-dim)'
+                      : item.color,
+                  padding: '7px 12px',
+                  borderRadius: '8px',
                   fontFamily: 'var(--font-heading)',
-                  fontSize: '0.75rem',
+                  fontSize: '0.78rem',
                   fontWeight: 700,
                   cursor: item.disabled ? 'not-allowed' : 'pointer',
-                  opacity: item.disabled ? 0.5 : 1,
-                  marginLeft: '8px'
+                  opacity: item.disabled ? 0.6 : 1,
+                  marginLeft: '10px',
+                  transition: 'all 0.2s ease'
                 }}
               >
                 <span>{item.actionText}</span>
-                <ArrowRight size={12} />
+                {!item.disabled && <ArrowRight size={13} />}
               </button>
             </div>
           ))}
