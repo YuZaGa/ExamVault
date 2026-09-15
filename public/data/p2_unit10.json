@@ -1,0 +1,366 @@
+[
+  {
+    "id": "P2-U10-3",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.50",
+    "questionText": "The incorrect works cited entries according to MLA Handbook, 9th edition are:\n(a) Jacobs, Alan. The Pleasures of Reading in the Age of Destruction. Oxford UP, 2011.\n(b) Charon, Rita, et al. The Principles and Practice of Narrative Medicine. Oxford UP, London,\n2017.\n(c) Sabau, Ana. \"The Perils of Ownership\". American Review, vol.10, no.2, 2007, pp.1-27.\n(d) Riddle, Julie. \"Shadow Animals.\" The Georgia Review, 67.3, pp. 424-47.\n(e) Copeland, Edward. The Cambridge Companion to Jane Austin. Cambridge UP, 1997. 131-\n48.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(d), (e) and (a) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "1997: Coined/Proposed by Arundhati Roy (*The God of Small Things*)"
+  },
+  {
+    "id": "P2-U10-5",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.29",
+    "questionText": "Which of the following parameters are emphasised in MLA Handbook's (9th Edition) chapter\ntitled, \"Principles of Inclusive Language\"?\n(a) Avoid negatively judging other's experiences.\n(b) Use a dictionary to check for offensive terms.\n(c) Extensive use of pronouns.\n(d) Any format for capitalization and styling.\n(e) Make references to identity relevant sources.\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (a) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-6",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.34",
+    "questionText": "Which of the following citations of an article published in a journal is in the correct format\naccording to MLA Handbook (9th Edition)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2016. Boggs, Colleen Glenney. \"Public Reading and the Civil War Draft Lottery.\" American\nPeriodicals, vol. 26, no. 2, 2016, pp. 149-66"
+      },
+      {
+        "key": "B",
+        "text": "\"Public Reading and the Civil War Draft Lottery.\" American Periodicals, vol. 26, no. 2, 2016,\nP. 149-66."
+      },
+      {
+        "key": "C",
+        "text": "Boggs, Colleen Glenney, American Periodicals. \"Public Reading and the Civil War Draft\nLottery.\" vol. 26, no. 2, 2016, P. 149-66"
+      },
+      {
+        "key": "D",
+        "text": "Boggs, Colleen Glenney. \"Public Reading and the Civil War Draft Lottery.\" American\nPeriodicals, vol. 26, no. 2, 2016, pp. 149-66."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-8",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.77",
+    "questionText": "The key principles of research design brought together in material on measurement principles,\nsampling and case study, survey and experimentation is termed as -",
+    "options": [
+      {
+        "key": "A",
+        "text": "Research Methodology"
+      },
+      {
+        "key": "B",
+        "text": "Research Methods"
+      },
+      {
+        "key": "C",
+        "text": "Research Techniques"
+      },
+      {
+        "key": "D",
+        "text": "Research Designs"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-9",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.26",
+    "questionText": "Use of broader principles of research underscored by philosophical rationales is termed as:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Research Methods"
+      },
+      {
+        "key": "B",
+        "text": "Research Tools"
+      },
+      {
+        "key": "C",
+        "text": "Research Techniques"
+      },
+      {
+        "key": "D",
+        "text": "Research Methodology"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-10",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.29",
+    "questionText": "What is the standard format for citing a book as per the requirements of the MLA Handbook Eighth Edition?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Surname, First name. Title of the Book in italics. Place of Publication: Name of the Publishing House,\nYear of publication."
+      },
+      {
+        "key": "B",
+        "text": "Surname, First name in initials (Year of Publication). Title of the Book. Place of Publication. Name of\nthe Publishing House."
+      },
+      {
+        "key": "C",
+        "text": "Surname, First name. Title of the Book in italics. Name of the Publishing House, Year of publication."
+      },
+      {
+        "key": "D",
+        "text": "Surname, First name. Title of the Book in italics. Place of Publication: Name of the Publishing House,\nYear of publication. Print."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U10-11",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.25",
+    "questionText": "Which of the following is one of the DON'Ts of writing a dissertation or thesis:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Compiling a bibliography as soon as the work is started."
+      },
+      {
+        "key": "B",
+        "text": "Avoid jargon wherever possible."
+      },
+      {
+        "key": "C",
+        "text": "It should be kept in mind that a dissertation or a thesis should take the form of an argument in\nwhich thewriter must attempt to convince the reader of his or her case."
+      },
+      {
+        "key": "D",
+        "text": "A researcher should not bother about the use of the proper scholarly conventions from the very\nbeginning."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-12",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.41",
+    "questionText": "Which of these graphic narratives depict political crisis?\n(a) Amruta Patil \t- \tKari\n(b) Joe Sacco \t- \tFootnotes in Gaza\n(c) Art Spiegelman \t- \tMaus\n(d) Sarnath Banerjee \t- \tCorridor\n(e) Phoebe Gloeckner - \tThe Diary of a Teenage Girl\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-13",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.8",
+    "questionText": "Which of the following statements are true about Ethnographic Research Method?\n(a) It enables the exploration of the consumption of literature within defined social and historical\nsettings.\n(b) Janice A. Radway's Reading the Romance (1984) is one of the first examples of the use of\nethnographic research methodology.\n(c) It is percieved as an act of uncovering an objective reality.\n(d) Reading National Geographic (1993) by Catherine A. Lutz and Jane L. Collins makes\neffective use of ethnographic research method to find out the role of the magazine National\nGeographic in moulding Americans awareness of the world beyond the United States.\n(e) It focuses more on objective data than subjective interpretation of the materials.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (c) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "1993: Coined/Proposed by Vikram Seth (*A Suitable Boy*)"
+  },
+  {
+    "id": "P2-U10-14",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.75",
+    "questionText": "Which two of the following are true according to the documentation style prescribed by the eighth\nedition of the MLA Handbook?\nA. If the title page of a book contains an imprint as well as the publisher's name, omit the imprint\nand use the publisher's name.\nB. While giving a URL copy it from the Web browser but omit http:// or https:/ /.\nC. If a quotation extends to more than five lines set it off from the text as block indented an inch\nfrom the left margin.\nD. Long titles should be abbreviated using the first letter of key words typed in upper case without\nintervening space.\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-15",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.24",
+    "questionText": "Which of the following abbreviations refers to a documentation style?",
+    "options": [
+      {
+        "key": "A",
+        "text": "ARIEL"
+      },
+      {
+        "key": "B",
+        "text": "MFS"
+      },
+      {
+        "key": "C",
+        "text": "MHRA"
+      },
+      {
+        "key": "D",
+        "text": "PMLA"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-16",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.43",
+    "questionText": "The MLA Style Sheet, a compilation of scholarly conventions and directives, was first published\nin:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1951."
+      },
+      {
+        "key": "B",
+        "text": "1957."
+      },
+      {
+        "key": "C",
+        "text": "1962."
+      },
+      {
+        "key": "D",
+        "text": "1970."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-17",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.71",
+    "questionText": "Which two of the following conform to the documentation style prescribed by the eighth edition\nof the MLA Handbook?\nA. Puig, Manuel. Kiss of the Spider Woman, translated by Thomas Colchie, Vintage Books,\n1991.\nB. Kincaid, Jamaica. “In History.” Callaloo, vol. 24, no. 2, Spring 2001, pp. 620-26.\nC. Nunberg, Geoffrey, editor. The Future of the Book. U of California P, 1996.\nD. Wellek, Rene. A History of Modern Criticism, 1750-1950, Yale UP, 1986.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  }
+]

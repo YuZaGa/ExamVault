@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "P2-U05-2",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.19",
+    "questionText": "When was 'International Phonetic Alphabet' (IPA) developed and promulgated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1868"
+      },
+      {
+        "key": "B",
+        "text": "1878"
+      },
+      {
+        "key": "C",
+        "text": "1888"
+      },
+      {
+        "key": "D",
+        "text": "1978"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "1978: Coined/Proposed by Anita Desai (*Fire on the Mountain*)"
+  },
+  {
+    "id": "P2-U05-3",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.31",
+    "questionText": "The Grammar Translation Method in English Language Teaching stresses on:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fluency"
+      },
+      {
+        "key": "B",
+        "text": "Accuracy"
+      },
+      {
+        "key": "C",
+        "text": "Appropriateness"
+      },
+      {
+        "key": "D",
+        "text": "Listening Skill"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-4",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.36",
+    "questionText": "Functional Communicative Approach in English Language Teaching is in opposition to the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Comprehensive Approach"
+      },
+      {
+        "key": "B",
+        "text": "Grammar Translation Method"
+      },
+      {
+        "key": "C",
+        "text": "Functional Approach"
+      },
+      {
+        "key": "D",
+        "text": "Structural Approach"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-7",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.30",
+    "questionText": "Match the List-I with List-II\nList - I \tList - II\n(a) The Language Instinct \t(I) Steven Pinker\n(b) Reflections of Language \t(II) Noam Chomsky\n(c) Variety of language serving a specialized\nfunction in a multilingual community\n(III) Creole/Creolization\n(d) Existence of a common variety of language\nfor people from different cultures\n(IV) Diglossia\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(III), (c)-(I), (d)-(II)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-8",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.64",
+    "questionText": "Phonetics refers to-\n(a) Production of speech sounds\n(b) Reception of speech sounds\n(c) Transmission of speech sounds\n(d) Pattern of speech sounds\n(e) Word formation\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (d) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-9",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.93",
+    "questionText": "What does the phrase ‘red signals sent out’ signify?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Passion/zest for life"
+      },
+      {
+        "key": "B",
+        "text": "Distress and desperation of speaker"
+      },
+      {
+        "key": "C",
+        "text": "Threatening signals"
+      },
+      {
+        "key": "D",
+        "text": "Hopefulness and warmth"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-10",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.39",
+    "questionText": "Which among the following statements are true?\n(a) Miscegenation is a sexual relationship or marriage between the people of the same race\n(b) Creole is a language that has evolved from a pidgin but serves as the native language of a\nspeech community\n(c) Indian tribal people are popularly termed as aboriginals\n(d) Mulatto is a person of mixed white and black ancestry\n(e) Australian indigenous population is termed as Red Indians\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-11",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.42",
+    "questionText": "A portmanteau is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A word which sounds the same but have different meanings."
+      },
+      {
+        "key": "B",
+        "text": "A word that results from blending two or more words or part of words."
+      },
+      {
+        "key": "C",
+        "text": "Creation of new words without reference to the existing morphological resources."
+      },
+      {
+        "key": "D",
+        "text": "Copying a word that originally belonged to one language into another language."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-12",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.95",
+    "questionText": "What is the addressee in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Feminine gender"
+      },
+      {
+        "key": "B",
+        "text": "Masculine gender"
+      },
+      {
+        "key": "C",
+        "text": "Common gender"
+      },
+      {
+        "key": "D",
+        "text": "Neutral gender\nComprehension: (96-100)\nRead the following passage and answer the questions that follow:\nSome sort of parallel may be found in the way logical connectives are usually unnecessary and\noften misleading, because too simple. Omitting an adjective one would need 'therefore' stressing\nthe adjective ‘although'; both logical connections are implied if the sentences are just put after\nanother. In the same way, people are accustomed to judge automatically the forces that hold\ntogether a variety of ideas, they feel they know about the forces, if they have analysed the ideas;\nmany forces, indeed, are covertly included within ideas; and so of the two elements, each of\nwhich defines the other, it is much easier to find words for the ideas than for the forces. Most of\nthe ambiguities I have considered here seem to me beautiful; I consider, then, that I have shown\nby example, in showing the nature of the ambiguity, the nature of the forces which are adequate\nto hold it together. It would seem very artificial to do it the other way round, and very tedious to\ndo it both ways at once. I wish only, then, to say here that such vaguely imagined 'forces' are\nessential to the totality of a poem and they cannot be discussed in terms of ambiguity, because\nthey are complementary to it. But by discussing 'ambiguity, a great deal may be made clear\nabout them. In particular, if there is contradiction, the greater the tension; in some way other\nthan by the contradiction, the tension must be conveyed, and must be sustained."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-13",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.18",
+    "questionText": "Who among the following argued that children learn language based on behaviorist reinforcement principles\nby associating words with meaning?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Noam Chomsky"
+      },
+      {
+        "key": "B",
+        "text": "B. F. Skinner"
+      },
+      {
+        "key": "C",
+        "text": "Stephen Krashen"
+      },
+      {
+        "key": "D",
+        "text": "Peter Singer"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-14",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.52",
+    "questionText": "Noam Chomsky is known for his________",
+    "options": [
+      {
+        "key": "A",
+        "text": "Generative grammar"
+      },
+      {
+        "key": "B",
+        "text": "Glossematic linguistics"
+      },
+      {
+        "key": "C",
+        "text": "Linguistic determinism"
+      },
+      {
+        "key": "D",
+        "text": "Grammar Translation Method"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-15",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.54",
+    "questionText": "Which among the following is true about corpus linguistics?\n(a) It is a collection of naturally occurring spoken and written texts.\n(b) It has ensured the supremacy of speech over writing.\n(c) It is about the teaching of linguistics at the school level.\n(d) It is a methodology that involves computer based empirical analysis of language use.\n(e) It is a branch of linguistics that is purely based on Chomskyan linguistics.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-16",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.96",
+    "questionText": "“The methodology of practical criticism seeks coherence in images, themes and patterns of language.”\nWhat could be the implication of this statement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Practical criticism involves a political hermeneutic."
+      },
+      {
+        "key": "B",
+        "text": "Practical criticism privileges a pragmatic approach."
+      },
+      {
+        "key": "C",
+        "text": "Practical criticism prioritises on evaluating texts by adopting a purely literary mode of inquiry bereft of\ncontextualization."
+      },
+      {
+        "key": "D",
+        "text": "Practical criticism is activism-based criticism."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Practical Criticism: Coined/Proposed by I.A. Richards (I.A. Richards (*Practical Criticism*))"
+  },
+  {
+    "id": "P2-U05-17",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.56",
+    "questionText": "Which of the following points are correct regarding the Direct Method of teaching English in a classroom\nscenario?\n(a) There is no interference of the mother tongue.\n(b) There is direct connection with the target language (English). Learners think in the target language and\nexpress in the target language.\n(c) The teaching learning process is carried out in English.\n(d) This method is useful in overcrowded classroom situation.\n(e) This method is based on the principle of “Doing by Learning.”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (e), (a)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-18",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.86",
+    "questionText": "In the context of ‘nature-nurture’ debate in Linguistics, there is a view that there must be an innate core of\nabstract knowledge about language form, which pre-specifies a framework for all natural human languages\nand is currently known as ‘Universal Grammar’. Among the following, who is the linguist proposing this\nview?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Claude Levi-Strauss"
+      },
+      {
+        "key": "B",
+        "text": "Noam Chomsky"
+      },
+      {
+        "key": "C",
+        "text": "Roland Barthes"
+      },
+      {
+        "key": "D",
+        "text": "Richard Rorty"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U05-19",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.90",
+    "questionText": "Name the author of Out on Stage: Lesbian and Gay Theatre in the Twentieth Century.",
+    "options": [
+      {
+        "key": "A",
+        "text": "A Sinfield"
+      },
+      {
+        "key": "B",
+        "text": "K Peacock"
+      },
+      {
+        "key": "C",
+        "text": "R Hayman"
+      },
+      {
+        "key": "D",
+        "text": "J R Taylor\n(91-95)\nRead the following poem and answer the questions that follow:\nApostrophe to Man\nDetestable race, continue to expunge yourself, die out.\nBreed faster, crowd, encroach, sing hymns, build bombing airplanes:\nMake speeches, unveil statues, issue bonds, parade:\nConvert again into explosives the bewildered ammonia and the distracted cellulose;\nConvert again into putrescent matter drawing flies\nThe hopeful bodies of the young: exhort,\nPray, pull long faces, be earnest, be all but overcome, be photographed;\nConfer, perfect your formulae, commercialize\n\n\nBacteria harmful to human tissue,\nPut death on the market;\nBreed, crowd, encroach, expand, expunge yourself, die out,\nHomo called sapiens. `"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-20",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.95",
+    "questionText": "What is the meaning of the word “detestable” in the context of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ebullient"
+      },
+      {
+        "key": "B",
+        "text": "Contemptible"
+      },
+      {
+        "key": "C",
+        "text": "Magnanimous"
+      },
+      {
+        "key": "D",
+        "text": "Redoubtable\n(96-100)\nRead the following passage and answer the questions that follow:\nEmergent in the wake of industrialization, studies of everyday life endeavor to bring into visibility and somehow\nmake sense of our humble, taken-for-granted, seemingly unremarkable experience of the quotidian. The project\nhas meant subjecting modern Western individuals to the kind of anthropological scrutiny more often reserved for\nnon-Western peoples. The goal has been to explore patterns of behavior not because they are foreign but because\nthey are so familiar as to fall beneath our notice. Artists as well as social theorists in this tradition set out to\nregister and evaluate the neglected minutiae of our daily lives: the ways we sleep and ambulate, ingest and\neliminate, work and recreate, care for ourselves and others, slip in and out self-awareness, and interact with\npeople, objects, and our surroundings. Generally speaking, everyday life studies is a science of the “small.”\n\n\nThough usually framed in relation to larger social structures, the objects of attention are micro-moments and\nmicro-actions — turning a street corner, stirring a pot, feeding an infant. They are actions that take place without\nrising to the status of “event.” They are moments in time that leave no historical mark (at least as “history” has\ntraditionally been understood). As these examples suggest, such practices are “everyday” not only because they\nare “ordinary” but also because they typically occur every day, perhaps even every few hours. Whether tied to\nbodily rhythms or the rigors of wage work, the non-events of everyday life are almost always characterized by\npatterns of repetition. Theorists of the everyday, focusing on the effects of modernity, have taken various stances\non the political implications of our daily routines. Some have tied their repetitive nature to the mechanization and\nalienation of labor in a capitalist society. For Michel Foucault, domination is not restricted to the factory floor: the\nworkings of power are more diffuse and insidious than this, operating in the very interstices of our seemingly\nprivate lives. For Michel de Certeau, the quotidian is a site not of forcible conformity but of micro-opportunities\nto defy the dominant order."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Michel Foucault: Coined/Proposed by \"What Is an Author?\" (1969) (The \"Author-Function\"; author is not a real individual, but an ideological construction that limits and controls meaning.)"
+  },
+  {
+    "id": "P2-U05-21",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.24",
+    "questionText": "The science that systematically studies the function of signs is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Semantics"
+      },
+      {
+        "key": "B",
+        "text": "Scriptoria"
+      },
+      {
+        "key": "C",
+        "text": "Sismograhpy"
+      },
+      {
+        "key": "D",
+        "text": "Semiology"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-22",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.35",
+    "questionText": "Second Language is",
+    "options": [
+      {
+        "key": "A",
+        "text": "the language second in importance in terms of the use of languages by a learner."
+      },
+      {
+        "key": "B",
+        "text": "the language used by a second generation learner."
+      },
+      {
+        "key": "C",
+        "text": "any language other than the learner’s native language or mother tongue."
+      },
+      {
+        "key": "D",
+        "text": "the language which is the learner’s native language but not the mother tongue."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-23",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.36",
+    "questionText": "When a learner’s second language learning system seems to freeze or get stuck at some more or less\ndeviant stage, that phenomenon is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Freezer"
+      },
+      {
+        "key": "B",
+        "text": "Fossilization"
+      },
+      {
+        "key": "C",
+        "text": "Language Learning Blockade"
+      },
+      {
+        "key": "D",
+        "text": "Language Scaffolding"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-24",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.51",
+    "questionText": "Which of the following works have been written by Thomas Carlyle?\n(a) Of Heroes and Hero-Worship\n(b) The French Revolution\n(c) Of Human Bondage\n(d) The Hour and the Man\n(e) Hudibras\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e)\n\n\n(a) Desire in Language: A Semiotic Approach to Literature and Art\n(b) Illuminations\n(c) Syntax and Semantics\n(d) La revolution du langage poétique\n(e) The Madwoman in the Attic\nChoose the correct answer from the options given below:"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-25",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.96",
+    "questionText": "In the above passage, Christopher Caudwell’s statement, “Poetry in its use of language continually\ndistorts and denies the structure of reality to exalt the structure of the self” implies:",
+    "options": [
+      {
+        "key": "A",
+        "text": "The pragmatic function of poetry that reflects the social reality through expressive language"
+      },
+      {
+        "key": "B",
+        "text": "The capacity of poetry to draw attention to itself as an aesthetic object or artefact"
+      },
+      {
+        "key": "C",
+        "text": "Poetry exalts the “structure of the self’ by privileging the notion of the ‘egotistical sublime’"
+      },
+      {
+        "key": "D",
+        "text": "The mimetic function of poetry that alludes to the world of external reality in simple, clear\nlanguage"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Egotistical Sublime: Coined/Proposed by John Keats (Applied to William Wordsworth's poetry)"
+  },
+  {
+    "id": "P2-U05-26",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.97",
+    "questionText": "What does the word “assonance” mean?",
+    "options": [
+      {
+        "key": "A",
+        "text": "repetition of identical or similar consonants"
+      },
+      {
+        "key": "B",
+        "text": "repetition of identical or similar vowels"
+      },
+      {
+        "key": "C",
+        "text": "repetition of identical or similar phrases"
+      },
+      {
+        "key": "D",
+        "text": "repetition of identical or similar clauses"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-27",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.11",
+    "questionText": "Which of the following statements holds true in regard to \"Sentimental Comedy\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is a dramatic composition which satirises the manners and affectations of a class."
+      },
+      {
+        "key": "B",
+        "text": "It is a dramatic composition that focuses on characters, each of them representing a type\npersonality."
+      },
+      {
+        "key": "C",
+        "text": "It is a dramatic composition that depicts how seriously young people take love, and how\nfoolishly it makes them behave."
+      },
+      {
+        "key": "D",
+        "text": "It is a species of dramatic composition in which the virtues of private life are exhibited, rather\nthan the vices exposed; and the distresses rather than the faults of mankind make our interest in\nthe piece."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-28",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.22",
+    "questionText": "Which of the following methods is the oldest for teaching English language?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Bilingual Method"
+      },
+      {
+        "key": "B",
+        "text": "The Grammar Translation Method"
+      },
+      {
+        "key": "C",
+        "text": "The Direct Method"
+      },
+      {
+        "key": "D",
+        "text": "The Situation Method"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-29",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.23",
+    "questionText": "Intheareaof theory and research known as Second Language Acquisition (SLA), the classroom is\nconsidered",
+    "options": [
+      {
+        "key": "A",
+        "text": "an ideal model for research."
+      },
+      {
+        "key": "B",
+        "text": "a site of no use."
+      },
+      {
+        "key": "C",
+        "text": "a site that always produces language learning blockade."
+      },
+      {
+        "key": "D",
+        "text": "an experimental laboratory."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-30",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.85",
+    "questionText": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason\n(R).\nAssertion (A): From a sociolinguistic point of view, mainstream SLA studies remain asocial-the\nsocial import of learning to interact through language remains hidden.\nReason (R): A sociolinguistic perspective focusses on the linguistic system as well as on a concern\nwith specific items of pragmatic and discourse development and rejects the tendency of looking at\nlanguage as a set of norms, at language diversity and ideologies.\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is not correct."
+      },
+      {
+        "key": "D",
+        "text": "(A) is not correct but (R) is correct."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-31",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.90",
+    "questionText": "Given below are two statements:\nStatement (I): The poststructuralists' genre critics suggest that the way to 'de-essentialize' genre is to\nre-cast it in terms of discourse.\nStatement (II): But while the poststructuralist move toward dialectical exchange and ideology is both\nuseful and necessary, conceiving of genre primarily in terms of discourse reveals certain limitations\nthat are intrinsic to poststructuralism's basic approach to discourse and to the relationship envisioned\nbetween discourse and subjectivity.\nIn light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true\nRead the following poem and answer the questions that follows:\nAre You There?\nMy father and I shove back the furniture\nto the four walls of the sitting room\nthen lie on the carpet wearing blindfolds,\nhis left hand holding my left hand.\nAre you there, Moriarty? he enquires,\nbefore tightening (I imagine) the grip\non his rolled-up copy of yesterday's Times.\nThere is only one possible answer to that.\nI give it while rolling away to the side\nbut still clasping his hand, still in range,\nand sure enough he manages a direct hit.\nNow it is my turn, but the moment I lift\nmy weapon I realise there is no reason\nto continue. I can tell from his stillness,\nand the chill and stiffness of his fingers,\nhe has been dead for a good while already.\nAndrew Motion"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U05-32",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.98",
+    "questionText": "What is the meaning of the term \"non-pragmatic\" used in the passage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Scientific"
+      },
+      {
+        "key": "B",
+        "text": "Rational"
+      },
+      {
+        "key": "C",
+        "text": "Practical"
+      },
+      {
+        "key": "D",
+        "text": "Affective"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-33",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.15",
+    "questionText": "Given below are two statements:\nStatement (I): The teaching of non-native literature to the students of English Language\nTeaching is arid.\nStatement (II): The negative responses in ELT classroom can create an interesting classroom\nsituation.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are correct"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is correct but Statement (II) is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is incorrect but Statement (II) is correct"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-34",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.53",
+    "questionText": "The Voyage and Travail of Sir John Mandeville was written in ______",
+    "options": [
+      {
+        "key": "A",
+        "text": "Queens English"
+      },
+      {
+        "key": "B",
+        "text": "Northumbrian dialect"
+      },
+      {
+        "key": "C",
+        "text": "Midland dialect"
+      },
+      {
+        "key": "D",
+        "text": "Cockney"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-35",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.14",
+    "questionText": "Which of the following words refers to a sound that is associated with a particular meaning?",
+    "options": [
+      {
+        "key": "A",
+        "text": "phoneme"
+      },
+      {
+        "key": "B",
+        "text": "phonemoid"
+      },
+      {
+        "key": "C",
+        "text": "phonestheme"
+      },
+      {
+        "key": "D",
+        "text": "phonic substance"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-36",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.80",
+    "questionText": "Which of these questions would Cultural Studies be most interested in asking?\nA. Who decides what is to be produced?\nB. Who can afford the artifact?\nC. How is the artifact marketed?\nD. What is the register of speech in the artifact?\n\n\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A, B and D only"
+      },
+      {
+        "key": "B",
+        "text": "A, B and C only"
+      },
+      {
+        "key": "C",
+        "text": "A, C and D only"
+      },
+      {
+        "key": "D",
+        "text": "B, C and D only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-37",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.95",
+    "questionText": "In comparative philology and sometimes in modern phonology, what is the term used to refer to the\ndeletion of a vowel within a word?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aphaeresis"
+      },
+      {
+        "key": "B",
+        "text": "Equi deletion"
+      },
+      {
+        "key": "C",
+        "text": "Paradigm"
+      },
+      {
+        "key": "D",
+        "text": "Syncope"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-38",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.99",
+    "questionText": "In Noam Chomsky's definition of grammar which two features are drawn from mathematics ?\nA. complexity\nB. abstraction\nC. transformation\nD. generation\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only\n100.Who among the following Dickens characters appears as a ghost?"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-39",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.12",
+    "questionText": "Which pair of linguists in the following list is associated with ‘speech acts’?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Franz Boas and Rudolf Camap"
+      },
+      {
+        "key": "B",
+        "text": "J.L.Austin and John Searle"
+      },
+      {
+        "key": "C",
+        "text": "Noam Chomsky and Steven Pinker"
+      },
+      {
+        "key": "D",
+        "text": "Paul Grice and Michael Devitt"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-40",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.34",
+    "questionText": "Which of the following are books by Noam Chomsky?\nA. Syntactic Structures\nB. Verbal Learning and Verbal Behavior\nC. Language and Society\nD. Aspects of the Theory of Syntax\nE. The Pragmatics of Politeness\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and C only"
+      },
+      {
+        "key": "B",
+        "text": "B and D only"
+      },
+      {
+        "key": "C",
+        "text": "C and E only"
+      },
+      {
+        "key": "D",
+        "text": "D and A only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-41",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.39",
+    "questionText": "The set of inflected forms taken by a single word is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "lexeme."
+      },
+      {
+        "key": "B",
+        "text": "morpheme."
+      },
+      {
+        "key": "C",
+        "text": "phoneme."
+      },
+      {
+        "key": "D",
+        "text": "sememe."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-42",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.42",
+    "questionText": "Arrange the following terms in the chronological order as these appeared in literary theory:\nA. phallogocentrism\nB. locutionary act\nC. interpellation\nD. interpretive community\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A, D, C, B"
+      },
+      {
+        "key": "B",
+        "text": "B, C, A, D"
+      },
+      {
+        "key": "C",
+        "text": "C, B, D, A"
+      },
+      {
+        "key": "D",
+        "text": "D, A, B, C"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-43",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.94",
+    "questionText": "Who, in “The World as India,” argues that English can be the only common “unifying language”\nof India?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Anthony Burgess"
+      },
+      {
+        "key": "B",
+        "text": "C. K. Ogden"
+      },
+      {
+        "key": "C",
+        "text": "Noam Chomsky"
+      },
+      {
+        "key": "D",
+        "text": "Susan Sontag"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-44",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.96",
+    "questionText": "Given below are two statements:\nStatement I: A pidgin is formed by two mutually unintelligible speech communities trying to\ncommunicate using the most obvious features of each other’s language.\nStatement II: Notwithstanding the number of years a pidgin is spoken, it can never become the\nmother tongue of a community.\nIn the light of the above statements,\nchoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are correct"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  }
+]

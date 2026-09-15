@@ -1,0 +1,3978 @@
+[
+  {
+    "id": "P2-U09-2",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.8",
+    "questionText": "Identify the correct statement on about 'Langue' and 'Parole' below:\n(a) Langue is the abstract language system, the grammar of a language.\n(b) Parole is the language actually produced by its users following Langue.\n(c) Langue is the language actually produced by its users following Parole.\n(d) Parole is the abstract language system, the grammar of a system.\n(e) Langue and Parole are not related to one language as concepts.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-3",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.24",
+    "questionText": "Who is the best known figure amongst the following for articulating the concept of 'Negritude'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Edward Said"
+      },
+      {
+        "key": "B",
+        "text": "Aime Cesaire"
+      },
+      {
+        "key": "C",
+        "text": "William Jones"
+      },
+      {
+        "key": "D",
+        "text": "Anna Rutherford"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-4",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.55",
+    "questionText": "Arrange the following works in the chronological order their year of publication:\n(a) Orientalism\n(b) Black Skin, White Masks\n(c) Masks of Conquest\n(d) The Wretched of the Earth\n(e) \"Can the Subaltern Speak?\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (a), (c), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (b), (a), (e), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (b), (d), (a), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c), (b), (e), (d)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Subaltern: Coined/Proposed by Antonio Gramsci (Gayatri Spivak (*Can the Subaltern Speak?*))"
+  },
+  {
+    "id": "P2-U09-5",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.56",
+    "questionText": "Match the LIST-I with LIST-II\nLIST - I \tLIST - II\n(a) Mikhail Bakhtin \t(I) \"Archeology of the Human Sciences\"\n(b) Michael Foucault \t(II) \"Text can be either readerly or writerly\"\n(c) Roland Barthes \t(III) \"Dialogue as the intrinsic feature of language\"\n(d) Sigmund Freud \t(IV) \"Dreams end the unconscious\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(II), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-6",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.58",
+    "questionText": "The author of \"The Politics of Translation\" and translator of Mahashweta Devi's \"Standayini\" is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Homi Bhabha"
+      },
+      {
+        "key": "B",
+        "text": "Jhumpa Lahiri"
+      },
+      {
+        "key": "C",
+        "text": "Gayatri C. Spivak"
+      },
+      {
+        "key": "D",
+        "text": "Tejaswini Niranjana"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-7",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.63",
+    "questionText": "\"There is nothing outside the text\" is a statement by:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Victor Shklovsky"
+      },
+      {
+        "key": "B",
+        "text": "Jacques Derrida"
+      },
+      {
+        "key": "C",
+        "text": "Roland Barthes"
+      },
+      {
+        "key": "D",
+        "text": "Ferdinand de Saussure"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-8",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.66",
+    "questionText": "Arrange the following in the chronological order of their year of publication.\n(a) Deconstruction and Criticism\n(b) Multiculturalism: Roots and Realities\n(c) Literary Theory and the Claims of History\n(d) The Western Canon\n(e) An Appetite for Poetry\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (c), (e), (b), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (e), (d), (c), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (b), (a), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U09-9",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.67",
+    "questionText": "Identify the statements which are true for Psychoanalytic Criticism.\n(a) The premises and procedures were established by Sigmund Freud.\n(b) Freud posited that artists are like neurotic patients.\n(c) Freud posited that 'Psychoanalysis' can be used to account for many developments and\npractices in the history of civilization.\n(d) A repressed wish does not become fantasy.\n(e) Freud proposed that literature and other arts manifest the repressed subconscious and\nunconscious drives of the artist.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (a) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-10",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.79",
+    "questionText": "Who amongst the following was not a member of the Bloomsbury Group?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Virginia Woolf"
+      },
+      {
+        "key": "B",
+        "text": "E. M. Forster"
+      },
+      {
+        "key": "C",
+        "text": "Lytton Strachey"
+      },
+      {
+        "key": "D",
+        "text": "W. B. Yeats"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-11",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.81",
+    "questionText": "Which of the statements given below are true?\n(a) The centre for contemporary Cultural Studies was established in Berkley in 1960.\n(b) Jurgen Habermas traces the rise of the public sphere to the rise of print culture.\n(c) Paul Gilroy introduced the concept of the Black Atlantic.\n(d) Adorno praises the alien nature of avant-garde modernist art such as the atonal music of\nSchoenberg.\n(e) Chutnification was a term used by Edward Soja.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (d) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "1960: Coined/Proposed by R.K. Narayan (*The Guide*)"
+  },
+  {
+    "id": "P2-U09-12",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.84",
+    "questionText": "Arrange the following in chronological order of their year of publication:\n(a) Nation and Narration\n(b) The Dialogic Imagination\n(c) Anthropology and the Colonial Encounter\n(d) Discourse on Colonialism\n(e) Orientalism\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (c), (e), (a), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (c), (b), (a), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (e), (b), (a), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (c), (d), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U09-13",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.86",
+    "questionText": "Match the following concepts with the theorists:\nLIST - I \tLIST - II\n(a) Defamiliarization \t(I) Girgio Agamben\n(b) Uncanny \t(II) Bruno Latour\n(c) Actor Network Theory \t(III) Viktor Shlovsky\n(d) Homo Sacer \t(IV) Sigmund Freud\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(IV), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-14",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.7",
+    "questionText": "Which among the following critics stated that, \"The object of study in literary science is not\nliterature but 'literariness', that is, what makes a given work a literary work?\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "Viktor Shklovsky"
+      },
+      {
+        "key": "B",
+        "text": "Roman Jakobson"
+      },
+      {
+        "key": "C",
+        "text": "Cleanth Brooks"
+      },
+      {
+        "key": "D",
+        "text": "Allen Tate"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-15",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.9",
+    "questionText": "Match the List-I with List-II\nList - I\n(Term)\nList - II\n(Critic/Theorist)\n(a) Culture Industry \t(I) Raymond Williams\n(b) Anxiety of Influence \t(II) Adorno and Horkheimer\n(c) Cultural Materialism \t(III) Mikhail Bakhtin\n(d) Dialogism \t(IV) Harold Bloom\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(III), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-16",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.35",
+    "questionText": "Who among the following was not associated with Bloomsbury Group?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Virginia Woolf"
+      },
+      {
+        "key": "B",
+        "text": "John Maynard Keynes"
+      },
+      {
+        "key": "C",
+        "text": "Lytton Strachey"
+      },
+      {
+        "key": "D",
+        "text": "Edmund Husserl"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-17",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.39",
+    "questionText": "Which of the following statements are correct?\n(a) The term 'performativity' was coined by Derrida\n(b) The idea of 'meme' was originally coined by Richard Dawkings.\n(c) The term 'The culture industry' was coined by Adorno and Horkheimer.\n(d) The term 'Ideological State Apparatus' was coined by Bakhtin\n(e) The term 'Womanism' was coined by Alice Walker.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(d), (e), (a) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-18",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.40",
+    "questionText": "Which of the following statements are correct?\n(a) 'Diegesis' is a term used by Plato to mean 'statement', and by Aristotle to mean 'narration\".\n(b) Foucault's term 'Biopolitics' refers to the attempts of the government to rationalise the\nproblems.\n(c) 'Hypertext' is a term that refers to 'second-degree’ literature made up of works which allude to\n\n\nor derive from hypotext.\n(d) 'Desiring Machines' is a concept introduced by Antonio Gramsci\n(e) 'Dream Work' is a psychoanalytical term to describe the mechanism that transforms raw\nmaterial of a dream to its manifest content.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Antonio Gramsci: Coined/Proposed by *Prison Notebooks* (1929–1935) (\"Hegemony\" (ruling class dominates not just by force, but by manufactured consent via civil society); Traditional vs. Organic Intellectuals.)"
+  },
+  {
+    "id": "P2-U09-19",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.54",
+    "questionText": "Arrange the following texts of critical theory in the correct chronological order of their\npublication.\n(a) Michel Foucault's The Archaeology of Knowledge\n(b) Roland Barthes' Mythologies\n(c) Jacques Derrida's Of Grammatology\n(d) Jacques Lacan's Ecrits\n(e) Jean-Francois Lyotard's - The Postmodern Condition: A report on Knowledge\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (e), (b), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d), (c), (a), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (d), (e), (a)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-20",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.55",
+    "questionText": "Who among the following coined the term 'Stream of Consciousness'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Virginia Woolf"
+      },
+      {
+        "key": "B",
+        "text": "Marcel Proust"
+      },
+      {
+        "key": "C",
+        "text": "May Sinclair"
+      },
+      {
+        "key": "D",
+        "text": "James Joyce"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-21",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.66",
+    "questionText": "Who among the following is the author of The Implied Reader and The Act of Reading?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Roland Barthes"
+      },
+      {
+        "key": "B",
+        "text": "Wolfgang Iser"
+      },
+      {
+        "key": "C",
+        "text": "Stanley Fish"
+      },
+      {
+        "key": "D",
+        "text": "Hans Robert Jauss"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Stanley Fish: Coined/Proposed by *Surprised by Sin: The Reader in Paradise Lost* (1967) (Milton deliberately entangles the reader in sinful responses to Satan to make them conscious of their fallen state.)"
+  },
+  {
+    "id": "P2-U09-22",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.67",
+    "questionText": "Arrange the following philosophers/theorists in the correct chronological order of their birth-\n(a) Simone de Beauvoir\n(b) Walter Benjamin\n(c) Jean Baudrillard\n(d) Mikhail Bakhtin\n(e) Roland Barthes\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (a), (e), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (e), (c), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(d), (a), (b), (c), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(e), (c), (a), (b), (d)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Walter Benjamin: Coined/Proposed by \"The Work of Art in the Age of Mechanical Reproduction\" (1935) (\"Aura\" (the unique presence and ritual authenticity of an original artwork destroyed by reproduction); *Flâneur* (the modern city stroller).)"
+  },
+  {
+    "id": "P2-U09-23",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.83",
+    "questionText": "Match the List-I with List-II\nList - I\n(Retellings)\nList - II\n(Author)\n(a) Shyam: An Illustrated Retelling of the Bhagavata \t(I) Anand Neelakantan\n(b) War of Lanka \t(II) Kavita Kane\n(c) Ahalya's Awakening \t(III) Devdutt Pattanaik\n(d) Ajaya: Epic of the Kaurava Clan \t(IV) Amish Tripathi\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(I), (c)-(III), (d)-(II)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-24",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.95",
+    "questionText": "Which one of the following is not a metaphor employed in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a knife"
+      },
+      {
+        "key": "B",
+        "text": "a sea"
+      },
+      {
+        "key": "C",
+        "text": "a tree"
+      },
+      {
+        "key": "D",
+        "text": "a throat\nComprehension (96-100)\nRead the following passage and answer the question that follow:\nI believe implicitly that the child is not born mischievous in the bad sense of the term. If parents\nwould behave themselves whilst the child is growing, before it is born and after, it is a well- known\nfact that the child would instinctively obey the law of truth and the law of love...\nAnd believe me, from my experience of hundreds I was going to say thousands -of children, I know\nthat they have perhaps a finer sense of honour than you or I have. The greatest lessons of life, if we\nwould but stoop and humble ourselves, we would learn not from grown-up learned men, but from the\nso-called ignorant children. Jesus never uttered a loftier or a grander truth than when he said that\nwisdom cometh out of the mouth of babes. I believe it. I have noticed it in my experience that if we\nwould approach babes in humility and innocence, we would learn wisdom from them. I have learned\nthis one lesson - that what is impossible with man is child's play with God and if we have faith in\nthat Divinity which presides on the destiny of the meanest of His creation, I have no doubt that all\nthings are possible and in that final hope, I believe and pass my time and endeavour to obey His will.\nIf we are to reach real peace in this world and if we are to carry on a real war against war, we shall\nhave to begin with children: and if they will grow up in their natural innocence, we won't have to\nstruggle, we won't have to pass fruitless, idle resolutions, but we shall go from love to love and peace\nto peace, until at last all the corners of the world are covered with that peace and love for which,\nconsciously or unconsciously, the whole world is hungering."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-25",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.5",
+    "questionText": "The term \"Collective Unconsciousness\" –\n(a) was introduced by Sigmund Freud\n(b) was introduced by Carl Jung\n(c) contains archetypes or universal primordial images and ideas.\n(d) contains stereotypes and individual experiences stored in unconscious.\n(e) is used to describe the unconscious common to humanity as a whole that originates in the\n\n\ninherited structures of the brain.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c), (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d), (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-26",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.12",
+    "questionText": "Match the List-I with List-II\nList - I\n(Postcolonial term)\nList - II\n(Coined/Employed by)\n(a) ‘othering’ \t(I) The term employed by Robert Young\n(b) Ecological Imperialism \t(II) Coined by Gayatri Spivak\n(c) Colonial Desire \t(III) Coined by Alfred W. Crosby\n(d) Third Space \t(IV) Coined by Homi K. Bhabha\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(III), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-27",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.19",
+    "questionText": "Match the List-I with List-II\nList - I\n(Text)\nList - II\n(Author)\n(a) Critique of Judgement \t(I) Martin Heidegger\n(b) The Phenomenology of Spirit \t(II) Sigmund Freud\n(c) Group Psychology and the Analysis of the Ego \t(III) Immanuel Kant\n(d) The Role of the University in the New Reich \t(IV) G.W.F. Hegel\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-28",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.27",
+    "questionText": "Which of the following assumption is not true with regard to Lacan’s concept/theory of\nstandpoint?\n(a) It assumes that social position can provide privileged perspective on some relations and\nknowledge.\n(b) It argues that those who are marginalised or oppressed may have access to insights and\nperceptions that dominant group lacks.\n(c) It refers to a situation in which the oppressed class is destined to lose the class consciousness.\n(d) It suggests that the perspectives of those on the margins of society cannot help to understand\nsocial dynamics.\n(e) The theory is based on the idea that social contradictions and political struggle can shape\ncounter-hegemonic norms.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(c) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-29",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.40",
+    "questionText": "In his work. The Dialogic Imagination, Mikhail Bakhtin-\n(a) develops theory of Polyphony.\n(b) postulates that language is imaginary.\n(c) postulates that language evolves dynamically.\n(d) argues that language gets affected by the culture that produces it as it helps to shape that\nculture.\n(e) develops theory of imaginative language.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-30",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.44",
+    "questionText": "Which text is considered to be the first book of poetry published by an Aboriginal author?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tracey Moffatt’s Night Cries: A Rural Tragedy"
+      },
+      {
+        "key": "B",
+        "text": "David Unaipon’s Native Legends"
+      },
+      {
+        "key": "C",
+        "text": "Oodegroo Noonucal’s We Are Going"
+      },
+      {
+        "key": "D",
+        "text": "Doris Pilkington Garimara’s Caprice: A Stockman’s Daughter"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-31",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.70",
+    "questionText": "Who said that language is a system of signs whose parts can and must be considered in their\nsynchronic solidarity?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Saussure"
+      },
+      {
+        "key": "B",
+        "text": "Bloomfield"
+      },
+      {
+        "key": "C",
+        "text": "Roman Jakobson"
+      },
+      {
+        "key": "D",
+        "text": "Sigmund Freud"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-32",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.76",
+    "questionText": "Match the List-I with List-II\nList - I\n(Concept/Theory)\nList - II\n(Developed by)\n(a) Polysystem Theory \t(I) Ernest August Gutt\n(b) Relevance Theory \t(II) Hans J. Vermeer\n(c) Skopos Theory \t(III) Itamar Enen Zohar\n(d) Covert Translation \t(IV) Juliane House\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-33",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.78",
+    "questionText": "The term ‘abstract poem’ –\n(a) was coined by Edith Sitwell\n(b) refers to a poem in which words are chosen for their aural quality\n(c) refers to a poem in which words are chosen for imagery and symbolism\n(d) was coined by W.H. Auden\n(e) refers to a poem in which words are not specifically used for their sense/meaning.\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-34",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.90",
+    "questionText": "Who among the following is not associated with lesbian and gay studies?\n(a) Jane Rule\n(b) Jonathan Dollimore\n(c) John Wain\n(d) Elizabeth Jennings\n(e) Richard Dyer\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only\n\n\nComprehension (91-95)\nLeaning into the afternoons I cast my sad nets\ntowards your oceanic eyes.\nThere in the highest blaze my solitude lengthens and flames\nits aims turning a drowning man’s.\nI send out red signals across your absent eyes\nthat smell like the sea or the beach by a lighthouse.\nYou keep only darkness, my distant female\nfrom your regard sometimes the coast of dread emerges.\nLeaning into the afternoons I fling my sad nets\nto that sea that thrashed by your oceanic eyes\nThe birds of night peck at the first stars\nthat flash like my soul when I love you\nThe night gallops on its shadowy mare\nShedding blue tassels over the land"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-38",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.13",
+    "questionText": "Given below are two statements:\nStatement (I): A Room of One's Own is a feminist essay about women's education, exclusion and\nwriting by Virginia Woolf.\nStatement (II): In Other Worlds is a collection of essays written by Edward W. Said on\ncontemporary ideas such as psychoanalysis and social theory.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-39",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.19",
+    "questionText": "According to Sigmund Freud, civilisation is to some extent the cumulative product of our\npsychology. Choose the correct option(s):\n(a) The purpose of human life is the pursuit of happiness.\n(b) Man is wholly good.\n(c) Abolition of private property will remove ill-will and hostility among men.\n(d) Creative art reflects the purpose of human life.\n(e) Civilisation is analogous with the human psyche.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (c) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-40",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.22",
+    "questionText": "Choose the correct option in the light of the following statement:\n\"The fact that I am a black working-class man will determine my worldview just as much, and\nperhaps far more than I consciously learn in the domain of ideas.\"\n(a) Man is capable of making free choices in the sphere of intellection and morality.\n(b) The unconscious determines human thought and behaviour\n(c) Man is condemned to be free\n(d) We bear a form of \"otherness\" within ourselves\n(e) We can no longer talk unequivocally of a writer's intention.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-41",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.24",
+    "questionText": "The term 'gynocriticism' refers to:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Feminist consciousness"
+      },
+      {
+        "key": "B",
+        "text": "Production of writings on women by men"
+      },
+      {
+        "key": "C",
+        "text": "Analysis of andro texts"
+      },
+      {
+        "key": "D",
+        "text": "Production and analysis of writings by women on women"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Gynocriticism: Coined/Proposed by Elaine Showalter (*Toward a Feminist Poetics*)"
+  },
+  {
+    "id": "P2-U09-42",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.27",
+    "questionText": "Match List - I with List II.\nList - I\n(Term)\nList-II\n(Coined by)\n(a) Heteroglossia \t(I) William Empson\n(b) Structures of Feeling \t(II) Raymond Williams\n(c) Ambiguity \t(III) Mikhail Bakhtin\n(d) Discourse \t(IV) Michel Foucault\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(III), (d)-(I)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Michel Foucault: Coined/Proposed by \"What Is an Author?\" (1969) (The \"Author-Function\"; author is not a real individual, but an ideological construction that limits and controls meaning.)"
+  },
+  {
+    "id": "P2-U09-43",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.32",
+    "questionText": "Match List - I with List - II.\nList - I\n(Work)\nList - II\n(Author)\n(a) The Wretched of the Earth \t(I) Benedict Anderson\n(b) Nation and Narration \t(II) Homi K. Bhabha\n(c) Culture and Imperialism \t(III) Edward W. Said\n(d) Imagined Communities \t(IV) Frantz Fanon\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(III), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-44",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.41",
+    "questionText": "Which of the following statements/concepts are relevant for understanding of Postmodernism?\n(a) Postmodernism and Postcolonialism are mutually dependent in responding to colonial\nexperience.\n(b) Lyotard argues that the Postmodern condition is characterised by a deeply felt scepticism\ntowards metanarratives.\n(c) Edward W. Said has been instrumental in postmodern theory and criticism.\n(d) Jean Baudrillard's Simulacra and Simulations is a seminal postmodern text.\n(e) Fredric Jameson argues that parody has been replaced by pastiche in postmodernism.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-45",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.45",
+    "questionText": "Which of the following statements are valid for postcolonial theory and literature?\n(a) Abrogation, resistance and assertion form the basis of postcolonial thought.\n(b) Postcolonial theory defends binaries of Master and Slave, White and Black, and Coloniser\nand Colonised.\n(c) Weep Not, Child is the first novel in English by an East African Writer, Ngugi Wa\nThiong'O.\n(d) Wide Sargasso Sea by Jean Rhys is based on the experiences of colonized African\npopulation.\n(e) Homi K. Bhabha, Edward W. Said and Gayatri Spivak are important postcolonial thinkers.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-46",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.47",
+    "questionText": "Who among the following is not associated with Cultural Imperialism?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jonathan Dollimore"
+      },
+      {
+        "key": "B",
+        "text": "Alan Sinfield"
+      },
+      {
+        "key": "C",
+        "text": "Raymond Williams"
+      },
+      {
+        "key": "D",
+        "text": "Stanley Fish"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Stanley Fish: Coined/Proposed by *Surprised by Sin: The Reader in Paradise Lost* (1967) (Milton deliberately entangles the reader in sinful responses to Satan to make them conscious of their fallen state.)"
+  },
+  {
+    "id": "P2-U09-47",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.57",
+    "questionText": "All writers since Chaucer have come from the middle class... have had good, at least expensive\neducation....\"\nWhere has Virginia Woolf explained it?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mrs. Dalloway"
+      },
+      {
+        "key": "B",
+        "text": "To the Lighthouse"
+      },
+      {
+        "key": "C",
+        "text": "The Leaning Tower"
+      },
+      {
+        "key": "D",
+        "text": "A Room of One's Own"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-48",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.59",
+    "questionText": "‘Panopticism’ is a concept that refers to external spying. Who among the following coined this\nterm?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Antonio Gramsci"
+      },
+      {
+        "key": "B",
+        "text": "Michel Foucault"
+      },
+      {
+        "key": "C",
+        "text": "Slavoj Zizek"
+      },
+      {
+        "key": "D",
+        "text": "Roland Barthes"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Antonio Gramsci: Coined/Proposed by *Prison Notebooks* (1929–1935) (\"Hegemony\" (ruling class dominates not just by force, but by manufactured consent via civil society); Traditional vs. Organic Intellectuals.)"
+  },
+  {
+    "id": "P2-U09-49",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.69",
+    "questionText": "What does aptly define minor literature, according to Giles Deleuze?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Deconstruction of Material Reality"
+      },
+      {
+        "key": "B",
+        "text": "Deterritorialisation of language"
+      },
+      {
+        "key": "C",
+        "text": "Heteroglossia"
+      },
+      {
+        "key": "D",
+        "text": "Metanarrative"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-50",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.74",
+    "questionText": "Which of the following is true of Edward Said's Orientalism?\n(a) It was published in 1979\n(b) Utilises the concept of discursive formulation as argued by Foucault.\n(c) He has taken up the detailed analysis of imaginative geography and representation of the\nOrient.\n(d) It is one of the foundational texts of Postcolonial theory.\n(e) It puts to use Barthes' concept of 'death of the author’.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-51",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.77",
+    "questionText": "Roland Barthes in his \"Introduction to the Structural Analysis of Narratives\" (1966) proposed\nthree levels of narrative structure. Which among the following are the narrative structures\nproposed by him:\n(a) Functions\n(b) Actions\n(c) Grammar\n(d) Narration\n(e) Coherence\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (e) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (d) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-52",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.82",
+    "questionText": "Identify the correct order of the publications given below:\n(a) Simon Gikandi's Maps of Englishmess: Writing Identity in the Culture of Colonialism\n(b) Frantz Fanon's The Wretched of the Earth\n(c) Homi K. Bhabha's Nation and Narration\n(d) Ernest Gellner's Nations and Nationalisms\n(e) Robert Young's Colonial Desire: Hybridity in Theory, Culture and Race\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (e), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (d), (e), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d), (c), (e), (a)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-53",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.88",
+    "questionText": "Arrange the following in the chronological order of the dates of publication:\n(a) Michel Foucault's The Order of Things\n(b) M.K. Gandhi's Hind Swaraj or The Indian Homerule\n(c) Stephen Greenblatt's The Swerve: How the World Became Modern\n(d) Donna Harraway's When Species Meet\n(e) Tony Bennett's Formalism and Marxism\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (e), (d)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (a), (e), (d), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e), (b), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (a), (e), (b)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Michel Foucault: Coined/Proposed by \"What Is an Author?\" (1969) (The \"Author-Function\"; author is not a real individual, but an ideological construction that limits and controls meaning.)"
+  },
+  {
+    "id": "P2-U09-54",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.14",
+    "questionText": "The concept of the public sphere plays a particularly important role in the work of _________",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jürgen Habermas"
+      },
+      {
+        "key": "B",
+        "text": "Jonathan Dollimore"
+      },
+      {
+        "key": "C",
+        "text": "Jean Baudrillard"
+      },
+      {
+        "key": "D",
+        "text": "Raymond Williams"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Jürgen Habermas: Coined/Proposed by *The Structural Transformation of the Public Sphere* (1962) (\"The Bourgeois Public Sphere\" (18th c. coffee houses, salons, print media where private individuals assembled to debate public matters rationally).)"
+  },
+  {
+    "id": "P2-U09-55",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.16",
+    "questionText": "Which among the following books is NOT written by Edward Said?",
+    "options": [
+      {
+        "key": "A",
+        "text": "On Late Style: Music and Literature against the Grain"
+      },
+      {
+        "key": "B",
+        "text": "The World, the Text and the Critic"
+      },
+      {
+        "key": "C",
+        "text": "Image-Music-Text"
+      },
+      {
+        "key": "D",
+        "text": "The Question of Palestine"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-56",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.19",
+    "questionText": "Saussure delivered his series of lectures on general linguistics, later published after his death as Course in\nGeneral Linguistics, at the University of___________",
+    "options": [
+      {
+        "key": "A",
+        "text": "Frankfurt"
+      },
+      {
+        "key": "B",
+        "text": "Madrid"
+      },
+      {
+        "key": "C",
+        "text": "Geneva"
+      },
+      {
+        "key": "D",
+        "text": "Rome"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-57",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.34",
+    "questionText": "Mention the year in which Political Shakespeare edited by Jonathan Dollimore and Alan Sinfield was\npublished.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1980"
+      },
+      {
+        "key": "B",
+        "text": "1984"
+      },
+      {
+        "key": "C",
+        "text": "1987"
+      },
+      {
+        "key": "D",
+        "text": "1985"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U09-58",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.38",
+    "questionText": "Facts about the Frankfurt School include the following:\n(a) It was founded in Frankfurt in 1925.\n(b) Adorno and Horkheimer were its two members.\n(c) The School established the term ‘Critical Theory’.\n(d) It had strong ties with the thinkers of the Moscow Linguistic Circle.\n(e) It was forced into exile with the ascendency of Nazism in Germany.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-59",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.68",
+    "questionText": "The ‘Name of the Father’ is a term made famous by____________",
+    "options": [
+      {
+        "key": "A",
+        "text": "Heléné Cixous"
+      },
+      {
+        "key": "B",
+        "text": "Jacques Lacan"
+      },
+      {
+        "key": "C",
+        "text": "Carl Jung"
+      },
+      {
+        "key": "D",
+        "text": "Northrop Frye"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-60",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.87",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Writing Degree Zero \t(I) 1957\n(b) Mythologies \t(II) 1953\n(c) The Empire of Signs \t(III) 1973\n(d) The Pleasure of the Text \t(IV) 1970\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-61",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.10",
+    "questionText": "Arrange the following in accordance with their dates of first publication:\n(a) Edward Said, Orientalism: Western Conceptions of the Orient\n(b) Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act\n(c) T S Eliot, Notes towards the Definition of Culture\n(d) Raymond Williams, Keywords\n(e) Ian Watt, The Rise of the Novel\nChoose the correct answer from the following options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (e), (d), (a), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (b), (e), (a), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d), (a), (e), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (e), (b), (d), (c)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-62",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.16",
+    "questionText": "Which of the following does Roland Barthes contend in “From Work to Text”?\n(a) The work is a methodological field\n(b) The text must be understood as a computable object\n(c) The Text is plural\n(d) The work is never caught up in a process of filiation\n(e) The work is ordinarily the object of consumption\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-63",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.18",
+    "questionText": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R).\nAssertion (A): Poststructuralism is unthinkable without structuralism.\nReason (R): Poststructuralism continues structuralism’s strongly humanist perspective and it closely follows\nstructuralism in its belief that language is not the key to our understanding of ourselves and the world.\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "(A) is incorrect but (R) is correct"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-64",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.35",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Deconstruction \t(I) Jacques Derrida\n(b) Hegemony \t(II) Antonio Gramsci\n(c) Habitus \t(III) Louis Althusser\n(d) Interpellation \t(IV) Pierre Bordieu\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Antonio Gramsci: Coined/Proposed by *Prison Notebooks* (1929–1935) (\"Hegemony\" (ruling class dominates not just by force, but by manufactured consent via civil society); Traditional vs. Organic Intellectuals.)"
+  },
+  {
+    "id": "P2-U09-65",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.36",
+    "questionText": "Given below are two statements:\nStatement (I): Althusser’s theory of “interpellation” implies the act of hailing like “Hey. you!” and thereby\nturning individuals into ideological, consenting subjects.\nStatement (II): Althusser’s theory of interpellation is very much similar to the concept of Derrida’s theory of\ndeconstruction.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-66",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.38",
+    "questionText": "Arrange the publication of the following books in chronological order.\n(a) The Location of Culture\n(b) The Future of the Race\n(c) Black Literature and Literary Theory\n(d) The Signifving Monkey: A Theory of Afro-American Literary Criticism\n(e) Reconstructing Womanhood: The Emergence of the Afro-American Woman Novelist\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c), (d), (b) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (c), (b), (a) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(d), (e), (b), (a) and (c)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (e), (d), (a) and (b)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-67",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.67",
+    "questionText": "Who enunciated the idea of myth as depoliticised speech in bourgeois society?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Louis Althusser"
+      },
+      {
+        "key": "B",
+        "text": "Michel Foucault"
+      },
+      {
+        "key": "C",
+        "text": "Richard Hoggart"
+      },
+      {
+        "key": "D",
+        "text": "Roland Barthes"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Louis Althusser: Coined/Proposed by \"Ideology and Ideological State Apparatuses\" (1970) (RSA (Repressive State Apparatus - police, courts, military) vs. ISA (Ideological State Apparatus - schools, churches, media, family).)"
+  },
+  {
+    "id": "P2-U09-68",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.71",
+    "questionText": "Which of these are part of Aeschylus’ Oresteia Trilogy?\n(a) Agamemnon\n(b) The Libation Bearers\n(c) Antigone\n(d) Oedipus at Colonus\n(e) Electra\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (a)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-69",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.98",
+    "questionText": "In the context of the passage, Michel deCerteau’s theory of “everyday life” offers a site of_____ the dominant.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Acquiescing"
+      },
+      {
+        "key": "B",
+        "text": "Resisting"
+      },
+      {
+        "key": "C",
+        "text": "Theorizing"
+      },
+      {
+        "key": "D",
+        "text": "Imagining"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-70",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.9",
+    "questionText": "Abhijnanasakuntalam makes use of the following four languages",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sanskrit, Shauraseni, Tamil and Maharshtri"
+      },
+      {
+        "key": "B",
+        "text": "Sanskrit, Shauraseni, Pali and Oriya"
+      },
+      {
+        "key": "C",
+        "text": "Sanskrit, Brajabuli, Maharashtri and Magdhi"
+      },
+      {
+        "key": "D",
+        "text": "Sanskrit, Shauraseni, Maharashtri and Magdhi"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-71",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.25",
+    "questionText": "Who among the following first framed a theory of general hermeneutics?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Wilhelm Dilthey"
+      },
+      {
+        "key": "B",
+        "text": "Ferdinand de Saussure"
+      },
+      {
+        "key": "C",
+        "text": "Friedrich Schleiermacher"
+      },
+      {
+        "key": "D",
+        "text": "E. D. Hirsch"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-72",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.26",
+    "questionText": "Roland Barthes’ Image, Music, Text was published in",
+    "options": [
+      {
+        "key": "A",
+        "text": "1968"
+      },
+      {
+        "key": "B",
+        "text": "1977"
+      },
+      {
+        "key": "C",
+        "text": "1979"
+      },
+      {
+        "key": "D",
+        "text": "1969"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-73",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.28",
+    "questionText": "Who among the following coined the phrase ‘soft capitalism’?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Louis Althusser"
+      },
+      {
+        "key": "B",
+        "text": "Slavoj Zizek"
+      },
+      {
+        "key": "C",
+        "text": "Nigel Thrift"
+      },
+      {
+        "key": "D",
+        "text": "Terry Eagleton"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Louis Althusser: Coined/Proposed by \"Ideology and Ideological State Apparatuses\" (1970) (RSA (Repressive State Apparatus - police, courts, military) vs. ISA (Ideological State Apparatus - schools, churches, media, family).)"
+  },
+  {
+    "id": "P2-U09-74",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.33",
+    "questionText": "The book Political Shakespeare: Essays in Cultural Materialism was jointly edited by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gilles Deleuze and Felix Guattari"
+      },
+      {
+        "key": "B",
+        "text": "Alan Sinfield and Jonathan Dollimore"
+      },
+      {
+        "key": "C",
+        "text": "Bill Ashcroft and Helen Tiffin"
+      },
+      {
+        "key": "D",
+        "text": "Theodor Adorno and Max Horkheimer"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-75",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.53",
+    "questionText": "To which of the following theories New Historicism is indebted?\n(a) Marxism\n(b) Formalism\n(c) Reader-response Theory\n(d) Existentialism\n(e) Hermeneutics\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (a)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (c)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-76",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.55",
+    "questionText": "Identify the correct pairs:\n(a) Gabriel Garcia Marquez — The Feast of the Goat\n(b) Jorge Luis Borges — The Autumn of the Patriarch\n(c) Salman Rushdie — The Enchantress of Florence\n(d) E L Doctorow - Ragtime\n(e) A S. Byatt — Possession\nChoose the correct answer from the options given below:\n52. Which of the following books are written by Julia Kristeva?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-77",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.61",
+    "questionText": "Which among the following are written by Roland Barthes:\n(a) Allegories of Reading\n(b) Mythologies\n(c) The Pleasure of the Text\n(d) Some Versions of Pastoral\n(e) What is an Author?\nChoose the correct option given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-78",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.62",
+    "questionText": "Which of the following are correctly matched:\n(a) Jonathan Culler — Culture and Society\n(b) Raymond Williams — Literary Theory: A Very Short Introduction\n(c)Terry Eagleton — Criticism and Ideology\n(d) Walter Benjamin — illuminations\n(e) Stanley Fish — The Implied Reader\n59. Identify the correct pairs:\n\n\nChoose the correct option:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Walter Benjamin: Coined/Proposed by \"The Work of Art in the Age of Mechanical Reproduction\" (1935) (\"Aura\" (the unique presence and ritual authenticity of an original artwork destroyed by reproduction); *Flâneur* (the modern city stroller).)"
+  },
+  {
+    "id": "P2-U09-79",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.70",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Anthropology \t(I) Edward soja\n(b) Postmodern geography \t(II) Martin Heidegger\n(c) Diaspora space \t(III) Claude Levi Strauss\n(d) Dasein \t(IV) Avtar Brah\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-80",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.71",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) The Poetics of Prose \t(I) Wolfgang Iser\n(b) Structuralist Poetics \t(II) Tzvetan Todorov\n(c) The Implied Reader \t(III) Stanley Fish\n(d) Is there a text in the class? \t(IV) Jonathan Culler\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Stanley Fish: Coined/Proposed by *Surprised by Sin: The Reader in Paradise Lost* (1967) (Milton deliberately entangles the reader in sinful responses to Satan to make them conscious of their fallen state.)"
+  },
+  {
+    "id": "P2-U09-81",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.83",
+    "questionText": "Choose the correct chronological sequence in which the following theories appeared.\n(a) Structuralism\n(b) Psychoanlaysis\n(c) Ecocriticism\n(d) Orientalism\n(e) New Criticism",
+    "options": [
+      {
+        "key": "A",
+        "text": "(e), (b), (d), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (a), (c), (b), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (e), (d), (a), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (e), (a), (d), (c)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "New Criticism: Coined/Proposed by Joel Spingarn (John Crowe Ransom (*The New Criticism*, 1941))"
+  },
+  {
+    "id": "P2-U09-82",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.85",
+    "questionText": "Arrange the works in chronological sequence:\n(a) Structuralist Poetics\n(b) Course in General Linguistics\n(c) The Pursuit of Signs\n(d) The Pleasure of the Text\n(e) The Implied Reader\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c), (d), (e), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (e), (a), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (a), (b), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (e), (a), (c), (b)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-83",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.17",
+    "questionText": "Who among the following is NOT a Yale critic?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Geoffrey Hartman"
+      },
+      {
+        "key": "B",
+        "text": "Paul de Man"
+      },
+      {
+        "key": "C",
+        "text": "J. Hillis Miller"
+      },
+      {
+        "key": "D",
+        "text": "Roland Barthes"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-84",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.18",
+    "questionText": "'Demythologizing' is a term associated with the works of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Claude Lévi Strauss"
+      },
+      {
+        "key": "B",
+        "text": "Ferdinand de Saussure"
+      },
+      {
+        "key": "C",
+        "text": "Rudolph Bultmann"
+      },
+      {
+        "key": "D",
+        "text": "Friedrich Schleiermacher"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-85",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.19",
+    "questionText": "Who among the following is known as a post-Marxist thinker?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ernest Laclau"
+      },
+      {
+        "key": "B",
+        "text": "Antonio Gramsci"
+      },
+      {
+        "key": "C",
+        "text": "Theodor Adorno"
+      },
+      {
+        "key": "D",
+        "text": "Walter Benjamin"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Walter Benjamin: Coined/Proposed by \"The Work of Art in the Age of Mechanical Reproduction\" (1935) (\"Aura\" (the unique presence and ritual authenticity of an original artwork destroyed by reproduction); *Flâneur* (the modern city stroller).)"
+  },
+  {
+    "id": "P2-U09-86",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.21",
+    "questionText": "Who among the following is NOT a member of the Frankfurt School?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Louis Althusser"
+      },
+      {
+        "key": "B",
+        "text": "Max Horkheimer"
+      },
+      {
+        "key": "C",
+        "text": "Theodor Adorno"
+      },
+      {
+        "key": "D",
+        "text": "Herbert Marcuse"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Herbert Marcuse: Coined/Proposed by *One-Dimensional Man* (1964) (Advanced industrial societies create false needs and integrate individuals into totalitarian consumerism.)"
+  },
+  {
+    "id": "P2-U09-87",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.55",
+    "questionText": "Which among the following are written by Mikhail Bakhtin?\n(a) White Mythology\n(b) Freudianism: A Marxist Critique\n(c) The Ideology of the Aesthetics\n(d) Rabelais and His World\n(e) Morphology of the Folktale\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only."
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) only."
+      },
+      {
+        "key": "C",
+        "text": "(a) and (e) only."
+      },
+      {
+        "key": "D",
+        "text": "(b) and (c) only."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-88",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.56",
+    "questionText": "Which of the following are correctly matched?\n(a) John Keble - On the Healing Power of Poetry\n(b) Carl G. Jung - Writing and Difference\n(c) Jacques Derrida - Modern Man in Search of a Soul\n(d) Harold Bloom - The Anxiety of Influence\n(e) Kate Millett - Jacques Lacan: A Feminist Introduction\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (c) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (d) only."
+      },
+      {
+        "key": "C",
+        "text": "(a) and (e) only."
+      },
+      {
+        "key": "D",
+        "text": "(b) and (d) only."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-89",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.57",
+    "questionText": "Gilles Deleuze and Félix Guattari's Anti-Oedipus: Capitalism and Schizophrenia fuses two\ntheoretical paradigms. They are\n(a) Marxism\n(b) Poststructuralism\n(c) Psychoanalysis\n(d) Feminism\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only."
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d) only."
+      },
+      {
+        "key": "D",
+        "text": "(b) and (c) only."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-90",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.70",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Aporia \t(I) Marxism\n(b) Scapes \t(II) Psychoanalysis\n(c) Interpellation \t(III) Deconstruction\n(d) Mirror Stage \t(IV) Globalisation\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-91",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.71",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) The Political Unconscious : Narrative as\na Socially Symbolic\n(I) Joseph Carroll\n(b) The Pleasure of the Text \t(II) Monique Wittig\n(c) The Straight Mind and Other Essays \t(III) Roland Barthes\n(d) Literary Darwinism: Evolution, Human\nNature and Literature\n(IV) Fredric Jameson\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-92",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.84",
+    "questionText": "Find the chronological order of publication of the given works:\n(a) Structuralist Poetics\n(b) Course in General Linguistics\n(c) The Pursuit of Signs\n(d) The Pleasure of the Text\n(e) The Implied Reader\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c), (d), (e), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (e), (a), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (a), (b), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (e), (a), (c), (b)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-93",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.96",
+    "questionText": "What is the implication of the statement: \"In this sense, one can think of literature less as some\ninherent quality or set of qualities displayed by certain kinds of writing all the way from Beowulf to\nVirginia Woolf, than as a number of ways in which people relate themselves to writing'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Literature has values that are constant and universal for all classes and races."
+      },
+      {
+        "key": "B",
+        "text": "Literature has a moral dimension, which cannot be superseded by any other values."
+      },
+      {
+        "key": "C",
+        "text": "Literature has values that may be interpreted differently by different subject-positions."
+      },
+      {
+        "key": "D",
+        "text": "The inherent quality of literature is its literariness."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-96",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.16",
+    "questionText": "Which of the following theorists identifies \"metonymy\" and \"metaphor\" as two fundamental\nstructures of language?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ferdinand de Sassure"
+      },
+      {
+        "key": "B",
+        "text": "Roland Barthes"
+      },
+      {
+        "key": "C",
+        "text": "J. L. Austin"
+      },
+      {
+        "key": "D",
+        "text": "Roman Jacobson"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-97",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.18",
+    "questionText": "Which of the following concepts are associated with Bhartrhari's theory of ‘Sphota’?\n(a) Rasa\n(b) Alankara\n(c) Dhvani\n(d) Vakrokti\n(e) Shabda Brahman\nChoose the most appropriate answer from the: options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(d) and (b) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (c) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-98",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.25",
+    "questionText": "Who is the author of the essay \"Three Women's Texts and a Critique of Imperialism” (1985)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ania Loomba"
+      },
+      {
+        "key": "B",
+        "text": "Meenakshi Mukherjee"
+      },
+      {
+        "key": "C",
+        "text": "Susan Meyer"
+      },
+      {
+        "key": "D",
+        "text": "Gayatri Chaktavorty Spivak"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-99",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.26",
+    "questionText": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as\nReason (R).\nAssertion (A): Jacques Lacan was radically critical of the esistium psychoanalytical theory.\nReason (R): Lacan was expelled from the International Psychoanalytical Association in 1959.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "(A) is true but (R) is false"
+      },
+      {
+        "key": "D",
+        "text": "(A) is false but (R) is true"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-100",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.29",
+    "questionText": "Identify the one that has not been paired correctly.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Criticism in Wilderness \t- \tGeoffrey Hartman"
+      },
+      {
+        "key": "B",
+        "text": "Madness and Civilization - \tRoland Barthes"
+      },
+      {
+        "key": "C",
+        "text": "Poetry and Repression \t- \tHarold Bloom"
+      },
+      {
+        "key": "D",
+        "text": "Strangers to Ourselves \t- \tJulia Kristeva"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-101",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.31",
+    "questionText": "Which of the following denote the three phases of literary feminism according to Elain\nShowalter?\n(a) Feminine\n(b) Genic\n(c) Womanish\n(d) Feminist\n(e) Female\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-102",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.53",
+    "questionText": "Which of the following observations are true about Roland Barthes’ contributions to literary\ntheory?\n(a) He rejected the model for structural analysis of narratives\n(b) He perceived \"meaning\" as an effect of various interconnections among linguistic codes\n(c) He identified the various codes found in the process of structuration\n(d) He played a significant role in the development of ‘semiology'\n(e) He questioned the concept of literary criticism as an act of uncovering some hidden truth\nintended by the \"Author\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-103",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.59",
+    "questionText": "Find the correct explanation of the term “Aporia”:",
+    "options": [
+      {
+        "key": "A",
+        "text": "It denotes a speaker's or character's deliberation on an irresolvable question"
+      },
+      {
+        "key": "B",
+        "text": "It is an address to something inanimate"
+      },
+      {
+        "key": "C",
+        "text": "It is applied to a work of art fraught with inherent tension"
+      },
+      {
+        "key": "D",
+        "text": "It refers to a form of denial of existence"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-104",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.64",
+    "questionText": "\"It is significant that the productive capacities of this Third Space have a colonial or post-\ncolonial provenance\". The above lines have been written by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Salman Rushdie"
+      },
+      {
+        "key": "B",
+        "text": "Edward Said"
+      },
+      {
+        "key": "C",
+        "text": "Benedict Anderson"
+      },
+      {
+        "key": "D",
+        "text": "Komi K. Bhabha"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-105",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.67",
+    "questionText": "According to Roland Barthes, which of the following “Codes\" are common to all narratives?\n(a) Synthetic code\n(b) Proairctic code\n(c) Semic Code\n(d) Hermencutic code\n(e) Symbolic code\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-106",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.72",
+    "questionText": "Who is the author of A Literature of their Own?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sandra Gilbert and Susan Gubar"
+      },
+      {
+        "key": "B",
+        "text": "Elaine Showalter"
+      },
+      {
+        "key": "C",
+        "text": "Virginia Woolf"
+      },
+      {
+        "key": "D",
+        "text": "Sylvia Plath"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-107",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.73",
+    "questionText": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as\nReason (R).\nAssertion (A): The Marxists represent Marxism as a scientific account of social change.\nReason (R): The Marxist ideology believes that culture is a mirror of social life and the artist is\nan engineer of the human soul educating the working classes.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is not correct"
+      },
+      {
+        "key": "D",
+        "text": "(A) is not correct but (R) is correct"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-108",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.87",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) The Poetics of Prose \t(I) Stanley Fish\n(b) Problems of Dostoevsks's Poetics \t(II) Tzvetan Todrov\n(c) Surprised by Sin \t(III) Mikhail Bakhtin\n(d) The Way Women Write \t(IV) Mary Hiatt\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(III), (d)-(I)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Stanley Fish: Coined/Proposed by *Surprised by Sin: The Reader in Paradise Lost* (1967) (Milton deliberately entangles the reader in sinful responses to Satan to make them conscious of their fallen state.)"
+  },
+  {
+    "id": "P2-U09-109",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.91",
+    "questionText": "Roland Barthes \"Toys\" (Excerpt from Mythologies)\nThe word \"demiurge” connotes",
+    "options": [
+      {
+        "key": "A",
+        "text": "cognitive inactiveness of the children."
+      },
+      {
+        "key": "B",
+        "text": "their sensational realisation of the objects."
+      },
+      {
+        "key": "C",
+        "text": "their creative abilities."
+      },
+      {
+        "key": "D",
+        "text": "their sudden discovery."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-110",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.92",
+    "questionText": "Roland Barthes \"Toys” (Excerpt from Mythologies)\nThe adult causality is about",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sensual and sexual knowledge of the world."
+      },
+      {
+        "key": "B",
+        "text": "Cognitive and logical structure of the world."
+      },
+      {
+        "key": "C",
+        "text": "Nihilistic recreation of the world."
+      },
+      {
+        "key": "D",
+        "text": "Linguistic structure of the objects."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-111",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.93",
+    "questionText": "Roland Barthes “Toys” (Excerpt from Mythologies)\nThe world of objects makes the child",
+    "options": [
+      {
+        "key": "A",
+        "text": "Imaginative"
+      },
+      {
+        "key": "B",
+        "text": "Inventor"
+      },
+      {
+        "key": "C",
+        "text": "Actant"
+      },
+      {
+        "key": "D",
+        "text": "Creator"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-112",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.94",
+    "questionText": "Roland Barthes “Toys” (Excerpt from Mythologies)\nWhich of the following is a correct interpretation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The child claims the object as his property."
+      },
+      {
+        "key": "B",
+        "text": "The objects that the child holds are obscure and useless."
+      },
+      {
+        "key": "C",
+        "text": "The child cannot understand the design of the object."
+      },
+      {
+        "key": "D",
+        "text": "In touching the object, the child creates dynamic forms of life."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-113",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.95",
+    "questionText": "Roland Barthes “Toys” (Excerpt from Mythologies)\nIn the context of the above passage, which is the closest to being true:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Children actively learn while playing."
+      },
+      {
+        "key": "B",
+        "text": "Children are objects for toy makers."
+      },
+      {
+        "key": "C",
+        "text": "Toys affect the cognitive abilities of the children."
+      },
+      {
+        "key": "D",
+        "text": "Children recreate meaning from the toys.\nRead the following poem, and answer the questions that follow (96-100):\nMr Bleaney\n'This was Mr Bleaney's room, He stayed\nThe whole time he was at the Bodies, till\nThey moved him.' Flowered curtains, Thin and frayed,\nFall to within five inches of the sill.\nWhose window shows a strip of building land.\nTussocky, littered. 'Mr Bleaney took\nMy bit of garden properly in hand.'\nBed, upright chair, sixty-watt bulb, no hook\nBehind the door, no room for books or bags −\n‘I’ll take it.' So it happens that I lie\nWhere Mr Bleaney lay, and stub my fags\nOn the same saucer-souvenir, and try\nStuffing my ears with cotton-wool, to drown\nThe jabbering set he egged her on to buy.\nI know his habits — what time he came down,\nHis preference for sauce to gravy, why\n\n\nHe kept on plugging at the four aways —\nLikewise their yearly frame: the Frinton folk\nWho put him up for summer holidays,\nAnd Christmas at his sister's house in Stoke.\nBut if he stood and watched the frigid wind\nTousling the clouds, lay on the fusty bed\nTelling himself that this was home, and grinned,\nAnd shivered, without shaking off the dread\nThat how we live measures our own nature,\nAnd at his age having no more to show\nThan one hired box should make him pretty sure\nHe warranted no better, I don't know.\nPhilip Larkin"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U09-116",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.11",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) The Emprie Writes Back \t(I) 1990\n(b) Nation and Narration \t(II) 1993\n(c) Culture and Imperialism \t(III)1989\n(d) The Twice Born Fiction \t(IV) 1971\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "1993: Coined/Proposed by Vikram Seth (*A Suitable Boy*)"
+  },
+  {
+    "id": "P2-U09-117",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.12",
+    "questionText": "Which of the following are representative texts of \"Gynocriticism\"?\n(a) Patricial Meyer Sparks' The Female Imagination\n(b) Mary Ellman s Thinking About Women\n(c) Sandra Gilbert and Susan Gubar's The MadWoman in the Attic\n(d) Ellen keloer's Literary Women\n(e) Kate Millett's Sexual Politics\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Gynocriticism: Coined/Proposed by Elaine Showalter (*Toward a Feminist Poetics*)"
+  },
+  {
+    "id": "P2-U09-118",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.22",
+    "questionText": "Given below are two statements:\nStatement (I): Roland Barthes believes that the author is the epitome and culmination of\ncapitalist ideology\".\nStatement (II): Walter Benjamin, in his The Storyteller, observes that every real story has\nsomething useful in it.\nIn light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false."
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Walter Benjamin: Coined/Proposed by \"The Work of Art in the Age of Mechanical Reproduction\" (1935) (\"Aura\" (the unique presence and ritual authenticity of an original artwork destroyed by reproduction); *Flâneur* (the modern city stroller).)"
+  },
+  {
+    "id": "P2-U09-119",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.23",
+    "questionText": "Find the chronological order of publication of the given works:\n(a) Mythologies\n(b) Of Grammatotogy\n(c) Culture and Society\n\n\n(d) Blindness and Insight\n(e) The Location of Culture\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (b), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(d), (b), (c), (a), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (d), (a), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-120",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.26",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Karl Marx \t(I) Madness and civilization\n(b) Levi-Strauss \t(II) Being and Nothingness\n(c) Michel Foucault \t(III) The German Ideology\n(d) Jean Paul Sartre \t(IV) The Elementary Structures of Kinship\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(III), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Michel Foucault: Coined/Proposed by \"What Is an Author?\" (1969) (The \"Author-Function\"; author is not a real individual, but an ideological construction that limits and controls meaning.)"
+  },
+  {
+    "id": "P2-U09-121",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.29",
+    "questionText": "Which of the following statements are true about Reader Response Critcism?\n(a) It challenges the notion that the meaning is located within the text.\n(b) It refutes that the author is the originator of meaning.\n(c) It sees the reader as a source of meaning.\n(d) It treats the text as self sufficient.\n(e) It appreciates the texts that are historical.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-122",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.39",
+    "questionText": "Identify the Postcolonial critics who used the ideas of Lacan, Foucault and Derrida while\ncritiquing 'Euro-centrism'?\n(a) Homi Bhabha\n(b) Gayatri Chakravarty Spivak\n(c) Abdul Jan Mohammad\n(d) Edward Said\n(e) Arnie Cesaire\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-123",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.50",
+    "questionText": "According to Gerard Genette, which of the following are types of narrators?\n(a) Extradiegetic\n(b) Heterodiegetic\n(c) Intradiegetic\n(d) Homodiegetic\n(e) Interdiegetic\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-124",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.54",
+    "questionText": "Who among the following considers a text as a \" site of struggle between authority and popular\nculture\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Roland Barthes"
+      },
+      {
+        "key": "B",
+        "text": "Northrop Frye"
+      },
+      {
+        "key": "C",
+        "text": "Mikhail Bakhtin"
+      },
+      {
+        "key": "D",
+        "text": "Michel Foucault"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-125",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.62",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) \"Bricolage \" \t(I) Martin Heidegger\n(b) \"Dasein\" \t(II) Sigmund Freud\n(c) \"Parapraxes\" \t(III) Levi- Strauss\n(d) \"Polyphony\" \t(IV) Mikhail Bakhtin\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-126",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.73",
+    "questionText": "Which of the following are the premises of Post colonial Criticism?\n(a) it rejects the claims of universalism made in the canonical Western literature.\n\n\n(b) It foregrounds the questions of cultural difference and diversity as represented in literary\ntexts.\n(c) It acts on the principles of peacful co-existence.\n(d) it celebrates \"hybridity\" and \"Cultural polyvalency\".\n(e) It resists any attempt at homogenization based on race, class and nationality.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c) and (d) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-127",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.76",
+    "questionText": "Given below are two statements:\nStatement (I): According to Michel Foucault, the French Revolution created grounds for the\nbirth of 'the Clinic'.\nStatement (II): Foucault mentions that the doctors started caring for the body of the patients the\nway priests cared for the soul of the sinners.\nIn light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false."
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Michel Foucault: Coined/Proposed by \"What Is an Author?\" (1969) (The \"Author-Function\"; author is not a real individual, but an ideological construction that limits and controls meaning.)"
+  },
+  {
+    "id": "P2-U09-128",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.23",
+    "questionText": "Which of the following statements best describes Terry Eagleton's views on literature?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is closely allied to religion in its significance and seriousness."
+      },
+      {
+        "key": "B",
+        "text": "It is involved in the reproduction of the dominant social order."
+      },
+      {
+        "key": "C",
+        "text": "Its primary purpose is to produce beauty and pleasure."
+      },
+      {
+        "key": "D",
+        "text": "Its raison d'etre is to reflect social reality directly."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-129",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.35",
+    "questionText": "From whom does Gayatri Chakravorty Spivak borrow the term 'subaltern'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Friedrich Engels"
+      },
+      {
+        "key": "B",
+        "text": "Karl Marx"
+      },
+      {
+        "key": "C",
+        "text": "Louis Althusser"
+      },
+      {
+        "key": "D",
+        "text": "Antonio Gramsci"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Subaltern: Coined/Proposed by Antonio Gramsci (Gayatri Spivak (*Can the Subaltern Speak?*))"
+  },
+  {
+    "id": "P2-U09-130",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.37",
+    "questionText": "Who among the following is said to have believed that the Persian Gulf War (1990 91) never\nhappened?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jacques Derrida"
+      },
+      {
+        "key": "B",
+        "text": "Jean Baudrillard"
+      },
+      {
+        "key": "C",
+        "text": "Jurgen Habermas"
+      },
+      {
+        "key": "D",
+        "text": "Zygmunt Bauman"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-131",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.42",
+    "questionText": "Virginia Woolf's Orlando opens in 1588 and Orlando, a sixteeny earold boy, writes a poem called:",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"The Evergreen Tree\""
+      },
+      {
+        "key": "B",
+        "text": "\"The Magic Tree\""
+      },
+      {
+        "key": "C",
+        "text": "\"The Oak Tree\""
+      },
+      {
+        "key": "D",
+        "text": "\"The Poison Tree\""
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-132",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.49",
+    "questionText": "In \"Mr Bennett and Mrs Brown\" Virginia Woolf:",
+    "options": [
+      {
+        "key": "A",
+        "text": "analyses the state of modern fiction by contrasting two generations of writers."
+      },
+      {
+        "key": "B",
+        "text": "criticises book buying preferences of the educated English class."
+      },
+      {
+        "key": "C",
+        "text": "presents modernity as a stable and coherent project uniting all artists."
+      },
+      {
+        "key": "D",
+        "text": "responds to E.M Forster's remarks on character in fiction."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-133",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.53",
+    "questionText": "Which of these constitutes the only extant trilogy from ancient Greek tragedy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agamemnon, Choephori, The Eumenides"
+      },
+      {
+        "key": "B",
+        "text": "Agamemnon, Orestes, The Eumenides"
+      },
+      {
+        "key": "C",
+        "text": "King Oedipus, Oedipus at Co/onus, Antigone"
+      },
+      {
+        "key": "D",
+        "text": "King Oedipus, Orestes, Antigone"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-134",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.60",
+    "questionText": "Which of the following clusters is associated with what Julia Kristeva terms the 'semiotic'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Authority, order and patriarchy"
+      },
+      {
+        "key": "B",
+        "text": "Displacement, slippage and condensation"
+      },
+      {
+        "key": "C",
+        "text": "Logic, reason and power ,"
+      },
+      {
+        "key": "D",
+        "text": "Repression, control and normalcy"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-135",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.61",
+    "questionText": "Given below are two statements\nStatement I: New Historicism stipulates that teleological connotations of history have to be\neschewed.\nStatement II: New Historicism neither denies nor accepts totalizing explanations of historical events.\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-136",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.68",
+    "questionText": "Who, among the following, played the most significant role in mobilizing the concept of 'cultural\nintermediaries'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Karl Marx"
+      },
+      {
+        "key": "B",
+        "text": "Luis Althusser"
+      },
+      {
+        "key": "C",
+        "text": "Pierre Bourdieu"
+      },
+      {
+        "key": "D",
+        "text": "Jurgen Habermas"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-138",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.71",
+    "questionText": "Who is the author of the essay \"Lear, Tolstoy and the Fool\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aldous Huxley"
+      },
+      {
+        "key": "B",
+        "text": "George Orwell"
+      },
+      {
+        "key": "C",
+        "text": "Somerset Maugham"
+      },
+      {
+        "key": "D",
+        "text": "Virginia Woolf"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-139",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.83",
+    "questionText": "Which of the following are true of 'performance', as used in linguistic theory?\nA. It is analogous to the Saussurean concept of langue.\nB. It refers to the specific utterances of individual native speakers in actual situations.\nC. It is an innate grammar that suggests humans' universal ability to use language.\nD. It includes hesitations and unfinished structures arising out of psychological difficulties acting\nupon the speaker.\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-140",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.91",
+    "questionText": "Who is the author of the essay, \"What Isn't Literature?\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "E. D. Hirsch Jr."
+      },
+      {
+        "key": "B",
+        "text": "Hans Georg Gadamer"
+      },
+      {
+        "key": "C",
+        "text": "Paul Ricoeur"
+      },
+      {
+        "key": "D",
+        "text": "Terry Eagleton"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-141",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.92",
+    "questionText": "Arrange the following essays in the chronological order of publication.\nA. T. S. Eliot, \"The Function of Criticism\"\nB. Edgar Allan Poe, \"The Philosophy of Composition\"\nC. Henry lames, \"The Art of Fiction\"\nD. Virginia Woolf, \"Modern Fiction\"\nChoose the correct answer from the options given below Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "B, C, A, D"
+      },
+      {
+        "key": "B",
+        "text": "B, C, D, A"
+      },
+      {
+        "key": "C",
+        "text": "C, B, A, D"
+      },
+      {
+        "key": "D",
+        "text": "C, B, D, A"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-142",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.96",
+    "questionText": "Match List I with List II\nList I \tList II\n(Text) \t(Author)\nA. Modernity at large \tI. J. Urry\nB. The Tourist Gaze \tII. E.W.Said\nC. Culture and Imperialism \tIII. C.L.R James\nD. The Black Jacobins \tIV. Appadurai\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A II, B III , C IV, D I"
+      },
+      {
+        "key": "B",
+        "text": "A III , B IV, C II, D I"
+      },
+      {
+        "key": "C",
+        "text": "A IV , B I , C II, D III"
+      },
+      {
+        "key": "D",
+        "text": "A IV , B III , C II, D \tI"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-143",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.7",
+    "questionText": "The whole description is an example of:",
+    "options": [
+      {
+        "key": "A",
+        "text": "analogy."
+      },
+      {
+        "key": "B",
+        "text": "aporia."
+      },
+      {
+        "key": "C",
+        "text": "image."
+      },
+      {
+        "key": "D",
+        "text": "sarcasm.\n\n\nRead the following extract and answer the questions that follow:\nThe earth was made for Dombey and Son to trade in, and the sun and moon were made to give\nthem light. Rivers and seas were formed to float their ships; rainbows gave them promise of fair\nweather; winds blew for or against their enterprises; stars and planets circled in their orbits, to\npreserve inviolate a system of which they were the centre. Common abbreviations took new\nmeanings in his eyes, and had sole reference to them: A. D. had no concern with anno Domini,\nbut stood for anno Dombey—and Son.\n- Charles Dickens, Dombey and Son"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-144",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.17",
+    "questionText": "Who among the following says that ideology is “a representation of the imaginary relationship of\nindividuals to their real conditions of existence”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fredric Jameson"
+      },
+      {
+        "key": "B",
+        "text": "Herbert Marcuse"
+      },
+      {
+        "key": "C",
+        "text": "Louis Althusser"
+      },
+      {
+        "key": "D",
+        "text": "Terry Eagleton"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Herbert Marcuse: Coined/Proposed by *One-Dimensional Man* (1964) (Advanced industrial societies create false needs and integrate individuals into totalitarian consumerism.)"
+  },
+  {
+    "id": "P2-U09-145",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.33",
+    "questionText": "Given below are two statements\nStatement I: Language is not a reliable tool of communication, says deconstruction, but argues in\nfavour of a theory of sign as a self-sufficient union of signifier and signified.\nStatement II: Deconstruction claims that language is non-referential since it refers neither to the\nthings in the world nor to our concepts of things but only to the play of signifiers.\nIn light of the above statements,\nchoose the most appropriate answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are correct,"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect,"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct,"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-146",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.55",
+    "questionText": "Which two of the following essays form part of Mikhail Bakhtin’s The Dialogic Imagination:\nFour Essays?\nA. “From the History of Novelistic Discourse”\nB. “Discourse in the Novel”\nC. “Romance and Novel”\nD. “Forms of Time and the Chronotope in the Novel”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and D only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-147",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.70",
+    "questionText": "According to Ferdinand de Saussure, language is:\nA. an interlocking structure.\nB. a system of constant change.\nC. a system of signs.\nD. a self-standing formation.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-148",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.74",
+    "questionText": "Given below are two statements, one is labelled as Assertion A and the other is labelled as\nReason R\nAssertion A: The implied reader shifts attention from the real reading individual to a\ndisembodied\ndimension of reception, intricately interwoven into the text.\nReason R: The ‘Dear Reader,’ invoked in the realist novels, is a fictional representation of the\ndistant reader.\nIn light of the above statements,\nchoose the most appropriate answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "A is correct but R is not correct"
+      },
+      {
+        "key": "B",
+        "text": "A is not correct but R is correct"
+      },
+      {
+        "key": "C",
+        "text": "Both A and R are correct and R is the correct explanation of A"
+      },
+      {
+        "key": "D",
+        "text": "Both A and R are correct but R is NOT the correct explanation of A"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-149",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.77",
+    "questionText": "Which of the following narrative cycles is referred to in Michel Foucault’ s “What is an\nAuthor?”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Canterbury Tales"
+      },
+      {
+        "key": "B",
+        "text": "The Decameron"
+      },
+      {
+        "key": "C",
+        "text": "The Thousand and One Nights"
+      },
+      {
+        "key": "D",
+        "text": "Tuti Namah,"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Michel Foucault: Coined/Proposed by \"What Is an Author?\" (1969) (The \"Author-Function\"; author is not a real individual, but an ideological construction that limits and controls meaning.)"
+  },
+  {
+    "id": "P2-U09-150",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.85",
+    "questionText": "Match List I with List II\nList I(Writer) \tList II (Book)\nA. Homi Bhabha \tI. Reading the Popular\nB. T S Eliot \tII. The Location of Culture\nC. Roland Barthes \tIII. Notes towards the Definition of Culture\nD. John Fiske \tIV. Image-Music-Text\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A - I, B - II, C - IV, D - III"
+      },
+      {
+        "key": "B",
+        "text": "A - II, B - III, C - IV, D - I"
+      },
+      {
+        "key": "C",
+        "text": "A - III, B - II, C - I, D - IV"
+      },
+      {
+        "key": "D",
+        "text": "A - IV, B - II, C - III, D - I"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
+    "id": "P2-U09-151",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.92",
+    "questionText": "Who is the author of “The Typology of Detective Fiction”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "G. K. Chesterton"
+      },
+      {
+        "key": "B",
+        "text": "Tzvetan Todorov"
+      },
+      {
+        "key": "C",
+        "text": "Umberto Eco"
+      },
+      {
+        "key": "D",
+        "text": "Vladimir Propp"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  }
+]

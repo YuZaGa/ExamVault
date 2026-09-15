@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "P2-U08-2",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.25",
+    "questionText": "Which of the following options are true about the epistemological dimension of research?\n(a) Scientific realism\n(b) The search for truth\n(c) Critical theory\n(d) Certain and indubitable knowledge\n(e) Mechanism of social control\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(d) and (a) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-3",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.44",
+    "questionText": "Identify the one who was not a 'New Critic':",
+    "options": [
+      {
+        "key": "A",
+        "text": "Allen Tate"
+      },
+      {
+        "key": "B",
+        "text": "Robert Penn Warren"
+      },
+      {
+        "key": "C",
+        "text": "Cleanth Brooks"
+      },
+      {
+        "key": "D",
+        "text": "Claude Levi-Strauss"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-4",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.69",
+    "questionText": "Who among the following is credited with ending the system of patronage with his \"Letter to\nLord Chesterfield\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bishop Berkeley"
+      },
+      {
+        "key": "B",
+        "text": "Samuel Johnson"
+      },
+      {
+        "key": "C",
+        "text": "Edmund Burke"
+      },
+      {
+        "key": "D",
+        "text": "Horace Walpole"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-5",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.76",
+    "questionText": "Who is the critic associated with the term 'Blue Humanities'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hannah Arendt"
+      },
+      {
+        "key": "B",
+        "text": "Stephan Hertz"
+      },
+      {
+        "key": "C",
+        "text": "Thomas R. Cole"
+      },
+      {
+        "key": "D",
+        "text": "Nathan Carlin"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-7",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.6",
+    "questionText": "Who among the following stated that \"true philosopher and the true poet are one, and a beauty,\nwhich is truth, and a truth, which is beauty, is the aim of both?\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "Edgar Allan Poe"
+      },
+      {
+        "key": "B",
+        "text": "Philip Sidney"
+      },
+      {
+        "key": "C",
+        "text": "Ralph Waldo Emerson"
+      },
+      {
+        "key": "D",
+        "text": "John Keats"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-8",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.10",
+    "questionText": "Who among the following was known as 'The Lady of Christ's' during his college days at\nCambridge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Richard Lovelace"
+      },
+      {
+        "key": "B",
+        "text": "Alexander Pope"
+      },
+      {
+        "key": "C",
+        "text": "John Milton"
+      },
+      {
+        "key": "D",
+        "text": "Sir John Suckling"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-9",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.18",
+    "questionText": "Who among the following invented 'inscape' and 'instress'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "I.A. Richards"
+      },
+      {
+        "key": "B",
+        "text": "W.K. Wimsatt"
+      },
+      {
+        "key": "C",
+        "text": "William Faulkner"
+      },
+      {
+        "key": "D",
+        "text": "G.M. Hopkins"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "I.A. Richards: Coined/Proposed by *Principles of Literary Criticism* (1924) (*\"The two pillars upon which a theory of criticism must rest are an account of value and an account of communication.\"*)"
+  },
+  {
+    "id": "P2-U08-10",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.19",
+    "questionText": "Who among the following was not associated with Lake School of Poetry?",
+    "options": [
+      {
+        "key": "A",
+        "text": "S.T. Coleridge"
+      },
+      {
+        "key": "B",
+        "text": "Robert Southey"
+      },
+      {
+        "key": "C",
+        "text": "William Blake"
+      },
+      {
+        "key": "D",
+        "text": "William Wordsworth"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-11",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.26",
+    "questionText": "Who among the following defined taste as \"that faculty of the soul, which discerns the beauties\nof an author with pleasure, and the imperfections with dislike?\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "Joseph Addison"
+      },
+      {
+        "key": "B",
+        "text": "Samuel Johnson"
+      },
+      {
+        "key": "C",
+        "text": "Richard Steele"
+      },
+      {
+        "key": "D",
+        "text": "Daniel Defoe"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-12",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.41",
+    "questionText": "What was the immediate motivation for Philip Sidney to write Apologie for Poetrie as a defense\nof poetry?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Emphasis on history in Holilnshed's Chronicles"
+      },
+      {
+        "key": "B",
+        "text": "Philosophical questions raised in Thomas More's Utopia"
+      },
+      {
+        "key": "C",
+        "text": "Attack on poetry in The School of Abuse by Stephen Gosson"
+      },
+      {
+        "key": "D",
+        "text": "Exposure of human foibles and failings in Erasmus's In Praise of Folly."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-13",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.52",
+    "questionText": "The poetic line(s), \"There is one great society alone on earth: the noble living and the noble\ndead\" appear in ________",
+    "options": [
+      {
+        "key": "A",
+        "text": "Biographia Literaria"
+      },
+      {
+        "key": "B",
+        "text": "The Prelude"
+      },
+      {
+        "key": "C",
+        "text": "Excursion"
+      },
+      {
+        "key": "D",
+        "text": "Lyrical Ballads"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-14",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.53",
+    "questionText": "Who among the following published a series of essays titled The New Criticism?",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Crowe Ransom"
+      },
+      {
+        "key": "B",
+        "text": "William K. Wimsatt Jr."
+      },
+      {
+        "key": "C",
+        "text": "Monroe C. Beardsley"
+      },
+      {
+        "key": "D",
+        "text": "Allen Tate"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "New Criticism: Coined/Proposed by Joel Spingarn (John Crowe Ransom (*The New Criticism*, 1941))"
+  },
+  {
+    "id": "P2-U08-15",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.61",
+    "questionText": "Who among the following called John Dryden as the father of English Criticism and affirmed\nthat modern English prose began with Dryden's Essay of Dramatic Poesy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alexander Pope"
+      },
+      {
+        "key": "B",
+        "text": "Jonathan Swift"
+      },
+      {
+        "key": "C",
+        "text": "Samuel Johnson"
+      },
+      {
+        "key": "D",
+        "text": "Charles Lamb"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-16",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.69",
+    "questionText": "Which among the following are not the genuine sources of the sublime as cited by Longinus?\n(a) Creation of imaginative feelings\n(b) The command of \"full-blooded\" or robust ideas\n(c) The inspiration of \"vehement emotion\"\n(d) Nobility of spontaneity.\n(e) The general effect of dignity and elevation.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-17",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.21",
+    "questionText": "John Dryden’s Of Dramatick Poesy: An Essay is written in the form of a dialogue between\nEugenius, Crites, Lisideius and Neander, where Neander represents:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alexander Pope"
+      },
+      {
+        "key": "B",
+        "text": "John Dryden"
+      },
+      {
+        "key": "C",
+        "text": "Sir Robert Howard"
+      },
+      {
+        "key": "D",
+        "text": "Charles Sackville"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-18",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.38",
+    "questionText": "Who among the following were not associated with Kit-Cat Club?\n(a) George Etherege\n(b) Richard Steele\n(c) Samuel Johnson\n(d) William Congreve\n(e) Joseph Addison\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-19",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.51",
+    "questionText": "Friendship’s Garland (1871) is a sequel to which one of the following works by Mathew Arnold?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Culture and Anarchy"
+      },
+      {
+        "key": "B",
+        "text": "Essays in Criticism"
+      },
+      {
+        "key": "C",
+        "text": "On the Study of Celtic Literature"
+      },
+      {
+        "key": "D",
+        "text": "Literature and Dogma"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-20",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.60",
+    "questionText": "M.H. Abram’s The Mirror and the Lamp: Romantic Theory and the Critical Tradition-\n(a) describes 18th century English Literature as ‘mirror’\n(b) describes 19th century English Literature as ‘Lamp’\n(c) describes 19th century English Literature as ‘mirror’\n(d) the metaphor of ‘mirror’ is used to describe literature as a cool intellectual reflection of\noutward realities.\n(e) the metaphor of ‘mirror’ is used to describe literature as an illumination shed by artists upon\ntheir inner and outer worlds.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d), (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d), (a) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-21",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.68",
+    "questionText": "Neo-Platonism was founded by-\n(a) Plato\n(b) Plotinus\n(c) Porphyry\n(d) Aristotle\n(e) Pythagoras\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-22",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.84",
+    "questionText": "Who said that an author has no claim to original thought but only to apt presentation of what was\nalready being thought by others?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alexander Pope"
+      },
+      {
+        "key": "B",
+        "text": "Ezra Pound"
+      },
+      {
+        "key": "C",
+        "text": "Max Muller"
+      },
+      {
+        "key": "D",
+        "text": "Harold Bloom"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-23",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.23",
+    "questionText": "Which among the following poems has not been composed by P.B. Shelley?",
+    "options": [
+      {
+        "key": "A",
+        "text": "To Wordsworth"
+      },
+      {
+        "key": "B",
+        "text": "Mutability"
+      },
+      {
+        "key": "C",
+        "text": "Hymn to Intellectual Beauty"
+      },
+      {
+        "key": "D",
+        "text": "When We Two Parted"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-24",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.25",
+    "questionText": "Which among the following are the titles of the periodicals?\n(a) Dickens' Household Words\n(b) S.T. Coleridge' Friend\n(c) Richard Steele's Guardian\n(d) Franz Kafka's The Metamorphosis\n(e) Leigh Hunt's Indicator\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) Only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) Only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-25",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.31",
+    "questionText": "Who among the following declared in 1920 that \"there is no longer any intellectual life in\nEngland\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dorothy Richardson"
+      },
+      {
+        "key": "B",
+        "text": "Virginia Woolf"
+      },
+      {
+        "key": "C",
+        "text": "Ezra Pound"
+      },
+      {
+        "key": "D",
+        "text": "T.S. Eliot"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-26",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.52",
+    "questionText": "\"Did not Shakespeare hate and despise lago and Edmund?\" Identify the book in which this\nquestion has been mentioned.",
+    "options": [
+      {
+        "key": "A",
+        "text": "An Apology for Poetry"
+      },
+      {
+        "key": "B",
+        "text": "Kings of Norway"
+      },
+      {
+        "key": "C",
+        "text": "Fool of Quality"
+      },
+      {
+        "key": "D",
+        "text": "Aspects of Poetry"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-27",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.83",
+    "questionText": "Which of the following assumptions are true in the context of New Criticism?\n(a) The new movement in literature popularised closed reading of the text.\n(b) The leading critics of New Criticism are Allen Tate, Robert Penn Warren, R.P. Blackmur\nand Kenneth Burke.\n(c) The critical approach is extensively used in the study of novels and plays.\n(d) This critical approach tends to discredit historical, social and political contexts of a work of\nliterature.\n(e) J.C. Ransom published a book New Criticism wherein he appreciates I.A. Richards,\nWilliam Empson and T.S. Eliot.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "New Criticism: Coined/Proposed by Joel Spingarn (John Crowe Ransom (*The New Criticism*, 1941))"
+  },
+  {
+    "id": "P2-U08-28",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.5",
+    "questionText": "Some of the following terms are integral to New Criticism:\n(a) Tension\n(b) Mirror Stage\n(c) Irony\n(d) Polyphony\n(e) Paradox\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "New Criticism: Coined/Proposed by Joel Spingarn (John Crowe Ransom (*The New Criticism*, 1941))"
+  },
+  {
+    "id": "P2-U08-29",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.7",
+    "questionText": "Which of the following playwrights have collaborated in writing the satire Three Hours after Marriage?\n(a) John Gay\n(b) John Dryden\n(c) Alexander Pope\n(d) William Congreve\n(e) John Arbuthnot\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U08-30",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.10",
+    "questionText": "An Account of the Life of Mr Richard Savage, Son of the Earl Rivers (1744) was the first major biography\npublished by ________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alexander Pope"
+      },
+      {
+        "key": "B",
+        "text": "Joseph Addison"
+      },
+      {
+        "key": "C",
+        "text": "Samuel Johnson"
+      },
+      {
+        "key": "D",
+        "text": "James Boswell"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-31",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.13",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Egotistical sublime \t(I) Mathew Arnold\n(b) Willing suspension of disbelief \t(II) Joseph Addison\n(c) Touchstone \t(III) John Keats\n(d) Pleasures of the imagination \t(IV) Samuel Taylor Coleridge\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Egotistical Sublime: Coined/Proposed by John Keats (Applied to William Wordsworth's poetry)"
+  },
+  {
+    "id": "P2-U08-32",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.17",
+    "questionText": "Which among the following is true about Religio Laici?\n(a) John Dryden wrote Religio Laici.\n(b) Religio Laici strongly criticized the Anglican Church.\n\n\n(c) Religio Laici means ‘A Layman's Faith’\n(d) Religio Laici was published in 1690.\n(e) Religio Laici was a philosophico-religious prose treatise.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-33",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.21",
+    "questionText": "Given below are two statements:\nStatement (I): Wordsworth’s “Intimations of Immortality from Recollections of Early Childhood” was\npublished in 1807.\nStatement (II): In “Intimations of Immortality from Recollections of Early Childhood.” Wordsworth sums\nup his philosophy of childhood.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-34",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.28",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Practical Criticism \t(I) John Crowe Ransom\n(b) The New Criticism \t(II) F.R. Leavis\n(c) The Well-Wrought Urn \t(III) I. A. Richards\n(d) The Great Tradition \t(IV) Cleanth Brooks\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "New Criticism: Coined/Proposed by Joel Spingarn (John Crowe Ransom (*The New Criticism*, 1941))"
+  },
+  {
+    "id": "P2-U08-35",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.35",
+    "questionText": "Who among of the following are known as Cambridge Critics?\n(a) Arthur-Quiller Couch\n(b) F.R. Leavis\n(c) George Saintsbury\n(d) I.A. Richards\n(e) William Empson\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-36",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.37",
+    "questionText": "What is the correct chronological sequence of the following English non-fictional prose writers according to their\nyears of birth?\n(a) Joseph Addison\n(b) Francis Bacon\n(c) Charles Lamb\n(d) Virginia Woolf\n(e) Matthew Arnold\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (c), (b), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (a), (c), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (d), (e), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (b), (a), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U08-37",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.42",
+    "questionText": "Arrange the correct chronological sequence of the publication of the following texts:\n(a) Essay of Dramatic Poesy\n(b) A Room of One’s Own\n(c) Culture and Anarchy\n(d) The Lives of the Poets\n(e) “Preface to the Lyrical Ballads”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (e), (c), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (a), (e), (b), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (d), (e), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(e), (d), (c), (a), (b)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-38",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.43",
+    "questionText": "The Aesthetics of Thomas Aquinas is written by __________",
+    "options": [
+      {
+        "key": "A",
+        "text": "James Joyce"
+      },
+      {
+        "key": "B",
+        "text": "Umberto Eco"
+      },
+      {
+        "key": "C",
+        "text": "Walter Pater"
+      },
+      {
+        "key": "D",
+        "text": "Matthew Arnold"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-39",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.63",
+    "questionText": "Arrange the correct chronological sequence of events that affected literary criticism and theory.\n(a) Man’s First Flight to the Moon\n(b) End of the World War II\n(c) Martin Luther King Jr’s ‘I Have a Dream’ Speech\n(d) Russian Revolution\n(e) India’s Independence\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d), (e), (a), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (a), (e), (b), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (e), (b), (d), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (e), (c), (a)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-40",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.64",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Response to Stephen Gosson \t(I) Aristotle\n(b) The Individual Talent \t(II) Mathew Arnold\n(c) Catharsis \t(III) T. S. Eliot\n\n\n(d) Sweetness and Light \t(IV) Philip Sidney\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(III), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-41",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.89",
+    "questionText": "Given below are two statements:\nStatement (I): Criticism is the construction of a judgment about the negative or positive qualities of someone\nor something?\nStatement (II): Criticism can be theoretical, practical, impressionistic, affective, prescriptive, or descriptive.\nIn the light of the above statements, choose the correct answer given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "B",
+        "text": "Statement (I) is false but Statement (II) is true."
+      },
+      {
+        "key": "C",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "D",
+        "text": "Both Statement (I) and Statement (II) are true."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-42",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.95",
+    "questionText": "The person described in the poem is",
+    "options": [
+      {
+        "key": "A",
+        "text": "a non-believer."
+      },
+      {
+        "key": "B",
+        "text": "a Christian."
+      },
+      {
+        "key": "C",
+        "text": "a believer."
+      },
+      {
+        "key": "D",
+        "text": "a Marxist\n(96-100)\nRead the following passage and answer the questions that follow:\nAt school the study of literature can still involve a close reading or ‘practical criticism’ of a novel, play or poem\nwithout much or any recourse to external material. Practical criticism is the method of analysing a poem, in\nisolation from the circumstances of its production, developed by I. A. Richards (1893-1979) in the 1920s. He felt\nthat concentration upon ‘the words on the page’, the technical aspects of the ways verse creates effects, would\nresult in meaningful judgements upon whether a poem was intrinsically ‘good’ or simply reputedly so. The\nmethodology of practical criticism seeks coherence in images, themes and patterns of language. Richards and his\ncolleagues felt that this practice was ‘scientific’ and led to objective value judgements. He was part of a group of\nlecturers at Cambridge University who played a crucial role in the development of the discipline of English\nLiterature and whose methodology influenced the critical practices of the New Critics, John Crowe Ransom\n(1888-1974) and Cleanth Brooks (1906-94) and their colleagues in the US. Their ‘scientific’ examination of\nliterature asserted a hierarchy of texts, those that held universal meaning and significance through aesthetic form\nand those deemed too formulaic to warrant academic scrutiny. The first revered group of texts is often referred to\nas the literary canon."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Practical Criticism: Coined/Proposed by I.A. Richards (I.A. Richards (*Practical Criticism*))"
+  },
+  {
+    "id": "P2-U08-43",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.97",
+    "questionText": "The purpose of I.A. Richard’s ‘practical criticism’ was to",
+    "options": [
+      {
+        "key": "A",
+        "text": "ensure that criticism adopted a practical perspective to life and basic human issues."
+      },
+      {
+        "key": "B",
+        "text": "usher in an objective approach to the study of texts."
+      },
+      {
+        "key": "C",
+        "text": "valorise the prescriptive function of literature."
+      },
+      {
+        "key": "D",
+        "text": "foreground the contextual aspects of the text taken under scrutiny."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Practical Criticism: Coined/Proposed by I.A. Richards (I.A. Richards (*Practical Criticism*))"
+  },
+  {
+    "id": "P2-U08-44",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.98",
+    "questionText": "What kind of value judgement did practical criticism as a radical critical movement promote or promulgate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Giving credence to intentionality."
+      },
+      {
+        "key": "B",
+        "text": "Privileging the affective dimension."
+      },
+      {
+        "key": "C",
+        "text": "Valorising historical scholarship."
+      },
+      {
+        "key": "D",
+        "text": "Evaluating value in terms of universal truths."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Practical Criticism: Coined/Proposed by I.A. Richards (I.A. Richards (*Practical Criticism*))"
+  },
+  {
+    "id": "P2-U08-45",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.17",
+    "questionText": "Who among the following was the author of The Voyage of the Beagle?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Matthew Arnold"
+      },
+      {
+        "key": "B",
+        "text": "Charles Darwin"
+      },
+      {
+        "key": "C",
+        "text": "John Henry Newman"
+      },
+      {
+        "key": "D",
+        "text": "John Stuart Mill"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-46",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.25",
+    "questionText": "Who among the following translated Aristotle’s Poetics in Latin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Giorgio Valla"
+      },
+      {
+        "key": "B",
+        "text": "Pierre Corneille"
+      },
+      {
+        "key": "C",
+        "text": "Hugh Tredennick"
+      },
+      {
+        "key": "D",
+        "text": "W. Hamilton Fyfe"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-47",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.32",
+    "questionText": "Which of the following books were published in the year 1791?\n(a) Adam Smith’s The Wealth of Nations\n(b) James Boswell’s The Life of Samuel Johnson\n(c) Johnson’s Dictionary of the English Language\n(d) Burke’s Thoughts on the Cause of the Present Discontents\n(e) Paine’s The Rights of Man\nChoose the Correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U08-48",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.44",
+    "questionText": "Which of the following are true in the context of Jonathan Swift?\n(a) He was born in Dublin and studied at Kilkenny Grammar School and Trinity College, Dublin\n(b) He co-authored a book with Samuel Johnson\n(c) He was ordained in the Church of Ireland in 1695\n(d) He was a member of Kit-Cat Club\n(e) He wrote the sensational novel Lady Audley’s Secret\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (c)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-49",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.65",
+    "questionText": "Who among the following was NOT one of the original members of Johnson’s Literary Club?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Oliver Goldsmith"
+      },
+      {
+        "key": "B",
+        "text": "John Dryden"
+      },
+      {
+        "key": "C",
+        "text": "Edmund Burke"
+      },
+      {
+        "key": "D",
+        "text": "John Hawkins"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-50",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.74",
+    "questionText": "Given below are two statements:\nStatement (I): Unlike Plato, Aristotle considers that poetry at its best requires great skill, and also\ndifferentiates between good and bad poetry on clear and systematic aesthetic grounds.\nStatement (II): Aristotle accepts Plato’s insight that the emotions are important to poetry, but rejects Plato’s\ndistrust of the emotions.\nIn the light of the above statements, choose the correct answer given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-51",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.77",
+    "questionText": "Arrange the following writers chronologically in accordance with their years of birth:\n(a) James Boswell\n(b) Edward Gibbon\n(c) Samuel Johnson\n(d) Edmund Burke\n(e) Richard Brinsley Sheridan\nChoose the correct answer from the following options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d), (b), (a), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (a), (b), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (b), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (a), (d), (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U08-52",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.83",
+    "questionText": "Arrange the chronological sequence in which the following works were published:\n(a) Reflections on the Revolution in France\n(b) Preface to Shakespeare\n(c) The Social Contract\n(d) Treatise on Human Nature\n(e) Enquiry Concerning Human Understanding\nChoose the correct answer from the following options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (a), (b), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(d), (e), (c), (b), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (a), (d), (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-53",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.88",
+    "questionText": "Who among the following acknowledged that poetry is formed from the same elements as prose: the\ndifference lies in the different combination of these elements and the difference of purpose?",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Dryden"
+      },
+      {
+        "key": "B",
+        "text": "Samuel Taylor Coleridge"
+      },
+      {
+        "key": "C",
+        "text": "Alexander Pope"
+      },
+      {
+        "key": "D",
+        "text": "Philip Sydney"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-54",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.15",
+    "questionText": "What did Matthew Arnold imply by the term “Hebraism” in his Culture and Anarchy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Moral education"
+      },
+      {
+        "key": "B",
+        "text": "Intellectual autonomy"
+      },
+      {
+        "key": "C",
+        "text": "Rational outlook"
+      },
+      {
+        "key": "D",
+        "text": "Pragmatic attitude"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-55",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.16",
+    "questionText": "The journal Scrutiny was founded in 1932 by",
+    "options": [
+      {
+        "key": "A",
+        "text": "I. A. Richards"
+      },
+      {
+        "key": "B",
+        "text": "F. R. Leavis"
+      },
+      {
+        "key": "C",
+        "text": "Cleanth Brooks"
+      },
+      {
+        "key": "D",
+        "text": "John Crowe Ransom"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-56",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.43",
+    "questionText": "In An Essay on Criticism, Pope\n(a) analyses the causes of faulty criticism and praises the great critics of the past.\n(b) analyses the causes of faulty criticism and characterises the good critic.\n(c) analyses the structure of a good essay and praises the great critics of the past.\n(d) analyses the structure of a good essay and suggest how such an essay could be converted into\ngood criticism.\n(e) analyses the merits of the poetry of Wordsworth and praises the great critics of the past.\nWhich of the above statements are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (d)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-57",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.65",
+    "questionText": "Which of the following are possible ways of turning a topic into an argument?\n(a) An argument for or against an existing critic (or critical position) in relation to the author or\ngroup of works one is studying.\n(b) An argument about the value of a new theoretical approach to a text or set of texts.\n(c) An argument about some historical or literary-historical aspect of literature.\n(d) An argument showing how a particular theme or concept is not at all related to a group of texts.\n(e) An argument about the significance of only well-known author/work.\nChoose the correct option:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b)and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (d) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (c) and (d)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-58",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.72",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Plato \t(I) Rhetoric\n(b) Aristotle \t(II) Symposium\n(c) P.B shelley \t(III) Apology of poetry\n(d) Philip Sydney \t(IV) Defence of poetry\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(II), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-59",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.73",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Bertrand Russell \t(I) The Verbal Icon\n(b) Thomas Stearns Eliot \t(II) The Weil Wrought Urn\n(c) W.K. Wimsatt \t(III) History of Western Philosophy\n(d) Cleanth Brooks \t(IV) The Sacred Wood\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-60",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.74",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) “Negative capability” \t(I) Matthew arnold\n(b) “sweetness and Light” \t(II) Samuel Taylor Coleridge\n(c) “Esemplastic” \t(III) T.S Eliot\n(d) “Disassociation of sensibility” \t(IV) John Keats\nChoose the correct answer from the options given",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Negative Capability: Coined/Proposed by John Keats (Letter to brothers George & Thomas Keats)"
+  },
+  {
+    "id": "P2-U08-61",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.82",
+    "questionText": "Choose the correct chronological sequence in which the following texts were published:\n(a) Madness and Civilization\n(b) The Archaeology of Knowledge\n(c) The Language of the Self: The Function of Language in Psychoanalysis\n(d) The Birth of the Clinic\n(e) Culture and Anarchy",
+    "options": [
+      {
+        "key": "A",
+        "text": "(e), (b), (d), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (a), (c), (b), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (b), (d), (a), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (a), (b), (d), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-62",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.84",
+    "questionText": "Arrange the works in chronological sequence:\n(a) Matthew Arnold’s Culture and Anarchy\n(b) Thomas Browne’s The Anatomy of Melancholy\n(c) Thomas Hobbes’ Leviathan\n(d) Walter Pater’s Studies in the History of the Renaissance\n(e) PB Shelley’s Defense of Poesie\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (e), (a), (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e), (a), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (b), (a), (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-63",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.8",
+    "questionText": "Who among the following has composed the lyrical drama Hellas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lord Byron"
+      },
+      {
+        "key": "B",
+        "text": "P. B. Shelley"
+      },
+      {
+        "key": "C",
+        "text": "William Wordsworth"
+      },
+      {
+        "key": "D",
+        "text": "John Keats"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-64",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.33",
+    "questionText": "Which of the following is true in the context of New Criticism?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It follows the tradition of Historical Criticism."
+      },
+      {
+        "key": "B",
+        "text": "The main law of New Criticism is that it should be subjective analysis."
+      },
+      {
+        "key": "C",
+        "text": "The distinctive procedure for a New Critic is explication."
+      },
+      {
+        "key": "D",
+        "text": "The distinction between literary genres does play an essential role in New Criticism."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "New Criticism: Coined/Proposed by Joel Spingarn (John Crowe Ransom (*The New Criticism*, 1941))"
+  },
+  {
+    "id": "P2-U08-65",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.36",
+    "questionText": "\"I shall be ambitious to have it said of me, that I have brought Philosophy out of Closets and\nLibraries, Schools and Colleges, to dwell in Clubs and Assemblies, at Tea-Tables, and in Coffee-\nHouses.\"\nTo whom do you attribute this famous statement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dr Samuel Johnson"
+      },
+      {
+        "key": "B",
+        "text": "Joseph Addison"
+      },
+      {
+        "key": "C",
+        "text": "Charles Lamb"
+      },
+      {
+        "key": "D",
+        "text": "Alexander Pope"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-66",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.49",
+    "questionText": "Identify the correct ones among the following:\n(a) The Apologie for Poetrie was written by Sir Philip Sidney.\n(b) Sir Philip Sidney wrote the Apologie for Poetrie as a counterblast to Stephen Gosson's The\nSchool of Abuse.\n(c) Stephen Gosson wrote The School of Abuse in the euphuistic style.\n(d) Sidney's style was characterised by neoclassical restraint.\n(e) Sidney and Gosson wrote their critical treatise in the eighteenth century.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only."
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (d) only."
+      },
+      {
+        "key": "C",
+        "text": "(a), (d) and (e) only."
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (e) only."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-67",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.52",
+    "questionText": "Which among the following are true in the context of literary research?\n(a) It is devoted to the enlightenment of criticism\n(b) It seeks to illuminate the work of art as it really is\n(c) It has no connection with the proffered information\n(d) It tries to see the writer as s/he really was\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (d) only."
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only."
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (d) only."
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (c) only."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-68",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.65",
+    "questionText": "Identify the correct pairs:\n(a) Aristotle - Rhetoric\n(b) Quintilian - Oratorical Institutions\n(c) C. Brooks and R. P. Warren - Understanding Fiction\n(d) Allen Tate - The Verbal Icon\n(e) Harold Bloom - The Great Tradition\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only."
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (d) only."
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (e) only."
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e) only."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-69",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.80",
+    "questionText": "Find the chronological order of the writers in terms of the period they belonged to:\n(a) Richard Steele\n(b) Charles Lamb\n(c) John Dryden\n(d) Francis Bacon\n(e) Matthew Arnold\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (e), (c), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (b), (d), (a), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (a), (b), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-70",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.7",
+    "questionText": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as\nReason (R).\nAssertion (A): In so far as we are taught how to read, what we engage are not texts but\nparadigms.\nReason (R): We appropriate meaning from a text according to what we need or desire, or, in\nother words, according to the critical assumptions of the predispositions that we bring to it.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is not correct"
+      },
+      {
+        "key": "D",
+        "text": "(A) is not correct but (R) is correct"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-71",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.42",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) \"Faces along the bar/cling to their\naverage day.\"\n(I) Wilfred Owen\n(b) “The awful daring of a moments\nsurrender.\"\n(II) T.S. Eliot\n(c) “Bent double, like old beggars under\nsacks.\"\n(III) Allen Ginsberg\n(d) \"I saw the best minds of my generation\ndestroyed by madness.”\n(IV) T.H. Anden\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(IV), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-72",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.43",
+    "questionText": "Who among the following is not a recipient of the Nobel Prize for Literature?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Winston Churchill"
+      },
+      {
+        "key": "B",
+        "text": "T.S. Eliot"
+      },
+      {
+        "key": "C",
+        "text": "W.H Auden"
+      },
+      {
+        "key": "D",
+        "text": "Madam Curie"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-73",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.50",
+    "questionText": "Who among the following critics appropriates the following statement by Karl Marx?\n“They cannot represent themselves: they must be represented\".",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ruth Vanita"
+      },
+      {
+        "key": "B",
+        "text": "Kamla Bhasin"
+      },
+      {
+        "key": "C",
+        "text": "Flaria Agnes"
+      },
+      {
+        "key": "D",
+        "text": "Chandra Talpade Mohanty"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-74",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.52",
+    "questionText": "Tolkappivam is a book of grammar and poetics written in the __________language.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Telugu"
+      },
+      {
+        "key": "B",
+        "text": "Tamil"
+      },
+      {
+        "key": "C",
+        "text": "Kannada"
+      },
+      {
+        "key": "D",
+        "text": "Malayalam"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-75",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.57",
+    "questionText": "What does Aristotle mean by the phrase \"language with pleasurable accessories\" in his definition\nof tragedy?\n(a) A language full of pompous vocabulary\n(b) An embellished language\n(c) A language full of rhythm and harmony\n(d) A language superadded with song\n(e) Emotive language\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (d) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-76",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.63",
+    "questionText": "The “Ancient and Modern Quarrel” in Western Literary Criticism appears during",
+    "options": [
+      {
+        "key": "A",
+        "text": "100 BC"
+      },
+      {
+        "key": "B",
+        "text": "Fifth Century CE"
+      },
+      {
+        "key": "C",
+        "text": "Sixteenth Century CE"
+      },
+      {
+        "key": "D",
+        "text": "Twentieth Century CE"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-77",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.89",
+    "questionText": "Who said, “There is, there can be and there ought to be the difference between the language of\nprose and metrical composition\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Dryden"
+      },
+      {
+        "key": "B",
+        "text": "William Wordsworth"
+      },
+      {
+        "key": "C",
+        "text": "S.T. Coleridge"
+      },
+      {
+        "key": "D",
+        "text": "T.S. Eliot"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-78",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.5",
+    "questionText": "Who among the following coined the term The Movement'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "F.W. Bateson"
+      },
+      {
+        "key": "B",
+        "text": "F.R. Leavis"
+      },
+      {
+        "key": "C",
+        "text": "J.D. Scott"
+      },
+      {
+        "key": "D",
+        "text": "I.A. Richards"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "I.A. Richards: Coined/Proposed by *Principles of Literary Criticism* (1924) (*\"The two pillars upon which a theory of criticism must rest are an account of value and an account of communication.\"*)"
+  },
+  {
+    "id": "P2-U08-79",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.9",
+    "questionText": "Who among the following is associated with the term 'Intentional Fallacy' in literary criticism?",
+    "options": [
+      {
+        "key": "A",
+        "text": "W.K. Wimsatt"
+      },
+      {
+        "key": "B",
+        "text": "Rolland Barthes"
+      },
+      {
+        "key": "C",
+        "text": "J. Hillis Miller"
+      },
+      {
+        "key": "D",
+        "text": "John Keats"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Intentional Fallacy: Coined/Proposed by W.K. Wimsatt & Monroe Beardsley (*The Sewanee Review*)"
+  },
+  {
+    "id": "P2-U08-80",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.17",
+    "questionText": "\"It ought to be the first endeavour of a writer to distinguish nature from custom, or that which is\nestablished because it is right from that which is right only because it is established; that he may\nneither violate essential principles by a desire of novelty, nor debar himself from the attainment\nof beauties within his view by a needless fear of breaking rules which no literary dictator had\nauthority to enact\".\nThe above passage considered to be the death- knell of the neo-classical criticism is attributed to\n______",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Dryden"
+      },
+      {
+        "key": "B",
+        "text": "Alexender Pope"
+      },
+      {
+        "key": "C",
+        "text": "Samuel Johnson"
+      },
+      {
+        "key": "D",
+        "text": "Joseph Addison"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-81",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.44",
+    "questionText": "Which of the following statements hold true with respect to Alexander Pope's \"Essay on\nCriticism\"?\n(a) It is an inquiry into the nature and value of poetry\".\n(b) It presents \"a series of generalizations about good taste\".\n(c) It explores the challenges of impartial and just criticism.\n(d) It underlines the traits of the good critic'.\n(e) It critically reflects on Plato's rejection of poetry.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-82",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.52",
+    "questionText": "Which of the following is applicable to \"New Criticism\"?\n(a) It draws considerably from the works of I. A. Richards and the critical essays of T.S. Eliot.\n(b) Some of its concepts are pre-empted by F.R. Leavis.\n(c) It distinguishes between literary and scientific usage of language.\n(d) It encourages an extensive exploration of the contextual and autobiographical background of\na literary production.\n(e) It vouches for a historical analysis of a text.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (e) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (d) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "New Criticism: Coined/Proposed by Joel Spingarn (John Crowe Ransom (*The New Criticism*, 1941))"
+  },
+  {
+    "id": "P2-U08-83",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.55",
+    "questionText": "Who defined 'Hamartia` as 'tragic flaw'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aristotle"
+      },
+      {
+        "key": "B",
+        "text": "Dr. Samuel Johnson"
+      },
+      {
+        "key": "C",
+        "text": "Mathhew Arnold"
+      },
+      {
+        "key": "D",
+        "text": "A. C. Bradley"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-84",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.60",
+    "questionText": "Who among the following is exclusively associated with diary writing in English?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Samuel Pepys"
+      },
+      {
+        "key": "B",
+        "text": "Samuel Johnson"
+      },
+      {
+        "key": "C",
+        "text": "Ben Jonson"
+      },
+      {
+        "key": "D",
+        "text": "Samuel Richardson"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-85",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.74",
+    "questionText": "Given below are two statements:\nStatement (I): The term \"Negative Capability\" was coined by John Keats.\nStatement (II): While analysing the term \"Dissociation of sensibility\", T. S. Eliot proclaims that\nHamlet is an artistic failure.\nIn light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false."
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Dissociation of Sensibility: Coined/Proposed by T.S. Eliot (T.S. Eliot (*The Metaphysical Poets*))"
+  },
+  {
+    "id": "P2-U08-86",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.78",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Acharnians \t(I) Government by women\n(b) Clouds \t(II) Attack on parties involved in war\n(c) Lysistrata \t(III) Criticism of the new 'spirit of\nphilosophical inquiry'\n(d) Wasps \t(IV) An attack on demogogues\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(III), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-87",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.83",
+    "questionText": "\"Inane gaudiness\" is a phrase used in connection with Neo-classicism by ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "William Wordsworth"
+      },
+      {
+        "key": "B",
+        "text": "S.T. Coleridge"
+      },
+      {
+        "key": "C",
+        "text": "Matthew Arnold"
+      },
+      {
+        "key": "D",
+        "text": "T. S. Eliot"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-88",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.86",
+    "questionText": "Abt Vogler is authored by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Matthew Arnold"
+      },
+      {
+        "key": "B",
+        "text": "Robert Browning"
+      },
+      {
+        "key": "C",
+        "text": "A. L Tennyson"
+      },
+      {
+        "key": "D",
+        "text": "None of the above"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-89",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.22",
+    "questionText": "Match List I with List II\nList I \tList II\n(First line) \t(Poet)\nA. \"Courage!\" he said, and pointed toward\nthe Iand ...\nI. G.M.Hopkins\nB. I am poor brother Lippo, by your leave! \tII. Alfred Tennyson\nC. I caught this morning morning's minion… \tIII. D.G. Rossetti\nD. Look in my face; my name is Might have\nbeen...\nIV. Matthew Arnold\nE. The sea is calm tonight… \tV. Robert Browning\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A II, B III, C I, D V, E IV"
+      },
+      {
+        "key": "B",
+        "text": "A II, B V, C I, D III, E IV"
+      },
+      {
+        "key": "C",
+        "text": "A III, B IV, C V, D I, E II"
+      },
+      {
+        "key": "D",
+        "text": "A IV, B V, C I, D III, E II"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-90",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.32",
+    "questionText": "According to Longinus which two of the following qualities apply to 'great poetry'?\nA. It must be the work of genius, an inspired person.\nB. It must cause a feeling of melancholy in the reader.\nC. It must employ devices of rhetoric.\nD. It must please selectively and on special occasions.\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and C only"
+      },
+      {
+        "key": "B",
+        "text": "A and B only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-91",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.50",
+    "questionText": "Who among the following considered paraphrase as 'a heresy'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cleanth Brooks"
+      },
+      {
+        "key": "B",
+        "text": "Edmund Wilson"
+      },
+      {
+        "key": "C",
+        "text": "I.A.Richards"
+      },
+      {
+        "key": "D",
+        "text": "Percy Lubbock"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-92",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.59",
+    "questionText": "In \"The Function of Criticism\" T.S.Eliot attacked J. Middleton Murry and similar critics for being\ndevotees of what he called:",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"the Inner Voice\"."
+      },
+      {
+        "key": "B",
+        "text": "\"the Muse's Mystery\"."
+      },
+      {
+        "key": "C",
+        "text": "\"the Romantic Impulse\"."
+      },
+      {
+        "key": "D",
+        "text": "\"the Symbol Hunt\"."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-93",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.62",
+    "questionText": "Who among the following belong to the Chicago School of critics?\nA. R. S. Crane\nB. E. M. W. Tillyard\nC. Elder Olson\nD. Allen Tate\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and C only"
+      },
+      {
+        "key": "B",
+        "text": "A and D only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-94",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.86",
+    "questionText": "Who among the following compared 'the mind in creation' to 'a fading coal'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Coleridge"
+      },
+      {
+        "key": "B",
+        "text": "Keats"
+      },
+      {
+        "key": "C",
+        "text": "Shelley"
+      },
+      {
+        "key": "D",
+        "text": "Wordsworth"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-95",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.19",
+    "questionText": "Which two of the following are fallacious evaluations of poetry according to Matthew Arnold’s\n“The Study of Poetry”?\nA. contextual estimate\nB. personal estimate\nC. comparative estimate\nD. historic estimate\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "B and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-96",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.20",
+    "questionText": "Arrange chronologically the following texts in terms of their years of first publication:\nA. Edmund Spenser’s The Faerie Queene\nB. Coleridge and Wordsworth’s Lyrical Ballads\nC. Pablo Neruda’s Canto General\nD. Charles Baudelaire’s The Flowers of Evil\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "A, B, C, D"
+      },
+      {
+        "key": "B",
+        "text": "A, B, D, C"
+      },
+      {
+        "key": "C",
+        "text": "B, C, A, D"
+      },
+      {
+        "key": "D",
+        "text": "D, A, B, C"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U08-97",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.38",
+    "questionText": "Arrange the following terms in their chronological sequence of appearance:\nA. dissociation of sensibility\nB. unreliable narrator\nC. theatre of cruelty\nD. egotistical sublime\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "B, D, A, C"
+      },
+      {
+        "key": "B",
+        "text": "D, A, B, C"
+      },
+      {
+        "key": "C",
+        "text": "D, A, C, B"
+      },
+      {
+        "key": "D",
+        "text": "D, B, A, C"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Dissociation of Sensibility: Coined/Proposed by T.S. Eliot (T.S. Eliot (*The Metaphysical Poets*))"
+  },
+  {
+    "id": "P2-U08-98",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.50",
+    "questionText": "Who among the following posits the tradition of great writers as an inescapable fact, and takes\nthe ambivalent position of considering it as both a blessing and a curse?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Allen Tate"
+      },
+      {
+        "key": "B",
+        "text": "F.R. Leavis"
+      },
+      {
+        "key": "C",
+        "text": "Harold Bloom"
+      },
+      {
+        "key": "D",
+        "text": "T. S. Eliot"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-99",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.58",
+    "questionText": "Match List I with List II\nList I (Author) \tList II (Text)\nA. Robert Browning \tI. Queen Mary\nB.S. T. Coleridge \tII. The Second Mrs Tanqueray\nC. A. W. Pinero \tIII. Remorse\nD. Alfred Tennyson \tIV. The Borderers\nE. William Wordsworth \tV. Strafford\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-II; B-IV; C-III; D-V; E-I"
+      },
+      {
+        "key": "B",
+        "text": "A-III; B-V; C-II; D-I; E-IV"
+      },
+      {
+        "key": "C",
+        "text": "A-IV; B-II; C-I; D-V; E-III"
+      },
+      {
+        "key": "D",
+        "text": "A-V; B-III; C-II; D-I; E-IV"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-100",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.68",
+    "questionText": "In “The Function of Criticism at the Present Time” what is proposed by Matthew Arnold as the\nessence of criticism?",
+    "options": [
+      {
+        "key": "A",
+        "text": "affirmation"
+      },
+      {
+        "key": "B",
+        "text": "cohesiveness"
+      },
+      {
+        "key": "C",
+        "text": "disinterestedness"
+      },
+      {
+        "key": "D",
+        "text": "judiciousness"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U08-101",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.69",
+    "questionText": "Which two among the following condemned the transportation of 50000 slaves into England in\n1771?\nA. Samuel Johnson\nB. Alexander Pope\nC. Horace Walpole\nD. Thomas Gray\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U08-102",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.100",
+    "questionText": "Who among the following was of the view that poetry was only an imitation of an imitation and\ntherefore trivial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aristotle"
+      },
+      {
+        "key": "B",
+        "text": "Phaedo"
+      },
+      {
+        "key": "C",
+        "text": "Plato"
+      },
+      {
+        "key": "D",
+        "text": "Xenocrates"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  }
+]

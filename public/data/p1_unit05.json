@@ -1,0 +1,5854 @@
+[
+  {
+    "id": "P1-U05-2",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 31-12-2025 FN | Q.33",
+    "questionText": "A train running at 54 km/hr takes 20 sec to cross a platform and 15 sec to pass a man walking in\nthe same direction at a speed of 6 km/hr. Then the length of platform is",
+    "options": [
+      {
+        "key": "A",
+        "text": "200 meters"
+      },
+      {
+        "key": "B",
+        "text": "100 meters"
+      },
+      {
+        "key": "C",
+        "text": "160 meters"
+      },
+      {
+        "key": "D",
+        "text": "140 meters"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-3",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 31-12-2025 FN | Q.40",
+    "questionText": "Arrange the following fractions in descending order:\n(a) 2\n5\n(b) 3\n8\n(c) 5\n13\n(d) 6\n11\n(e) 4\n9\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (e), (c), (a), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (a), (e), (b), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (a), (c), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (e), (a), (c), (b)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-4",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 31-12-2025 FN | Q.44",
+    "questionText": "Identify the correct mathematical statements:\n(a) The expression 1\n5×6 + 1\n6×7 + 1\n7×8 +…. + 1\n24×25 is equal to 4\n25\n(b) Of the three numbers, second is twice the first and is also thrice of the third. If the average of\nthree numbers is 55, then largest number is 90.\n(c) If (a + b) :(b + c) :(c + a) = 6:7:8 and a + b + c=14, then value of c is 8\n(d) 0.2×0.2+0.02×0.02−0.4×0.02\n0.18 is equal to 0.09\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (b) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-5",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 31-12-2025 FN | Q.45",
+    "questionText": "Complete the following series:\n4, 36, 252, 1260, .........",
+    "options": [
+      {
+        "key": "A",
+        "text": "2520"
+      },
+      {
+        "key": "B",
+        "text": "3780"
+      },
+      {
+        "key": "C",
+        "text": "2780"
+      },
+      {
+        "key": "D",
+        "text": "3520\nComprehension: (46-50)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-6",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 02-01-2026 FN | Q.17",
+    "questionText": "Arrange the following fractions in descending order:\n(a) 9/11\n(b) 8/9\n(c) 4/7\n(d) 3/5\n(e) 8/15\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b)>(d)>(a)>(e)>(c)"
+      },
+      {
+        "key": "B",
+        "text": "(b)>(a)>(e)>(d)>(c)"
+      },
+      {
+        "key": "C",
+        "text": "(a)>(b)>(c)>(d)>(e)"
+      },
+      {
+        "key": "D",
+        "text": "(b)>(a)>(d)>(c)>(e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-7",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 02-01-2026 FN | Q.24",
+    "questionText": "Identify the correct mathematical statements:\n(a) A batsman makes a score of 87 runs in the 17th inning and thus increases his average by",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d) Only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) Only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d) Only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (b) Only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-8",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 02-01-2026 FN | Q.45",
+    "questionText": "Complete the following series:\n582, 581, 585, 576, 592, 567, ______",
+    "options": [
+      {
+        "key": "A",
+        "text": "601"
+      },
+      {
+        "key": "B",
+        "text": "602"
+      },
+      {
+        "key": "C",
+        "text": "603"
+      },
+      {
+        "key": "D",
+        "text": "599\nComprehension: (46-50)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-9",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 02-01-2026 AN | Q.15",
+    "questionText": "Arrange the following fractions in ascending order:\n(a) 5\n8\n(b) 7\n12\n(c) 13\n16\n(d) 16\n29\n(e) 3\n4\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b)<(d)<(a)<(c)<(e)"
+      },
+      {
+        "key": "B",
+        "text": "(b)<(c)<(d)<(e)<(a)"
+      },
+      {
+        "key": "C",
+        "text": "(d)<(b)<(a)<(e)<(c)"
+      },
+      {
+        "key": "D",
+        "text": "(d)<(e)<(b)<(a)<(c)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-10",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 02-01-2026 AN | Q.24",
+    "questionText": "Identify the correct mathematical statement(s):\n(a) If the cost price of 10 articles is equal to selling price of 9 articles, then profit is 10%.\n(b) 4 2\n3 + 3 1\n2 − 1 2\n3 = 13\n2\n(c) If 𝑥\n𝑦 = 2\n75 ,then 𝑦−𝑥\n𝑦+𝑥 = 77\n73\n(d) 1\n0.04 is equal to 25\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (d) Only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) Only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d) Only"
+      },
+      {
+        "key": "D",
+        "text": "(d) Only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-11",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 03-01-2026 FN | Q.10",
+    "questionText": "Identify the correct mathematical statements:\n(a) The value of 1\n4 + 1\n4×5 + 1\n4×5×6 is equal to 37\n120.\n(b) 1+2÷ 1 + 2 ÷ 1 + 1\n3 is equal to 4\n5.\n(c) If the average of 6 numbers is 7, the average of 3 numbers of them is 5, then the average of\nremaining numbers is 9.\n(d) If 75% of a number is added to 75, then the result is number itself. Then the number is 300\n(e) Largest fraction from 9\n31, 6\n23, 3\n23 , 4\n11 is 9\n31.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (e) and (d) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-12",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 03-01-2026 FN | Q.37",
+    "questionText": "Arrange the following fractions in ascending order:\n(a) 2\n3\n(b) 7\n19\n(c) 9\n11\n(d) 7\n9\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (a), (e), (c), (d)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (e), (a), (d), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (a), (e), (d)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-13",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 03-01-2026 FN | Q.42",
+    "questionText": "Complete the following series:\nN7V, K9T, H12R, ?, B21N",
+    "options": [
+      {
+        "key": "A",
+        "text": "E14R"
+      },
+      {
+        "key": "B",
+        "text": "E13Q"
+      },
+      {
+        "key": "C",
+        "text": "E16P"
+      },
+      {
+        "key": "D",
+        "text": "F16R"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-14",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 03-01-2026 AN | Q.7",
+    "questionText": "Complete the series:\nI2Z, K4X, M7V, O11T, _______, S22P",
+    "options": [
+      {
+        "key": "A",
+        "text": "Q16R"
+      },
+      {
+        "key": "B",
+        "text": "Q16P"
+      },
+      {
+        "key": "C",
+        "text": "R15P"
+      },
+      {
+        "key": "D",
+        "text": "R15T"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-15",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 03-01-2026 AN | Q.21",
+    "questionText": "If 28% of a number is 75 less than 43% of the same number, then 30% of that number is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "175"
+      },
+      {
+        "key": "B",
+        "text": "145"
+      },
+      {
+        "key": "C",
+        "text": "150"
+      },
+      {
+        "key": "D",
+        "text": "120"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-16",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 03-01-2026 AN | Q.37",
+    "questionText": "Arrange the following fractions in ascending order:\n(a) 7\n16\n(b) 13\n25\n(c) 2\n3\n(d) 11\n23\n(e) 5\n19\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (e), (d), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (a), (d), (b), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (d), (b), (a), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (a), (d), (c), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-17",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 03-01-2026 AN | Q.45",
+    "questionText": "Match the LIST-I with LIST-II\nLIST-I\n(Cost Price = CP. and Selling Price = S.P.)\nLIST-II\n(in Rs)\n(a) If C.P. = Rs 600, Profit = 25%, then S.P. =? \t(I) 1080\n(b) S.P. = Rs 1680, Loss = 20%, then C.P. =? \t(II) 750\n(c) Marked Price = Rs 1500, successive discounts are 20% & 10%, then\nS.P. =? (III) 1200\n(d) Difference between C.P. and S.P. = Rs 240, Profit = 20%, then C.P. =? \t(IV) 2100\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(III), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(I), (c)-(III), (d)-(II)\nComprehension: (46-50)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-18",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 05-01-2026 FN | Q.14",
+    "questionText": "If the difference between Simple Interest and Compound Interest on a certain amount of money\ndeposited at the rate 12% per annum for two years is ₹72, then find the amount of money\ndeposited (i.e principal amount).",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹5700"
+      },
+      {
+        "key": "B",
+        "text": "₹5500"
+      },
+      {
+        "key": "C",
+        "text": "₹5200"
+      },
+      {
+        "key": "D",
+        "text": "₹5000"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-19",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 05-01-2026 FN | Q.17",
+    "questionText": "If (L)M represents a number L in base - M number system, then identify the correct descending\norder of the following numbers A-D when converted to decimal number system.\n(a) (103.2)4\n(b) (100011.11)2\n(c) (46.2) ₈\n(d) (36.6)16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (d), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (a), (b), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (b), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (b), (a)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-20",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 05-01-2026 FN | Q.28",
+    "questionText": "Choose the correct statements:\n(a) If a shopkeeper incurs a loss of 20% by selling an item for ₹560, the cost price of the item is\n750.\n(b) 10% of 20% of 25% of 200 is equal to 1 (one).\n(c) If 25% of x = 30% of y, then the value of x for y = 5000 is 6000.\n(d) If a person gains 6.25% by selling an item for ₹29.75, the cost price of the item is ₹26.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (d) Only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) Only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) Only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d) Only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-21",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 05-01-2026 AN | Q.11",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct descending\norder of the following numbers A-D when converted to decimal number system.\n(a) (20003.2)4\n(b) (111111.11)2\n(c) (732.2)8\n(d) (C2.6)16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (d), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (a), (b), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (d), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (a), (b)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-22",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 05-01-2026 AN | Q.16",
+    "questionText": "Match List - I with List - II.\nList – I\n(Question)\nList- II\n(Answer)\n(a) The average of first 50 natural numbers is: \t(I) 20\n(b) The average of all odd numbers upto 100 is: \t(II) 39.8\n(c) The mean of 12 , 22 , 32\n, 42 , 52 , 62 and 72 is: \t(III) 25.5\n(d) The average of all prime numbers between 30 and 50 is : \t(IV) 50\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-23",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 05-01-2026 AN | Q.20",
+    "questionText": "One dozen pairs of gloves quoted at 120 are sold at a discount of 20%. Find how many pairs of\ngloves can be bought for ₹16?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-24",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 06-01-2026 FN | Q.18",
+    "questionText": "Two dealers A and B are selling the same model of TV set marking with same selling prices.\nDealer A gives successive discounts of 20% and 15% and dealer B gives successive discounts of\n18% and 15%. Find out the selling prices of the two dealers A and B respectively in rupees\nassuming that the marked prices of both is rupees 10000/- (₹ Ten thousand only)",
+    "options": [
+      {
+        "key": "A",
+        "text": "7200, 7000"
+      },
+      {
+        "key": "B",
+        "text": "6900, 7000"
+      },
+      {
+        "key": "C",
+        "text": "7000,7000"
+      },
+      {
+        "key": "D",
+        "text": "6800, 6970"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-25",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 06-01-2026 FN | Q.21",
+    "questionText": "Arrange the following fractions in their descending order:\n(a) 8\n9\n(b) 9\n11\n(c) 7\n9\n(d) 8\n15\n(e) 7\n11\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c), (d), (e), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (a), (c), (e), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (a), (c), (b)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-26",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 06-01-2026 FN | Q.35",
+    "questionText": "If 𝐿 𝑀 represent a number L in base-M number system, then identify the correct descending\norder of the following numbers A-D when converted to decimal number system.\n(a) 30002.2 4\n(b) 100000.11 2\n(c) 666.2 8\n(d) 𝐷5.6 16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c), (d), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (b), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (b), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (a), (c)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-27",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 06-01-2026 AN | Q.19",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct descending\norder of the following numbers A-D when converted to decimal number system.\n(a) (30022.2)4\n(b) (10000110.11)2\n(c) (777.2)8\n(d) (197.6)16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (d), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (b), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (c), (a)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-28",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 07-01-2026 FN | Q.23",
+    "questionText": "If (L)м represents a number L is base-M number system, then which of the following numbers\nare equivalent to (AD)₁₆?\n(a) (255) ₈\n(b) (10101101) ₂\n(c) (173) ₁₀\n(d) (1141) ₅\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (d) Only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) Only"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (b) Only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (c) Only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-29",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 07-01-2026 FN | Q.34",
+    "questionText": "The average age of a class of 34 students and a teacher reduces by 0.5 years, if the teacher is\nexcluded. The initial average of the class including teacher is 16 years. Find the age of the\nteacher.",
+    "options": [
+      {
+        "key": "A",
+        "text": "30 years"
+      },
+      {
+        "key": "B",
+        "text": "33 years"
+      },
+      {
+        "key": "C",
+        "text": "35 years"
+      },
+      {
+        "key": "D",
+        "text": "37 years"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-30",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 07-01-2026 FN | Q.42",
+    "questionText": "If 40% of a number x is added to another number y, then y becomes 125% of its previous value.\nFind which of the following is true regarding the values of x and y?",
+    "options": [
+      {
+        "key": "A",
+        "text": "𝑥\n𝑦 = 8\n5"
+      },
+      {
+        "key": "B",
+        "text": "𝑥 = 𝑦"
+      },
+      {
+        "key": "C",
+        "text": "𝑥\n𝑦 = 5\n8"
+      },
+      {
+        "key": "D",
+        "text": "𝑥\n𝑦 = 3\n4"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-31",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 07-01-2026 AN | Q.20",
+    "questionText": "Three successive discounts of 10%, 25% and 35% on the marked price of an item are equivalent\nto a single discount of:",
+    "options": [
+      {
+        "key": "A",
+        "text": "~ 56.1%"
+      },
+      {
+        "key": "B",
+        "text": "~ 43.9%"
+      },
+      {
+        "key": "C",
+        "text": "70%"
+      },
+      {
+        "key": "D",
+        "text": "~ 50.2%"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-32",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift: 07-01-2026 AN | Q.41",
+    "questionText": "If (L)M represents a number L in base M number system, then identify the correct ascending\norder of the following numbers A-D, when converted to decimal number system.\n(a) (333.2)₄\n(b) (111111.11)₂\n(c) (77.2)₈\n(d) (3F.6)₁₆\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (a), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d), (a), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d), (b), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (b), (a)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-33",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 03-01-2025 FN | Q.10",
+    "questionText": "Find the sum of money which will amount to ₹26010 in 6 months at the rate of 8% per annum\nwhen interest is compounded quarterly.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 24500"
+      },
+      {
+        "key": "B",
+        "text": "₹ 25000"
+      },
+      {
+        "key": "C",
+        "text": "₹ 25600"
+      },
+      {
+        "key": "D",
+        "text": "₹ 26000"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-34",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 03-01-2025 FN | Q.30",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct descending\norder of the following numbers A-D when converted to decimal number system.\n(a) (10110.11)2\n(b) (110.2)4\n(c) (32.5)8\n(d) (14.6)16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (a), (b), (d)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (b), (d), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (d), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (a), (d)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-35",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 03-01-2025 FN | Q.44",
+    "questionText": "When 20% of a number (x) is added to another number (y), the number (y) increases by 50%.\nWhat is the respective ratio between the two numbers x and y?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2:3"
+      },
+      {
+        "key": "B",
+        "text": "3:5"
+      },
+      {
+        "key": "C",
+        "text": "5:2"
+      },
+      {
+        "key": "D",
+        "text": "5:3"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-36",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 03-01-2025 AN | Q.26",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct ascending\norder of the following numbers A-D when converted to decimal number system.\n(a) (11001.11)2\n(b) (123.2)4\n(c) (31.5)8\n(d) (19.6)16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (a), (c), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (d), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (a), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (a), (b)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-37",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 06-01-2025 FN | Q.8",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct ascending\norder of the following numbers A-D when converted to decimal number system.\n(a) (11011.11)2\n(b) (131.2)4\n(c) (25.5)8\n(d) (16.6)16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d), (b), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d), (a), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (d), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (a), (c), (d)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-38",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 06-01-2025 AN | Q.20",
+    "questionText": "The cost price of an article is 95% of its selling price. Find the percentage of profit or loss.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5% loss"
+      },
+      {
+        "key": "B",
+        "text": "5% profit"
+      },
+      {
+        "key": "C",
+        "text": "5.26% profit"
+      },
+      {
+        "key": "D",
+        "text": "5.5% loss"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-39",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 06-01-2025 AN | Q.27",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct ascending\norder of the following numbers A-D when converted to decimal number system:\n(a) (11101.11)2\n(b) (130.2)4\n(c) (34.5)8\n(d) (15.6)16\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (b), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (a), (c), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (d), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (c), (a)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-40",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 07-01-2025 FN | Q.32",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct ascending\norder of the following numbers A-D when converted to decimal number system:\n(a) (11111.11)2\n(b) (102.3)6\n(c) (42.5)8\n(d) (32.6)16\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (a), (c), (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (b), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (d), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (b), (a)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-41",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 07-01-2025 AN | Q.24",
+    "questionText": "The average of the ages of three persons A, B and C is 45 years and the average age of A, C and\nD is 51 years. If the age of D is 56 years, what is the age of B?",
+    "options": [
+      {
+        "key": "A",
+        "text": "35 years"
+      },
+      {
+        "key": "B",
+        "text": "38 years"
+      },
+      {
+        "key": "C",
+        "text": "36 years"
+      },
+      {
+        "key": "D",
+        "text": "36.5 years"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-42",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 08-01-2025 AN | Q.23",
+    "questionText": "Find the next term in the following letter series:\nALY, CJW, EHU, _______",
+    "options": [
+      {
+        "key": "A",
+        "text": "GFS"
+      },
+      {
+        "key": "B",
+        "text": "GES"
+      },
+      {
+        "key": "C",
+        "text": "FDT"
+      },
+      {
+        "key": "D",
+        "text": "GJS"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-43",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 08-01-2025 AN | Q.38",
+    "questionText": "A sum of Rs. 1.0 Lakh is invested for 1 year at an interest rate of 10% per annum compounded\nhalf-yearly. The compound interest is",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 6150"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 10250"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 10500"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 11000"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-44",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 09-01-2025 FN | Q.39",
+    "questionText": "Find the next term in the number series gives below:\n1, 7, 25, 61, ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "81"
+      },
+      {
+        "key": "B",
+        "text": "110"
+      },
+      {
+        "key": "C",
+        "text": "121"
+      },
+      {
+        "key": "D",
+        "text": "141"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-45",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 09-01-2025 AN | Q.25",
+    "questionText": "Two successive discounts of 10% and 15% are equivalent to a single discount of",
+    "options": [
+      {
+        "key": "A",
+        "text": "23.5%"
+      },
+      {
+        "key": "B",
+        "text": "25%"
+      },
+      {
+        "key": "C",
+        "text": "18.5%"
+      },
+      {
+        "key": "D",
+        "text": "22.5%"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-46",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 09-01-2025 AN | Q.32",
+    "questionText": "Find the next term in the following letter series.\nBFD, ELG, HRJ, _________?",
+    "options": [
+      {
+        "key": "A",
+        "text": "KUM"
+      },
+      {
+        "key": "B",
+        "text": "JXM"
+      },
+      {
+        "key": "C",
+        "text": "KTM"
+      },
+      {
+        "key": "D",
+        "text": "KXM"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-47",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 10-01-2025 FN | Q.9",
+    "questionText": "A train travels at a certain average speed for a distance of 63 km and and then travels a distance\nof 72 km at an average speed of 6 km/h more than its original speed. If it takes 3 hours to\ncomplete the total journey, what is the original speed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "48 km/h"
+      },
+      {
+        "key": "B",
+        "text": "40 km/h"
+      },
+      {
+        "key": "C",
+        "text": "42 km/h"
+      },
+      {
+        "key": "D",
+        "text": "32 km/h"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-48",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 16-01-2025 AN | Q.25",
+    "questionText": "Find the next term of the letter series.\nAaC, BbD, DdF, HhJ, _________",
+    "options": [
+      {
+        "key": "A",
+        "text": "LIN"
+      },
+      {
+        "key": "B",
+        "text": "MmO"
+      },
+      {
+        "key": "C",
+        "text": "PpR"
+      },
+      {
+        "key": "D",
+        "text": "NnP"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-49",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "December 2024 Cycle | Shift: 27-01-2025 AN | Q.21",
+    "questionText": "Which of the statements (A)-(D) are true in the context of number series I and II given below:\nSeries I: 6, 24, x, 720, 5040\nSeries II: 432, 250, 128, y, 16\n(a) The sum of x and y is 164\n(b) x exceeds the double of y by 12\n(c) Both x and y are exactly divisible by 6\n(d) Either x or y is a perfect square\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (c) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-50",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 21-08-2024 FN | Q.11",
+    "questionText": "In the letter series, some of the letters are missing. Complete the given letter series by choosing\nthe correct alternatives from the options given below.\nb_b_bb__bbb_bb_b",
+    "options": [
+      {
+        "key": "A",
+        "text": "b b b b b a"
+      },
+      {
+        "key": "B",
+        "text": "b b a a a b"
+      },
+      {
+        "key": "C",
+        "text": "a b a b a b"
+      },
+      {
+        "key": "D",
+        "text": "a a b a a b"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-51",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 21-08-2024 FN | Q.13",
+    "questionText": "If (L)M represents a number L in base-M number system, then which of the following equalities\nare true?\n(a) (127.125)10 = (1111111.001)2\n(b) (127.125)10 = (1333.02)4\n(c) (127.125)10 = (177.1)8\n(d) (127.125)10 = (7F.2)16\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (c) and (d)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-52",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 21-08-2024 FN | Q.19",
+    "questionText": "Three successive discounts of 30% on the marked price of an item are together equivalent to a\nsingle discount of",
+    "options": [
+      {
+        "key": "A",
+        "text": "90%"
+      },
+      {
+        "key": "B",
+        "text": "27%"
+      },
+      {
+        "key": "C",
+        "text": "65.7%"
+      },
+      {
+        "key": "D",
+        "text": "78.2%"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-53",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 21-08-2024 AN | Q.11",
+    "questionText": "Find the next term in the number series 2A11, 4D13, 12G17, 48J23, ___________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "245N32"
+      },
+      {
+        "key": "B",
+        "text": "228L30"
+      },
+      {
+        "key": "C",
+        "text": "240M31"
+      },
+      {
+        "key": "D",
+        "text": "230M29"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-54",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 21-08-2024 AN | Q.44",
+    "questionText": "Three successive discounts of 10% 20% and 30% on the marked price of an item are equivalent\nto a single discount of",
+    "options": [
+      {
+        "key": "A",
+        "text": "60%"
+      },
+      {
+        "key": "B",
+        "text": "50.4%"
+      },
+      {
+        "key": "C",
+        "text": "54.6%"
+      },
+      {
+        "key": "D",
+        "text": "49.6%"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-55",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 22-08-2024 FN | Q.22",
+    "questionText": "If (L)M represents a number L in base - M number system, then identify the correct descending\norder of the following number A-D, when converted to base-10 number system.\n(a) (9C)16\n(b) (233)8\n(c) (313)7\n(d) (10011110)2\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d), (b), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (c), (a), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (a), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (b), (a)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-56",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 22-08-2024 AN | Q.7",
+    "questionText": "A shopkeeper first increased the price of an item by 12% and then announces a discount of 20%.\nThe actual discount on the original price is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "12.6%"
+      },
+      {
+        "key": "B",
+        "text": "10.4%"
+      },
+      {
+        "key": "C",
+        "text": "14.2%"
+      },
+      {
+        "key": "D",
+        "text": "12%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-57",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 23-08-2024 FN | Q.16",
+    "questionText": "A person sold an item at a loss of 7%. Had he sold the item at a gain of 7.5%, he would have\nreceived Rs. 87 more than his selling price. The cost price of the item is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 500"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 550"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 600"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 650"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-58",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 23-08-2024 FN | Q.20",
+    "questionText": "If (L)M represents a number L in base-M number system, then what will be the value of\n(107)16 + (257)16 ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(762)10"
+      },
+      {
+        "key": "B",
+        "text": "(862)10"
+      },
+      {
+        "key": "C",
+        "text": "(962)10"
+      },
+      {
+        "key": "D",
+        "text": "(662)10"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-59",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 23-08-2024 AN | Q.20",
+    "questionText": "The cost price of two articles is same, one of them is sold at a profit of 13% while the other one\nis sold at a profit of 19%. If the difference between their selling price is Rs. 126, the cost of price\nof each article is",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 1800"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 1900"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 2000"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 2100"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-60",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 27-08-2024 FN | Q.43",
+    "questionText": "If the selling price of Rs.36 results in a discount of 25% on the marked price of an item, at what\nprice should the item be sold to offer a discount of 20%?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 37.8"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 38.0"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 38.4"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 39.4"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-61",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 27-08-2024 AN | Q.7",
+    "questionText": "One term in the number series is wrong. Find out the wrong term?\n325, 259, 202, 160, 127, 105, 94",
+    "options": [
+      {
+        "key": "A",
+        "text": "94"
+      },
+      {
+        "key": "B",
+        "text": "127"
+      },
+      {
+        "key": "C",
+        "text": "202"
+      },
+      {
+        "key": "D",
+        "text": "259"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-62",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 27-08-2024 AN | Q.28",
+    "questionText": "If the selling price of Rs 235 results in a discount of 6% on the marked price of an item, at what\nprice should the item be sold to offer a discount of 15%?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs 199.5"
+      },
+      {
+        "key": "B",
+        "text": "Rs 206.5"
+      },
+      {
+        "key": "C",
+        "text": "Rs 212.5"
+      },
+      {
+        "key": "D",
+        "text": "Rs 215"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-63",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 27-08-2024 AN | Q.42",
+    "questionText": "If (L)M represents a number L in base-M number system then identify the correct ascending order\nof the following numbers A-D when converted to decimal number system\n(a) (203)4\n(b) (100001)2\n(c) (114)5\n(d) (1012)3\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (b), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (c), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (c), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (a), (c)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-64",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 29-08-2024 FN | Q.18",
+    "questionText": "Which of the following is/are true?\n(a) If the selling price (SP) of an article is ₹ 40 and the gain is 15%, the cost price (CP) of the article\nis ₹ 32\n(b) A man bought a toy for ₹ 150 and sold it at a profit of 8%. He sold the toy for ₹ 162\n(c) A man buys a cycle for ₹ 500, but due to some problem, he sells it for ₹ 400. He thus incurs a loss\nof 22%\n(d) Cost price of an article, if its SP is ₹ 210 and the loss is 30%, is ₹ 300.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (c) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-65",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 29-08-2024 FN | Q.23",
+    "questionText": "Microsoft Access is an example of a(n) ___________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Operational resource toolkit system"
+      },
+      {
+        "key": "B",
+        "text": "ERP system"
+      },
+      {
+        "key": "C",
+        "text": "Database management system"
+      },
+      {
+        "key": "D",
+        "text": "Knowledge management system"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-66",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 29-08-2024 AN | Q.28",
+    "questionText": "Which of the following statements are true?\n(a) A single discount, equivalent to a series of discounts of 20%, 10% and 5%, is 35%.\n(b) If after two successive discounts of 12% and 5%, an article was sold for ₹209, then the original\nprice of the article is ₹250.\n(c) If a shopkeeper allows two successive discounts of 5% each on the marked price of ₹80, the\nselling price of the article is ₹75.\n(d) If the difference between a single discount of 35% and two successive discounts of 20% on a\ncertain bill is ₹22, then the total amount of the bill is ₹2200.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c) and (d) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-67",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 30-08-2024 FN | Q.33",
+    "questionText": "Match the List-I with List-II\nList - I\n(Statement)\nList - II\n(Result)\n(a) Average of the squares of first 10 natural numbers \t(I) 13\n(b) Average of first 5 multiplies of 5 \t(II) 45\n(c) Average of first 25 natural numbers \t(III) 38.5\n(d) Average of cubes of first 5 natural numbers \t(IV) 15\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-68",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 30-08-2024 AN | Q.32",
+    "questionText": "A man sold an article at a profit of 6.5%. If he had sold the article for ₹ 1250 more, he would\nhave earned a profit of 10%. What is the cost price of the article?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 1,0000"
+      },
+      {
+        "key": "B",
+        "text": "₹ 10,500"
+      },
+      {
+        "key": "C",
+        "text": "₹ 9,000"
+      },
+      {
+        "key": "D",
+        "text": "₹ 9,500"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-69",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 30-08-2024 AN | Q.38",
+    "questionText": "Which of the following is/are true?\n(a) The average of given data is less than the greatest observation and greater than the smallest\nobservation of the given data.\n(b) If the observations of a given data are equal, then the average of the data may or may not be\nsame as the observations.\n(c) If all the observations of a given data get increased by x, then their average is also increased\nby x.\n(d) If all the observations of a given data are divided by x, then their average may or may not\nchange.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-70",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 02-09-2024 FN | Q.40",
+    "questionText": "A sum of money becomes ₹ 34800 in 2 years and ₹ 42,000 in 5 years at simple interest per annum.\nFind the rate of interest and the sum of money respectively",
+    "options": [
+      {
+        "key": "A",
+        "text": "6%, ₹ 40,000"
+      },
+      {
+        "key": "B",
+        "text": "7%, ₹ 30,000"
+      },
+      {
+        "key": "C",
+        "text": "8%, ₹ 30,000"
+      },
+      {
+        "key": "D",
+        "text": "5%, ₹ 35,000"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-71",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 02-09-2024 AN | Q.12",
+    "questionText": "A certain sum of money becomes ₹28800 in 2 years at 20% per annum of compound interest\n(Compounded annually). The sum of money is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹24000"
+      },
+      {
+        "key": "B",
+        "text": "₹22000"
+      },
+      {
+        "key": "C",
+        "text": "₹21000"
+      },
+      {
+        "key": "D",
+        "text": "₹20000"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-72",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 02-09-2024 AN | Q.14",
+    "questionText": "There are three positive numbers. One third of the average of all the three numbers is 8 less than the\nvalue of the highest number. If the average of the lowest and the second lowest number is 8, then\nwhat is the highest number?",
+    "options": [
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "10"
+      },
+      {
+        "key": "C",
+        "text": "11"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-73",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 02-09-2024 AN | Q.15",
+    "questionText": "What will be the value of P in the following number series?\n0, 3, 26, 255, P, . . . . . . . .",
+    "options": [
+      {
+        "key": "A",
+        "text": "624"
+      },
+      {
+        "key": "B",
+        "text": "511"
+      },
+      {
+        "key": "C",
+        "text": "1023"
+      },
+      {
+        "key": "D",
+        "text": "3124"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-74",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 03-09-2024 FN | Q.19",
+    "questionText": "Let L and M be the sum and average of four consecutive odd numbers (a, b, c and d) respectively,\nand, P and Q be the sum and average of three consecutive even numbers (x, y and z) respectively.\nIf M = Q – 6 and P = L – 16, then M =",
+    "options": [
+      {
+        "key": "A",
+        "text": "32"
+      },
+      {
+        "key": "B",
+        "text": "34"
+      },
+      {
+        "key": "C",
+        "text": "36"
+      },
+      {
+        "key": "D",
+        "text": "30"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-75",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 03-09-2024 FN | Q.38",
+    "questionText": "In what time will a sum of money double itself at the rate of 12.5% per annum simple interest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 years"
+      },
+      {
+        "key": "B",
+        "text": "8 years"
+      },
+      {
+        "key": "C",
+        "text": "6 years"
+      },
+      {
+        "key": "D",
+        "text": "12 years"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-76",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 03-09-2024 AN | Q.16",
+    "questionText": "If the selling price of Rs. 623 results in a discount of 11% on the market price of an item, at what\nprice should the item be sold to offer a discount of 19%?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 557"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 567"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 577"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 587"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-77",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 03-09-2024 AN | Q.32",
+    "questionText": "Find the next number in the number series:\n48, 24, 72, 36, 108,?",
+    "options": [
+      {
+        "key": "A",
+        "text": "115"
+      },
+      {
+        "key": "B",
+        "text": "121"
+      },
+      {
+        "key": "C",
+        "text": "110"
+      },
+      {
+        "key": "D",
+        "text": "54"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-78",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 04-09-2024 FN | Q.7",
+    "questionText": "If (L)M represents a number L in base-M number system, then identify the correct ascending\norder of the following numbers A-D when converted to decimal number system.\n(a) (102)4\n(b) (10001)2\n(c) (103)6\n(d) (201)3\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (a), (c), (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (d), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (d), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (a), (d), (c)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-79",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 04-09-2024 FN | Q.17",
+    "questionText": "If the selling price of ₹ 276 results in a discount of 8% on the marked price of an item, at what\nprice should the item be sold to offer a discount of 13%?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 265"
+      },
+      {
+        "key": "B",
+        "text": "₹ 251"
+      },
+      {
+        "key": "C",
+        "text": "₹ 257"
+      },
+      {
+        "key": "D",
+        "text": "₹ 261"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-80",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 04-09-2024 FN | Q.24",
+    "questionText": "A sum of money is equally divided among a number of children. Had there been 10 children less,\neach would have received ₹ 5 more, and had there been 10 children more each would have\nreceived ₹ 3 less. What is the sum of money that is distributed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "300"
+      },
+      {
+        "key": "B",
+        "text": "600"
+      },
+      {
+        "key": "C",
+        "text": "750"
+      },
+      {
+        "key": "D",
+        "text": "900"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-81",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 04-09-2024 AN | Q.11",
+    "questionText": "If (L)M represents a number L in base-M number system, then which of the following numbers\nare equivalent to (19) 16 ?\n(a) (11001)2\n(b) (201)3\n(c) (121)4\n(d) (101)5\n(e) (25)10\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (e) Only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) Only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (d) Only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (c), (d) and (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-82",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 04-09-2024 AN | Q.18",
+    "questionText": "Three successive discounts of 15%, 20% and 40% on the marked price of an item are equivalent\nto a single discount of:",
+    "options": [
+      {
+        "key": "A",
+        "text": "75%"
+      },
+      {
+        "key": "B",
+        "text": "40.8%"
+      },
+      {
+        "key": "C",
+        "text": "59.2%"
+      },
+      {
+        "key": "D",
+        "text": "67.5%"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-83",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "June 2024 Cycle | Shift: 05-09-2024 FN | Q.26",
+    "questionText": "The cost price of 35 articles is the same as the selling price of N articles. If the profit earned is\n40%, the value of N is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "15"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "25"
+      },
+      {
+        "key": "D",
+        "text": "30"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-85",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "21-02-2023 ARB_FN AND 21-02-2023 FOR_AN | Q.24",
+    "questionText": "Find a single discount equivalent to two successive discounts of 10% and 20%.",
+    "options": [
+      {
+        "key": "A",
+        "text": "27%"
+      },
+      {
+        "key": "B",
+        "text": "28%"
+      },
+      {
+        "key": "C",
+        "text": "30%"
+      },
+      {
+        "key": "D",
+        "text": "25%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-86",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "04-03-2023 COM_AN | Q.23",
+    "questionText": "The average of a group of 20 numbers is 30 and that of another group of 30 numbers is 50. What is\nthe average of all the numbers in both the groups?",
+    "options": [
+      {
+        "key": "A",
+        "text": "43.5"
+      },
+      {
+        "key": "B",
+        "text": "45"
+      },
+      {
+        "key": "C",
+        "text": "40"
+      },
+      {
+        "key": "D",
+        "text": "42"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-87",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "23-02-2023 COP_LIT_AN,23-02-2023 SAN_AN AND 23-02-2023 TRSM_AN | Q.24",
+    "questionText": "If the fractions 2/5, 3/8, 4/9, 5/13 and 6/11 are arranged in ascending order of their values, then\nwhich of the fractions will be the third in the ordered sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2/5"
+      },
+      {
+        "key": "B",
+        "text": "4/9"
+      },
+      {
+        "key": "C",
+        "text": "5/13"
+      },
+      {
+        "key": "D",
+        "text": "3/8"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-88",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "02-03-2023 ECO_FN AND 02-03-2023 PHY_EDU_FN | Q.21",
+    "questionText": "A certain principal amount in 2 years at some simple interest becomes ₹ 10,000 and the same\nprincipal amount on the same rate of simple interest becomes ₹ 11,000 in 3 years. Find the principal\nand rate of interest.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 9200 and 14%"
+      },
+      {
+        "key": "B",
+        "text": "₹ 8500 and 13.5%"
+      },
+      {
+        "key": "C",
+        "text": "₹ 9000 and 13%"
+      },
+      {
+        "key": "D",
+        "text": "₹ 8000 and 12.5%"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-89",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "14-03-2023 EDU_AN AND 14-03-2023 SO_WORK_AN | Q.24",
+    "questionText": "A sum of money deposited in a bank at a simple interest per annum becomes ₹ 5200 in 5 years\nand ₹ 5680 in 7 years. Find the rate of interest per annum.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6.5%"
+      },
+      {
+        "key": "B",
+        "text": "6%"
+      },
+      {
+        "key": "C",
+        "text": "5%"
+      },
+      {
+        "key": "D",
+        "text": "5.5%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-90",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "14-03-2023 EDU_AN AND 14-03-2023 SO_WORK_AN | Q.25",
+    "questionText": "The ratio between Sale price (S.P.) and Cost price (C.P.) of an article is 5:3. Find the ratio\nbetween profit and the cost price of that article.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2:3"
+      },
+      {
+        "key": "B",
+        "text": "4:5"
+      },
+      {
+        "key": "C",
+        "text": "2:5"
+      },
+      {
+        "key": "D",
+        "text": "5:2"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-91",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "01-03-2023 ENG_FN | Q.23",
+    "questionText": "A man invested 1/3 of his retirement gratuity at 6% simple interest: 1/4 of his gratuity at 7% and the\nrest at 8% simple interest. If his annual return on these investments is = 7012.5, find the total\namount of gratuity invested by the man.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹89,000"
+      },
+      {
+        "key": "B",
+        "text": "₹ 99,000"
+      },
+      {
+        "key": "C",
+        "text": "₹95,000"
+      },
+      {
+        "key": "D",
+        "text": "₹ 1,05,000"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-92",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "01-03-2023 ENG_AN | Q.21",
+    "questionText": "An amount of ₹8500 becomes ₹ 9500 in 3 years time at some simple rate of interest. How much the\namount of ₹ 10,200 will become in 5 years at the same rate of simple interest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 11800"
+      },
+      {
+        "key": "B",
+        "text": "₹ 12000"
+      },
+      {
+        "key": "C",
+        "text": "₹ 12200"
+      },
+      {
+        "key": "D",
+        "text": "₹ 12500"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-93",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "28-02-2023 HIS_FN | Q.22",
+    "questionText": "The difference between simple and compound interest on certain principal amount, for 2 years at\nthe rate of 5% per annum, is ₹ 11.25. Find the principal amount.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4,500"
+      },
+      {
+        "key": "B",
+        "text": "5,500"
+      },
+      {
+        "key": "C",
+        "text": "4,000"
+      },
+      {
+        "key": "D",
+        "text": "4,300"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-94",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "28-02-2023 HIS_AN | Q.21",
+    "questionText": "A man invests = 5000 in a bond which gives compound interest at 4% per annum during the first\nyear, 5% per annum during the second year and 10% during the third year. How much amount the\nman will get at the end of third year.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 6500"
+      },
+      {
+        "key": "B",
+        "text": "₹ 5500"
+      },
+      {
+        "key": "C",
+        "text": "₹ 5999"
+      },
+      {
+        "key": "D",
+        "text": "₹ 6006"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-95",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "12-03-2023 LAW_FN | Q.21",
+    "questionText": "The average of seven consecutive odd numbers is 17. If next three odd numbers are also included,\nthen what will be the new average?",
+    "options": [
+      {
+        "key": "A",
+        "text": "20"
+      },
+      {
+        "key": "B",
+        "text": "19"
+      },
+      {
+        "key": "C",
+        "text": "21"
+      },
+      {
+        "key": "D",
+        "text": "22"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-96",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "12-03-2023 LAW_FN | Q.23",
+    "questionText": "A shopkeeper has 90 clocks. Out of these 90 clocks he sells 40 clocks at a gain of 10% and 50 clocks\nat a gain of 20%. If he would have sold all the clocks at a uniform gain of 15%, he would have got\nRs. 40 less. Find the cost price of each clock.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 85"
+      },
+      {
+        "key": "B",
+        "text": "₹ 90"
+      },
+      {
+        "key": "C",
+        "text": "₹ 80"
+      },
+      {
+        "key": "D",
+        "text": "₹ 100"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-97",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13-02-2023 LBS_FN | Q.25",
+    "questionText": "What will be the average of the set of prime numbers falling between 12 and 42?",
+    "options": [
+      {
+        "key": "A",
+        "text": "28.25"
+      },
+      {
+        "key": "B",
+        "text": "22.25"
+      },
+      {
+        "key": "C",
+        "text": "25:25"
+      },
+      {
+        "key": "D",
+        "text": "26.25"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-98",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "22-02-2023 MLM_FN | Q.24",
+    "questionText": "In what time a sum of money will double itself at the rate of 8% per annum simple interest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10.5 years"
+      },
+      {
+        "key": "B",
+        "text": "12.5 years"
+      },
+      {
+        "key": "C",
+        "text": "9.5 years"
+      },
+      {
+        "key": "D",
+        "text": "11.5 years"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-99",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "03-03-2023 MCJ_FN | Q.22",
+    "questionText": "After increasing the selling price of an article by 25%, the new price of the article becomes Rs. 250.\nNow a discount of 25% is offered on the new price. What would be the profit or loss in percentage\non the original price.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Profit of 6.25%"
+      },
+      {
+        "key": "B",
+        "text": "Loss of 6.25%"
+      },
+      {
+        "key": "C",
+        "text": "Loss of 12.5%"
+      },
+      {
+        "key": "D",
+        "text": "Profit of 12.5%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-100",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "03-03-2023 MCJ_FN | Q.31",
+    "questionText": "A digital camera contains a microprocessor. The camera's specification includes:\n- 20 megapixel resolution\n- 32 gigabyte memory card\n- autofocus facility\nIf a compressed image file requires an average of 1 byte per pixel, then what is the maximum\nnumber of photos that can be stored on the memory card? (1 Kilo = 1024)",
+    "options": [
+      {
+        "key": "A",
+        "text": "1638"
+      },
+      {
+        "key": "B",
+        "text": "819"
+      },
+      {
+        "key": "C",
+        "text": "409"
+      },
+      {
+        "key": "D",
+        "text": "732"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-101",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "12-03-2023 MGMT_AN | Q.21",
+    "questionText": "An amount deposited at 5% simple interest becomes Rs. 1512 in 4 years. How much the same\namount will become in 2 1\n2 years at 10% simple interest per annum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 1,475"
+      },
+      {
+        "key": "B",
+        "text": "₹ 1,575"
+      },
+      {
+        "key": "C",
+        "text": "₹ 1,675"
+      },
+      {
+        "key": "D",
+        "text": "₹ 1,875"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-102",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "06-03-2023 POLI_SC_FN | Q.21",
+    "questionText": "If simple interest on a certain principal amount at 5% per annum for 5 years is Rs.900 more\nthan the simple interest on the same principal amount for 4 years at 4% per annum, then find\nout the principal amount",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs.9,000"
+      },
+      {
+        "key": "B",
+        "text": "Rs.10,500"
+      },
+      {
+        "key": "C",
+        "text": "Rs.10,000"
+      },
+      {
+        "key": "D",
+        "text": "Rs.12,000"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-103",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "15-03-2023 PSY_AN AND 15-03-2023 SAN_FN | Q.22",
+    "questionText": "How many prime numbers exist between 20 and 60 and what is the average of these prime numbers?",
+    "options": [
+      {
+        "key": "A",
+        "text": "7,41.5"
+      },
+      {
+        "key": "B",
+        "text": "9, 40.33"
+      },
+      {
+        "key": "C",
+        "text": "8, 39.5"
+      },
+      {
+        "key": "D",
+        "text": "10, 42.33"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-105",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "29-09-2022 COM_ FN | Q.30",
+    "questionText": "The selling price of 30 fans is equal to the purchase price of 25 fans. What is the profit or loss in\npercentage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A gain of 16 2%\n3"
+      },
+      {
+        "key": "B",
+        "text": "A loss of 15%"
+      },
+      {
+        "key": "C",
+        "text": "A loss of 16 2%\n3"
+      },
+      {
+        "key": "D",
+        "text": "No gain, no loss"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-106",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "29-09-2022 COM_ AN | Q.35",
+    "questionText": "On allowing two successive discounts of 20% and 15%, the selling price of an article becomes\nRs. 3060. What is the marked price of the article?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4000"
+      },
+      {
+        "key": "B",
+        "text": "4100"
+      },
+      {
+        "key": "C",
+        "text": "4200"
+      },
+      {
+        "key": "D",
+        "text": "4500"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-107",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "29-09-2022 COM_ AN | Q.41",
+    "questionText": "The simple interest accrued on a sum of certain principal is Rs. 1200 in 4 years at the rate of 8%\nper annum. What would be the simple interest accrued on thrice of that principle at the rate of\n6% per annum in 3 years?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2150"
+      },
+      {
+        "key": "B",
+        "text": "2050"
+      },
+      {
+        "key": "C",
+        "text": "2025"
+      },
+      {
+        "key": "D",
+        "text": "2100"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-108",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "14-10-2022 COM_ FN | Q.14",
+    "questionText": "Match List I with List II:\nList I\n(Number Series)\nList II\n(Value of P in the Series)\n(a) 2, 9, 28, 65, 126, P, .... \t(I) 220\n(b) 2, 10, 30, 68, 130, P, .... \t(II) 222\n(c) 3, 4, 11, 30, 67, 128, P, .... \t(III) 217\n(d) 5, 12, 31, 68, 129, P, .... \t(IV) 219\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(II), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(I), (b)-(II), (c)-(IV), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-109",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "14-10-2022 COM_ FN | Q.25",
+    "questionText": "Find the principal if the compound interest is charged on the principal at the rate of 162%\n3\nper annum for two years and the sum becomes ₹196.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹140"
+      },
+      {
+        "key": "B",
+        "text": "₹144"
+      },
+      {
+        "key": "C",
+        "text": "₹150"
+      },
+      {
+        "key": "D",
+        "text": "₹154"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-110",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "20-09-2022 COP_LIT_ FN | Q.21",
+    "questionText": "What is the average of all the prime numbers between 30 and 50?",
+    "options": [
+      {
+        "key": "A",
+        "text": "38.8"
+      },
+      {
+        "key": "B",
+        "text": "37.8"
+      },
+      {
+        "key": "C",
+        "text": "39.8"
+      },
+      {
+        "key": "D",
+        "text": "39.5"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-111",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "20-09-2022 COP_LIT_ FN | Q.25",
+    "questionText": "A television manufacturer earns 20% profit by selling each T.V. set for Rs 14,400. If the\nproduction cost is increased by 15%, what should be the new selling price of a T.V. set so as to\ngain a profit of 15%?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15,870"
+      },
+      {
+        "key": "B",
+        "text": "13,800"
+      },
+      {
+        "key": "C",
+        "text": "12,000"
+      },
+      {
+        "key": "D",
+        "text": "15,000"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-112",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "08-10-2022 CS_ FN | Q.14",
+    "questionText": "Two Shopkeepers 'A' and 'B' sell certain kind of machines at the same list price. However,\nshopkeeper ‘A' allows two successive discounts of 20% and 15% and shopkeeper 'B' allows two\nsuccessive discounts of 10% and 25%. Which of the following statements is correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "‘A’ offers more discount"
+      },
+      {
+        "key": "B",
+        "text": "‘B’ offers more discount"
+      },
+      {
+        "key": "C",
+        "text": "Both ‘A’ and ‘B’ offers same discount"
+      },
+      {
+        "key": "D",
+        "text": "‘A’ offers 35% discount and ‘B’ offers 30% discount"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-113",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "08-10-2022 CS_ FN | Q.18",
+    "questionText": "At what percent of compound interest per annum, a sum of money will double in 14 years?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4%"
+      },
+      {
+        "key": "B",
+        "text": "5%"
+      },
+      {
+        "key": "C",
+        "text": "6%"
+      },
+      {
+        "key": "D",
+        "text": "6.5%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-114",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "08-10-2022 CS_ FN | Q.42",
+    "questionText": "Find the average of the squares of the consecutive odd numbers from 1 to 21.",
+    "options": [
+      {
+        "key": "A",
+        "text": "162"
+      },
+      {
+        "key": "B",
+        "text": "159"
+      },
+      {
+        "key": "C",
+        "text": "161"
+      },
+      {
+        "key": "D",
+        "text": "160"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-115",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13-10-2022 ENG_ FN | Q.15",
+    "questionText": "The simple interest on a sum of money is 1 of the principal and the number of years is equal to 9\nthe rate percent per annum. The rate percent per annum is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "3%"
+      },
+      {
+        "key": "B",
+        "text": "0.33%"
+      },
+      {
+        "key": "C",
+        "text": "3.33%"
+      },
+      {
+        "key": "D",
+        "text": "2.33%"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-116",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13-10-2022 ENG_ FN | Q.32",
+    "questionText": "Given below are two statements:\nStatement (I): One-fourth of sixty percent of a number is equal to two-fifth of twenty percent of\nanother number. Then the respective ratio of the first number to the second number is 8:15.\nStatement (II): A student is studying for a test from 11:00 am to 8:00 pm on weekdays and one-\nthird of that time on Saturday. On Sunday, he takes a break and goes for a movie. The fractional\npart of the entire week that the student is studying is 3/7.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-117",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13-10-2022 ENG_ FN | Q.39",
+    "questionText": "Given below are two. statements:\nStatement (I): A man sells his goods at 10% profit. If he sells his goods at 15% profit, he gets\n₹160 more. The cost price of his goods is ₹4,200.\nStatement (II): A man spends 80% of his earnings. His earnings increased by 25% and his\nexpenses increased by 20%. The man's savings thus increased by 45%.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-118",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13-10-2022 ENG_ AN | Q.15",
+    "questionText": "The simple interest on a sum of money is 4/9 of the principal. What will be the annual rate of\ninterest and time (in years), if both of these are numerically equal?",
+    "options": [
+      {
+        "key": "A",
+        "text": "6 % and 6 years"
+      },
+      {
+        "key": "B",
+        "text": "6.8 % and 6.8 years"
+      },
+      {
+        "key": "C",
+        "text": "61\n2 % and 6 1yrs.\n2"
+      },
+      {
+        "key": "D",
+        "text": "62 % and 6 2yrs.\n3 \t3"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-119",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13-10-2022 ENG_ AN | Q.44",
+    "questionText": "A shopkeeper professes to sell his goods on cost price but uses 750 gm instead of 1 kg. What is\nhis gain in percentage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "33"
+      },
+      {
+        "key": "B",
+        "text": "35.3"
+      },
+      {
+        "key": "C",
+        "text": "30.3"
+      },
+      {
+        "key": "D",
+        "text": "33.33"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-120",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "30-10-2022 EVS_ FN | Q.5",
+    "questionText": "What was the average of the number of men, women and children who were overweight in the\nyear 2019?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4812"
+      },
+      {
+        "key": "B",
+        "text": "5016"
+      },
+      {
+        "key": "C",
+        "text": "5395"
+      },
+      {
+        "key": "D",
+        "text": "5260"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-121",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "12-10-2022 GEO_ FN | Q.20",
+    "questionText": "Consider the following statements:\n(a) A train travelling 180 km/hr took 5.4 seconds to cross a stationary man. Length of the train is\n250 m.\n(b) If a bus covers 172 km in 4 hours, the speed of the bus is 154.8 m/s.\n(c) If 25 X + 25 Y = 110, the average of X and Y is 2.2.\nWhich of the above statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (c) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-122",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "12-10-2022 GEO_ FN | Q.35",
+    "questionText": "Given below are two statements:\nStatement (I): The length of a tree increases at the rate of 5% every year on its previous year's\nlength. If it is 2.0 feet now, it will increase 0.31525 feet in three years.\nStatement (II): A vendor sells an item for ₹56 making a profit of 40%. The cost price of the item\nis ₹40.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false."
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-123",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "10-10-2022 HIS_ FN | Q.19",
+    "questionText": "The average of prime numbers between 1 and 20 is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "9.525"
+      },
+      {
+        "key": "B",
+        "text": "8.625"
+      },
+      {
+        "key": "C",
+        "text": "9.625"
+      },
+      {
+        "key": "D",
+        "text": "8.525"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-124",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "10-10-2022 HIS_ FN | Q.37",
+    "questionText": "If the selling price of 10 articles is equal to the cost price of 15 articles, what is the profit\npercentage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "50"
+      },
+      {
+        "key": "B",
+        "text": "40"
+      },
+      {
+        "key": "C",
+        "text": "45"
+      },
+      {
+        "key": "D",
+        "text": "33.33"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-125",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "10-10-2022 HIS_ FN | Q.43",
+    "questionText": "A certain sum of money on a certain annual rate of interest becomes ₹1008 in 2 years and ₹1164\nin 31 years. Find the sum and the annual rate of interest\n2",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹800, 12%"
+      },
+      {
+        "key": "B",
+        "text": "₹875, 12.5%"
+      },
+      {
+        "key": "C",
+        "text": "₹850, 12%"
+      },
+      {
+        "key": "D",
+        "text": "₹800, 13%"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-126",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "11-07-2022 LBS_ FN | Q.22",
+    "questionText": "A person deposited some money at a simple interest rate for 3 years. Had he deposited the money\nat 2% higher rate, it would have fetched Rs. 360 more. Find the amount of the money deposited.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5000"
+      },
+      {
+        "key": "B",
+        "text": "4600"
+      },
+      {
+        "key": "C",
+        "text": "6000"
+      },
+      {
+        "key": "D",
+        "text": "6100"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-127",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "11-07-2022 LBS_ FN | Q.23",
+    "questionText": "What is the average of first 40 natural numbers?",
+    "options": [
+      {
+        "key": "A",
+        "text": "20"
+      },
+      {
+        "key": "B",
+        "text": "21"
+      },
+      {
+        "key": "C",
+        "text": "21.5"
+      },
+      {
+        "key": "D",
+        "text": "20.5"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-128",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "11-07-2022 LBS_ FN | Q.24",
+    "questionText": "After getting two successive discounts, a shirt with a list price of Rs.150 is available at Rs.105. If\nthe value of second discount is 12.5%, what is the value of the first discount?",
+    "options": [
+      {
+        "key": "A",
+        "text": "25%"
+      },
+      {
+        "key": "B",
+        "text": "20%"
+      },
+      {
+        "key": "C",
+        "text": "20.5%"
+      },
+      {
+        "key": "D",
+        "text": "15.5%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-129",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "01-10-2022 MLM_ FN | Q.39",
+    "questionText": "A dealer sold three-forth (3𝑡𝑡𝑡𝑡ℎ\n) of his articles at a gain of 20% and the remaining articles at the\n4\ncost price. Find the gain earned by him in the whole transaction.",
+    "options": [
+      {
+        "key": "A",
+        "text": "20%"
+      },
+      {
+        "key": "B",
+        "text": "18%"
+      },
+      {
+        "key": "C",
+        "text": "16%"
+      },
+      {
+        "key": "D",
+        "text": "15%"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-130",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "14-10-2022 MASC_ FN | Q.21",
+    "questionText": "A 729 ml of a mixture contains milk and water in the ratio of 7:2. How much more water is to be\nadded to get a new mixture containing milk and water in the ratio of 7:3?",
+    "options": [
+      {
+        "key": "A",
+        "text": "81 ml"
+      },
+      {
+        "key": "B",
+        "text": "90 ml"
+      },
+      {
+        "key": "C",
+        "text": "85 ml"
+      },
+      {
+        "key": "D",
+        "text": "75 ml"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Milk: $6.5 - 6.8$ | Weakly Acidic"
+  },
+  {
+    "id": "P1-U05-131",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "30-09-2022 MGMT_ FN | Q.6",
+    "questionText": "What is the average of first 6 multiples of 11?",
+    "options": [
+      {
+        "key": "A",
+        "text": "27.5"
+      },
+      {
+        "key": "B",
+        "text": "40.5"
+      },
+      {
+        "key": "C",
+        "text": "38.5"
+      },
+      {
+        "key": "D",
+        "text": "51.5"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-132",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "30-09-2022 MGMT_ FN | Q.38",
+    "questionText": "In how many years the compound interest on Rs. 10,000 at the rate of 10% will be Rs. 2,100?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 years"
+      },
+      {
+        "key": "B",
+        "text": "2.5 years"
+      },
+      {
+        "key": "C",
+        "text": "2 years"
+      },
+      {
+        "key": "D",
+        "text": "3 years"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-133",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "01-07-2022 PHY-EDU_ FN | Q.22",
+    "questionText": "The average of 5 consecutive numbers A, B, C, D and E is 48. What is the product of A and E?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2000"
+      },
+      {
+        "key": "B",
+        "text": "2300"
+      },
+      {
+        "key": "C",
+        "text": "2200"
+      },
+      {
+        "key": "D",
+        "text": "2100"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-134",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "11-10-2022 POLI-SC _ AN | Q.35",
+    "questionText": "Simple interest on a certain sum of money at the rate of 5% per annum for 4 years is Rs. 800.\nWhat will be the compound interest on the same sum for the same period and at the same rate of\ninterest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "850"
+      },
+      {
+        "key": "B",
+        "text": "840"
+      },
+      {
+        "key": "C",
+        "text": "855"
+      },
+      {
+        "key": "D",
+        "text": "862"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-135",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "01-10-2022 SOCIO_ FN | Q.21",
+    "questionText": "Simple interest accrued on a certain sum is 16 of the principal sum. If the numerical value of the\n25\nrate of annual interest (%) and time (years) are equal, what is annual rate of interest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 %"
+      },
+      {
+        "key": "B",
+        "text": "7 %"
+      },
+      {
+        "key": "C",
+        "text": "6 %"
+      },
+      {
+        "key": "D",
+        "text": "8 %"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-136",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "01-10-2022 SOCIO_ FN | Q.31",
+    "questionText": "Two numbers are in the ratio of 6:7. If 12 is added to each of the numbers, their ratio becomes\n7:8. Find the two numbers.",
+    "options": [
+      {
+        "key": "A",
+        "text": "72, 84"
+      },
+      {
+        "key": "B",
+        "text": "84, 96"
+      },
+      {
+        "key": "C",
+        "text": "84, 98"
+      },
+      {
+        "key": "D",
+        "text": "96, 84"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-137",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_45 | Q.11",
+    "questionText": "By selling 33 litres of milk, one gains the selling price of 11 litres. Find the\ngain in percentage :",
+    "options": [
+      {
+        "key": "A",
+        "text": "25%"
+      },
+      {
+        "key": "B",
+        "text": "50%"
+      },
+      {
+        "key": "C",
+        "text": "70%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Milk: $6.5 - 6.8$ | Weakly Acidic"
+  },
+  {
+    "id": "P1-U05-138",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_45 | Q.34",
+    "questionText": "If the cost price is 95% of the selling price, then what is the profit in\npercentage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4.26%"
+      },
+      {
+        "key": "B",
+        "text": "5.26%"
+      },
+      {
+        "key": "C",
+        "text": "5%"
+      },
+      {
+        "key": "D",
+        "text": "7.2%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-140",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_46 | Q.7",
+    "questionText": "Given below are two statements:\nStatement I: A number is divisible by 12 if the number is divisible by both 3 and 4.\nStatement II: A number is divisible by 3, if and only if the sum of all the digits of the number is\ndivisible by 6.\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true5136,"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-141",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_47 | Q.11",
+    "questionText": "Average of ten positive numbers is X. If each number is increased by 10 %, then new average\nincreases by:",
+    "options": [
+      {
+        "key": "A",
+        "text": "10%"
+      },
+      {
+        "key": "B",
+        "text": "11%"
+      },
+      {
+        "key": "C",
+        "text": "12%"
+      },
+      {
+        "key": "D",
+        "text": "8%"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-142",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_47 | Q.13",
+    "questionText": "A sum of money on simple interest doubles itself in 10 years. It will triple itself in",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 Years"
+      },
+      {
+        "key": "B",
+        "text": "20 Years"
+      },
+      {
+        "key": "C",
+        "text": "30 Years"
+      },
+      {
+        "key": "D",
+        "text": "32 Years"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-143",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_47 | Q.16",
+    "questionText": "Given below are two statements\nStatement I: The average of first twenty multiples of 9 is 92.5.\nStatement II: The average of first ten multiples of 11 is 60.5.\nIn light of the above statements, choose the most appropriate answer from the options given below\nOptions:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are correct"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-144",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_48 | Q.22",
+    "questionText": "Given below are two statements\nStatement I: The compound interest on ₹280 for 18 months at 10% per annum is ₹44.3\nStatement II: At 5.6% rate of simple interest, a certain sum will be doubled in 15 years\nIn light of the above statements,\nchoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-145",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_48 | Q.31",
+    "questionText": "The average of ten number is 7. If each number is multiplied by 11, then the average of the new\nset of numbers is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "72"
+      },
+      {
+        "key": "B",
+        "text": "77"
+      },
+      {
+        "key": "C",
+        "text": "78"
+      },
+      {
+        "key": "D",
+        "text": "82"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-147",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_49 | Q.16",
+    "questionText": "The average of ten numbers is 11. If each number is multiplied by 7, then the average of\nthe new set of numbers is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "110"
+      },
+      {
+        "key": "B",
+        "text": "70"
+      },
+      {
+        "key": "C",
+        "text": "76"
+      },
+      {
+        "key": "D",
+        "text": "77"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-148",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_49 | Q.37",
+    "questionText": "Given below are two statements\nStatement I: A vehicle's speed of 30.6 km/hr is the same as 5.8 m/s.\nStatement II: The speed of a bus is 72 km/hr. The distance covered by the bus in 10\nseconds is 100 meter.\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-149",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_50 | Q.23",
+    "questionText": "Given below are two statements\nStatement I: The number 89325324 is divisible by 66.\nStatement II: The set of natural numbers is also called the set of whole numbers.\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-150",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_50 | Q.33",
+    "questionText": "Which of the following statements are correct?\nA. If A's speed is more than B's speed, then to travel the same distance, A will take more time than B\nB. Two speeds, 1500 m/min and 90 km/hr are equal\nC. By walking at a speed of 18 km/hr, the distance covered in 2 minutes and 30 seconds is 750\nmeters\nChoose the correct answer from the options given below\nList I \tList II\nA. If 'A' is True \tI. 'E' is True; 'O' is True\nB. If 'E' is True \tII. 'O' is False; 'E' is False\nC. If 'I' is False \tIII. 'A' is False; 'I' is False\nD. If 'O' is False \tIV. 'E' is False; 'I' is True",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "C only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-151",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_50 | Q.41",
+    "questionText": "If the selling price of ₹ 24 results in a discount of 20% on the list price, what selling price would\nresult in a 30% discount on list price?",
+    "options": [
+      {
+        "key": "A",
+        "text": "18"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "21"
+      },
+      {
+        "key": "D",
+        "text": "27"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-152",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_51 | Q.17",
+    "questionText": "The owner of a mobile phone charges his customer 25% more than the cost pr ice. If acustomer\npaid 8,000/- for a mobile phone, then what was the cost price of the mobile?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 5600"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 6000"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 6400"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 7000"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-153",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_51 | Q.19",
+    "questionText": "In the letter series\nB, H, R. F. .........\nBut is the next letter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "L"
+      },
+      {
+        "key": "B",
+        "text": "P"
+      },
+      {
+        "key": "C",
+        "text": "Z"
+      },
+      {
+        "key": "D",
+        "text": "X"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-154",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_52 | Q.11",
+    "questionText": "Average of ten positive numbers is X. If each number is increased by 10 %, then new average\nincreases by:",
+    "options": [
+      {
+        "key": "A",
+        "text": "10%"
+      },
+      {
+        "key": "B",
+        "text": "11%"
+      },
+      {
+        "key": "C",
+        "text": "12%"
+      },
+      {
+        "key": "D",
+        "text": "8%"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-155",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_52 | Q.13",
+    "questionText": "A sum of money on simple interest doubles itself in 10 years. It will triple itself in",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 Years"
+      },
+      {
+        "key": "B",
+        "text": "20 Years"
+      },
+      {
+        "key": "C",
+        "text": "30 Years"
+      },
+      {
+        "key": "D",
+        "text": "32 Years"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-156",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_52 | Q.16",
+    "questionText": "Given below are two statements\nStatement I: The average of first twenty multiples of 9 is 92.5.\nStatement II: The average of first ten multiples of 11 is 60.5.\nIn light of the above statements, choose the most appropriate answer from the options given below\nOptions:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are correct"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-157",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_53 | Q.24",
+    "questionText": "A vendor marks all his goods at 50% above the cost price and then offers a discount of 25% on the\nmarked prices. What is his profit on the sales?",
+    "options": [
+      {
+        "key": "A",
+        "text": "12.50%"
+      },
+      {
+        "key": "B",
+        "text": "20.50%"
+      },
+      {
+        "key": "C",
+        "text": "22.50%"
+      },
+      {
+        "key": "D",
+        "text": "25%"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-158",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_53 | Q.25",
+    "questionText": "Two trains are moving in same direction at 60 km/hr and 45 km/hr. The faster train passes a girl\nsitting in the slower train in 15 seconds. The length of the faster train is",
+    "options": [
+      {
+        "key": "A",
+        "text": "165 m"
+      },
+      {
+        "key": "B",
+        "text": "22.5 m"
+      },
+      {
+        "key": "C",
+        "text": "225 m"
+      },
+      {
+        "key": "D",
+        "text": "62.5 m"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-159",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_53 | Q.28",
+    "questionText": "Given below are two statements\nStatement I: A culture of bacteria quadruples every hour. If a bottle with these bacteria was half full\nat 7 am, then at 6 am on the same day, the bottle was one-eighth full.\nStatement II: The average of the first 31 natural numbers is 16.5.\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-160",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_54 | Q.19",
+    "questionText": "What is the name of the software application that facilitates building an early accessible\nbookmark warehouse that becomes searchable to members or the public?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Database Management System"
+      },
+      {
+        "key": "B",
+        "text": "Enterprise Resource Planning"
+      },
+      {
+        "key": "C",
+        "text": "Reference Management Tool"
+      },
+      {
+        "key": "D",
+        "text": "Social Bookmarking"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-161",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_54 | Q.25",
+    "questionText": "Which of the following statements are TRUE?\nA. If As salary is 20% more than B. then B's salary is 20% less than A.\nB. By selling 28 pens, a man gains the selling price of 4 pens. The gain is 15%.\nC. The average of N consecutive natural numbers starting from 1 is (N+1/2)\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "C only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-162",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_55 | Q.10",
+    "questionText": "A, B and C share a certain sum of money among themselves. A gets 35%, Bgets ₹1500 and\nC gets 1/20. How much is the original sum of money?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 1500"
+      },
+      {
+        "key": "B",
+        "text": "₹ 2000"
+      },
+      {
+        "key": "C",
+        "text": "₹ 2250"
+      },
+      {
+        "key": "D",
+        "text": "₹ 2500"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-163",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_55 | Q.23",
+    "questionText": "Given below are two statements\nStatement I: If two numbers divided by a third number give the sameremainder, their\ndifference is exactly divisible by that number.\nStatement II: Least common multiple of two or more given numbers is thelargest number\nwhich is exactly divisible by each of them.\nIn light of the above statements, choose the correct answer from theoptions given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-165",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_56 | Q.12",
+    "questionText": "Which of the following statements are correct?\nA. The sum of three consecutive multiples of 3 is 72. The largest number is 27.\nB. A number when multiplied by 13 is increased by 180. The number is 13.\nC. The average of first 20 multiples of 7 is 73.5.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "A only"
+      },
+      {
+        "key": "D",
+        "text": "B and C only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-166",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_56 | Q.29",
+    "questionText": "Given below are two statements\nStatement I: At 8.55% rate of simple interest, a certain sum will be doubled in 12 years.\nStatement II: In 3 years ₹1000 will become ₹1331 at compound interest rate of 10% per annum.\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-167",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_56 | Q.45",
+    "questionText": "When a sum of money was distributed to 12 boys instead of 16 boys, each boy got ₹40 more.\nWhat was the sum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1290"
+      },
+      {
+        "key": "B",
+        "text": "1920"
+      },
+      {
+        "key": "C",
+        "text": "480"
+      },
+      {
+        "key": "D",
+        "text": "840\nRead the passage carefully and answer the questions that follows(46-50)\nThroughout history, people have turned to mythology, folklore and religion for explanations of\nlife's origins, and to this day, there are many who firmly believe what has been written in religious\nbooks and passed down from generation to generation. With the advent of the Age of Reason in the\n18th century and scientific advances in the 19th century, however, the quest for deeper knowledge\ncould be satisfied by digging for empirical\nevidence and putting it to empirical test.\nIn 1865, Gregor Mendel, an Austrian monk who had been experimenting for eight years with\ngarden peas, announced to the scientific community that specific characteristics, or traits, were\ntransmitted from parent to offspring in an organized and predictable manner. Along with Charles\nDarwin's Theory of Natural Selection and evolution, as stated in his 1859 publication, 'On the\nOrigin of Species'. Mendel's work set the stage for the science of genetics to become the prominent\nexplanation of where life comes from. With the help of improved microscopes, scientists\ndiscovered the existence and structure of cells containing chromosomes. In the early 1900s,\nexperiments with fruit flies revealed that chromosomes located in the cell's nucleus were made of\ngenes. The Drosophila, commonly called fruit fly, was the first living organism to be genetically\nmapped. In 1944, Oswald Avery identified genes in bacteria as genetic messengers made of DNA.\nIn 1953, James Watson and Francis Crick discovered the double-helix structure of DNA, for which\nthey received the Nobel Prize nine years later. With each ground breaking discovery, molecular\nbiologists were able to form an even clearer picture of the mechanics of life. To crack the code of\nlife, prominent scientists proposed compiling a comprehensive genetic map of a human being."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-170",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_57 | Q.6",
+    "questionText": "Given below are two statements\nStatement I: The average of all prime numbers between 30 and 50 is 38.9.\nStatement II: The average of first 15 natural numbers is 150.\nIn light of the above statements, choose the correct answer from the options\ngiven below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-171",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_57 | Q.8",
+    "questionText": "When a sum of money was distributed to 10 boys instead of 15 boys, each boy got Rs. 50more.\nWhat was the sum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1000"
+      },
+      {
+        "key": "B",
+        "text": "1200"
+      },
+      {
+        "key": "C",
+        "text": "1250"
+      },
+      {
+        "key": "D",
+        "text": "1500"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-172",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_58 | Q.5",
+    "questionText": "Find out the average of difference of item brought and item sold for Quarter 1.",
+    "options": [
+      {
+        "key": "A",
+        "text": "81"
+      },
+      {
+        "key": "B",
+        "text": "82"
+      },
+      {
+        "key": "C",
+        "text": "83"
+      },
+      {
+        "key": "D",
+        "text": "84"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-173",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_58 | Q.30",
+    "questionText": "A vendor allows a discount of 16% to his customers and still gains 20%.The marked price of an\nitem, which costs the vendor ₹ 11900, is",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹ 14800"
+      },
+      {
+        "key": "B",
+        "text": "₹ 15700"
+      },
+      {
+        "key": "C",
+        "text": "₹ 16800"
+      },
+      {
+        "key": "D",
+        "text": "₹ 17000"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-174",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_59 | Q.18",
+    "questionText": "If the difference between compound interest and simple interest on some principal amount at\n20% for 3 years\nis Rs 64, then the principal amount is –",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs 375"
+      },
+      {
+        "key": "B",
+        "text": "Rs 495"
+      },
+      {
+        "key": "C",
+        "text": "Rs 500"
+      },
+      {
+        "key": "D",
+        "text": "Rs 550"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-175",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_59 | Q.22",
+    "questionText": "Which of the following statements are correct?\nA. If the cost price of an item is Rs56 and the gain percentage is 20%, the selling price of the\nitem is Rs762\nB. If the cost price of an item is Rs80 and the loss percentage is 15%, the selling price of the\nitem is Rs68\nC. If an item purchased in Rs5 is sold for Rs6, the profit is 25%\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "B and C only"
+      },
+      {
+        "key": "C",
+        "text": "B only"
+      },
+      {
+        "key": "D",
+        "text": "C only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-176",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_60 | Q.33",
+    "questionText": "The owner of mobile phone charges his customer 25% more than the cost price. If a customer\npaid 8,000/- for a mobile phone, then what was the cost price of the mobile?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 5600"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 6000"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 6400"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 7000"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-177",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_60 | Q.38",
+    "questionText": "In the letter series\nB, H, R, F, ……….\nWhat is the next letter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "L"
+      },
+      {
+        "key": "B",
+        "text": "Z"
+      },
+      {
+        "key": "C",
+        "text": "P"
+      },
+      {
+        "key": "D",
+        "text": "X"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-178",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_61 | Q.6",
+    "questionText": "Consider the following table that shows the percentage (%) distribution of the number of the\npersonal computers (PCs) sold by a dealer from July to December -2019 and the ratio between\nthe number of the PCs sold of HP and DELL companies during the same six months. total\nnumber of PCs sold in all this six months put together is 45000. Based on the data contained on\nthe table, answer the question\nMonth-wise Distribution of sale of PCs\nMonth \tSale of PCs\nPercentage(%) \tRatio of HP to DELL\ndistribution\nJuly \t17% \t8:7\nAugust \t22% \t4:5\nSeptember \t25% \t3:2\nOctober \t8% \t7:5\nNovember \t12% \t7:8\nDecember \t16% \t7:9\n6. What is the total number of PCs sold by Company DELL during August and September\ntogether?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10000"
+      },
+      {
+        "key": "B",
+        "text": "15000"
+      },
+      {
+        "key": "C",
+        "text": "10500"
+      },
+      {
+        "key": "D",
+        "text": "9500"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-179",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_61 | Q.7",
+    "questionText": "If 35% of the PCs sold by Company HP during November were sold at a discount, then how\nmany PCs of Company HP during that month were sold without a discount?",
+    "options": [
+      {
+        "key": "A",
+        "text": "882"
+      },
+      {
+        "key": "B",
+        "text": "1635"
+      },
+      {
+        "key": "C",
+        "text": "1638"
+      },
+      {
+        "key": "D",
+        "text": "885"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-180",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_61 | Q.8",
+    "questionText": "What is the ratio of the number of PCs sold of Company DELL during July to those sold during\nDecember of the same company?",
+    "options": [
+      {
+        "key": "A",
+        "text": "119 : 145"
+      },
+      {
+        "key": "B",
+        "text": "116 : 135"
+      },
+      {
+        "key": "C",
+        "text": "119 : 135"
+      },
+      {
+        "key": "D",
+        "text": "119 : 130"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-181",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_61 | Q.19",
+    "questionText": "If the cost price is 25% of selling price, then what is the profit percentage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "100"
+      },
+      {
+        "key": "B",
+        "text": "200"
+      },
+      {
+        "key": "C",
+        "text": "300"
+      },
+      {
+        "key": "D",
+        "text": "400"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-182",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_61 | Q.38",
+    "questionText": "The average of 4 terms is 20, and the first term is 1/3rd of sum of the remaining 3 terms. What\nwill be the value of first term?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "25"
+      },
+      {
+        "key": "D",
+        "text": "30"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-183",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_62 | Q.11",
+    "questionText": "Which of the following statements are correct?\nA. The average of first twenty multiples of 8 is 84\nB. There are 25 prime numbers between 100 to 200.\nC. Average of ten positive numbers is X. If each number is increased by 10%, then new average\nincreases by 11%.\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "A only"
+      },
+      {
+        "key": "D",
+        "text": "B and C only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-185",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_62 | Q.41",
+    "questionText": "Given below are two statements\nStatement I: The single discount equivalent to a series discount of 10 %, 30 % and 50 % is\n68.5%\nStatement II: The single discount equivalent to a series discount of 10 %, 20 % and 40 % is\n43.2%\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-186",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_63 | Q.33",
+    "questionText": "Given below are two statements:\nStatement I: A number is divisible by 12 if the number is divisible by both 3and 4.\nStatement II: A number is divisible by 3, if and only if the sum of all the digitsof the\nnumber is divisible by 6.\nIn light of the above statements, choose the correct answer from the optionsgiven below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are correct"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-187",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_64 | Q.7",
+    "questionText": "If the selling price is doubled, the profit triples. What would be the profit percentage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "25%"
+      },
+      {
+        "key": "B",
+        "text": "50%"
+      },
+      {
+        "key": "C",
+        "text": "100%"
+      },
+      {
+        "key": "D",
+        "text": "125%"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-189",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_65 | Q.17",
+    "questionText": "A 108 meter long train moving at a speed of 50 km/hr crosses a 112 meters long train coming\nfrom the opposite direction in 6 seconds. The speed of the second train is :",
+    "options": [
+      {
+        "key": "A",
+        "text": "48 km/hr"
+      },
+      {
+        "key": "B",
+        "text": "54 km/hr"
+      },
+      {
+        "key": "C",
+        "text": "66 km/hr"
+      },
+      {
+        "key": "D",
+        "text": "82 km/hr"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-190",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_65 | Q.41",
+    "questionText": "The profit earned by selling a chair for Rs. 752 is 1.2 times the loss incurred when the same chair\nwas sold for Rs. 400. What is the cost price of the chair?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs. 540"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 592"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 560"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 640"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-191",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_66 | Q.16",
+    "questionText": "A milkman has been mixing water with milk to earn 25 per cent profit by selling the mixture\nat the cost price. The ratio of water and milk, respectively, is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4: 5"
+      },
+      {
+        "key": "B",
+        "text": "5: 4"
+      },
+      {
+        "key": "C",
+        "text": "1: 6"
+      },
+      {
+        "key": "D",
+        "text": "1: 4"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Milk: $6.5 - 6.8$ | Weakly Acidic"
+  },
+  {
+    "id": "P1-U05-192",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_66 | Q.38",
+    "questionText": "The difference between the simple interest received from two different sources on Rs. 1,500\nfor three years is Rs. 13.50. The difference between their rates of interest is",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.1%"
+      },
+      {
+        "key": "B",
+        "text": "0.2%"
+      },
+      {
+        "key": "C",
+        "text": "0.3%"
+      },
+      {
+        "key": "D",
+        "text": "0.4%"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-193",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_67 | Q.20",
+    "questionText": "The average of first 100 positive integers is",
+    "options": [
+      {
+        "key": "A",
+        "text": "49"
+      },
+      {
+        "key": "B",
+        "text": "50"
+      },
+      {
+        "key": "C",
+        "text": "50.5"
+      },
+      {
+        "key": "D",
+        "text": "51.5"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-195",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_68 | Q.14",
+    "questionText": "Arrange the following solar cell base materials in order of their Band gap energy:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Silicon (Si)"
+      },
+      {
+        "key": "B",
+        "text": "Germanium (Ge)"
+      },
+      {
+        "key": "C",
+        "text": "Gallium Arsenide (Ga As)"
+      },
+      {
+        "key": "D",
+        "text": "Cadmium Sulphide (CdS)\nChoose the correct answer from the options given below"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-196",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_68 | Q.17",
+    "questionText": "Cost price of two mobile phones is same. One is sold at a profit of 30% and the other for\n6300 more than the first. If the net profit in 40%. Find the cost price of each mobile.",
+    "options": [
+      {
+        "key": "A",
+        "text": "42,500"
+      },
+      {
+        "key": "B",
+        "text": "50.000"
+      },
+      {
+        "key": "C",
+        "text": "25.500"
+      },
+      {
+        "key": "D",
+        "text": "31,500"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-197",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_69 | Q.6",
+    "questionText": "If 35% of the PCs sold by Company HP during November were sold at a discount, then how\nmany PCs of Company HP during that month were sold without a discount?",
+    "options": [
+      {
+        "key": "A",
+        "text": "882"
+      },
+      {
+        "key": "B",
+        "text": "1635"
+      },
+      {
+        "key": "C",
+        "text": "1638"
+      },
+      {
+        "key": "D",
+        "text": "885"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-198",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_69 | Q.8",
+    "questionText": "What is the ratio of the number of PCs sold of Company DELL during July to those sold during\nDecember of the same company?",
+    "options": [
+      {
+        "key": "A",
+        "text": "119 : 145"
+      },
+      {
+        "key": "B",
+        "text": "116 : 135"
+      },
+      {
+        "key": "C",
+        "text": "119 : 135"
+      },
+      {
+        "key": "D",
+        "text": "119 : 130"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-199",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_69 | Q.26",
+    "questionText": "If the cost price is 25% of selling price, then what is the profit percentage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "100"
+      },
+      {
+        "key": "B",
+        "text": "200"
+      },
+      {
+        "key": "C",
+        "text": "300"
+      },
+      {
+        "key": "D",
+        "text": "400"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-200",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_69 | Q.29",
+    "questionText": "The average of 4 terms is 20, and the first term is 1/3rd of sum of the remaining 3 terms. What\nwill be the value of first term?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "25"
+      },
+      {
+        "key": "D",
+        "text": "30"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-202",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_70 | Q.42",
+    "questionText": "Which of the following statements are correct?\nA. If the cost price of an item is Rs.56 and the gain percentage is 20%, the selling price of the\nitem is Rs.76.2.\nB. If the cost price of an item is Rs.80 and the loss percentage is 15%, the selling price of the\nitem is Rs.68.\nC. If an item purchased in Rs.5 is sold for Rs.6, the profit is 25%\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "B and C only"
+      },
+      {
+        "key": "C",
+        "text": "B only"
+      },
+      {
+        "key": "D",
+        "text": "C only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-203",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_2 | Q.17",
+    "questionText": "What is the next term in the following letter series?aceg, cegi, egik, gikm, _",
+    "options": [
+      {
+        "key": "A",
+        "text": "jlor"
+      },
+      {
+        "key": "B",
+        "text": "hjlo"
+      },
+      {
+        "key": "C",
+        "text": "ikmo"
+      },
+      {
+        "key": "D",
+        "text": "ikmq"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-204",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_2 | Q.26",
+    "questionText": "Consider the following number series 0, 6, 24, 60, 120, X .What is the value of term X?",
+    "options": [
+      {
+        "key": "A",
+        "text": "180"
+      },
+      {
+        "key": "B",
+        "text": "210"
+      },
+      {
+        "key": "C",
+        "text": "240"
+      },
+      {
+        "key": "D",
+        "text": "156"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-205",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "25.09.2020 AN | Q.17",
+    "questionText": "Consider the following letter series and identify the next term ace, fhj, kmo, _",
+    "options": [
+      {
+        "key": "A",
+        "text": "npr"
+      },
+      {
+        "key": "B",
+        "text": "rtv"
+      },
+      {
+        "key": "C",
+        "text": "prt"
+      },
+      {
+        "key": "D",
+        "text": "uwy"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-206",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_5 | Q.6",
+    "questionText": "Match List I with List II\n8. In which research method manipulation of 'independent variable' and control of 'extraneous\nvariables' are neither possible nor desirable?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Experimental method"
+      },
+      {
+        "key": "B",
+        "text": "Ex post facto method"
+      },
+      {
+        "key": "C",
+        "text": "Historical method"
+      },
+      {
+        "key": "D",
+        "text": "Descriptive survey method\n9) A teacher uses a question-answer session to ensure desired learning outcomes in his/ her\nclassroom.\nIn this process, he/she offers the following type of comment to a few answers given by a\nstudent:\n\"Yes, you are right, good\" This will be considered as an example of"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-207",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "29.09.2020 AN | Q.11",
+    "questionText": "Given below are two statements\nStatement I: A number is divisible by 25, if the number formed by its last two digits is e ither\n(00) or divisible by (2 5)\nStatement II: A number is divisible by 16, if the number formed by its last 4 digits is divisible\nby 16 in light of the above statements, choose the most appropriate answer from the options\ngiven be low",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is true but Statement II is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is false but Statement II is true"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-208",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "30.09.2020 FN | Q.26",
+    "questionText": "Given below are two statements\nStatement I: Compound interest involves the re investment of the earned interest,\nwhich in future years also earns interest\nStatement II: Simple interest is the amount earned or paid on a sum of compound\ninterest and principal amount\nIn light of the above statements, choose the\nmost appropriate answer from the\noptions given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement 11 is true"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-209",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_8 | Q.25",
+    "questionText": "Under Millenium Development Goal 5, maternal mortality ratio between 1990 and 2015\nwas to be reduced by",
+    "options": [
+      {
+        "key": "A",
+        "text": "50%"
+      },
+      {
+        "key": "B",
+        "text": "75 %"
+      },
+      {
+        "key": "C",
+        "text": "66%"
+      },
+      {
+        "key": "D",
+        "text": "40%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-211",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_11 | Q.20",
+    "questionText": "The simple interest on a certain sum of money for 2 years at the rate of 6% per annum comes\nto ₹ 300. The compound interest at the same rate, for the same time and on the same sum of\nmoney would below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "₹310"
+      },
+      {
+        "key": "B",
+        "text": "₹308"
+      },
+      {
+        "key": "C",
+        "text": "₹307"
+      },
+      {
+        "key": "D",
+        "text": "₹309"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-212",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "17.10.2020 AN | Q.20",
+    "questionText": "Given below are two statements:\nStatement I: If an article is sold at a gain of 19%, then selling price is 109% of cost price.\nStatement II: If an article is sold at a loss of 9%, then selling price is 109% of cost price.\nIn the light of the above statements, choose the most approp1-iate answer from the options\ngiven below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are correct"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-213",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "17.10.2020 AN | Q.29",
+    "questionText": "Given below are two statements:\nStatement I: A number is divisible by 3, if the sum of its digits is divisible by 3.\nStatement II: A number is divisible by 9, if the sum of its digits is not divisible by 9.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II a1·e correct"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-214",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "12.11.2020 FN | Q.29",
+    "questionText": "The ratio of the number of companies having more production than demand to that of\ncompanies having more demand than production is",
+    "options": [
+      {
+        "key": "A",
+        "text": "3:2"
+      },
+      {
+        "key": "B",
+        "text": "1:4"
+      },
+      {
+        "key": "C",
+        "text": "4:1"
+      },
+      {
+        "key": "D",
+        "text": "2:3\nSub Question No : 30"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-215",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13.11.2020 AN | Q.10",
+    "questionText": "A certain principal is invested at the annual rate of interest of 5% for 2 years. The\ndifference between compound interest and simple interest is Rs. 1 (Rupee one). What is the\nprincipal?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rs.150"
+      },
+      {
+        "key": "B",
+        "text": "Rs.250"
+      },
+      {
+        "key": "C",
+        "text": "Rs.300"
+      },
+      {
+        "key": "D",
+        "text": "Rs .400"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-216",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13.11.2020 AN | Q.18",
+    "questionText": "What is the actual (equivalent) discount of three successive discounts of 8%,10% and 12%\nby sale of an article?",
+    "options": [
+      {
+        "key": "A",
+        "text": "28.316%"
+      },
+      {
+        "key": "B",
+        "text": "27.136%"
+      },
+      {
+        "key": "C",
+        "text": "28.136%"
+      },
+      {
+        "key": "D",
+        "text": "27.631%"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-217",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "13.11.2020 AN | Q.26",
+    "questionText": "What is the ratio of the laptops sold by store A to that of the laptops sold by store D?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3:5"
+      },
+      {
+        "key": "B",
+        "text": "5:3"
+      },
+      {
+        "key": "C",
+        "text": "2:5"
+      },
+      {
+        "key": "D",
+        "text": "5:2"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  },
+  {
+    "id": "P1-U05-227",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "19th December 2018 Morning Shift | Q.30",
+    "questionText": "In the sequence of numbers 2, 8, 24, 64, 160, x, , the term x is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "384"
+      },
+      {
+        "key": "B",
+        "text": "224"
+      },
+      {
+        "key": "C",
+        "text": "320"
+      },
+      {
+        "key": "D",
+        "text": "192\nConsider the following two tables (I and II) that show the production (in Tonnes) of four\nproducts P, Q, R and S during the years 2010-2015 and the selling price per Tonne (in Rs.\nThousands) respectively. In accordance with the tables I and II, answer the questions that\nfollow.\nI: Production Year wise (in Tonnes)\nII: Selling Price (in Rs. Thousands)\nWhere, stability of production of a given product during 2010-2015\n= Average production/ maximum production – minimum production And Revenue (in Rs.\nThousands) from selling a product\n= production of a product * selling price."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-228",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "20th December 2018 (Morning shift) | Q.23",
+    "questionText": "The next term in the letter seriesDY, JX, OW, SV, VU, is :",
+    "options": [
+      {
+        "key": "A",
+        "text": "YT"
+      },
+      {
+        "key": "B",
+        "text": "XT"
+      },
+      {
+        "key": "C",
+        "text": "WV"
+      },
+      {
+        "key": "D",
+        "text": "XS"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-231",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "JUNE 2014 | Q.10",
+    "questionText": "Complete the series BB, FE, II, ML, PP: ......by choosing one of the following option given :",
+    "options": [
+      {
+        "key": "A",
+        "text": "TS"
+      },
+      {
+        "key": "B",
+        "text": "ST"
+      },
+      {
+        "key": "C",
+        "text": "RS"
+      },
+      {
+        "key": "D",
+        "text": "SR"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-232",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_63 | Q.9",
+    "questionText": "The number of observations in a group is 40. The average of the first 10 members is 4.5\nand the average of the remaining 30 members is 3.5. The average of the whole group is",
+    "options": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "15/2"
+      },
+      {
+        "key": "C",
+        "text": "15/4"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U05-233",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "JUNE 2006 | Q.10",
+    "questionText": "The depth of any research can be judged by:",
+    "options": [
+      {
+        "key": "A",
+        "text": "title of the research."
+      },
+      {
+        "key": "B",
+        "text": "objectives of the research."
+      },
+      {
+        "key": "C",
+        "text": "total expenditure on the research."
+      },
+      {
+        "key": "D",
+        "text": "duration of the research.\n46. The ratio of the total expenditure on football to that of expenditure on hockey is:"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+  }
+]

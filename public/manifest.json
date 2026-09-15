@@ -1,0 +1,19 @@
+{
+  "name": "ExamVault — UGC-NET & JRF Mastery",
+  "short_name": "ExamVault",
+  "description": "High-yield UGC-NET Revision Drill & CBT Mock Simulator for Paper 1 & Paper 2 (English Literature)",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"]
+}

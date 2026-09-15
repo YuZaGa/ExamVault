@@ -1,0 +1,4818 @@
+[
+  {
+    "id": "P2-U02-2",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.7",
+    "questionText": "Arrange the following in the chronological order of their year of publication:\n(a) \"The Tyger\"\n(b) \"The Solitary Reaper\"\n(c) \"Adonais\"\n(d) \"The Rime of the Ancient Mariner\"\n(e) \"Ode to Autumn\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (d), (e), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d), (e), (a), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d), (b), (e), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (a), (e), (b), (c)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U02-3",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.14",
+    "questionText": "Which of the following poems uses 'terza rima'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Keats' \"Ode to Nightingale\""
+      },
+      {
+        "key": "B",
+        "text": "P. B. Shelley's \"Ode to the West Wind\""
+      },
+      {
+        "key": "C",
+        "text": "William Worlsworth's \"The Solitary Reaper\""
+      },
+      {
+        "key": "D",
+        "text": "Alfred Tennyson's \"Ulysses\""
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Terza Rima: Coined/Proposed by 3 lines ($aba\\ bcb\\ cdc\\ ded...$)"
+  },
+  {
+    "id": "P2-U02-4",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.18",
+    "questionText": "What is 'Practical Critisism'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The close analysis of literary texts in such a way as to bring out their political meaning."
+      },
+      {
+        "key": "B",
+        "text": "A movement which wished to make literary criticism more relevant."
+      },
+      {
+        "key": "C",
+        "text": "The close analysis of poems without taking account of any external information."
+      },
+      {
+        "key": "D",
+        "text": "The study of ambiguity."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U02-5",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.27",
+    "questionText": "Match the LIST-I with LIST-II\nLIST - I\n(Poet)\nLIST - II\n(Poem)\n(a) Edmund Spenser \t(I) \"Whose List to Hunt\"\n\n\n(b) Philip Sidney \t(II) \"So Cruel Prison how could Betide\"\n(c) Thomas Wyatt \t(III) \"The Faerie Queene\"\n(d) Henry Howard, Earl of Surrey \t(IV) \"The Defense of Poesy\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(III), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II) (b)-(IV), (c)-(III), (d)-(I)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-6",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.30",
+    "questionText": "Which of the following statements are true about A. K. Ramanujan?\n(a) He is a poet of the sixties.\n(b) His poetry draws his sustenance from his awareness of Hindu heritage.\n(c) He has poor sense of rhythm.\n(d) His verse poorly utilises Akam constructed techniques.\n(e) He utilises Akam constructed techniques in his poetry.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-7",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.33",
+    "questionText": "Who among the following illustrated the works of Thomas Gray and Robert Blair?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thomas Percy"
+      },
+      {
+        "key": "B",
+        "text": "William Blake"
+      },
+      {
+        "key": "C",
+        "text": "Robert Burns"
+      },
+      {
+        "key": "D",
+        "text": "William Cowper"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-8",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.37",
+    "questionText": "\"Success is counted sweetest\nBy those who ne'er succeed.\nTo comprehend a nectar\nRequires sorest need.\"\nWho has composed the above lines?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Christiana Rossetti"
+      },
+      {
+        "key": "B",
+        "text": "Thomas Hardy"
+      },
+      {
+        "key": "C",
+        "text": "Emily Dickinson"
+      },
+      {
+        "key": "D",
+        "text": "Mathew Arnold"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-9",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.42",
+    "questionText": "Which of the following is an elegy on John Donne's wife who died in 1617?",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"Death be not Proud\""
+      },
+      {
+        "key": "B",
+        "text": "\"Thou Hast Made Me\""
+      },
+      {
+        "key": "C",
+        "text": "\"Holy Sonnet 17\""
+      },
+      {
+        "key": "D",
+        "text": "\"At the Round Earth's Imagined Corners\""
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-10",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.43",
+    "questionText": "Identify the poet who has composed the following lines:\n\"Ganga was sunken, and the limp leaves\nWaited for rain, while the black clouds\nGathered far distant, over Himavant.\nThe Jungle crouched, humped in silence.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ralph Waldo Emerson"
+      },
+      {
+        "key": "B",
+        "text": "T. S. Eliot"
+      },
+      {
+        "key": "C",
+        "text": "Emily Dickinson"
+      },
+      {
+        "key": "D",
+        "text": "Sri Aurobindo"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-11",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.46",
+    "questionText": "Identify the statements which are correct.\n(a) The term 'Hanueur' is often associated with the poetry of Baudelaire.\n(b) The term 'Habitus' is associated with Pierre Bourdieu.\n(c) Michael Foucault is associated with the concept of 'Modernity: An Unfinished Project'\n(d) Frantz Fanon is associated with the term 'Imagined Community'\n(e) The term 'Thick Description' is associated with Clifford Mentz.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Thick Description: Coined/Proposed by Gilbert Ryle (philosophy) (Clifford Geertz (anthropology / New Historicism))"
+  },
+  {
+    "id": "P2-U02-12",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.51",
+    "questionText": "Choose the correct sequence of the following works of Pablo Neruda in chronological order:-\n(a) Spain in the Heart\n(b) Works and Book of Turlights\n(c) The Inhabitant and His Hope\n(d) Twenty Love Poems and a Song of Despair\n(e) The Trying of Infinite Man\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(e), (c), (d), (b), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (d), (b), (c), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d), (e), (c), (a)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-13",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.53",
+    "questionText": "From which poem are the following lines extracted?\n\"Once more the storm is hauling and half hid\nUnder this cradle-hood and coverlid,\nMy child sleeps on. There is no obstacle.\nBut Gregory's wood and one bare hill.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"The Second Coming\""
+      },
+      {
+        "key": "B",
+        "text": "\"The Cold Heaven\""
+      },
+      {
+        "key": "C",
+        "text": "\"A Prayer for My Daughter\""
+      },
+      {
+        "key": "D",
+        "text": "\"Among School Children\""
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-14",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.57",
+    "questionText": "Which of the following is not matched correctly?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ira De: The Hunt and Other Poems"
+      },
+      {
+        "key": "B",
+        "text": "Margaret Chatterjee: The Spring and the Spectacle"
+      },
+      {
+        "key": "C",
+        "text": "Tapati Mookerji: The Golden Road to Samerkhand"
+      },
+      {
+        "key": "D",
+        "text": "Tilottama Ranjan: Poems of Govindagraj"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-15",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.65",
+    "questionText": "Who among the following has written the poem, \"Jejuri\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Michael Madhusudan Dutt"
+      },
+      {
+        "key": "B",
+        "text": "Kamla Das"
+      },
+      {
+        "key": "C",
+        "text": "Arun Kolatkar"
+      },
+      {
+        "key": "D",
+        "text": "Toru Dutt"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-16",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.70",
+    "questionText": "Which of the following is not correctly matched?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seamus Heaney: \"Digging\""
+      },
+      {
+        "key": "B",
+        "text": "Audre Lorde: \"Coal\""
+      },
+      {
+        "key": "C",
+        "text": "Dom Moraes: \"Kanheri Caves\""
+      },
+      {
+        "key": "D",
+        "text": "John Updike: \"The Swan\""
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-17",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.71",
+    "questionText": "Arrange the following poems by W. B. Yeats in the chronological order of their year of\npublication:\n(a) \"Adam's Curse\"\n(b) \"Among School Children\"\n(c) \"The Second Coming\"\n(d) \"The Wild Swans at Coole\"\n(e) \"Under Ben Bulben\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d), (b), (a), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (b), (d), (c), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (d), (c), (b), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U02-18",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.75",
+    "questionText": "Which of the following is a Dramatic Monologue?",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"The Cannonization\""
+      },
+      {
+        "key": "B",
+        "text": "\"Tintern Abbey\""
+      },
+      {
+        "key": "C",
+        "text": "\"Andrea de Sarto\""
+      },
+      {
+        "key": "D",
+        "text": "\"The Flea\""
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-19",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.85",
+    "questionText": "Langston Hughes' poem \"I too Sing America\" is a response to which of the following poets?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Herman Melville"
+      },
+      {
+        "key": "B",
+        "text": "Walt Whitman"
+      },
+      {
+        "key": "C",
+        "text": "Henry David Thoreau"
+      },
+      {
+        "key": "D",
+        "text": "Emily Dickinson"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-20",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.90",
+    "questionText": "Identify the correct statements concerning the respective genre:\n(a) An epistle is a literary genre in the form of letter.\n(b) Epigraph is an inscription on funeral monument.\n(c) Epigram is a short, pithy poem wittily expressed.\n(d) Epitaph is a formal statement in the beginning of a literary work\n(e) Epyllion is a short poem in the meter of an epic poetry.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d) and (a) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c) and (e) only\nComprehension: (91-95)\nRead the following passage and answer the questions that follows:\nOne key development in the evolving discussion surrounding popular culture which occurred during\nthe early twentieth century was the association of popular culture with the United States of America.\nThrough Hollywood and associated modes of popular entertainment, USA was beginning to exercise\ninternational cultural influence. The term 'Mass culture' is particularly relevant in this context as it\nrefers to both the effects of American culture as well as to a specific theoretical debate that emerged\nin America during the post-war period. Dominic Strinati contends in his An Introduction to Theories\nof Popular Culture (1995) that 'mass culture refers to popular culture which is produced by the\nindustrial techniques of mass production, and marketed for profit to a mass public of consumers.'\nSuch a view of popular culture argues that the industrial revolution produces a series of atomised\n\n\nindividuals who had not only lost touch with the communities of shared interest to which they once\nbelonged but that they had also been subjected to the process of mechanisation and alienation. This\nrendered them ripe for systematic cultural manipulation through uniform, mass produced formulaic\nproducts designed to evoke frivolous, escapist and superficial pleasures."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "1995: Coined/Proposed by Vikram Chandra (*Red Earth and Pouring Rain*)"
+  },
+  {
+    "id": "P2-U02-21",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.95",
+    "questionText": "What is the meaning of 'Atomised individuals' in the above paragraph?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mechanised individuals"
+      },
+      {
+        "key": "B",
+        "text": "Organic individuals"
+      },
+      {
+        "key": "C",
+        "text": "Scientific individuals"
+      },
+      {
+        "key": "D",
+        "text": "Both mechanised and alienated individual\nComprehension: (96-100)\nRead the following poem and answer the questions that follows:\nIn all my wand'rings round this world of care,\nIn all my griefs-and God has giv'n my share\nI still had hopes, my latest hours to crown,\nAmidst these humble bow'rs to lay me down;\nTo husband out life's taper at the close,\nAnd keep the flame from wasting by repose;\nI still had hopes, for pride attends us still,\nAmidst the swains to show my book learn'd skill,\nAround my fire an ev'ning group to draw,\nAnd tell of all I felt, and all I saw."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-22",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.96",
+    "questionText": "Identify the meter in the poem.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Iambic trimeter"
+      },
+      {
+        "key": "B",
+        "text": "Iambic tetrameter"
+      },
+      {
+        "key": "C",
+        "text": "Iambic pentameter"
+      },
+      {
+        "key": "D",
+        "text": "Iambic hexameter"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-23",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.97",
+    "questionText": "What does the poet intend to do in life?",
+    "options": [
+      {
+        "key": "A",
+        "text": "To showcase his talent in singing"
+      },
+      {
+        "key": "B",
+        "text": "To complain to God about his misery"
+      },
+      {
+        "key": "C",
+        "text": "To complain to the king about injustice"
+      },
+      {
+        "key": "D",
+        "text": "To share his life experience"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-24",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.98",
+    "questionText": "What does the poem say about the nature of the world?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It's full of joy"
+      },
+      {
+        "key": "B",
+        "text": "It's full of care and hope"
+      },
+      {
+        "key": "C",
+        "text": "Its full of desertion"
+      },
+      {
+        "key": "D",
+        "text": "It's full of wonders"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-25",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.99",
+    "questionText": "What is the mood of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pessimistic"
+      },
+      {
+        "key": "B",
+        "text": "Optimistic and resolute"
+      },
+      {
+        "key": "C",
+        "text": "Jovial"
+      },
+      {
+        "key": "D",
+        "text": "Envious"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-26",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.100",
+    "questionText": "Identify the rhyme scheme in the poem.",
+    "options": [
+      {
+        "key": "A",
+        "text": "aa bb cc dd ee"
+      },
+      {
+        "key": "B",
+        "text": "abcd abcd ee"
+      },
+      {
+        "key": "C",
+        "text": "aaab abca aa"
+      },
+      {
+        "key": "D",
+        "text": "abcd ef ef gg"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-27",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.38",
+    "questionText": "The poem \"France: An Ode\" is written by-",
+    "options": [
+      {
+        "key": "A",
+        "text": "William Wordsworth"
+      },
+      {
+        "key": "B",
+        "text": "S.T. Coleridge"
+      },
+      {
+        "key": "C",
+        "text": "William Blake"
+      },
+      {
+        "key": "D",
+        "text": "Robert Southey"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-28",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.60",
+    "questionText": "Match the List-I with List-II\nList - I\n(Books/Collection of Poems)\nList - II\n(Poet)\n(a) The Idylls of the King \t(I) Elizabeth Barrett Browning\n(b) Dramatic Lyrics \t(II) A.C. Swinburne\n(c) Sonnets from the Portuguese \t(III) Alfred Tennyson\n(d) Poems and Ballads \t(IV) Robert Browning\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-29",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.72",
+    "questionText": "Which statements are true about Chaucer's The Canterbury Tales?\n(a) The General Prologue describes the meeting of twenty-nine pilgrims in the Tabard Inn.\n(b) \"The Parson's Tale\" is the introductory tale that deals with seven virtues\n(c) The Canterbury Tales is written in prose and verse of various metres\n(d) Only twenty-three pilgrims tell stories and there are only twenty four stories told altogether.\n(e) \"The Prioress' Tale\" tells about the murder of a mother by a child.\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d), (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-30",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.73",
+    "questionText": "Arrange the following texts in the correct chronological order of their publication –\n(a) The Pilgrim's Progress\n(b) Beowulf\n(c) Endymion\n(d) The Faerie Queene\n(e) Paradise Lost\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d), (c), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (a), (e), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d), (e), (a), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (e), (a), (c)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-31",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.74",
+    "questionText": "How many Knights feature in Edmund Spenser's The Faerie Queene?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "13"
+      },
+      {
+        "key": "D",
+        "text": "11"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-32",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.89",
+    "questionText": "Match the List-I with List-II\nList - I\n(Prize/Recognition)\nList - II\n(Officially Started in the Year)\n(a) Booker Prize \t(I) 1917\n(b) Pulitzer Prize \t(II) 1901\n(c) Nobel Prize \t(III) 1668\n(d) Poet Laureate \t(IV) 1968\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U02-33",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.91",
+    "questionText": "The poem is most similar in style and form to-",
+    "options": [
+      {
+        "key": "A",
+        "text": "Occasional verse"
+      },
+      {
+        "key": "B",
+        "text": "Open verse"
+      },
+      {
+        "key": "C",
+        "text": "Sonnet"
+      },
+      {
+        "key": "D",
+        "text": "Ode"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-34",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.92",
+    "questionText": "A major theme of the poem can best be summarized as:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Words may exist independent of human existence"
+      },
+      {
+        "key": "B",
+        "text": "The growth/flow of words cannot be restricted"
+      },
+      {
+        "key": "C",
+        "text": "Words can grow on trees"
+      },
+      {
+        "key": "D",
+        "text": "Words originate from nature"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-35",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.94",
+    "questionText": "Which one of the following poetic devices is used in the opening line of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Foregrounding"
+      },
+      {
+        "key": "B",
+        "text": "Anaphora"
+      },
+      {
+        "key": "C",
+        "text": "Metonomy"
+      },
+      {
+        "key": "D",
+        "text": "Hyperbole"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-37",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.10",
+    "questionText": "Who wrote the poem “Poem in Praise of Menstruation”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gloria Steinem"
+      },
+      {
+        "key": "B",
+        "text": "Seamus Heaney"
+      },
+      {
+        "key": "C",
+        "text": "Francis Thompson"
+      },
+      {
+        "key": "D",
+        "text": "Lucille Clifton"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-38",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.18",
+    "questionText": "Who among the following American writers was the first Black American to become the U.S.\nPoet Laureate and Consultant in Poetry at the Library of Congress?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kyra Davis"
+      },
+      {
+        "key": "B",
+        "text": "Meri Nana-Ama Domquah"
+      },
+      {
+        "key": "C",
+        "text": "Rita Francis Dove"
+      },
+      {
+        "key": "D",
+        "text": "Lucille Clifton"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-39",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.46",
+    "questionText": "Match the List-I with List-II\nList - I\n(Poem)\nList - II\n(Indian Poet)\n(a) Night of the Scorpion \t(I) Kamala Das\n(b) Unfinished Poem \t(II) A.K. Ramanujan\n\n\n(c) The Looking Glass \t(III) Eunice De Souza\n(d) To a Friend Far Away \t(IV) Nissım Ezekiel\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-40",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.55",
+    "questionText": "Match the List-I with List-II\nList - I \tList - II\n(a) Heteroglossia \t(I) deliberate foolishness/nonsense for effect\n(b) Homosociality \t(II) Diversity of languages used in Epics\n(c) Mathnavi \t(III) Same-sex relationships which are not necessarily sexual\n(d) Morology \t(IV) long narrative epic or heroic poem in rhyming couplets\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(I), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-41",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.63",
+    "questionText": "Plato viewed poetry as-\n(a) an imitation of reality\n(b) self-subsistent entity\n(c) distant from reality\n(d) manifestation of reality\n(e) life as experience in reality\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-42",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.71",
+    "questionText": "Match the List-I with List-II\nList - I\n(Rhyme)\nList - II\n(Author)\n(a) Twinkle, Twinkle Little Star \t(I) William Miller\n(b) Wee Willie Winkie \t(II) Jane and Ann Taylor\n(c) Mary had a Little Lamb \t(III) Sarah Catherine Martin\n(d) Old Mother Hubbard \t(IV) Sarah Josepha Hale\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(III), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(IV), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-43",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.75",
+    "questionText": "The Latin epic Aeneid by Virgil?\n(a) incorporates various legends of Aeneas and makes him the founder of Roman greatness\n(b) Relates the story of the legendary founding of Rome.\n(c) relates the story of the legendary founding of Lavinium.\n(d) recounts the story of Aeneas’ journey in the first 6 books of the epic, and these 6 books are\npatterned after Homer’s Odyssey\n(e) recounts the story of Aeneas’ journey in the last 6 books of the epic, and these 6 books are\npatterned after Homer’s Odyssey\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-44",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.91",
+    "questionText": "Identify the type of imagery used in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Natural Imagery"
+      },
+      {
+        "key": "B",
+        "text": "War Imagery"
+      },
+      {
+        "key": "C",
+        "text": "Urban Imagery"
+      },
+      {
+        "key": "D",
+        "text": "Metaphysical imagery"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-45",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.92",
+    "questionText": "Identify the mood of the poem –",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sombre"
+      },
+      {
+        "key": "B",
+        "text": "Sarcastic"
+      },
+      {
+        "key": "C",
+        "text": "Exhilarating"
+      },
+      {
+        "key": "D",
+        "text": "Nostalgic"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-46",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.94",
+    "questionText": "What is the central theme of the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Search for self"
+      },
+      {
+        "key": "B",
+        "text": "Love and longing"
+      },
+      {
+        "key": "C",
+        "text": "Self-fulfilment"
+      },
+      {
+        "key": "D",
+        "text": "Fate and destiny"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-47",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.5",
+    "questionText": "Identify the poet of the following poems:\n(a) The Skylark\n(b) The Badger\n(c) The Gypsy Camp\n(d) First Love",
+    "options": [
+      {
+        "key": "A",
+        "text": "P.B. Shelley"
+      },
+      {
+        "key": "B",
+        "text": "John Clare"
+      },
+      {
+        "key": "C",
+        "text": "Lord Byron"
+      },
+      {
+        "key": "D",
+        "text": "Robert Burns"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-48",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.8",
+    "questionText": "Chronologically arrange the following works of Sri Aurobindo in accordance with their year of\npublication:\n(a) The Hour of God\n(b) The Mother\n(c) The Life Divine\n(d) The Future Poetry\n(e) The Synthesis of Yoga\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (c), (a), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (c), (d), (a), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (a), (d), (b), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U02-49",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.15",
+    "questionText": "Transcendental Club was a group of American intellectuals for philosophical discussions. Which\ntext among the following is taken as a short treatise on Transcendentalism?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Emerson's Nature"
+      },
+      {
+        "key": "B",
+        "text": "Thoreau's Walden"
+      },
+      {
+        "key": "C",
+        "text": "Whitman's Leaves of Grass"
+      },
+      {
+        "key": "D",
+        "text": "Thoreau's Civil Disobedience"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-50",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.43",
+    "questionText": "Name the poet who has composed the following poems:\n(a) The Divine Image\n(b) The Holy Thursday\n(c) The Little Boy Lost\n(d) The Little Boy Found",
+    "options": [
+      {
+        "key": "A",
+        "text": "William Shakespeare"
+      },
+      {
+        "key": "B",
+        "text": "William Blake"
+      },
+      {
+        "key": "C",
+        "text": "William Collins"
+      },
+      {
+        "key": "D",
+        "text": "Samuel Johnson"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-51",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.44",
+    "questionText": "Indicate the correct chronological order of publication of the following literary works:\n(a) Beowulf\n(b) Divina Commedia\n(c) Summa Theologica\n(d) Le Morte d' Arthur\n(e) Canterbury Tales\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (a), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) ,(b), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (d), (e), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (a), (e), (c), (b)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-52",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.60",
+    "questionText": "According to Greek Mythology, who is a Psyche in John Keats\" \"Ode to Psyche\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A mortal woman"
+      },
+      {
+        "key": "B",
+        "text": "Cupid"
+      },
+      {
+        "key": "C",
+        "text": "An immortal woman"
+      },
+      {
+        "key": "D",
+        "text": "Venus"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-53",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.66",
+    "questionText": "Which among the following writers remarked that \"I know of no more encouraging fact than the\nunquestionable ability of man to elevate his life by a conscious endeavour\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Henry David Thoreau"
+      },
+      {
+        "key": "B",
+        "text": "Ralph Waldo Emerson"
+      },
+      {
+        "key": "C",
+        "text": "Henry James"
+      },
+      {
+        "key": "D",
+        "text": "Emily Dickinson"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-54",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.91",
+    "questionText": "Which of the following statements rightly shows the relationship of upameya with upamana in\nthe poem:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Upameya is superior to upamana"
+      },
+      {
+        "key": "B",
+        "text": "Upamana is superior to upameya"
+      },
+      {
+        "key": "C",
+        "text": "Both upamana and upameya are equal"
+      },
+      {
+        "key": "D",
+        "text": "Both are governed by position and superimposition"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-55",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.92",
+    "questionText": "What is upmeya (object compared) in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Addressee"
+      },
+      {
+        "key": "B",
+        "text": "Rough winds"
+      },
+      {
+        "key": "C",
+        "text": "Buds of May"
+      },
+      {
+        "key": "D",
+        "text": "Summer's day"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-56",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.93",
+    "questionText": "What is upmana (object compared to) in the poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Addressee"
+      },
+      {
+        "key": "B",
+        "text": "Rough winds"
+      },
+      {
+        "key": "C",
+        "text": "Buds of May"
+      },
+      {
+        "key": "D",
+        "text": "Summer's day"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-57",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.94",
+    "questionText": "The poem is an example of.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Parampariterupaka (consequential metaphor) because here the superimposition, undermined\nby a resemblance, is the cause of another superimposition."
+      },
+      {
+        "key": "B",
+        "text": "Nirangarupaka (entire metaphor) because here upameya is superimposed by upamana\ntogether with its subordinate parts."
+      },
+      {
+        "key": "C",
+        "text": "Malarupaka (deficient metaphorserial) because here upameya is superimposed by serial of\nupamanas."
+      },
+      {
+        "key": "D",
+        "text": "Mishrittrupaka (mixed metaphor) because here the common attribute, the words implying\ncomparison, upamana and upameya, all are expressed."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-58",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.97",
+    "questionText": "Which of the following is not correct in relation to a poem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Forces are indispensable for the totality of a poem"
+      },
+      {
+        "key": "B",
+        "text": "Forces can be discussed in terms of ambiguity"
+      },
+      {
+        "key": "C",
+        "text": "Forces and ambiguity are complementary to it"
+      },
+      {
+        "key": "D",
+        "text": "Many forces are included within the ideas"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-59",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.98",
+    "questionText": "Why does the author say that \"the tension must be conveyed and must be sustained\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Because it is unnecessary and often misleading"
+      },
+      {
+        "key": "B",
+        "text": "Because it is too simple"
+      },
+      {
+        "key": "C",
+        "text": "Because tension is often an important clue to the meaning of a poem"
+      },
+      {
+        "key": "D",
+        "text": "Because it is impregnated with adjectives"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-60",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.99",
+    "questionText": "What is the possibility in the analysis of a poem, if the forces are included in the ideas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The ideas can be defined easily."
+      },
+      {
+        "key": "B",
+        "text": "The forces can be defined easily."
+      },
+      {
+        "key": "C",
+        "text": "Both the ideas and the forces can be defined easily."
+      },
+      {
+        "key": "D",
+        "text": "It is difficult to define both the ideas and the forces."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-62",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.25",
+    "questionText": "Arrange the following playwrights chronologically in accordance with the years of their birth.\n(a) Asif Currimbhoy\n(b) Gurcharan Das\n(c) Nissim Ezekiel\n\n\n(d) Gieve Patel\n(e) Cyrus Mistry\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (c), (b), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (c), (b), (d), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (d), (b), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (e), (d), (a), (b)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U02-63",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.36",
+    "questionText": "A. K. Ramanujan, the famous Indian English poet, was also a ________.\n(a) photographer\n(b) translator\n(c) painter\n(d) classical singer\n(e) teacher at the University of Chicago\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-64",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.55",
+    "questionText": "Some of the following poets adorned the Oxford Professor of Poetry Chair:\n(a) James Fenton\n(b) Margaret Atwood\n(c) Seamus Heaney\n(d) Anne Sexton\n(e) Paul Muldoon\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-65",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.58",
+    "questionText": "Which three of the following plays have been written by Nissim Ezekiel?\n(a) Savaksa\n(b) Marriage-Poem\n(c) Nalini\n(d) Mister Behram\n(e) Sleepwalkers\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) & (d)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) & (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) & (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) & (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-66",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.59",
+    "questionText": "Who among the following is an Australian Aboriginal poet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Judith Wright"
+      },
+      {
+        "key": "B",
+        "text": "Kath Walker"
+      },
+      {
+        "key": "C",
+        "text": "Robert Frost"
+      },
+      {
+        "key": "D",
+        "text": "Maya Angelou"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-67",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.60",
+    "questionText": "Arrange the correct chronological sequence of the publication of the following texts:\n(a) “September 1, 1939”\n(b) “The Collar”\n(c) Beppo\n(d) Paradise Lost\n(e) Seeing Things\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (c), (a), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (a), (e), (c), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (e), (b), (c), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (b), (a), (d), (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-68",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.69",
+    "questionText": "Purdah is a collection of poems by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Adil Jussawalla"
+      },
+      {
+        "key": "B",
+        "text": "Imtiaz Dharker"
+      },
+      {
+        "key": "C",
+        "text": "Agha Shahid Ali"
+      },
+      {
+        "key": "D",
+        "text": "Sujata Bhatt"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-69",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.71",
+    "questionText": "What is the correct chronological sequence of the following texts?\n(a) “The Advancement of Learning”\n(b) “An Apologie for Poetry”\n(c) “The Uses of the Spectator”\n(d) “My Relations”\n(e) “How it Strikes a Contemporary”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (a), (c), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (a), (d), (e), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (b), (a), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-70",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.72",
+    "questionText": "Which of the following works of Milton seeks to adapt the form of Greek tragedy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Samson Agonistes"
+      },
+      {
+        "key": "B",
+        "text": "Paradise Regained"
+      },
+      {
+        "key": "C",
+        "text": "Lycidas"
+      },
+      {
+        "key": "D",
+        "text": "Comus"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-71",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.85",
+    "questionText": "The Movement poets included:\n(a) Donald Davie\n(b) Hilda Dolittle\n(c) Michael Longley\n(d) Philip Larkin\n(e) Derek Walcott\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(c) and (d)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-72",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.88",
+    "questionText": "Who among the following is an early Tudor poet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Geoffrey Chaucer"
+      },
+      {
+        "key": "B",
+        "text": "John Skelton"
+      },
+      {
+        "key": "C",
+        "text": "William Langland"
+      },
+      {
+        "key": "D",
+        "text": "John Gower"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-73",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.91",
+    "questionText": "The poem uses",
+    "options": [
+      {
+        "key": "A",
+        "text": "cartographic and nature images."
+      },
+      {
+        "key": "B",
+        "text": "nature images only."
+      },
+      {
+        "key": "C",
+        "text": "medical images."
+      },
+      {
+        "key": "D",
+        "text": "astronomical images."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-74",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.92",
+    "questionText": "The third line of the poem suggests something about",
+    "options": [
+      {
+        "key": "A",
+        "text": "the complexion of the person."
+      },
+      {
+        "key": "B",
+        "text": "the physique of the person."
+      },
+      {
+        "key": "C",
+        "text": "the nationality of the person."
+      },
+      {
+        "key": "D",
+        "text": "the continent to which she belongs."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-75",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.93",
+    "questionText": "The person described in the poem.",
+    "options": [
+      {
+        "key": "A",
+        "text": "is alive."
+      },
+      {
+        "key": "B",
+        "text": "is dead."
+      },
+      {
+        "key": "C",
+        "text": "is deaf."
+      },
+      {
+        "key": "D",
+        "text": "will be dead soon."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-76",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.94",
+    "questionText": "The person described in the poem is sympathetic to",
+    "options": [
+      {
+        "key": "A",
+        "text": "wounded human beings only."
+      },
+      {
+        "key": "B",
+        "text": "wounded birds only."
+      },
+      {
+        "key": "C",
+        "text": "disabled dogs and wounded birds."
+      },
+      {
+        "key": "D",
+        "text": "animals and birds in general."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-79",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.5",
+    "questionText": "Which poetry anthologies have NOT been written by Philip Larkin?\n(a) The North Ship\n(b) The Less Deceived\n(c) The Whitsun Weddings\n(d) Death of a Naturalist\n(e) Responsibilities\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (a)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-80",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.7",
+    "questionText": "“My man, my sons, forming the axis\nwhile I, wife and mother\ninsignificant as a fly\nclimbed the glass panes of their eyes.”\nIdentify the poem written by Kamala Das from which the above lines have been taken.",
+    "options": [
+      {
+        "key": "A",
+        "text": "‘The Latest Toy’"
+      },
+      {
+        "key": "B",
+        "text": "‘The Old Playhouse’"
+      },
+      {
+        "key": "C",
+        "text": "An Introduction’"
+      },
+      {
+        "key": "D",
+        "text": "“A Widow's Lament’"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-81",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.8",
+    "questionText": "The following lines are from one of the poems of D. H. Lawrence. Identify the poem?\n“And so, I missed my chance with one of the lords\nOf life.\nAnd I have something to expiate;\nA pettiness.”",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bat"
+      },
+      {
+        "key": "B",
+        "text": "Snake"
+      },
+      {
+        "key": "C",
+        "text": "Mosquitoe"
+      },
+      {
+        "key": "D",
+        "text": "Cypresses"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-82",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.27",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Pratap Sharma \t(I) Sleepwalkers\n(b) Asif Currimbhoy \t(II) Mira\n(c) Gurcharan Das \t(III) A Touch of Brightness\n(d) Nissim Ezekiel \t(IV) The Hungry Ones\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Gurcharan Das: Coined/Proposed by *Larins Sahib* (1968), *Mira*, *9 Jakhoo Hill* (Sultan Padamsee Award (1968) for *Larins Sahib* (set in 1846 Punjab after First Anglo-Sikh War).)"
+  },
+  {
+    "id": "P2-U02-83",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.37",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Peter Middleton \t(I) New Relations: The Refashioning of British Poetry 1980-1994\n(b) Patricia Waugh \t(II) Distant Reading: Performance, Readership, and Consumption in\nContemporary Poetry\n(c) David Kennedy \t(III) Reading Twentieth-Century Poetry: The Language of Gender and\nObjects\n(d) Edward Larrissy \t(IV) The Harvest of the Sixties: English Literature and Its Background\n1960-1990\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(III), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "1960: Coined/Proposed by R.K. Narayan (*The Guide*)"
+  },
+  {
+    "id": "P2-U02-84",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.40",
+    "questionText": "Spenser's The Shepherd's Calender, published in 1579, was dedicated to ________",
+    "options": [
+      {
+        "key": "A",
+        "text": "Wyatt"
+      },
+      {
+        "key": "B",
+        "text": "Surrey"
+      },
+      {
+        "key": "C",
+        "text": "Sidney"
+      },
+      {
+        "key": "D",
+        "text": "Bacon"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-85",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.41",
+    "questionText": "Who composed the poem “Address to a Steamvessel”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Maria Edgeworth"
+      },
+      {
+        "key": "B",
+        "text": "Joanna Baillie"
+      },
+      {
+        "key": "C",
+        "text": "Catherine Mansfield"
+      },
+      {
+        "key": "D",
+        "text": "John Millington Synge"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-86",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.45",
+    "questionText": "Which famous English poet, at an early age announcing his admiration for D. H. Lawrence, excitedly wrote\nto his friend, “I have been reading Sons and Lovers and feel ready to die. If Lawrence had been killed after\nwriting that book he'd still be England's greatest novelist”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Virginia Woolf"
+      },
+      {
+        "key": "B",
+        "text": "W.H. Auden"
+      },
+      {
+        "key": "C",
+        "text": "Dylan Thomas"
+      },
+      {
+        "key": "D",
+        "text": "Philip Larkin"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-87",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.52",
+    "questionText": "Identify the two previous titles of the poem “Out of the Cradle Endlessly Rocking” as Walt Whitman\ncontinued to revise it until it reached the present form in the “Sea-Drift” section of the 1881 edition.\n(a) “Vigil Strange I Kept on the Field One Night”\n(b) “Crossing Brooklyn Ferry”\n(c) “A Child’s Reminiscence”\n(d) “The Wound-Dresser”\n(e) “A Word Out of the Sea”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(d) and (b)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-88",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.57",
+    "questionText": "Arrange the chronological sequence in which the following works of T. S. Eliot were first published:\n(a) The Sacred Wood\n(b) Notes towards the Definition of Culture\n(c) The Metaphysical Poets\n(d) The Function of Criticism\n(e) The Use of Poetry and the Use of Criticism\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d), (a), (e), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (c), (a), (b), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (d), (e), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (a), (c), (d), (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U02-89",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.59",
+    "questionText": "From which poem are the following lines extracted?\n“Some are bewildered in the maze of schools,\nAnd some made coxcombs Nature meant but fools.\nIn search of wit these lose their common sense,\nAnd then turn critics in their own defense”",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mac Flecknoe"
+      },
+      {
+        "key": "B",
+        "text": "Hudibras"
+      },
+      {
+        "key": "C",
+        "text": "An Essay on Criticism"
+      },
+      {
+        "key": "D",
+        "text": "An Essay on Dramatick Poesy"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U02-90",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.61",
+    "questionText": "Arrange in chronological order the publication of the following anthologies of poetry by Nissim Ezekiel:\n(a) The Exact Name\n(b) Latter-Day Psalms\n(c) Sixty Poems\n(d) The Unfinished Man\n(e) A Time to Change\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (d), (a) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (c), (d), (a) and (b)"
+      },
+      {
+        "key": "C",
+        "text": "(d), (e), (c), (b) and (a)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (d), (b), (e) and (c)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-91",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.63",
+    "questionText": "Which poems have NOT been composed by Adrienne Rich?\n(a) “Driving into the Wreck”\n(b) “Transcendental Etude”\n\n\n(c) “Snapshots of a Daughter-in-Law”\n(d) “The Applicant”\n(e) “Ripples on the Surface”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-92",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.73",
+    "questionText": "Who does Achitophel represent in John Dryden’s allegorical poem Absalom and Achitophel?",
+    "options": [
+      {
+        "key": "A",
+        "text": "First Earl of Shaftesbury"
+      },
+      {
+        "key": "B",
+        "text": "First Duke of Monmouth"
+      },
+      {
+        "key": "C",
+        "text": "First Duke of Buckingham"
+      },
+      {
+        "key": "D",
+        "text": "First Duke of York"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-93",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.80",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Purushottam Lal \t(I) Speaking of Siva\n(b) Adil Jussawalla \t(II) The Man of Dharma and the Rasa of Silence\n(c) A K. Ramanujan \t(III) Rough Passage\n(d) R. Parthasarathy \t(IV) Missing Person\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(IV), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-94",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.81",
+    "questionText": "Find the chronological sequence of John Milton’s publications:\n(a) “Paradise Lost”\n(b) “Lycidas”\n(c) “On the Morning of Christ’s Nativity”\n(d) “On Shakespeare”\n(e) “Paradise Regained”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (e), (c), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e), (b), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d), (b), (a), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-95",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.85",
+    "questionText": "Who composed Lucasta: Postume Poems, published posthumously?",
+    "options": [
+      {
+        "key": "A",
+        "text": "George Herbert"
+      },
+      {
+        "key": "B",
+        "text": "Thomas Carew"
+      },
+      {
+        "key": "C",
+        "text": "Richard Lovelace"
+      },
+      {
+        "key": "D",
+        "text": "Sir John Suckling"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-96",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.87",
+    "questionText": "Which of the following poems are written by the American poet, Robert Lowell?\n(a) “Anecdote of the Jar”\n(b) “Skunk Hour”\n(c) “Howl”\n(d) “Night Sweat”\n(e) “A Gift Outright”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(e) and (a)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-97",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.92",
+    "questionText": "What one of the following statements is true?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The poem is concerned about unmasking racial discrimination."
+      },
+      {
+        "key": "B",
+        "text": "The poem is concerned about humans' propensity to go to war despite all the catastrophes it creates in its\nwake."
+      },
+      {
+        "key": "C",
+        "text": "The poem is pro-war, eulogizing human’s heroic capacity to attain martrydom for the sake of their nation"
+      },
+      {
+        "key": "D",
+        "text": "The poem is affrimative in its overall tenor."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-98",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.93",
+    "questionText": "The title of the poem “Apostrophe to Man” is _______in the context of the overall content.",
+    "options": [
+      {
+        "key": "A",
+        "text": "befitting and relevant"
+      },
+      {
+        "key": "B",
+        "text": "ironic and satirical"
+      },
+      {
+        "key": "C",
+        "text": "personal and affective"
+      },
+      {
+        "key": "D",
+        "text": "a eulogy and ode to homo sapiens"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-103",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.6",
+    "questionText": "Who among the following characters personifies necessity in P. B. Shelley’s Prometheus Unbound?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Prometheus"
+      },
+      {
+        "key": "B",
+        "text": "Demogorgon"
+      },
+      {
+        "key": "C",
+        "text": "Jove"
+      },
+      {
+        "key": "D",
+        "text": "Jeus"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-104",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.42",
+    "questionText": "Who among the following poets have lived in Australia?\n(a) Judith Wright\n(b) Yusef Komunyakaa\n(c) Kath Walker\n(d) Thomas Kinsella\n(e) T. S. Eliot\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-105",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.60",
+    "questionText": "Thomas Rymer coined the term ‘poetic justice’ to imply the following:\n(a) the distribution of earthly rewards and punishments in proportion to the virtue or vice of the\nvarious characters\n(b) literary work governed by decorum and morality\n(c) literary work guided by random ways things often work out in the actual world\n(d) the metaphysical nature of poetic experience\n(e) the justification of poetry to be an integral part of the Ideal republic\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-106",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.66",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Sri Aurobindo \t(I) The Old Playhouse and Other Poems\n(b) Kamala Das \t(II) Calcutta: A Long Poem\n(c) P. Lal \t(III) A Sheaf Gleaned in French Fields\n(d) Toru Dutt \t(IV) Savitri\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-107",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.76",
+    "questionText": "Choose the correct chronological sequence in which the following texts were written.\n(a) Lycidas\n(b) Hero and Leander\n(c) Masque of Comus\n(d) Paradise Lost\n(e) The Waste Land",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a),(b), (d), (e), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (a), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (a), (e), (c), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (e), (d), (c), (a)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "The Waste Land: Coined/Proposed by Epigraph: The Sibyl of Cumae (Petronius' *Satyricon*) (T.S. Eliot (1922))"
+  },
+  {
+    "id": "P2-U02-108",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.77",
+    "questionText": "Arrange the following poets in accordance with their years of birth.\n(a) Rudyard Kipling\n(b) Robert Browning\n(c) John Masefield\n(d) A. E. Housman\n(e) John Donne",
+    "options": [
+      {
+        "key": "A",
+        "text": "(e), (a), (b), (d), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (b), (a), (c), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (b), (a), (d), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (d), (b), (c), (e)\n78.Arrange the works in chronological sequence:\n(a) Rajmohan’s Wife\n(b) A Bend in the Ganges\n(c) Kanthapura\n(d) Untouchable\n(e) Distant Drum"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U02-109",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.90",
+    "questionText": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason\n(R).\n\n\nAssertion (A): In second language learning, in the same classroom setting, some students progress\nrapidly through the initial stages of learning a new language while others struggle making very slow\nprogress.\nReason (R): Some learners never achieve native-like command of a second language.\nIn the light of the above statements, choose the most appropriate answer from the option given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are correct and (R) is not the correct explanation of (A)."
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is not correct."
+      },
+      {
+        "key": "D",
+        "text": "(A) is not correct but (R) is correct.\nRead the following poem and answer the question:\nTalking in Bed\nTalking in bed ought to be easiest,\nLying together there goes back so far,\nAn emblem of two people being honest.\nYet more and more time passes silently.\nOutside, the wind’s incomplete unrest\nBuilds and disperses clouds about the sky,\nAnd dark towns heap up on the horizon.\nNone of this cares for us. Nothing shows why\nAt this unique distance from isolation\nIt becomes still more difficult to find\nWords at once true and kind,\nOr not untrue and not unkind.\nPhilip Larkin"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-110",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.91",
+    "questionText": "Which of the following statements is true?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The poet says that talking in bed is very easy."
+      },
+      {
+        "key": "B",
+        "text": "The poet says that talking in bed is not very easy."
+      },
+      {
+        "key": "C",
+        "text": "The poet says that talking in bed should be easy but it is not."
+      },
+      {
+        "key": "D",
+        "text": "The poet says that talking in bed can never be easy."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-111",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.92",
+    "questionText": "The poet says that when two people are lying together, they look like",
+    "options": [
+      {
+        "key": "A",
+        "text": "two pure human beings."
+      },
+      {
+        "key": "B",
+        "text": "two hypocrites."
+      },
+      {
+        "key": "C",
+        "text": "two innocent fellows."
+      },
+      {
+        "key": "D",
+        "text": "none of these"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-112",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.93",
+    "questionText": "The poet says that while lying in bed he and his companion pass time",
+    "options": [
+      {
+        "key": "A",
+        "text": "by talking between themselves."
+      },
+      {
+        "key": "B",
+        "text": "by observing the trees outside the window."
+      },
+      {
+        "key": "C",
+        "text": "silently."
+      },
+      {
+        "key": "D",
+        "text": "by playing cards."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-113",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.94",
+    "questionText": "The poet and his companion are",
+    "options": [
+      {
+        "key": "A",
+        "text": "In a hotel in the middle of a town."
+      },
+      {
+        "key": "B",
+        "text": "In a room of a hotel on the margin of the town."
+      },
+      {
+        "key": "C",
+        "text": "In the corridor of a hotel far away from the towns."
+      },
+      {
+        "key": "D",
+        "text": "In a place away from the towns."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-114",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.95",
+    "questionText": "The poet says that while lying in bed with one’s companion it is difficult to find words which are",
+    "options": [
+      {
+        "key": "A",
+        "text": "at once honest and caring"
+      },
+      {
+        "key": "B",
+        "text": "at once true and unkind"
+      },
+      {
+        "key": "C",
+        "text": "at once pure and impure"
+      },
+      {
+        "key": "D",
+        "text": "at once honest and touching\nRead the following passage and answer the questions that follows:\nPoetry in its use of language continually distorts and denies the structure of reality to exalt the structure\nof the self. By means of rhyme, assonance or alliteration it couples together words which have no\nrational connection, that is, no nexus through the world of external reality. It breaks the word up into\nlines of arbitrary length, cutting across their logical construction. It breaks down their associations,\nderived from the world of external reality, by means of inversion and every variety of artificial stressing\nand counterpoint. Thus the world of external reality recedes and the world of instinct, the affective\nemotional linkage behind the words, becomes the world of reality... In the novel, too, the subjective\nelements are valued for themselves, and rise to view, but in a different way. The novel blots out external\nreality by substituting a more or less consistent mock reality which has sufficient ‘stuff’ to stand\nbetween the reader and reality. This means that in the novel the emotional associations attach not to\nwords but to the moving current of mock reality symbolised by the words. This is why rhythm,\n‘preciousness’, and style are alien to the novel; why the novel translates so well; why novels are not\ncomposed of words. They are composed of scenes, actions, stuff, people, just as plays are."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-115",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.99",
+    "questionText": "What do you understand by “mock reality” in context of the usage in the above passage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The reality contrived into existence by novelists through strategic use of words"
+      },
+      {
+        "key": "B",
+        "text": "The reality evoked through figurative devices"
+      },
+      {
+        "key": "C",
+        "text": "The quasi reality effected through the use of poetic devices"
+      },
+      {
+        "key": "D",
+        "text": "The reality which is approximate to the external reality"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-119",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.5",
+    "questionText": "Which of the following works is NOT written by P. B. Shelley?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Mask of Anarchy"
+      },
+      {
+        "key": "B",
+        "text": "Queen Mab: A Philosophical Poem"
+      },
+      {
+        "key": "C",
+        "text": "The Vision of Judgement"
+      },
+      {
+        "key": "D",
+        "text": "The Revolt of Islam"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-120",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.6",
+    "questionText": "In whose poem the readers meet Aunt Jennifer's tigers?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thom Gunn"
+      },
+      {
+        "key": "B",
+        "text": "Kamau Brathwaite"
+      },
+      {
+        "key": "C",
+        "text": "Roy Fisher"
+      },
+      {
+        "key": "D",
+        "text": "Adrienne Rich"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-121",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.41",
+    "questionText": "\"A Valediction Forbidding Mourning\" is written by\n(a) John Donne\n(b) John Milton\n(c) Adrienne Rich\n(d) Sylvia Plath\n(e) Robert Frost\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only."
+      },
+      {
+        "key": "C",
+        "text": "(d) and (e) only."
+      },
+      {
+        "key": "D",
+        "text": "(b) and (c) only."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-122",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.42",
+    "questionText": "Which of the following two poems are linked with each other in terms of form?\n(a) \"The Last Ride Together\"\n(b) \"Ulysses\"\n(c) \"Upon Appleton House: To My Lord Fairfax\"\n(d) \"To Penshurst\"\n(e) \"The Waste Land\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (e) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only."
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d) only."
+      },
+      {
+        "key": "D",
+        "text": "(c) and (d) only."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "The Waste Land: Coined/Proposed by Epigraph: The Sibyl of Cumae (Petronius' *Satyricon*) (T.S. Eliot (1922))"
+  },
+  {
+    "id": "P2-U02-123",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.43",
+    "questionText": "Which of the following poems are written by Alexander Pope?\n(a) The Dunciad\n(b) Moral Essays\n(c) Grongar Hill\n(d) Cooper's Hill\n(e) Absalom and Achitophel\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only."
+      },
+      {
+        "key": "B",
+        "text": "(b) and (e) only."
+      },
+      {
+        "key": "C",
+        "text": "(a) and (b) only."
+      },
+      {
+        "key": "D",
+        "text": "(c) and (d) only."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-124",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.66",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Rabindranath Tagore \t(I) Purdah and Other Poems\n(b) Muhammad Iqbal \t(II) The Unfinished Man\n(c) Nissim Ezekiel \t(III) The Child\n(d) Imtiaz Dharker \t(IV) The Secrets of the Self\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(II), (c) -(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-125",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.67",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Emily Dickinson \t(I) Woman to Man\n(b) Kath Walker \t(II) Banking Potatoes\n(c) Judith Wright \t(III) Because i could not stop for Death\n(d) Yusef Komunyakaa \t(IV) We Are Going\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b) -(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-126",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.76",
+    "questionText": "Choose the correct chronological sequence in which the following texts were published.\n(a) The Tower\n(b) The Hind and the Panther\n(c) The Wild Swans at Coole\n\n\n(d) Mac Flecknoe\n(e) The Whitsun Weddings\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d), (e), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (a), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (a), (c), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (c), (a), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-127",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.77",
+    "questionText": "Arrange the following poets in accordance with their years of birth.\n(a) George Herbert\n(b) Edmund Spenser\n(c) Philip Sidney\n(d) John Donne\n(e) Oliver Goldsmith\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d), (c), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c), (d), (a), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (b), (a), (d), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (d), (e), (b), (c)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U02-128",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.92",
+    "questionText": "Moriarty is the name of",
+    "options": [
+      {
+        "key": "A",
+        "text": "the poet."
+      },
+      {
+        "key": "B",
+        "text": "the poet's dog."
+      },
+      {
+        "key": "C",
+        "text": "a game played by two or more blindfolded persons."
+      },
+      {
+        "key": "D",
+        "text": "the poet's mother."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-129",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.93",
+    "questionText": "Which one of the following statements is true?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The poet imagines that his father tightens his grip on the rolled-up copy of Times."
+      },
+      {
+        "key": "B",
+        "text": "The poet's father tightens his grip on the rolled-up copy of Times."
+      },
+      {
+        "key": "C",
+        "text": "The poet is sure that his father tightens his grip on the rolled-up copy of Times."
+      },
+      {
+        "key": "D",
+        "text": "The poet sees his father tightening his grip on the rolled-up copy of Times."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-130",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.94",
+    "questionText": "The 'weapon' mentioned in the first line of the fourth stanza of the poem is",
+    "options": [
+      {
+        "key": "A",
+        "text": "a knife."
+      },
+      {
+        "key": "B",
+        "text": "a rolled-up newspaper."
+      },
+      {
+        "key": "C",
+        "text": "a scissor."
+      },
+      {
+        "key": "D",
+        "text": "a stick."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-131",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.95",
+    "questionText": "In the last stanza of the poem,",
+    "options": [
+      {
+        "key": "A",
+        "text": "the poet is sure of his father's death."
+      },
+      {
+        "key": "B",
+        "text": "the poet imagines his father to be dead."
+      },
+      {
+        "key": "C",
+        "text": "the poet does not know whether his father is alive."
+      },
+      {
+        "key": "D",
+        "text": "the poet wildly guesses that his father is dead.\nRead the following passage and answer the questions that follow:\nIn this sense, one can think of literature less as some inherent quality or set of qualities displayed by\ncertain kinds of writing all the way from Beowulf to Virginia Woolf, than as a number of ways in which\npeople relate themselves to writing. It would not be easy to isolate, from all that has been variously\ncalled 'literature', some constant set of inherent features. In fact, it would be as impossible as trying to\nidentify the single distinguishing feature which all games have in common. There is no 'essence' of\nliterature whatsoever. Any bit of writing may be read 'non-pragmatically', if that is what reading a text as\nliterature means, just as any writing may be read 'poetically'. If I pore over the railway timetable not to\ndiscover a train connection but to stimulate in myself general reflections on the speed and complexity of\nmodern existence, then I might be said to be reading it as literature. John M. Ellis has argued that the\nterm 'literature' operates rather like the word 'weed': weeds are not particular kinds of plant, but just any\nkind of plant which for some reason or another a gardener does not want around. Perhaps 'literature'\nmeans something like the opposite: any kind of writing which for some reason or another somebody\nvalues highly. As the philosophers might say, 'literature' and 'weed' are functional rather than ontological\nterms: they tell us about what we do, not about the fixed being of things."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-132",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.5",
+    "questionText": "Identify the poems termed as “pastoral elegies”:\n(a) Lycidas\n\n\n(b) In Memory of W.B. Yeats\n(c) Adonais\n(d) Thyrsis\n(e) In Memoriam\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-133",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.12",
+    "questionText": "J Hillis Miller, one of the leading exponents of deconstruction, makes a deconstructionist reading\nof which of the following poems of P.B. Shelley?",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"The Triumph of Life\""
+      },
+      {
+        "key": "B",
+        "text": "\"Ode to the West Wind”"
+      },
+      {
+        "key": "C",
+        "text": "\"Revolt of Islam”"
+      },
+      {
+        "key": "D",
+        "text": "\"The Witch of Atlas”"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-134",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.20",
+    "questionText": "Which of the collections of poems are not written by Meena Alexander?\n(a) River and Bride\n(b) Articulate Silence\n(c) Raw Silk\n(d) Stone Roots\n(e) A Time to Change\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-135",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.33",
+    "questionText": "Which writer does not belong to the Angry Young Men Movement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Osborne"
+      },
+      {
+        "key": "B",
+        "text": "Kingsley Amis"
+      },
+      {
+        "key": "C",
+        "text": "Seamus Heaney"
+      },
+      {
+        "key": "D",
+        "text": "Philip Larkin"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-136",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.34",
+    "questionText": "Which among the following is an incomplete poem by P.B. Shelley?",
+    "options": [
+      {
+        "key": "A",
+        "text": "“The: Triumph of Life”"
+      },
+      {
+        "key": "B",
+        "text": "“Ode to the West-wind”"
+      },
+      {
+        "key": "C",
+        "text": "“Queen Mab”"
+      },
+      {
+        "key": "D",
+        "text": "“The Daemon of the World”"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-137",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.37",
+    "questionText": "Who is the author of the poem “House of Fame”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "William Langland"
+      },
+      {
+        "key": "B",
+        "text": "Geoffrey Chaucer"
+      },
+      {
+        "key": "C",
+        "text": "Thomas Moore"
+      },
+      {
+        "key": "D",
+        "text": "Philip Sidney"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-138",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.39",
+    "questionText": "Subramanis Fantasy Eaters (1998) is a",
+    "options": [
+      {
+        "key": "A",
+        "text": "novel"
+      },
+      {
+        "key": "B",
+        "text": "collection of short stories"
+      },
+      {
+        "key": "C",
+        "text": "collection of essays"
+      },
+      {
+        "key": "D",
+        "text": "poem"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "1998: Coined/Proposed by Mahesh Dattani (*Final Solutions*)"
+  },
+  {
+    "id": "P2-U02-139",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.54",
+    "questionText": "Which of the following is not true about \"Lyrical Ballads”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is a manifesto of Romantic poetry"
+      },
+      {
+        "key": "B",
+        "text": "It turns English Poetry away from the social and intellectual sophistication of the\nseventeenth and the eighteenth-century poetry"
+      },
+      {
+        "key": "C",
+        "text": "It takes poetry out of the confines of reason and intellect to the unravished and unspoilt\nbeauties of nature"
+      },
+      {
+        "key": "D",
+        "text": "It is very particular about the form and structure of a poem"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-140",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.55",
+    "questionText": "Which of the following are Plato's main objections against poetry?\n(a) The poet is an imitator.\n(b) The poet is incapable of bravery.\n(c) The poet, by fuelling passions and emotions, weakens the reasoning capacity of the citizens.\n(d) The poet is less responsible.\n(e) The poet has no knowledge of the world.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(e) and (d) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-141",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.58",
+    "questionText": "Identify the correct combination among the following:\n(a) Spondee: \tIt consists of three stressed syllables\n(b) Pyrrhic: \tIt consists of two unstressed syllables\n(c) Amphimacer: It is a metrical foot of three syllables\n(d) Choriambus: \tIt is a foot of verse consisting of two stressed syllables enclosing two\nunstressed syllables\n(e) Trochaic: \tIt has a stressed syllable followed by an unstressed one.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-142",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.60",
+    "questionText": "Who among the following in the article, \"Fleshly School of Poetry”, attacked the Pre-\nRaphaelites, especially D.G. Rossetti?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Robert Browning"
+      },
+      {
+        "key": "B",
+        "text": "William Holeman Hunt"
+      },
+      {
+        "key": "C",
+        "text": "Robert Buchanan"
+      },
+      {
+        "key": "D",
+        "text": "Christina Rossetti"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-143",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.66",
+    "questionText": "Philip Sidney's Arcadia was influenced by",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Spanish Romance of Montemayor"
+      },
+      {
+        "key": "B",
+        "text": "The Italian Paintings of Veronese"
+      },
+      {
+        "key": "C",
+        "text": "The Arthurian Legends"
+      },
+      {
+        "key": "D",
+        "text": "The Metaphysical Poetry"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-144",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.74",
+    "questionText": "Should poets bicycle-pump the human heart or squash it flat?\nMan's love is of man's life a thing apart:\nGirls aren't like that.\nThe above lines are written by:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Philip Larkin"
+      },
+      {
+        "key": "B",
+        "text": "Kingsley Amis"
+      },
+      {
+        "key": "C",
+        "text": "Donald Davie"
+      },
+      {
+        "key": "D",
+        "text": "John Wain"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-145",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.77",
+    "questionText": "Identify the correct ones among the following:\n(a) Arun Kolatkar uses colloquial speech in his poems\n(b) Kolatkar envisions abstract qualities to paint a picture of life of his own kind\n(c) The poem Boatride by Kolatkar talks about a ride in the Ganges\n(d) Private Poems in Public Garden is composed by Dilip Chitre\n(e) ‘In Ethiopia’ is a poem on Africa by Arun Kolatkar\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (b) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-146",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.83",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) Donald Davie \t(I) Against Romanticism\n(b) Philip Larkin \t(II) Hurry on Down\n(c) Kingsley Amis \t(III) The Shires\n(d) John Wain \t(IV) The North Ship\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(III), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-147",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.86",
+    "questionText": "The heroic couplet is a pair of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Twelve-syllable lines that rhyme"
+      },
+      {
+        "key": "B",
+        "text": "Ten-syllable lines that rhyme"
+      },
+      {
+        "key": "C",
+        "text": "Eight-syllable lines that do not rhyme"
+      },
+      {
+        "key": "D",
+        "text": "Eight-syllable lines that rhyme"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Heroic Couplet: Coined/Proposed by 2 lines ($aa$)"
+  },
+  {
+    "id": "P2-U02-148",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.98",
+    "questionText": "The poem “Mr. Bleaney” deals with the portrayal of his________",
+    "options": [
+      {
+        "key": "A",
+        "text": "richness"
+      },
+      {
+        "key": "B",
+        "text": "extravagance"
+      },
+      {
+        "key": "C",
+        "text": "luxuriousness"
+      },
+      {
+        "key": "D",
+        "text": "ordinariness"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-149",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.99",
+    "questionText": "The poem, \"Mr. Bleaney\", is written in a_______ form.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Satirical"
+      },
+      {
+        "key": "B",
+        "text": "Lyrical"
+      },
+      {
+        "key": "C",
+        "text": "Dramatic"
+      },
+      {
+        "key": "D",
+        "text": "Philosophical"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-151",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.16",
+    "questionText": "The aboriginal Australian poet, Oodgeroo Noonuccal, in her poem We are going\" examines the\nimpact of colonial conquest on aboriginal Australians with reference to:\n(a) Loss of 'bora ground'\n(b) Loss of aboriginal identity\n(c) Loss of new education\n(d) Loss of primitive culture\n(e) None of the above\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (d) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-152",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.34",
+    "questionText": "\"The Elegy written in a Country Churchyard\" is written in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quatrains of ten syllable lines"
+      },
+      {
+        "key": "B",
+        "text": "Octave and Sestet"
+      },
+      {
+        "key": "C",
+        "text": "Heroic couplet"
+      },
+      {
+        "key": "D",
+        "text": "Alexandrines"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Heroic Couplet: Coined/Proposed by 2 lines ($aa$)"
+  },
+  {
+    "id": "P2-U02-153",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.40",
+    "questionText": "Which of the following authors have been correctly matched with their works?\n(a) Malcom Bradbury - The History of Man\n(b) William Golding - Rites of Passage\n(c) Seamus Heaney - Darkness visible\n(d) Brian Friel - Dancing at Lughnasa\n(e) Molly Keane - The Norman Conquests\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-154",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.48",
+    "questionText": "The predominant emotion running through the poem \"Cristina\" by Robert Browning is that of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sadness"
+      },
+      {
+        "key": "B",
+        "text": "Aggression"
+      },
+      {
+        "key": "C",
+        "text": "Love"
+      },
+      {
+        "key": "D",
+        "text": "None of the above"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-155",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.51",
+    "questionText": "Identify the correct one from the following:\n(a) Bharti Mukherjee’s novels display split in the diasporic subjects.\n\n\n(b) Rohinton Mistry belongs to the community of Parsies that fled to India from Persia to escape\nIslamic persecution.\n(c) Sujata Bhat recalls home as a nostalgic memory and longs intensely for it.\n(d) Farrukh Dhondy connects Delhi and New York to discuss the diasporic experiences.\n(e) Sharat Chandra in his poem, \"In the Third Country,\" wishes to die in India\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-156",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.69",
+    "questionText": "Given below are two statements:\nStatement (I): The best poetry will be found to have a power of forming, sustaining and\ndelighting us, as nothing else can.\nStatement (II): No man has ever been a great poet without being, at the same time, a great critic.\nIn light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false."
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U02-157",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.82",
+    "questionText": "Who among the following is the author of The Steele Glas ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Earl of Surrey"
+      },
+      {
+        "key": "B",
+        "text": "Thomas Sackville"
+      },
+      {
+        "key": "C",
+        "text": "George Gascoigne"
+      },
+      {
+        "key": "D",
+        "text": "Edmund Spenser"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-158",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.87",
+    "questionText": "Who among the following refers to \"high seriousness\" as a quality of a great poet and quotes\nJohn Milton to prove the same?\n(a) T. S. Eliot\n(b) Ezra Pound\n(c) C. Matthew Arnold\n(d) I. A. Richards\n(e) G. M. Hopkins\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(c) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-159",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.88",
+    "questionText": "Identify the correct ones among the following:\n(a) The dramatic monologue ensures the reciprocal dialogue of the narrator.\n(b) The ninteenth century poets fully exploited the poetic form of dramatic monologue.\n(c) The Poetry of Experience by Robert Langbaum outlines a discussion on dramatic\nmonologue.\n(d) The linguistic pragmatics make the narcissistic speaker of dramatic monologue speak\nexclusively.\n\n\n(e) The speaker and the listener in the dramatic monologues of Robert Browning share the same\npedestal of communication.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-160",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.90",
+    "questionText": "Which of the following is NOT a kind of 'sign' as suggested by Charles Sanders Pierce?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Icon"
+      },
+      {
+        "key": "B",
+        "text": "Index"
+      },
+      {
+        "key": "C",
+        "text": "Symbol"
+      },
+      {
+        "key": "D",
+        "text": "Visual\nRead the following passage and answer the questions that follow:\nSuch is the matter of imaginative or artistic literature - this transcript not of mere fact, but of fact in its\ninfinite variety, as modified by human preference in all its infinitely varied forms. It will be good\nliterary art not because it is brilliant or sober, or rich, or impulsive, or severe, but just in proportion as\nits representation of that sense, that soul fact, is true, verse being only one department of such literature,\nand imaginative prose, it may be thought, being the special art of the modern world. That imaginative\nprose should be the special and opportune art of the modern world results from two important facts\nabout the latter. first, the chaotic variety and complexity of its interests, making the intellectual issue,\nthe really master currents of the present time incalculable- a condition of mind little susceptible of the\nrestraint proper to verse form, so that the most characteristic verse of the nineteenth century has been\nlawless verse; and secondly, an all pervading naturalism, a curiosity about everything whatever as it\nreally is, involving a certain humility of attitude, cognate to what must, after all , be the less ambitious\nform of literature. And prose thus asserting itself as the special and privileged artistic faculty of the\npresent day, will be, however critics may try to narrow its scope, as varied in its excellence as humanity\nitself reflecting on the facts of its latest experience- an instrument of many stops, meditative, observant,\ndescriptive, eloquent, analytic, plaintive, fervid."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U02-161",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.94",
+    "questionText": "Which of the following is closest to what the author means by \"less ambitious form of\nliterature\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "literature responsive to heightened state of human perception"
+      },
+      {
+        "key": "B",
+        "text": "imaginative literature"
+      },
+      {
+        "key": "C",
+        "text": "artistic literature"
+      },
+      {
+        "key": "D",
+        "text": "poetry without form and diction"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-162",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.95",
+    "questionText": "Artistic literature is the representation of:",
+    "options": [
+      {
+        "key": "A",
+        "text": "facts enhanced by creative illusions"
+      },
+      {
+        "key": "B",
+        "text": "facts transformed by human predilection in an array of forms"
+      },
+      {
+        "key": "C",
+        "text": "facts arranged by political reflection"
+      },
+      {
+        "key": "D",
+        "text": "complex and natural instincts of a poet\nRead the following poem and answer the questions that follow:\nSMOKE\nLight - winged Smoke! Icarian bird,\nMelting thy pinions in thy upward flight;\nLark without song, and the messenger of dawn,\nCircling above the hamlets as thy nest;\nOr else, departing dream, and shadowy form\nOf midnight vision, gathering up thy skirts;\nBy night star-veiling, and by day\nDarkening the light and blotting out the sun:\nGo thou, my incense, upward from this hearth,\nAnd ask the gods to pardon this clear flame.\nHenry David Thoreau"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-163",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.97",
+    "questionText": "In the first line of the poem, \"Icarian bird\" connotes_________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "short of ambition"
+      },
+      {
+        "key": "B",
+        "text": "pride"
+      },
+      {
+        "key": "C",
+        "text": "destruction"
+      },
+      {
+        "key": "D",
+        "text": "waxen wing"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-164",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.99",
+    "questionText": "Why does the poet seek pardon from the Gods?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The singing birds disrupt the peace of the forest."
+      },
+      {
+        "key": "B",
+        "text": "The earth is full of peace and tranquility."
+      },
+      {
+        "key": "C",
+        "text": "The speaker admits sin of setting the fire."
+      },
+      {
+        "key": "D",
+        "text": "The narrator is over enthusiastic."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-165",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.100",
+    "questionText": "The poem deals with",
+    "options": [
+      {
+        "key": "A",
+        "text": "fire in the forest"
+      },
+      {
+        "key": "B",
+        "text": "fire in the city"
+      },
+      {
+        "key": "C",
+        "text": "fire on the ship"
+      },
+      {
+        "key": "D",
+        "text": "fire in the village"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-169",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.29",
+    "questionText": "Match List I with List II\nList I \tList II\n(Author) \t(Text)\nA. Sean O'Casey \tI. I'm \tTalking About Jerusalem\nB. Dylan Thomas \tII. The Winslow Boy\n\n\nC. Terence Rattigan \tIII. Juno and the Paycock\nD. Arnold Wesker \tIV. In the Shadow of the Glen\nE. J.M. Synge \tV. Under Milk Wood\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A II, B I, C III, D V, E IV"
+      },
+      {
+        "key": "B",
+        "text": "A III, B V, C II, D I, E IV ,"
+      },
+      {
+        "key": "C",
+        "text": "A IV, B II, C III, D V, E I"
+      },
+      {
+        "key": "D",
+        "text": "A V, B IV, C II, D I, E III"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-170",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.30",
+    "questionText": "Arrange the following lines of poetry in their chronological sequence:\nA. \"An aged man is but a paltry thing.\"\nB. \"The world is too much with us.\"\nC. \"Daddy, I have had to kill you.\"\nD. \"After great pain, a formal feeling comes \"\nChoose the correct answer from the options given below Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "B, D, A, C"
+      },
+      {
+        "key": "B",
+        "text": "B, D, C, A"
+      },
+      {
+        "key": "C",
+        "text": "D, B, A, C"
+      },
+      {
+        "key": "D",
+        "text": "D, B, C, A"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-171",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.33",
+    "questionText": "Which of the following poems by Robert Browning contains the lines, \"Our interest's on the\ndangerous edge of things. / The honest thief, the tender murderer, / The superstitious atheist…\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"A Death in the Desert\""
+      },
+      {
+        "key": "B",
+        "text": "\"Bishop Blougram's Apology\""
+      },
+      {
+        "key": "C",
+        "text": "\"Count Gismond\""
+      },
+      {
+        "key": "D",
+        "text": "\"Love Among the Ruins\""
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-172",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.52",
+    "questionText": "Which of the following poems contains John Donne's famous conceit bringing a parallel between\nlovers and the hands of a compass?",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"A Valediction: Forbidding Mourning\""
+      },
+      {
+        "key": "B",
+        "text": "\"A Valediction: Of Weeping\""
+      },
+      {
+        "key": "C",
+        "text": "\"Lovers Infinitenesse\""
+      },
+      {
+        "key": "D",
+        "text": "\"Negative Love\""
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-173",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.72",
+    "questionText": "In \"An Apology for Poetry\" Sidney discusses the didactic function of poetry by comparing it to\nphilosophy and:",
+    "options": [
+      {
+        "key": "A",
+        "text": "aesthetics.\nList I \tList II\n(Poet) \t(Language)\nA. Charles Baudelaire \tI. French\nB. Heinrich Heine \tII. German\nC. Sylvia Path \tIII. English\nD. Jose Marti \tIV. Spanish"
+      },
+      {
+        "key": "B",
+        "text": "ethics."
+      },
+      {
+        "key": "C",
+        "text": "history."
+      },
+      {
+        "key": "D",
+        "text": "religion."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-174",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.77",
+    "questionText": "Which of these poets wrote a poem that served to inspire W B Yeats to write his own poem, \"When\nyou are Old\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Francois Villon"
+      },
+      {
+        "key": "B",
+        "text": "Edmund Spencer"
+      },
+      {
+        "key": "C",
+        "text": "Heinrich Heine"
+      },
+      {
+        "key": "D",
+        "text": "Pierre de Ronsard"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-175",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.78",
+    "questionText": "Which of the following are poems by Nissim Ezekiel that make fun of Indians' use of English?\nA. \"Goodbye Party for Miss Pushpa T.S.\"\nB. \"Philosophy\"\nC. \"Very Indian Poem in Indian English\"\nD. \"Jewish Wedding in Bombay\"\nE. \"Poet, Lover, Birdwatcher\"\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and C only"
+      },
+      {
+        "key": "B",
+        "text": "A, B and D only"
+      },
+      {
+        "key": "C",
+        "text": "A, C and E only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-176",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.98",
+    "questionText": "Which two of the following writers does A. D. Hope address through his poetic responses in A Book\nof Answers?\nA. Tolstoy\nB. Dostoevsky\nC. Mallarme\nD. Goethe\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and C only"
+      },
+      {
+        "key": "B",
+        "text": "A and D only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-179",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.5",
+    "questionText": "Which one of the following best captures what we infer about the poet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "He believes in the efficacy of prayer."
+      },
+      {
+        "key": "B",
+        "text": "He is a foolish young man who thinks wisely."
+      },
+      {
+        "key": "C",
+        "text": "He is an old man wise as old are."
+      },
+      {
+        "key": "D",
+        "text": "He is old but happy in not being wise.\nRead the following poem and answer the questions that follow:\nA Prayer for Old Age\nGod guard me from those thoughts men think\nIn the mind alone;\nHe that sings a lasting song\nThinks in a marrow-bone;\nFrom all that makes a wise old man\nThat can be praised of all;\nO what am I that I should not seem\nFor the song's sake a fool?\nI pray--for fashion's word is out\nAnd prayer comes round again --\nThat I may seem, though I die old,\nA foolish, passionate man.\n- W.B.Yeats"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-180",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.13",
+    "questionText": "Match List I with List II\nList I(Book) \tList II\n(Poet)\nA. Anniversaries \tI. Abraham Cowley\nB. The Temple \tII. John Donne\nC. The Rehearsal Transpros’d \tIII. George Herbert\nD. Pindarique Odes \tIV. Andrew Marvell\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-I; B-IV; C-II; D-III"
+      },
+      {
+        "key": "B",
+        "text": "A-II; B-III; C-IV; D-I"
+      },
+      {
+        "key": "C",
+        "text": "A-III; B-I; C-IV; D-II"
+      },
+      {
+        "key": "D",
+        "text": "A-IV; B-II; C-I; D-III"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-181",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.14",
+    "questionText": "Arrange the following poems by W. B. Yeats in the chronological order of publication.\nA. “The Wild Swans at Coole”\nB. “The Second Coming”\nC. “Among School Children”\nD. “Adam’s Curse”\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "A, C, D, B"
+      },
+      {
+        "key": "B",
+        "text": "C, A, B, D"
+      },
+      {
+        "key": "C",
+        "text": "C, A, D, B"
+      },
+      {
+        "key": "D",
+        "text": "D, A, B, C"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-182",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.22",
+    "questionText": "In “The Life of Cowley” which two of the following criticisms were made by Samuel Johnson\nagainst a group of writers he termed the ‘metaphysical poets’?\nA. They made an inappropriate combination of wit and imagination.\nB. Instead of writing poetry, they only wrote verses.\n\n\nC. They neither copied nature nor life.\nD. They never tried to be singular in their thoughts.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "B and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U02-183",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.27",
+    "questionText": "Which two of the following poems are by Judith Wright?\nA. “Meditation on a Bone”\nB. “Imperial Adam”\n\n\nC. “Woman to Man”\nD. “The Old Prison”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-184",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.51",
+    "questionText": "Which two of the following are works by I. A. Richards?\nA. Concepts of Criticism\nB. Science and Poetry\nC. The Philosophy of Rhetoric\nD. English Literature in Our Time and the University\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and D only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U02-185",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.62",
+    "questionText": "In which book of Paradise Lost does Milton refer to “Agra and Lahore of Great Mogul”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Book III"
+      },
+      {
+        "key": "B",
+        "text": "Book IV"
+      },
+      {
+        "key": "C",
+        "text": "Book VII"
+      },
+      {
+        "key": "D",
+        "text": "Book XI"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-186",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.65",
+    "questionText": "Match List I with List II\nList I(Poem) \tList II (Poet)\nA. “The Road Not Taken \t” I. Pablo Neruda\nB. “Tonight I can Write the Saddest Lines \t” II. Robert Frost\nC. “I hear America Singing” \tIII. Langston Hughes\nD. \"I, too, Sing America\" \tIV. Walt Whitman\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A - I, B - II, C - III, D - IV"
+      },
+      {
+        "key": "B",
+        "text": "A - II, B - I, C - IV, D - III"
+      },
+      {
+        "key": "C",
+        "text": "A - III, B - II, C - IV, D - I"
+      },
+      {
+        "key": "D",
+        "text": "A - IV, B - I, C - II, D - III"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-187",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.79",
+    "questionText": "In his recasting the canon of English poetry in New Bearings in English Poetry which of the\nfollowing pairs was downgraded by F.R.Leavis ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Browning and Arnold"
+      },
+      {
+        "key": "B",
+        "text": "Milton and Shelley"
+      },
+      {
+        "key": "C",
+        "text": "Pound and Hopkins"
+      },
+      {
+        "key": "D",
+        "text": "Tennyson and Swinburne"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-188",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.84",
+    "questionText": "Arrange the following groups of poets in their chronological sequence in relation to English\nliterary history:\nA. The Imagist poets\nB. The Cavalier poets\nC. The Movement poets\nD. The Lake poets\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "B, D, A, C"
+      },
+      {
+        "key": "B",
+        "text": "B, D, C, A"
+      },
+      {
+        "key": "C",
+        "text": "D, A, B, C"
+      },
+      {
+        "key": "D",
+        "text": "D, B, A, C"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-189",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.89",
+    "questionText": "How does T.S.Eliot sum up the peculiar quality of Marvell’s “ Horatian Ode”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "‘a contrast of ideas, different in degree but the same in principle’"
+      },
+      {
+        "key": "B",
+        "text": "‘a tough reasonableness beneath a slight lyric grace’"
+      },
+      {
+        "key": "C",
+        "text": "‘heterogeneity of materials compelled into unity’"
+      },
+      {
+        "key": "D",
+        "text": "‘telescoping of images and multiplied associations’"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-190",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.95",
+    "questionText": "Which two are the works of Ted Hughes?\nA. Wildtrack\nB. Wodwo\nC. Lupercal\nD. Jack Straw’s Castle\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  }
+]

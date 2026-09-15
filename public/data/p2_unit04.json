@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "P2-U04-3",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.5",
+    "questionText": "Which of the following is not an autobiography?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Patrick White: A Life"
+      },
+      {
+        "key": "B",
+        "text": "Long Walk to Freedom"
+      },
+      {
+        "key": "C",
+        "text": "My Experiments with Truth"
+      },
+      {
+        "key": "D",
+        "text": "Akkarmashi (The Outcaste)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-4",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.13",
+    "questionText": "Match the LIST-I with LIST-II\nLIST - I\n(Text)\nLIST - II\n(Author)\n(a) Autobiography of an Unknown Indian \t(I) Dom Moraes\n(b) My Son's Father \t(II) A. S. Iyenger\n(c) All through the Gandhian Era \t(III) Sasthi Brata\n(d) My God Died Young \t(IV) Nirad C. Chaudhary\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-5",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.87",
+    "questionText": "Arrange the following works in the chronological sequence of their year of publication:\n(a) Mathews Arnold's Culture and Anarchy\n(b) Thomas Browne's The Anatomy of Melancholy\n(c) P. B. Shelley's Defence of Poetry\n(d) Thomas Hobbes' Leviathan\n(e) Walter Pater's Studies in the History of the Renaissance\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (c), (b), (a), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (e), (a), (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d), (c), (a), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U04-6",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.89",
+    "questionText": "Arrange the following in chronological order of their year of publication:\n(a) Fraser's Magazine\n(b) The Spectator\n(c) The Westminster Review\n(d) The Quarterly Review\n(e) Edinburg Review\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d), (e), (a), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(e), (d), (c), (b), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (c), (a), (b), (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U04-7",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.14",
+    "questionText": "Arrange the following works of Dr. B.R. Ambedkar in the correct chronological order of their\npublication.\n(a) Mr. Gandhi and Emancipation of Untouchables\n(b) The Annihilation of Caste\n(c) The Problem of the Rupee: Its Origin and its Solution\n(d) Federation Versus Freedom\n(e) Buddha and his Dhamma\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d), (e), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (b), (a), (d), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (b), (d), (a), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (a), (d), (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-8",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.28",
+    "questionText": "While documenting, when is a block quotation used in prose?",
+    "options": [
+      {
+        "key": "A",
+        "text": "If a quotation runs in more than four lines."
+      },
+      {
+        "key": "B",
+        "text": "If a quotation runs in more than five lines."
+      },
+      {
+        "key": "C",
+        "text": "If a quotation runs in more than three lines."
+      },
+      {
+        "key": "D",
+        "text": "If a quotation runs in more than two lines."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-9",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.70",
+    "questionText": "Which periodical was started by Joseph Addison and Richard Steele after closing of the\nSpectator in 1712?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tatller"
+      },
+      {
+        "key": "B",
+        "text": "Guardian"
+      },
+      {
+        "key": "C",
+        "text": "Gentleman's Magazine"
+      },
+      {
+        "key": "D",
+        "text": "Athenian Mercury"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-10",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.81",
+    "questionText": "Which among the following statements are true about 'The Autobiography of An Unknown\nIndian'?\n(a) It is an autobiographical text written by Nirad C. Chaudhary\n(b) It is a text of partition literature.\n(c) Unabashed Anglophilia of the author made this work controversial.\n(d) It was published in 1951.\n(e) It primarily raises the question of communal conflicts.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c), (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (b), (a) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b), (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-11",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.84",
+    "questionText": "Arrange the following works of 'Black British' writers in the correct chronological order of their\npublication.\n(a) Yasmin Alibhai-Brown's No Place Like Home\n(b) Mike Phillips's London Crossings: A Biography of Black Britain\n(c) Ekow Eshun's Black Gold of the Sun: Searching for Home in England and Africa\n(d) George Lamming's The Pleasures of Exile\n(e) Caryl Phillips's The European Tribe\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (a), (e), (c), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (e), (a), (b), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (a), (e), (d)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-12",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.85",
+    "questionText": "Who among the following wrote that –\n“Poetry is not a branch of authorship: it is ‘the stuff of which one life is made’. The rest is ‘mere\noblivion’, a dead letter: for all that is worth remembering in life, is the poetry of it.”",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mary Shelley"
+      },
+      {
+        "key": "B",
+        "text": "Charles Lamb"
+      },
+      {
+        "key": "C",
+        "text": "William Hazlitt"
+      },
+      {
+        "key": "D",
+        "text": "S.T. Coleridge"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-13",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.88",
+    "questionText": "Identify the name of the essayist who made the following assertion:\n“If a man will begin with certainties, he shall end in doubts, but if will be content to begin with\ndoubts, he shall end in certainties.”",
+    "options": [
+      {
+        "key": "A",
+        "text": "Richard Hooker"
+      },
+      {
+        "key": "B",
+        "text": "Sir Francis Bacon"
+      },
+      {
+        "key": "C",
+        "text": "Sir Richard Steele"
+      },
+      {
+        "key": "D",
+        "text": "Joseph Addison"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-14",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.62",
+    "questionText": "\"An Introduction\" by Kamla Das is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A short story on the theme of people's rights and freedom"
+      },
+      {
+        "key": "B",
+        "text": "An introduction to her autobiography My Story"
+      },
+      {
+        "key": "C",
+        "text": "A poem of resistance and protest"
+      },
+      {
+        "key": "D",
+        "text": "An essay on the theme of gender rights"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-15",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.70",
+    "questionText": "Which among the following is not written by a sportsperson?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Open: An Autobiography"
+      },
+      {
+        "key": "B",
+        "text": "Unbreakable: An Autobiography"
+      },
+      {
+        "key": "C",
+        "text": "Playing It My Way: My Autobiography"
+      },
+      {
+        "key": "D",
+        "text": "A Country Called Childhood: A Memoir"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-16",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.78",
+    "questionText": "“I am a sick man... I am a spiteful man. I am an unattractive man. I think my liver is diseased.\"\nThese are the opening lines of:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gabriel Garcia Marquez's Love in the Time of Cholera"
+      },
+      {
+        "key": "B",
+        "text": "Dostoevsky's Notes from Underground"
+      },
+      {
+        "key": "C",
+        "text": "Albert Camus’ The Plague"
+      },
+      {
+        "key": "D",
+        "text": "Daniel Defoe's A Journal of the Plague Year"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U04-17",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.6",
+    "questionText": "Which of the following works have been authored by Thomas Carlyle?\n(a) Chartism\n(b) Past and Present\n(c) The French Revolution\n(d) Suspiria de Profundis\n(e) The English Mail Coach\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-18",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.15",
+    "questionText": "Thomas Hobbes’s philosophical tract Leviathan was first published in ________",
+    "options": [
+      {
+        "key": "A",
+        "text": "1631"
+      },
+      {
+        "key": "B",
+        "text": "1641"
+      },
+      {
+        "key": "C",
+        "text": "1651"
+      },
+      {
+        "key": "D",
+        "text": "1661"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "1651: Coined/Proposed by Thomas Hobbes (*Leviathan*)"
+  },
+  {
+    "id": "P2-U04-19",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.46",
+    "questionText": "The debate on ‘the condition of England question’ was initiated by ________",
+    "options": [
+      {
+        "key": "A",
+        "text": "William Hazlitt"
+      },
+      {
+        "key": "B",
+        "text": "Walter Bagehot"
+      },
+      {
+        "key": "C",
+        "text": "Thomas Carlyle"
+      },
+      {
+        "key": "D",
+        "text": "Matthew Arnold"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-20",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.61",
+    "questionText": "The author of The Golden Bough, a text that influenced Eliot’s poetry and criticism substantially, is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Ruskin"
+      },
+      {
+        "key": "B",
+        "text": "James George Frazer"
+      },
+      {
+        "key": "C",
+        "text": "Thomas Carlyle"
+      },
+      {
+        "key": "D",
+        "text": "David Wilson"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U04-21",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.34",
+    "questionText": "Joseph Addison was associated with which of the following?\n(a) The London Magazine\n(b) The Spectator\n(c) The Gentleman's Magazine\n(d) The Tatler\n(e) The Rambler\nChoose the Correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-22",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.39",
+    "questionText": "Who among the following are the writers of Secular prose in the 14th century?\n(a) John of Trevisa\n(b) Julian of Norwich\n(c) John Mandeville\n(d) Bernard of Clairvaux\n(e) Walter Hilton\nChoose the Correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-23",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.47",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) When I found myself on my feet, I looked about me,\nand must confess I never beheld a more entertaining\nprospect. The country round appeared like a continued\ngarden, and the inclosed fields, which were generally\nforty foot square, resembled so many beds of flowers.\n(I) A Description of City Shower\n(b) There is likewise another great advantage in my\nscheme, that it will prevent those voluntary abortions,\nand that horrid practice of women murdering their\nbastard children, alas, too frequent among us,\nsacrificing the poor innocent babes, I doubt, more to\navoid the expense than the shame, which would move\ntears and pity in the most savage and inhuman breast.\n(II) Gulliver's Travels\n(c) Having to no purpose used all peaceable endeavors,\nthe collected part of the semen, raised and inflamed,\nbecame adjust converted to choler, turned head upon\nthe spinal duct, and ascended to the brain.\n(III) A Modest Proposal\n(d) Sweeping from butchers’ stalls, dung, guts and blood,\nDrowned puppies, stinking sprats, all drenched in\n(IV) A Tale of Tub\n\n\nmud,\nDead cats, and turnip tops, come tumbling Down the\nflood.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-24",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.55",
+    "questionText": "Which among the following was NOT written by Thomas Carlyle?",
+    "options": [
+      {
+        "key": "A",
+        "text": "‘Signs of the Times’"
+      },
+      {
+        "key": "B",
+        "text": "Sartor Resartus"
+      },
+      {
+        "key": "C",
+        "text": "The Stones of Venice"
+      },
+      {
+        "key": "D",
+        "text": "The Life of John Sterling"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-25",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.17",
+    "questionText": "Samuel Pepys’ claim to fame rests on his",
+    "options": [
+      {
+        "key": "A",
+        "text": "Biography"
+      },
+      {
+        "key": "B",
+        "text": "Autobiography"
+      },
+      {
+        "key": "C",
+        "text": "Diary"
+      },
+      {
+        "key": "D",
+        "text": "Speculative Fiction"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-26",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.50",
+    "questionText": "Which of the following works have been authored by Thomas De Quincey?\n(a) Confessions of An English Opium Eater\n(b) The French Revolution\n(c) Hudibras\n(d) Autobiography\n(e) Suspiria De Profoundis\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (d)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-27",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.34",
+    "questionText": "The pamphlet The Power of Love (1643) proclaiming the importance of brotherhood as a means of\nachieving a radical change in social relationships was written by _____________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "George Saintsbury"
+      },
+      {
+        "key": "B",
+        "text": "William Walwyn"
+      },
+      {
+        "key": "C",
+        "text": "F R. Leavis"
+      },
+      {
+        "key": "D",
+        "text": "Gerrard Winstanley"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-28",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.38",
+    "questionText": "An Essay on the Principles of Human Action was written by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Charles Lamb"
+      },
+      {
+        "key": "B",
+        "text": "Jean Jacques Rousseau"
+      },
+      {
+        "key": "C",
+        "text": "William Godwin"
+      },
+      {
+        "key": "D",
+        "text": "William Hazlitt"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-29",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.39",
+    "questionText": "Which of the following is false about Frederick Douglass?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Douglass's autobiography belongs to the tradition of fugitive-slave narrative popular in the North\nbefore the Civil War."
+      },
+      {
+        "key": "B",
+        "text": "He provides a first-person account of his life spent in slavery."
+      },
+      {
+        "key": "C",
+        "text": "He was famous as an orator, dedicated to a black liberation movement."
+      },
+      {
+        "key": "D",
+        "text": "He wrote Up From Slavery."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-30",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.50",
+    "questionText": "Which of the following works have NOT been written by Thomas Carlyle?\n(a) Of Heroes and Hero-Worship\n(b) The French Revolution\n\n\n(c) Of Human Bondage\n(d) The Hour and the Man\n(e) Hudibras\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only."
+      },
+      {
+        "key": "C",
+        "text": "(a) and (d) only."
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e) only."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-31",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.51",
+    "questionText": "Which of the following works have NOT been authored by John Stuart Mill?\n(a) Subjection of Women\n(b) Thoughts on Parliamentary Reform\n(c) Past and Present\n(d) Explorations\n(e) On Liberty\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (e) only."
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d) only."
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e) only."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-32",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.83",
+    "questionText": "Find the chronological order of publication of the given works:\n(a) Boswell's Life of Johnson\n(b) Hobbes's Leviathan\n(c) Pepys's Diary\n(d) Bunyan's Pilgrim's Progress\n(e) Locke's Human Understanding\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (d), (e), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (d), (e), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (a), (b), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (e), (a), (c), (b)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-33",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.27",
+    "questionText": "Gaiutra Bahadur wrote an autobiographic novel titled",
+    "options": [
+      {
+        "key": "A",
+        "text": "An Era of Darkness"
+      },
+      {
+        "key": "B",
+        "text": "Dauka Puran"
+      },
+      {
+        "key": "C",
+        "text": "The Collie Woman"
+      },
+      {
+        "key": "D",
+        "text": "Rama's Banishment"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-34",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.79",
+    "questionText": "The Writer and the World by V.S. Naipaul is a",
+    "options": [
+      {
+        "key": "A",
+        "text": "novel"
+      },
+      {
+        "key": "B",
+        "text": "travelogue"
+      },
+      {
+        "key": "C",
+        "text": "collection of essays"
+      },
+      {
+        "key": "D",
+        "text": "non-fiction"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-35",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.80",
+    "questionText": "Given below are two statements:\nStatement (I): “…. he who discovers no God Whatever, how shall he discover Heroes, the\nVisible Temples of God\" is a statement by Thomas Carlyle.\nStatement (II): \"It is not that men are ill fed, but that they have no pleasure in the work by which\nthey make their bread, and therefore look to wealth as the only means of pleasure\" is a statement\nmade by John Ruskin.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-36",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.85",
+    "questionText": "Which among the following is true about the Tractarian Movement?\n(a) It was widespread across the world\n(b) The other leaders of the movement were Paul Newman and R.H. Fronde\n(c) The movement began with a sermon by John Keble in 1833\n(d) Pusey gave the movement cohesion, fame and a name\n(e) The ideal of the Christian Church was praised by Oxford Convocation\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-37",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.33",
+    "questionText": "Which of these books are written by Nirad C Chaudhuri?\n(a) The Continent of Circe\n(b) Principal Upanishads\n(c) A Passage to England\n(d) Our New Rulers\n(e) The Autobiography of an Unknown Indian\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (d) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-38",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.91",
+    "questionText": "According to the author, prose should be:",
+    "options": [
+      {
+        "key": "A",
+        "text": "socio-Political"
+      },
+      {
+        "key": "B",
+        "text": "subjective"
+      },
+      {
+        "key": "C",
+        "text": "as varied as human experience"
+      },
+      {
+        "key": "D",
+        "text": "as visual as other art forms"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-39",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.17",
+    "questionText": "In \"Politics and the English Language\" which two of the following 'tricks' are mentioned by George\nOrwell as 'bad habits' of English use?\nA. obsolete words\nB. pretentious diction\nC. dying metaphors\nD. false modifiers\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "B and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-40",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.19",
+    "questionText": "Given below are two statements:\nStatement I: Unlike scientific research, literary research does not have specific materials for\ninvestigation and scientific tools for reaching a conclusion and formulating a theory.\nStatement II: Literary research consists of critical interpretations of an author's work to the exclusion\nof biography and editing of texts.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are correct."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are incorrect."
+      },
+      {
+        "key": "C",
+        "text": "Statement I is correct but Statement II is incorrect."
+      },
+      {
+        "key": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U04-41",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.34",
+    "questionText": "Charles Lamb used the pseudonym Elia for writing in which of the following periodicals?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Athenaeum"
+      },
+      {
+        "key": "B",
+        "text": "London Magazine"
+      },
+      {
+        "key": "C",
+        "text": "The Edinburg Review"
+      },
+      {
+        "key": "D",
+        "text": "The Quarterly Review"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-42",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.45",
+    "questionText": "Arrange the following journals in the chronological order in which they started publication.\nA. The Tatler\nB. The Examiner\nC. The Review\nD. The Spectator\nChoose the correct answer from the options given below Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A, D, C, B"
+      },
+      {
+        "key": "B",
+        "text": "B, A, D, C"
+      },
+      {
+        "key": "C",
+        "text": "C, A, B, D"
+      },
+      {
+        "key": "D",
+        "text": "C, A, D, B"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-43",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.48",
+    "questionText": "Arrange the following periodicals in the chronological order in which they started publication:\nA. The Spectator\nB. The Tatler\nC. The Rambler\nD. The Critical Review\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A, B, C, D"
+      },
+      {
+        "key": "B",
+        "text": "A, D, B, C"
+      },
+      {
+        "key": "C",
+        "text": "B, A, C, D"
+      },
+      {
+        "key": "D",
+        "text": "B, C, D, A"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U04-44",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.76",
+    "questionText": "Match List I with List II\nList I \tList II\n(Essay) \t(Essayist)\nA. \"The Tory Fox Hunter\" \tI. Francis Bacon\nB. \"What I Believe\" \tII. Joseph Addison\nC. \"The Death of the Moth\" \tIII. E.M.Forster\n\n\nD. \"Of Ambition\" \tIV. Virginia Woolf\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A I , B III, C IV, D II"
+      },
+      {
+        "key": "B",
+        "text": "A II, B III, C IV, D I"
+      },
+      {
+        "key": "C",
+        "text": "A III , B IV, C II, D I"
+      },
+      {
+        "key": "D",
+        "text": "A IV , B I , C II, D III"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-45",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.53",
+    "questionText": "Who wrote the essay “My First Acquaintance with Poets”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Charles Lamb"
+      },
+      {
+        "key": "B",
+        "text": "John Ruskin"
+      },
+      {
+        "key": "C",
+        "text": "Thomas De Quincey"
+      },
+      {
+        "key": "D",
+        "text": "William Hazlitt"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-46",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.66",
+    "questionText": "Which of these countries does Montaigne’s essay, “Of Cannibals,” focus on primarily?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Borneo"
+      },
+      {
+        "key": "B",
+        "text": "Brazil"
+      },
+      {
+        "key": "C",
+        "text": "India"
+      },
+      {
+        "key": "D",
+        "text": "Japan"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U04-47",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.93",
+    "questionText": "Match List I with List II\nList I(Text) \tList II(Author)\nA. Advancement of Learning \tI. Susan Sontag\nB. Past and Present \tII. Francis Bacon\nC. English Traits \tIII. Thomas Carlyle\nD. Illness as Metaphor \tIV. R. W. Emerson\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A -I , B -III , C -IV , D -II"
+      },
+      {
+        "key": "B",
+        "text": "A -II , B -III , C -IV , D -I"
+      },
+      {
+        "key": "C",
+        "text": "A -III , B -IV , C -II , D -I"
+      },
+      {
+        "key": "D",
+        "text": "A -IV , B -I , C -II , D -III"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  }
+]

@@ -1,0 +1,4090 @@
+[
+  {
+    "id": "P2-U01-2",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.28",
+    "questionText": "Which of the following statements are correct about 'Litotes'?\n(a) It contains an understatement for emphasis.\n(b) It is not opposite of hyperbole.\n(c) It is used with laconic intentions.\n(d) It is used with ironic intentions.\n(e) It is used in dramatic context.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-3",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.29",
+    "questionText": "Shakespeare's Much Ado About Nothing is a:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tragi Comedy"
+      },
+      {
+        "key": "B",
+        "text": "Romantic Comedy"
+      },
+      {
+        "key": "C",
+        "text": "Pastoral Play"
+      },
+      {
+        "key": "D",
+        "text": "History Play"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-4",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.40",
+    "questionText": "Which among the following does not fall in the category of a Revenge Tragedy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Spanish Tragedy"
+      },
+      {
+        "key": "B",
+        "text": "The Jew of Malta"
+      },
+      {
+        "key": "C",
+        "text": "Hamlet"
+      },
+      {
+        "key": "D",
+        "text": "Cymbeline"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+  },
+  {
+    "id": "P2-U01-5",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.61",
+    "questionText": "The first folio of Shakespeare's plays appeared in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1664"
+      },
+      {
+        "key": "B",
+        "text": "1650"
+      },
+      {
+        "key": "C",
+        "text": "1631"
+      },
+      {
+        "key": "D",
+        "text": "1623"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-6",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.68",
+    "questionText": "Arrange the plays of William Shakespeare in the chronological order of their year of publication:\n(a) The Tempest\n(b) Love's Labour Lost\n(c) Twelfth Night\n(d) Much Ado About Nothing\n(e) A Mid Summer Night's Dream\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (e), (d), (c), (a)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (a), (d), (c), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c), (d), (b), (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U01-7",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.88",
+    "questionText": "Which of the following is not a character in William Congreve's The Way of the World?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fainall"
+      },
+      {
+        "key": "B",
+        "text": "Mirabell"
+      },
+      {
+        "key": "C",
+        "text": "Waitwell"
+      },
+      {
+        "key": "D",
+        "text": "Peachum"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-8",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.23",
+    "questionText": "Who among the following are the recipients of the Nobel Prize in Literature?\n(a) Orhan Pamuk\n(b) Somerset Maugham\n(c) Harold Pinter\n(d) Margaret Atwood\n(e) Herta Muller\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c), (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-9",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.24",
+    "questionText": "Who among the following friends of Everyman, the main protagonist of the best-known Morality\nplay, Everyman, stays with him when he leaves the world to face Death?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Beauty"
+      },
+      {
+        "key": "B",
+        "text": "Knowledge"
+      },
+      {
+        "key": "C",
+        "text": "Good Deeds"
+      },
+      {
+        "key": "D",
+        "text": "Strength"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-10",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.33",
+    "questionText": "Who among the following writers have played a significant role in the Australian Aboriginal\nMovements?\n(a) Judith Wright\n(b) Oodegeroo Noonuccal\n(c) Jack Davis\n(d) David Malouf\n(e) Kevin Gilbert\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(d), (e), (b) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-11",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.36",
+    "questionText": "The first regular English tragedy Gorboduc contains 5 acts; while the first 3 acts were written by\nThomas Norton, identify the author who wrote the remaining 2 acts-",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thomas Kyd"
+      },
+      {
+        "key": "B",
+        "text": "John Lyly"
+      },
+      {
+        "key": "C",
+        "text": "Thomas Sackville"
+      },
+      {
+        "key": "D",
+        "text": "Nicholas Udall"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-12",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.50",
+    "questionText": "Identify the historical plays not written by Shakespeare:\n(a) Henry the Third\n(b) Richard the Third\n(c) Richard the Second\n(d) Henry the Fifth\n(e) Richard the Fifth\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(d) and (b) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-13",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.56",
+    "questionText": "Who among the following did not belong to 'Angry Young Men' generation of British\nplaywrights/novelists?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Amis Kingsley"
+      },
+      {
+        "key": "B",
+        "text": "John Osborne"
+      },
+      {
+        "key": "C",
+        "text": "Colin Wilson"
+      },
+      {
+        "key": "D",
+        "text": "J.B. Priestley"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-14",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.57",
+    "questionText": "Match the List-I with List-II\nList - I\n(Comedy)\nList - II\n(a) The Man of Mode \t(I) Sir John Vanbrugh\n(b) The Country Wife \t(II) William Congreve\n(c) The Old Bachelor \t(III) William Wycherley\n(d) The Provoked Wife \t(IV) Sir George Etherege\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-15",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.64",
+    "questionText": "Which of the following statements are true about Bhavabhuti's Uttararamacharita?\n(a) The time-space of the play is divided into two broad sections/acts.\n(b) The first act of the play deals only with the birth and childhood of Rama.\n(c) it is a play based on the Ramayana.\n(d) Its theme has been derived from the last canto of the Ramayana.\n(e) In the second act of the play, Sita takes refuge in the hermitage of the sage, Visvamitra.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c), (d) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-16",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.65",
+    "questionText": "Match the List-I with List-II\nList - I\n(Theatre)\nList - II\n(Leading figure/Founder)\n(a) Abbey Theatre \t(I) Martin Esslin\n(b) Theatre of the Absurd \t(II) W.B. Yeats\n(c) Hope Theatre \t(III) Jean Jacques Barnard\n(d) Theatre of Silence \t(IV) Philip Henslowe\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(II), (c)-(IV), (d)-(I)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-17",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.68",
+    "questionText": "Who among the following observed that \"the artistic critic, like the mystic, is an antimonium\nalways?\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "Walter Pater"
+      },
+      {
+        "key": "B",
+        "text": "Oscar Wilde"
+      },
+      {
+        "key": "C",
+        "text": "Edgar Allan Poe"
+      },
+      {
+        "key": "D",
+        "text": "E.M. Forster"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U01-18",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.75",
+    "questionText": "A 'palindrome' is ___________.",
+    "options": [
+      {
+        "key": "A",
+        "text": "A recantation in song or verse"
+      },
+      {
+        "key": "B",
+        "text": "A play on words by alteration of letters."
+      },
+      {
+        "key": "C",
+        "text": "A word or sentence which reads the same both ways."
+      },
+      {
+        "key": "D",
+        "text": "A sequence of clauses or sentences which have a symmetrical structure."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-19",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.86",
+    "questionText": "Identify the plays that John Fletcher wrote in collaboration with Francis Beaumont:\n(a) The Faithful Shepherdess\n(b) The Loyal Subject\n(c) Cupid's Revenge\n(d) The Pilgrim\n(e) The Maid's Tragedy\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-20",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.87",
+    "questionText": "Which statement among the following rightly defines 'an invective'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Denunciatory, abusive or vituperative speech or writing"
+      },
+      {
+        "key": "B",
+        "text": "Eulogising speech, writing or act of a person"
+      },
+      {
+        "key": "C",
+        "text": "Speech or writing that establishes the belief in God"
+      },
+      {
+        "key": "D",
+        "text": "Speech or writing that is essentially appreciative of a person"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-21",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.88",
+    "questionText": "Arrange the following plays of G.B. Shaw in the correct chronological order of their publication:\n(a) Pygmalion\n(b) Man and Superman\n(c) Arms and the Man\n(d) Too True to be Good\n(e) Saint Joan\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c), (a), (e), (d)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (b), (a), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c), (b), (d), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (a), (c), (d), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-22",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.90",
+    "questionText": "Which among the following is not a play written by Eugene O'Neill?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Anna Christie"
+      },
+      {
+        "key": "B",
+        "text": "Strange Interlude"
+      },
+      {
+        "key": "C",
+        "text": "The Plough and the Stars"
+      },
+      {
+        "key": "D",
+        "text": "All God's Chillun Got Wings\nComprehension (91-95)\nAll round me are words, and words and words,\nThey grow on me like leaves, they never\nSeem to stop their slow growing\nFrom within... But I tell my self, words\nAre a nuisance, beware of them, they\nCan be so many things, a\nChasm where running feet must pause, to\nLook, a sea with paralyzing waves,\nA blast of burning air or, A knife most willing to cut your best\nFriend's throat... words are a nuisance, but.\nThey grow on me like leaves on a tree,\nThey never run to stop their coming,\nFrom a silence, somewhere deep within..."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-23",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.14",
+    "questionText": "Which one of the following plays mock the Restoration drama of Dryden and Thomas Otway?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Beggar’s Opera by John Gay"
+      },
+      {
+        "key": "B",
+        "text": "Tom Thumb by Henry Fielding"
+      },
+      {
+        "key": "C",
+        "text": "The Critic by R.B Sheridan"
+      },
+      {
+        "key": "D",
+        "text": "The Rehearsal by George Villiers"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U01-24",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.39",
+    "questionText": "Arrange the following plays in order of their publication.\n(a) Death of a Salesman by Arthur Miller\n(b) The Glass Menagerie by Tennessee Williams\n(c) Who is Afraid of Virginia Wolf? by Edward Albee\n(d) The Iceman Cometh by Eugene O'Neil\n(e) Twelve Angry Man by Reginald Rose\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (e), (b), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (b), (e), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(d), (c), (b), (a), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (a), (e), (c)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-25",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.43",
+    "questionText": "Match the List-I with List-II\nList - I\n(Term)\nList - II\n(Meaning)\n(a) Catastrophe \t(I) the introductory part of a play or narrative poem\n(b) Epitasis \t(II) The final action that completes the unravelling of the plot in a\nplay, especially a tragedy.\n(c) Protasis \t(III) The dramatic complication that immediately precedes the climax\nof the play.\n(d) Catastasis \t(IV) The part of the play that develops the main action and that lends\nto the catastrophe\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-26",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.48",
+    "questionText": "Chronologically arrange the Rudiom playwrights in order of their birth\n(a) Asif Currimbhoy\n(b) Nissim Ezekiel\n(c) Cyrus Mistry\n(d) Mahesh Dattani\n(e) Gurcharan Das\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (e), (c), (b)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (b), (c), (e), (a)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (e), (d), (b), (c)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (a), (e), (c), (d)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-27",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.49",
+    "questionText": "Which one of the following is not a screen adaptation of Shakespeare’s The Comedy of Errors?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Boys from Syracuse"
+      },
+      {
+        "key": "B",
+        "text": "Angoor"
+      },
+      {
+        "key": "C",
+        "text": "Do Dooni Char"
+      },
+      {
+        "key": "D",
+        "text": "Love in a Wood"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-28",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.58",
+    "questionText": "Which one of the following plays by Henrik Ibsen was described ‘as an open sewer’?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A Doll’s House"
+      },
+      {
+        "key": "B",
+        "text": "An Enemy of the People"
+      },
+      {
+        "key": "C",
+        "text": "Ghosts"
+      },
+      {
+        "key": "D",
+        "text": "The Wild Duck"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-29",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.61",
+    "questionText": "Arrange the following plays by Shakespeare in order of their production/publication.\n(a) Twelfth Night\n(b) The Taming of the Shrew\n(c) Much Ado About Nothing\n\n\n(d) Romeo and Juliet\n(e) The Winter’s Tale\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d), (c), (b), (a), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (a), (e), (c)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (d), (c), (b), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d), (c), (a), (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Twelfth Night: Coined/Proposed by *What You Will* (William Shakespeare (1601–02))"
+  },
+  {
+    "id": "P2-U01-30",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.73",
+    "questionText": "Absalom, Absalom! is –",
+    "options": [
+      {
+        "key": "A",
+        "text": "a novel by William Faulkner"
+      },
+      {
+        "key": "B",
+        "text": "a satirical poem by John Dryden"
+      },
+      {
+        "key": "C",
+        "text": "a drama by G.B. Shaw"
+      },
+      {
+        "key": "D",
+        "text": "a poem by P.B. Shelley"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-31",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.81",
+    "questionText": "The Birth of Tragedy from the Spirit of Music by Friedrich Nietzsche-\n(a) Examines the origins and development of poetry, specifically Greek tragedy.\n(b) Argues that Socratic rationalism and optimism led to the death of Greek tragedy.\n(c) Examines the origin of music and dance in ancient Greece.\n(d) Argues that Greek tragedy arose out of the fusion of Apollonian and Dionysian elements.\n(e) Argues that the music is the spirit of tragedy.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c), (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d), (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c), (d) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-32",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.83",
+    "questionText": "Big Daddy is a fictional character in –",
+    "options": [
+      {
+        "key": "A",
+        "text": "the novel Ninety Eighty Four by George Orwell"
+      },
+      {
+        "key": "B",
+        "text": "the play Cat on a Hot Tin Roof by Tennessee William"
+      },
+      {
+        "key": "C",
+        "text": "the play Look back in Anger by John Osborne"
+      },
+      {
+        "key": "D",
+        "text": "the novel Brave New World by Aldous Huxley"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-33",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.96",
+    "questionText": "What tone does the passage predominantly convey?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nostalgic and sentimental"
+      },
+      {
+        "key": "B",
+        "text": "Urgent and alarmed"
+      },
+      {
+        "key": "C",
+        "text": "Detached and reflective"
+      },
+      {
+        "key": "D",
+        "text": "Suspenseful and dramatic"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-35",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.11",
+    "questionText": "Who among the following is the earliest available Indian dramatist?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bhavabhuti"
+      },
+      {
+        "key": "B",
+        "text": "Kalidas"
+      },
+      {
+        "key": "C",
+        "text": "Bhasa"
+      },
+      {
+        "key": "D",
+        "text": "Rajashekhar"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-36",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.36",
+    "questionText": "The term 'simulacra' in postmodern discourse is about:\n(a) Absence of vivid representation of reality\n(b) Artificially produced reality dubbed as authentic\n(c) A rejection of modernistic view of reality\n(d) The gap between the perception and reality\n(e) The psychological interplay at the level of subconscious\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (c) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-37",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.48",
+    "questionText": "Which of the following characteristics of She Stoops to Conquer is not correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is endowed with an ingenious and lively plot."
+      },
+      {
+        "key": "B",
+        "text": "It does not cast excellent characters."
+      },
+      {
+        "key": "C",
+        "text": "It has a vivacious and delightful style."
+      },
+      {
+        "key": "D",
+        "text": "It lacks the Restoration grossness."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "She Stoops to Conquer: Coined/Proposed by *The Mistakes of a Night* (Oliver Goldsmith (1773))"
+  },
+  {
+    "id": "P2-U01-38",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.49",
+    "questionText": "How many major forms of drama have been described by Bharata in his manual of dramaturgy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seven"
+      },
+      {
+        "key": "B",
+        "text": "Three"
+      },
+      {
+        "key": "C",
+        "text": "Four"
+      },
+      {
+        "key": "D",
+        "text": "Ten"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-39",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.56",
+    "questionText": "Which of the following is true about Arthur Miller's plays?\n(a) After the Fall is a semi-autobiographical play.\n(b) Incident of Vichy deals with Nazi prosecution of the Jews.\n(c) The Price anticipates economic crash.\n(d) The Creation of the World is not a serio-comic re-writing of the story of Jesus.\n(e) The Crucible uses a specific setting to consider the responsibilities of the artist.\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(e) and (a) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-40",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.65",
+    "questionText": "Which of the following qualities of heroic treatment was not needed in the plays of the\nUniversity Wits?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Splendid descriptions"
+      },
+      {
+        "key": "B",
+        "text": "Long swelling speeches"
+      },
+      {
+        "key": "C",
+        "text": "The handling of violent incidents and emotions"
+      },
+      {
+        "key": "D",
+        "text": "Lives of common figures"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-41",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.71",
+    "questionText": "Who of the following was the immediate predecessor of the drama proper?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Interlude"
+      },
+      {
+        "key": "B",
+        "text": "The Morality Play"
+      },
+      {
+        "key": "C",
+        "text": "The Miracle Play"
+      },
+      {
+        "key": "D",
+        "text": "The Liturgical Play"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-42",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.75",
+    "questionText": "Which of the following is true about Samuel Beckett's Waiting for Godot?\n(a) It illustrates vanity of human kind.\n(b) It has uncompromising views on humanitarian communism.\n(c) It projects self-deception, striving to disguise failure.\n(d) It is a static representation without structure or development.\n(e) It's incoherent dialogue suggests despair of a society.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-43",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.80",
+    "questionText": "In Absurd Theatre, the characters often use disjointed, repetitive and clichéd speech to:\n(a) Suggest that meaninglessness is also about a meaning.\n(b) Suggest the working of the subconscious.\n(c) Bring about the comic action and relief.\n(d) Illustrate the illogical and purposelessness of human condition.\n(e) Defy the self-professed 'modern' notion of dignity and wisdom.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (d) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-44",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.100",
+    "questionText": "It is easy to find words for ideas than for forces because:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ideas are embedded in forces"
+      },
+      {
+        "key": "B",
+        "text": "Forces are embedded in ideas"
+      },
+      {
+        "key": "C",
+        "text": "Two elements are synonymously defined"
+      },
+      {
+        "key": "D",
+        "text": "Forces are abstract"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-46",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.9",
+    "questionText": "Ted Hughes’ Wodwo is",
+    "options": [
+      {
+        "key": "A",
+        "text": "a volume named from the wild men of the woods of Sir Gawain and the Green Knight."
+      },
+      {
+        "key": "B",
+        "text": "a volume named after the elves of the masque of The Tempest."
+      },
+      {
+        "key": "C",
+        "text": "a volume named after the central character of Pearl."
+      },
+      {
+        "key": "D",
+        "text": "a volume named after the name of the monster of Beowulf."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-47",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.22",
+    "questionText": "Which two of the following plays have been written by Edward Albee?\n(a) The Zoo Story\n(b) The price\n(c) A Delicate Balance\n(d) Fences\n(e) Operation Sidewinder\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) & (d)"
+      },
+      {
+        "key": "B",
+        "text": "(b) & (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a) & (c)"
+      },
+      {
+        "key": "D",
+        "text": "(b) & (c)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-48",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.24",
+    "questionText": "Identify the works written by Richard Brinsley Sheridan:\n(a) Richelieu\n(b) St Patrick’s Day\n(c) The Duenna\n(d) The Citizen of the World\n(e) Irene\nChoose the Correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) & (b)"
+      },
+      {
+        "key": "B",
+        "text": "(c) & (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b) & (c)"
+      },
+      {
+        "key": "D",
+        "text": "(a) & (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-49",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.32",
+    "questionText": "Which three of the following plays were written by Sanskrit dramatist Bhasa?\n(a) Carudatta\n(b) Ratnavali\n(c) Urubhanga\n(d) Malavikagnimitram\n(e) Karnabharam\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-50",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.45",
+    "questionText": "What does Pierre Bourdieu imply by the term ‘habitus’ in his sociological studies?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The culture of increasing consumerisation of post-capitalist societies."
+      },
+      {
+        "key": "B",
+        "text": "The phenomenon of the masses succumbing to material fetishism of different types."
+      },
+      {
+        "key": "C",
+        "text": "A person’s posture, speech and the mental habit of perception, classification, appreciation, feeling and\naction."
+      },
+      {
+        "key": "D",
+        "text": "Personal habits that do not impact the society profoundly."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-51",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.48",
+    "questionText": "Which of the following works are written by John Dennis?\n(a) The Advancement and Reformation of Modern Poetry\n(b) The Christian Hero\n(c) The Grounds of Criticism in Poetry\n(d) The Conscious Lovers\n(e) An Essay on the Genius and Writings of Shakespeare\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U01-52",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.50",
+    "questionText": "Name the play during the performance of which the Globe Theatre was burned down in 1613.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Henry VI"
+      },
+      {
+        "key": "B",
+        "text": "Henry VIII"
+      },
+      {
+        "key": "C",
+        "text": "Richard II"
+      },
+      {
+        "key": "D",
+        "text": "Richard III"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-53",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.57",
+    "questionText": "“The Love Song of J. Alfred Prufrock” names the following figures:\n(a) Ezra Pound\n(b) Michelangelo\n(c) Valerie Eliot\n(d) Hamlet\n(e) Walt Whitman\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-54",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.70",
+    "questionText": "Which two of the following plays were written by Ben Jonson?\n(a) Flowers for Latin Speaking\n(b) The Devil is an Ass\n(c) Sapho and Phao\n(d) The Woman in the Moon\n(e) The Staple of News\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-55",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.74",
+    "questionText": "Some of the following are significant texts of Victorian Criticism. Identify them.\n(a) Studies in the History of the Renaissance\n(b) From Rituals to Romance\n(c) “Hamlet and His Problems”\n(d) “The Function of Criticism in the Present Time”\n(e) Modern Painters\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (d) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U01-56",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.81",
+    "questionText": "Name the book in which Peter Brook makes a study of late 1940s theatre.",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Empty Space"
+      },
+      {
+        "key": "B",
+        "text": "Experimental Drama"
+      },
+      {
+        "key": "C",
+        "text": "After Brecht: British Epic Theatre"
+      },
+      {
+        "key": "D",
+        "text": "Around the Absurd: Essays on Modern and Postmodern Drama"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-57",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.82",
+    "questionText": "Which two of the following dramatists have won the Sultan Padamsee Award?\n(a) Mahesh Dattani\n(b) Gurcharan Das\n(c) Girish Karnad\n(d) Cyrus Mistry\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) & (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) & (d)"
+      },
+      {
+        "key": "C",
+        "text": "(b) & (c)"
+      },
+      {
+        "key": "D",
+        "text": "(a) & (d)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Gurcharan Das: Coined/Proposed by *Larins Sahib* (1968), *Mira*, *9 Jakhoo Hill* (Sultan Padamsee Award (1968) for *Larins Sahib* (set in 1846 Punjab after First Anglo-Sikh War).)"
+  },
+  {
+    "id": "P2-U01-58",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.84",
+    "questionText": "Statement (I): The book The Life of the Drama was written by Eric Bentley.\nStatement (II): The book The Life of the Drama highlights the lives of certain seminal twentieth century\ndramatists.\n\n\nIn the light of the statements given above, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is true but Statement (II) is false"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-59",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.86",
+    "questionText": "The character who discusses the relative merits of French drama and English drama in Essay of Dramatic\nPoesy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neander"
+      },
+      {
+        "key": "B",
+        "text": "Lisideius"
+      },
+      {
+        "key": "C",
+        "text": "Crites"
+      },
+      {
+        "key": "D",
+        "text": "Eugenius"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-62",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.9",
+    "questionText": "Who among the following is the author of the novel titled Typee: A Peep at Polynesian Life?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Walt Whitman"
+      },
+      {
+        "key": "B",
+        "text": "Herman Melville"
+      },
+      {
+        "key": "C",
+        "text": "Mark Twain"
+      },
+      {
+        "key": "D",
+        "text": "Tennessee Williams"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-63",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.11",
+    "questionText": "Which of these plays feature the rehearsal of a play within the body of the main play?\n(a) William Shakespeare’s Julius Caesar\n(b) Luigi Pirandello’s Six Characters in Search of an Author\n(c) Arthur Miller’s Death of a Salesman\n(d) Alfred Jarry’s Ubu Roi\n(e) Vijay Tendulkar’s Silence! The Court is in Session\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "D",
+        "text": "(c) and (d)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-64",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.12",
+    "questionText": "Which of the following explains the difference between Conceptual Research and Empirical Research?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The former of the two is related to some abstract idea(s) or theory, and the latter relies on experience and\nobservation alone."
+      },
+      {
+        "key": "B",
+        "text": "The former of the two is based on the measurement of quantity or amount, and the latter is concerned\nwith qualitative phenomena."
+      },
+      {
+        "key": "C",
+        "text": "The former of the two includes surveys and fact-finding enquiries, and the latter uses information already\navailable to make a critrical evaluation of the material"
+      },
+      {
+        "key": "D",
+        "text": "The former aims at finding a solution for an immediate problem, and the latter is concerned mainly with\ngeneralizations and formulation of theory."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-65",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.20",
+    "questionText": "Who, among the following, has written Lear (a play), an adaptation of Shakespeare’s King Lear?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Edward Bond"
+      },
+      {
+        "key": "B",
+        "text": "Arthur Miller"
+      },
+      {
+        "key": "C",
+        "text": "Steven Berkoff"
+      },
+      {
+        "key": "D",
+        "text": "Virginia Woolf"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-66",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.23",
+    "questionText": "Which of these do M K Naik and Shyamala Narayan claim about Indian English Drama in Indian English\nLiterature: 1980-2000: A Critical Survey?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is a dynamic genre"
+      },
+      {
+        "key": "B",
+        "text": "It is the sick man of Indian English literature"
+      },
+      {
+        "key": "C",
+        "text": "It is deeply rooted in the Indian folk tradition"
+      },
+      {
+        "key": "D",
+        "text": "It is essentially a diasporic phenomenon"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "2000: Coined/Proposed by Kiran Nagarkar (*Cuckold*)"
+  },
+  {
+    "id": "P2-U01-67",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.24",
+    "questionText": "Which of the following were written by Thomas Love Peacock?\n(a) Headlong Hall\n(b) Nightmare Abbey\n(c) Imaginary Conversations\n(d) The Spirit of the Age\n(e) Specimens of the English Dramatic Poets who Lived about the Time of Shakespeare\nChoose the Correct answer from the options given below |",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-68",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.26",
+    "questionText": "Who among the following is the author of the collection of stories named Reginald in Russia?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hector Hugh Munro ‘Saki’"
+      },
+      {
+        "key": "B",
+        "text": "Leo Tolstoy"
+      },
+      {
+        "key": "C",
+        "text": "Oscar Wilde"
+      },
+      {
+        "key": "D",
+        "text": "William Carlos Williams"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-69",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.33",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Charles Lamb \t(I) Imaginary Conversations\n(b) William Hazlitt \t(II) Specimens of the English Dramatic Poets who Lived about\nthe Time of Shakespeare\n(c) Walter Savage Landor \t(III) Characters of Shakespeare's Plays\n(d) Thomas Love Peacock \t(IV) Gryll Grange\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-70",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.42",
+    "questionText": "Which of these are plays written by Bertolt Brecht?\n(a) The Caucasian Chalk Circle\n(b) Galileo\n(c) Copernicus\n(d) Archimedes\n(e) Man Equals Man\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (d)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-71",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.43",
+    "questionText": "Which two plays of Anton Chekhov made creative use of Shakespeare’s Hamlet?\n(a) A Marriage Proposal\n(b) Three Sisters\n(c) The Cherry Orchard\n(d) Uncle Vanya\n(e) The Seagull\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (d)"
+      },
+      {
+        "key": "B",
+        "text": "(c) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-72",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.48",
+    "questionText": "Who among the following had observed in the pamphlet titled ‘Plays Confuted in Five Actions’ (1582), “I\nmay boldly say it, because I have seen it, that . . . bawdy comedies in Latin, French, Italian, and Spanish,\nhave been thoroughly ransacked to furnish the playhouses in London.”",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ben Jonson"
+      },
+      {
+        "key": "B",
+        "text": "George Gascoigne"
+      },
+      {
+        "key": "C",
+        "text": "Stephen Gosson"
+      },
+      {
+        "key": "D",
+        "text": "George Farquhar"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-73",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.49",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Ernest Hemingway \t(I) Typee: A Peep at Polynesian Life\n(b) William Faulkner \t(II) Light in August\n(c) Herman Melville \t(III) The Tragedy of Pudd'nhead Wilson\n(d) Mark Twain \t(IV) Across The River And Into The Trees\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(III), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-74",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.51",
+    "questionText": "Which of the following two plays have been written by Arthur Miller?\n(a) They Too Arise\n(b) The Real Thing\n(c) Some Kind of Love Story\n(d) Tiny Alice\n(e) The Crying of Lot 49\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (d)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-75",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.60",
+    "questionText": "Who among the following displays an influence of the Yakshagana folk tradition in his plays?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vijay Tendulkar"
+      },
+      {
+        "key": "B",
+        "text": "Girish Karnad"
+      },
+      {
+        "key": "C",
+        "text": "Badal Sircar"
+      },
+      {
+        "key": "D",
+        "text": "Utpal Dutt"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Girish Karnad: Coined/Proposed by *Yayati* (1961), *Tughlaq* (1964), *Hayavadana* (1971), *Naga-Mandala* (1988), *Tale Danda* (1990), *Fire and the Rain* (1995) (Jnanpith Award (1998); Sangeet Natak Akademi Award (1972); translated his own Kannada plays into English.)"
+  },
+  {
+    "id": "P2-U01-76",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.62",
+    "questionText": "Arrange the following chronologically in accordance with their date of birth:\n(a) Goethe\n(b) Oscar Wilde\n(c) Bertolt Brecht\n(d) Eugene O’Neill\n(e) Moliere\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d), (c), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (e), (a), (c), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (a), (b), (e)"
+      },
+      {
+        "key": "D",
+        "text": "(e), (a), (b), (d), (c)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-77",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.66",
+    "questionText": "Find the chronological order of Thomas Hardy’s poetry publications:\n(a) “Channel Firing”\n(b) “The Darkling Thrush”\n(c) “In Time of the Breaking of Nations”\n(d) “He Never Expected Much”\n(e) “A Trampwoman’s Tragedy”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (e), (a), (c), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e), (b), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (c), (a), (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-78",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.70",
+    "questionText": "Name the playwright who has written Gallathea?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Robert Greene"
+      },
+      {
+        "key": "B",
+        "text": "Thomas Lodge"
+      },
+      {
+        "key": "C",
+        "text": "Thomas Nashe"
+      },
+      {
+        "key": "D",
+        "text": "John Lyly"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-79",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.79",
+    "questionText": "Who among the following, as the proprietor of the Rose theatre, repaired it in 1592 and in 1595, and spent\nsubstantial sums on renovating and expanding his theatre?",
+    "options": [
+      {
+        "key": "A",
+        "text": "James Burbage"
+      },
+      {
+        "key": "B",
+        "text": "Philip Henslowe"
+      },
+      {
+        "key": "C",
+        "text": "Richard Burbage"
+      },
+      {
+        "key": "D",
+        "text": "Francis Langley"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-80",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.7",
+    "questionText": "Who among the following, after watching the performance of William Shakespeare’s play, A\nMidsummer Night's Dream, observed that “it is the most insipid, ridiculous play that I ever saw in\nmy life.”",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Evelyn"
+      },
+      {
+        "key": "B",
+        "text": "Samuel Pepys"
+      },
+      {
+        "key": "C",
+        "text": "John Dryden"
+      },
+      {
+        "key": "D",
+        "text": "Robert Greene"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-81",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.8",
+    "questionText": "Name the playwright who wrote the play Epicoene, or the Silent Woman?",
+    "options": [
+      {
+        "key": "A",
+        "text": "William Congreve"
+      },
+      {
+        "key": "B",
+        "text": "Thomas Kyd"
+      },
+      {
+        "key": "C",
+        "text": "Ben Jonson"
+      },
+      {
+        "key": "D",
+        "text": "Thomas Farquhar"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-82",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.10",
+    "questionText": "Choose from the following options the correct combination of playwrights who contributed to the\nmovement called “Kitchen Sink Drama”.",
+    "options": [
+      {
+        "key": "A",
+        "text": "John Osborne, Arnold Wesker, Shelagh Delaney and John Arden"
+      },
+      {
+        "key": "B",
+        "text": "John Osborne, Arnold Wesker, Harold Pinter and Shelagh Delaney"
+      },
+      {
+        "key": "C",
+        "text": "John Osborne, Arnold Wesker, Antonin Artaud and John Arden"
+      },
+      {
+        "key": "D",
+        "text": "John Osborne, Harold Pinter, Shelagh Delaney and John Arden"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-83",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.11",
+    "questionText": "Choose from the following options the correct combination of the plays which made significant use\nof expressionistic techniques:",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Hairy Ape, Machinal, All My Sons, Waiting for Lefty"
+      },
+      {
+        "key": "B",
+        "text": "The Hairy Ape, The Crucible, Rapid Transit, The Adding Machine"
+      },
+      {
+        "key": "C",
+        "text": "The Hairy Ape, Rapid Transit, All My Sons, The Adding Machine"
+      },
+      {
+        "key": "D",
+        "text": "The Hairy Ape, The Emperor Jones, Rapid Transit, The Adding Machine"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-84",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.12",
+    "questionText": "Apart from Bertolt Brecht others who have influenced Epic theatre are:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Erwin Piscator and Antonin Artaud"
+      },
+      {
+        "key": "B",
+        "text": "Martin Esslin and Max Reinhardt"
+      },
+      {
+        "key": "C",
+        "text": "Erwin Piscator and Max Reinhardt"
+      },
+      {
+        "key": "D",
+        "text": "Constantin Stanislavski and Max Reinhardt"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-85",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.40",
+    "questionText": "Which of the following plays of William Shakespeare was translated into Bengali and directed by\nGirish Chandra Ghosh.",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Tempest"
+      },
+      {
+        "key": "B",
+        "text": "Hamlet"
+      },
+      {
+        "key": "C",
+        "text": "Macbeth"
+      },
+      {
+        "key": "D",
+        "text": "King Lear"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-86",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.41",
+    "questionText": "Which of the following works of Browning are pure dramas?\n(a) Strafford\n(b) The Last Ride Together\n(c) A Blot in the ’Scutcheon\n(d) Pippa Passes\n(e) Porphyria’s Lover\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (c)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-87",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.44",
+    "questionText": "Which of the following are plays written by Harold Pinter?\n(a) Family Voices\n(b) A Moon for the Misbegotten\n(c) The Room\n(d) No Man’s Land\n(e) Krapp s Last Tape\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-88",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.45",
+    "questionText": "Which of the following have NOT been written by Mahesh Dattani?\n(a) Dance Like a Man\n(b) Fire and the Rain\n(c) On A Muggy Night in Mumbai\n(d) A Touch of Brightness\n(e) Bravely Fought the Queen\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Mahesh Dattani: Coined/Proposed by *Where There's a Will* (1988), *Tara* (1990), *Final Solutions* (1993), *Bravely Fought the Queen* (1991), *Dance Like a Man* (Sultan Padamsee Award for *Tara*; Sahitya Akademi Award (1998) (first Indian playwright writing in English to win).)"
+  },
+  {
+    "id": "P2-U01-89",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.46",
+    "questionText": "Name the dramas which fall within the category of the Theatre of the Absurd.\n(a) The Birthday Party\n(b) Endgame\n(c) Mrs. Warren's Profession\n(d) The Rhinoceros\n(e) Riders to the Sea\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+  },
+  {
+    "id": "P2-U01-90",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.47",
+    "questionText": "Which of the playwrights have been correctly matched with their works?\n(a) William Wycherly — The Rivals\n(b) Ben Jonson — Volpone, or the Fox\n(c) William Congreve - The Country Wife\n(d) Aphra Behn — The Dutch Lover\n(e) Richard Sheridan –A School for Scandal\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c), (d) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(b), (d) and (e)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-91",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.48",
+    "questionText": "Choose the plays written by Lord Byron\n(a) Sardanapalus\n(b) Hellas\n(c) Cain\n(d) The Two Foscari: An Historical Tragedy\n(e) The Cenci\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (e)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (d)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (d)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-92",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.68",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Come what come may, Time\nand the hour runs through the\nroughest day\n(I) Othello\n(b) When sorrows come they Come\nnot single spies, But in battalions\n(II) King Lear\n(c) I am a man more sinned against\nthan sinning\n(III) Macbeth\n(d) But I will wear my heart upon my\nsleeve For daws to peck at: I am\nnot what I am.\n(IV) Hamlet\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(I), (b)-(II), (c)-(IV), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-93",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.69",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) You can't eat the orange and\nthrow the peel away - a man is not\na piece of fruit\n(I) Man and Superman\n(b) Liberty means responsibility That\nis why most men dread it.\n(II) Doll’s House\n(c) Nobody thinks. nobody cares. No\nbeliefs, no convictions and no\nenthusiasm. Just another Sunday\nevening.\n(III) Death of a Salesman\n(d) Our home has been nothing but a\nplayroom. I have been your doll-\nwife, just as at home I was papa's\ndoll- child: and here the children\nhave been my dolls\n(IV) Look Back in Anger\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(III), (c)-(II), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(IV), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-94",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.80",
+    "questionText": "Arrange the works in the chronological order of the staging/ publication of the following plays:\n(a) A Woman Killed with Kindness\n(b) John Bull’s Other Island\n(c) The Double Dealer\n(d) The Shoemaker's Holiday\n(e) The Conscious Lovers\nChoose the correct answers from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (c), (a) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (a), (c), (e) and (b)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (a), (b) and (e)"
+      },
+      {
+        "key": "D",
+        "text": "(e), (b), (d), (c) and (a)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-95",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.81",
+    "questionText": "Arrange the works in chronological sequence:\n(a) The Theatre of Revolt by Robert Brustein\n(b) The Theater of the Absurd by Martin Esslin\n(c) The Playwright as Thinker by Eric Bentley\n(d) Modern American Drama by C.W.E Bigsby\n(e) Modern Drama in Theory and Practice by L. N. Styan\nChoose the correct answers from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (c), (d), and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(e), (c), (d), (a), and (b)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (d), (a), (e), and (c)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (b), (a), (e), and (d)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-96",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.86",
+    "questionText": "Given below are two statements:\nStatement (I): The Book The Theatre of Revolt was written by Robert Brustein\nStatement (II): The Book The Theatre of Revolt is written in the context of French Revolution.\n\n\nIn the light of the statements given above choose the correct answer given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-97",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.87",
+    "questionText": "Given below are two statements:\nStatement (I): Constantin Stanislavski collaborated with Anton Chekhov to stage dramas on stage.\nStatement (II): The book My Life in Art was written by Constantin Stanislavski.\nIn the light of the statements given above choose the correct answer given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-99",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.7",
+    "questionText": "Name the playwright who has written Larins Sahib.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gieve Patel"
+      },
+      {
+        "key": "B",
+        "text": "Dina Mehta"
+      },
+      {
+        "key": "C",
+        "text": "Gurcharan Das"
+      },
+      {
+        "key": "D",
+        "text": "Pratap Sharma"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-100",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.9",
+    "questionText": "Name the playwright who composed the play A Woman Killed with Kindness.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Francis Beaumont"
+      },
+      {
+        "key": "B",
+        "text": "Beaumont and Fletcher"
+      },
+      {
+        "key": "C",
+        "text": "Thomas Kyd"
+      },
+      {
+        "key": "D",
+        "text": "Thomas Heywood"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-101",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.10",
+    "questionText": "Name the celebrated actor who played the leading role in the first production of JohnOsborne's The\nEntertainer (1957).",
+    "options": [
+      {
+        "key": "A",
+        "text": "Peter Brook"
+      },
+      {
+        "key": "B",
+        "text": "Laurence Olivier"
+      },
+      {
+        "key": "C",
+        "text": "Al Pacino"
+      },
+      {
+        "key": "D",
+        "text": "Robert De Niro"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-103",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.45",
+    "questionText": "Identify the plays written by Asif Currimbhoy from the following:\n(a) Princes\n(b) The Captives\n(c) An Experiment with Truth\n(d) Angkor\n(e) Dance Like a Man\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (d) only."
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only."
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (c) only."
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (e) only."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-104",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.46",
+    "questionText": "Which of the following are the plays written by Robert Greene?\n(a) The Famous Chronicle of King Edward the First\n(b) Alphonsus\n(c) A Moon for the Misbegotten\n(d) The Old Wives' Tale\n(e) King of Aragon\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b) and (d) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (e) only."
+      },
+      {
+        "key": "C",
+        "text": "(b) and (e) only."
+      },
+      {
+        "key": "D",
+        "text": "(c) and (e) only."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-105",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.47",
+    "questionText": "Which of the following two plays were written by W. B. Yeats?\n(a) The Land of Heart's Desire\n(b) Time and the Conways\n(c) The Silver Tassie\n(d) The Countess Cathleen\n(e) The Plough and the Stars\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c) and (d) only."
+      },
+      {
+        "key": "B",
+        "text": "(a) and (d) only."
+      },
+      {
+        "key": "C",
+        "text": "(a) and (e) only."
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e) only."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-106",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.69",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Some are born great, others\nachieve greatness\n(I) The Tempest\n(b) Love looks not with the eyes, but\nwith the mind, and therefore is\nwinged Cupid painted blind\n(II) The Comedy of\nErrors\n(c) Ill deeds is doubled with an evil\nword\n(III) A Midsummer\nNight's Dream\n(d) We are such stuff as dreams are\nmade on, and our little life is\nrounded with a sleep\n(IV) Twelfth Night\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III) (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Twelfth Night: Coined/Proposed by *What You Will* (William Shakespeare (1601–02))"
+  },
+  {
+    "id": "P2-U01-107",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.86",
+    "questionText": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason\n(R).\nAssertion (A): In extensive reading, the teachers play the main role.\nReason (R): The aim of extensive reading is to enrich learners' knowledge.\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)."
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is not correct."
+      },
+      {
+        "key": "D",
+        "text": "(A) is not correct but (R) is correct."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-108",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.87",
+    "questionText": "Given below are two statements:\nStatement (I): \"Anagenesis\" is the final part of the drama just after the climax in which there is\nresolution for any conflicts left in the plot.\nStatement (II): \"Anagenesis\" is the turning point of the play where audience observes unpredictable\nchange in the play.\nIn light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false"
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false"
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-109",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.91",
+    "questionText": "The poet and his father shove back the furniture to",
+    "options": [
+      {
+        "key": "A",
+        "text": "sleep well."
+      },
+      {
+        "key": "B",
+        "text": "to play a game."
+      },
+      {
+        "key": "C",
+        "text": "to create space for more furniture."
+      },
+      {
+        "key": "D",
+        "text": "to lie down to contemplate."
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-111",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.8",
+    "questionText": "Who among the following were poet Laureates of England?\n(a) Alfred Austin\n(b) Robert Bridges\n(c) Watts-Dunton\n(d) Oscar Wilde\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (c) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-112",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.11",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) Gender and Nation \t(I) Catherine Belsey\n(b) Greek Homosexuality \t(II) K.J. Dover\n(c) The Subject of Tragedy \t(III) W.E.B. Du Bois\n(d) The Souls of Black Folk \t(IV) Nira Yuval-Davis\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(II), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-113",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.13",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) O’ Henry \t(I) The Last Suttee\n(b) Rudyard Kipling \t(II) Beauty\n(c) Oscar Wilde \t(III) At Verona\n(d) Ralph Waldo Emerson \t(IV) Hard to Forget\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(IV), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(I), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(I), (b)-(III), (c)-(II), (d)-(IV)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-114",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.14",
+    "questionText": "Who among the following has authored The Revengers Tragadie?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cyril Tourneur"
+      },
+      {
+        "key": "B",
+        "text": "John Webster"
+      },
+      {
+        "key": "C",
+        "text": "John Fletcher"
+      },
+      {
+        "key": "D",
+        "text": "Thomas Heywood"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-115",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.28",
+    "questionText": "Canadian Multiculturalism Act was passed in the year:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1958"
+      },
+      {
+        "key": "B",
+        "text": "1968"
+      },
+      {
+        "key": "C",
+        "text": "1978"
+      },
+      {
+        "key": "D",
+        "text": "1988"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U01-116",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.36",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) Hamlet \t(I) 1606\n(b) Macbeth \t(II) 1599\n(c) Julius Caesar \t(III) 1604\n(d) Othello \t(IV) 1600\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(I), (b)-(II), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(IV), (b)-(I), (c)-(II), (d)-(III)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-117",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.40",
+    "questionText": "Who among the following attached himself to the Earl of Nottingham's theatrical company?",
+    "options": [
+      {
+        "key": "A",
+        "text": "William Shakespeare"
+      },
+      {
+        "key": "B",
+        "text": "Christopher Marlowe"
+      },
+      {
+        "key": "C",
+        "text": "George Peele"
+      },
+      {
+        "key": "D",
+        "text": "Ben Johnson"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-118",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.47",
+    "questionText": "Besides being a playwright, who among the following has translated Homer?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ben Johnson"
+      },
+      {
+        "key": "B",
+        "text": "Thomas Dekker"
+      },
+      {
+        "key": "C",
+        "text": "Thomas Heywood"
+      },
+      {
+        "key": "D",
+        "text": "George Chapman"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-119",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.70",
+    "questionText": "Given below are two statements:\nStatement (I): According to W.H. Auden, The Importance of Being Earnest is the purest\nexample in English Literature of a 'Verbal Opera'.\nStatement (II): Oscar Wilde possessed profound insight into the range of the arts that in a\ncombined form make theatre performance possible.\nIn the light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false."
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-120",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.84",
+    "questionText": "Consumerism is a major theme in which of the following works?\n(a) Loyalties\n(b) Saint Joan of Stockyards\n(c) Death of a salesman\n(d) Candida\n(e) Waiting for Godot\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(d) and (a) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-121",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.90",
+    "questionText": "Match List I with List II:\nList I \tList II\n(a) To the Light house \t(I) 1913\n(b) Sons and Lovers \t(II) 1927\n(c) Finnegan Wake \t(III) 1939\n(d) The Waste Land \t(IV) 1922\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(II), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)\nRead the following passage, and answer the questions that follow: (91-95)\nHowever, faced with this world of faithful and complicated objects, the child can only identify himself\nas owner, as user, never as creator, he does not invent the world, he uses it: there are, prepared for him,\nactions without adventure, without wonder, without joy. He is turned into a little stay-at-home\nhouseholder who does not even have to invent the mainsprings of adult causality: they are supplied to\nhim ready-made: he has only to help himself, he is never allowed to discover anything from start to\nfinish. The merest set of blocks, provided it is not too refined, implies a very different learning of the\nworld: then, the child does not in any way create meaningful objects, it matters little to him whether\nthey have an adult name; the actions he performs are not those of a user but those of a demiurge. He\ncreates forms which walk, which roll, he creates life, not property: objects now act by themselves, they\nare no longer an inert and complicated material in the palm of his hand."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "The Waste Land: Coined/Proposed by Epigraph: The Sibyl of Cumae (Petronius' *Satyricon*) (T.S. Eliot (1922))"
+  },
+  {
+    "id": "P2-U01-122",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.7",
+    "questionText": "Dev Virahsawmy's Toufann is an adaptation of Shakespeare's play _______ .",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hamlet"
+      },
+      {
+        "key": "B",
+        "text": "Macbeth"
+      },
+      {
+        "key": "C",
+        "text": "The Twelfth Night"
+      },
+      {
+        "key": "D",
+        "text": "The Tempest"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Twelfth Night: Coined/Proposed by *What You Will* (William Shakespeare (1601–02))"
+  },
+  {
+    "id": "P2-U01-123",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.13",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) \"There is no art to find mind's\nconstruction in the face\".\n(I) Hamlet\n(b) \"Time out of joint\". \t(II) Richard III\n(c) ''The better part of valour is discretion\", \t(III) Macbeth\n(d) \"My Kingdom for a horse\". \t(IV) Twelfth Night\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Twelfth Night: Coined/Proposed by *What You Will* (William Shakespeare (1601–02))"
+  },
+  {
+    "id": "P2-U01-124",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.25",
+    "questionText": "Match List I with List II\nList I \tList II\n(a) Doll Common \t(I) Twelfth Night\n(b) Malvolio \t(II) The Alchemist\n(c) Mortimer \t(III) The Duchess of Malfi\n(d) Bosola \t(IV) Edward II\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(I), (b)-(IV), (c)-(III), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Twelfth Night: Coined/Proposed by *What You Will* (William Shakespeare (1601–02))"
+  },
+  {
+    "id": "P2-U01-125",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.35",
+    "questionText": "The concept of ' eugenics\" finds its illustration predominantly in the writings of\n(a) John Osborne\n(b) George Bernad Shaw\n(c) Eugene O'Neil\n(d) Harold Pinter\n(e) Arthur Miller\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-126",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.56",
+    "questionText": "Who among the following has used lines from the Shakespearean play Othello to critique racism\nin one of his poems?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Edward Braithwaite"
+      },
+      {
+        "key": "B",
+        "text": "Franz Fanon"
+      },
+      {
+        "key": "C",
+        "text": "Derek Alton Walcott"
+      },
+      {
+        "key": "D",
+        "text": "Ng𝑢𝑢�g𝚤𝚤̃ wa Thiong'o"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-127",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.68",
+    "questionText": "What are the points of convergence between Derrida and Barthes?\n(a) Both believe in the endless play in language and literary texts\n(b) Both conclude that the meaning of a text is not final.\n(c) Both construe that language has retrospective power.\n(d) They believe that no meaning is reliable.\n\n\n(e) They believe that \"the relationship between words, meanings and texts are intrinsic to\nmeaning rather than the word itself.\"\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (b), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(c), (d) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-128",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.80",
+    "questionText": "Given below are two statements:\nStatement (I): The theatre was at a greater popularity in Eighteenth century England.\nStatement (II): Theatre had court patronage in and around London.\nIn light of the above statements, choose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement (I) and Statement (II) are true."
+      },
+      {
+        "key": "B",
+        "text": "Both Statement (I) and Statement (II) are false."
+      },
+      {
+        "key": "C",
+        "text": "Statement (I) is true but Statement (II) is false."
+      },
+      {
+        "key": "D",
+        "text": "Statement (I) is false but Statement (II) is true."
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-129",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.92",
+    "questionText": "In the above passage, Walter Horatio Pater's statement. \"Imaginative prose should be special\"\nimplies:",
+    "options": [
+      {
+        "key": "A",
+        "text": "abstract language"
+      },
+      {
+        "key": "B",
+        "text": "environmental crisis"
+      },
+      {
+        "key": "C",
+        "text": "intellectual complexities"
+      },
+      {
+        "key": "D",
+        "text": "metaphorical functions"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-130",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.8",
+    "questionText": "How did the ‘sport with Tess' end?",
+    "options": [
+      {
+        "key": "A",
+        "text": "She was hanged."
+      },
+      {
+        "key": "B",
+        "text": "She died an untimely death."
+      },
+      {
+        "key": "C",
+        "text": "She was expelled from Wintoncester."
+      },
+      {
+        "key": "D",
+        "text": "The tormentor married her.\nRead the following extract and answer the questions that follow:\nThe solemn temples, the great globe itself,\nYea, all which it inherit, shall dissolve\nAnd, like this insubstantial pageant faded,\nLeave not a rack behind. We are such stuff\nAs dreams are made on, and our little life\nIs rounded with a sleep.\nShakespeare, The Tempest"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-131",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.10",
+    "questionText": "'This insubstantial pageant' refers to:",
+    "options": [
+      {
+        "key": "A",
+        "text": "a non real performance."
+      },
+      {
+        "key": "B",
+        "text": "enactment with support structure."
+      },
+      {
+        "key": "C",
+        "text": "the destroyed mother earth."
+      },
+      {
+        "key": "D",
+        "text": "the shutdown of Globe theatre."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-132",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.11",
+    "questionText": "Match List I with List II\nList I \tList II\n(Author) \t(Form)\nA. Pindar \tI. Epinici\nB. Menander \tII. Old Comedy\nC. Sappho \tIII. Lyric Poetry\nD. Aristophanes \tIV. New Comedy\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "A \tI, B \tIII, C \tII, \tD \tIV,"
+      },
+      {
+        "key": "B",
+        "text": "A \tI, B \tIV, \tC \tIII, D \tII"
+      },
+      {
+        "key": "C",
+        "text": "A \tII, B \tI, C \tIV, \tD \tIII"
+      },
+      {
+        "key": "D",
+        "text": "A \tIII, B \tIV,C \tI, D – II\n12.Which of the following novels has its epigraph taken from the Katha Upanishad?"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-133",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.25",
+    "questionText": "Match List I with List II\nList I \tList II\n(Play) \t(Playwright)\nA. Bertolt Brecht \tI. Cat on a Hot Tin Roo\nB. Tennessee Williams \tII. Life of Galileo\nC. Vaclav Havel \tIII. Miss Julie\nD. August Strindberg \tIV. Temptation\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A \tI, B \tII, C \tIV, D \tIII"
+      },
+      {
+        "key": "B",
+        "text": "A \tII, B \tI, C \tIV, D \tIII"
+      },
+      {
+        "key": "C",
+        "text": "A \tIII, B \tII, C \tI, D \tIV"
+      },
+      {
+        "key": "D",
+        "text": "A \tIV, B \tIII, C \tI, D – II"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-134",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.38",
+    "questionText": "Which of the following are features of the 'Theatre of the Absurd'?\nA. emphasis on the central role of Godin the universe\nB. presentation of futile actions devoid of any goal\nC. portrayal of situations that point to the meaningfulness of life\nD. lacking in conflicts and dramatic tensions\nE. presenting players in a stasis or drift without definite roles\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A, Band D only"
+      },
+      {
+        "key": "B",
+        "text": "A, C and E only"
+      },
+      {
+        "key": "C",
+        "text": "B, C and D only"
+      },
+      {
+        "key": "D",
+        "text": "B, D and E only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-135",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.43",
+    "questionText": "Who among the following, is known to have used elements from the Yakshagana tradition in his\ntheatre?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mahesh Dattani"
+      },
+      {
+        "key": "B",
+        "text": "Badal Sircar"
+      },
+      {
+        "key": "C",
+        "text": "Girish Karnad"
+      },
+      {
+        "key": "D",
+        "text": "Mohan Rakesh"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Mahesh Dattani: Coined/Proposed by *Where There's a Will* (1988), *Tara* (1990), *Final Solutions* (1993), *Bravely Fought the Queen* (1991), *Dance Like a Man* (Sultan Padamsee Award for *Tara*; Sahitya Akademi Award (1998) (first Indian playwright writing in English to win).)"
+  },
+  {
+    "id": "P2-U01-136",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.44",
+    "questionText": "Arrange the following plays in their chronological sequence:\nA. Sergeant Musgrave's Dance\nB. The Playboy of the Western World\nC. Look Back in Anger\nD. Man and Superman\nChoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "B, D, A, C"
+      },
+      {
+        "key": "B",
+        "text": "B, D, C, A"
+      },
+      {
+        "key": "C",
+        "text": "D, B, A, C"
+      },
+      {
+        "key": "D",
+        "text": "D, B, C, A"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-137",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.51",
+    "questionText": "Which two of the following conform to Northrop Frye's typology of literature?\nA. Mythos of spring: Comedy\nB. Mythos of summer: Satire\nC. Mythos of autumn: Tragedy\nD. Mythos of winter: Romance\nChoose the correct answer from the options given below: Options:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "B and D only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-138",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.64",
+    "questionText": "What might the speaker mean when he addresses 'Time' in a Shakespearean sonnet and\ndeclares that \"I will be true, despite thy scythe and thee \"?\nA. Time preserves human life.\nB. With time comes change.\nC. Time creates opportunities.\nD. Time removes human life.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-139",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.67",
+    "questionText": "Which of these plays by Girish Karnad shares its theme with Thomas Mann's The Transposed\nHeads?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tale Danda"
+      },
+      {
+        "key": "B",
+        "text": "Yayati, Option"
+      },
+      {
+        "key": "C",
+        "text": "Nagamandala"
+      },
+      {
+        "key": "D",
+        "text": "Hayavadana"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Girish Karnad: Coined/Proposed by *Yayati* (1961), *Tughlaq* (1964), *Hayavadana* (1971), *Naga-Mandala* (1988), *Tale Danda* (1990), *Fire and the Rain* (1995) (Jnanpith Award (1998); Sangeet Natak Akademi Award (1972); translated his own Kannada plays into English.)"
+  },
+  {
+    "id": "P2-U01-140",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.85",
+    "questionText": "Given below are two statements\nStatement I: In Waiting for Godot, it is Vladimir who questions the Boy who comes from Godot\ntowards the end of the two Acts.\nStatement II: \tIn Waiting for Godot, it is Estragon who says, \"Nothing happens, nobody comes,\nnobody goes, it's awful.\"\nIn light of the above statements, choose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-141",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.87",
+    "questionText": "What was poor Yorick in Hamlet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actor"
+      },
+      {
+        "key": "B",
+        "text": "Gravedigger"
+      },
+      {
+        "key": "C",
+        "text": "Jester"
+      },
+      {
+        "key": "D",
+        "text": "Soldier"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-142",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.93",
+    "questionText": "Which two of the following stage directions are from Harold Pinter's The Birthday Party?\nA. The living room of a house on a seaside town.\nB. A garbage pail on the ground next to the porch steps.\nC. A light shows from upstairs bedroom, lower floor windows being dark.\nD. He hangs the drum around his neck, taps it gently with the sticks, then marches round the table,\nbeating it regularly.\n\n\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and C only"
+      },
+      {
+        "key": "B",
+        "text": "A and D only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-143",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.8",
+    "questionText": "What is the ‘system’ of which Dombey and Son were the centre?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The British political system"
+      },
+      {
+        "key": "B",
+        "text": "The country’s commerce"
+      },
+      {
+        "key": "C",
+        "text": "The family business"
+      },
+      {
+        "key": "D",
+        "text": "The workings of nature\nRead the following extract and answer the questions that follow:\nIs man no more than this? Consider him well. Thou ow'st the worm no silk, the beast no hide,\nthe sheep no wool, the cat no perfume. --- Ha! here's three on's are sophisticated. Thou art the\nthing itself; unaccommodated man is no more than such a poor, bare, forked animal as thou art.\n- Shakespeare, King Lear"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-144",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.9",
+    "questionText": "Is man no more than this?’ means:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Accomodated man is well endowed."
+      },
+      {
+        "key": "B",
+        "text": "As an animal, man is a superior animal."
+      },
+      {
+        "key": "C",
+        "text": "Man is far more than what he seems to be."
+      },
+      {
+        "key": "D",
+        "text": "Man is not as well endowed as some other animals.\nRead the following extract and answer the questions that follow:\nIs man no more than this? Consider him well. Thou ow'st the worm no silk, the beast no hide,\nthe sheep no wool, the cat no perfume. --- Ha! here's three on's are sophisticated. Thou art the\nthing itself; unaccommodated man is no more than such a poor, bare, forked animal as thou art.\n- Shakespeare, King Lear"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-145",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.10",
+    "questionText": "Which one of the following best captures what Shakespeare means?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Animals unlike man are more complex."
+      },
+      {
+        "key": "B",
+        "text": "Animals’ attributes are external."
+      },
+      {
+        "key": "C",
+        "text": "Man can accommodate same properties."
+      },
+      {
+        "key": "D",
+        "text": "Man just uses what animals possess."
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-146",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.31",
+    "questionText": "Given below are two statements\nStatement I: The opening and closing lines of Waiting for Godot are spoken by Estragon.\nStatement II: Towards the end of the play Waiting for Godot, Estragon echoes Pozzo’s\nstatement,\n“They give birth astride of a grave . . .”\nIn light of the above statements,\nchoose the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both Statement I and Statement II are false"
+      },
+      {
+        "key": "B",
+        "text": "Both Statement I and Statement II are true,"
+      },
+      {
+        "key": "C",
+        "text": "Statement I is false but Statement II is true"
+      },
+      {
+        "key": "D",
+        "text": "Statement I is true but Statement II is false"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-147",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.35",
+    "questionText": "Which book by J.G. Ballard is about a virus that freezes anything it comes in contact with?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Concrete Island"
+      },
+      {
+        "key": "B",
+        "text": "Kingdom Come"
+      },
+      {
+        "key": "C",
+        "text": "The Crystal World"
+      },
+      {
+        "key": "D",
+        "text": "The Drowned World"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-148",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.48",
+    "questionText": "Which Shakespearean comedy is structured as a play within a play?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A Midsummer Night’s Dream"
+      },
+      {
+        "key": "B",
+        "text": "Love’s Labour’s Lost"
+      },
+      {
+        "key": "C",
+        "text": "The Comedy of Errors"
+      },
+      {
+        "key": "D",
+        "text": "The Taming of the Shrew"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-149",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.52",
+    "questionText": "Which character in Hamlet utters the line: “Something is rotten in the state of Denmark”?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bernardo"
+      },
+      {
+        "key": "B",
+        "text": "Ghost"
+      },
+      {
+        "key": "C",
+        "text": "Horatio"
+      },
+      {
+        "key": "D",
+        "text": "Marcellus"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-150",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.56",
+    "questionText": "Match List I with List II\nList I \tList II\nPlays \tPlaywrights\nA. Madmen and Specialists \tI. Dennis Scott\nB. The Sea at Dauphin \tII. Wole Soyinka\nC. The Trial of Dedan Kimathi \tIII. Derek Walcott\nD. An Echo in the Bone \tIV. Ngugi wa Thiong’o\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A -II , B -III , C -I , D -IV"
+      },
+      {
+        "key": "B",
+        "text": "A -II , B -III , C -IV , D - I"
+      },
+      {
+        "key": "C",
+        "text": "A -III , B -I , C -IV , D -II"
+      },
+      {
+        "key": "D",
+        "text": "A -III , B -IV , C -II , D -I"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+  },
+  {
+    "id": "P2-U01-151",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.75",
+    "questionText": "Which of these themes best sums up the preoccupation of most of Vijay Tendulkar’s plays?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dynamics of media"
+      },
+      {
+        "key": "B",
+        "text": "Motivations of crime"
+      },
+      {
+        "key": "C",
+        "text": "Workings of love triangles"
+      },
+      {
+        "key": "D",
+        "text": "Workings of power"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-152",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.76",
+    "questionText": "Which of these characters figure in Samuel Beckett’s Waiting for Godot?\nA. Estragon\nB. Pozzo\nC. Bassanio\nD. Murphy\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "A and D only"
+      },
+      {
+        "key": "C",
+        "text": "B and C only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-153",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.80",
+    "questionText": "What term did Bertolt Brecht use for his mode of drama-writing to distinguish it from traditional\ntheatre?",
+    "options": [
+      {
+        "key": "A",
+        "text": "epic theatre"
+      },
+      {
+        "key": "B",
+        "text": "kitchen-sink theatre"
+      },
+      {
+        "key": "C",
+        "text": "musical theatre"
+      },
+      {
+        "key": "D",
+        "text": "proletarian theatre"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-154",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.87",
+    "questionText": "Which of the following are true of the dramatic legacy of Ben Jonson?\nA. Jonson’s physiological interpretation of character and personality did not have any precedent.\n\n\nB. Taking after the practice of the Moralities and Interludes, Jonson named his dramatis personae\naptronymically.\nC. Chapman’s All Fools and Middleton’s A Trick to Catch the Old One belong to the genre of\nComedy of Humours that Jonson is said to have pioneered.\nD. John Marston and Thomas Dekker collaborated with Jonson in writing for a children’s\ncompany of players.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and B only"
+      },
+      {
+        "key": "B",
+        "text": "B and C only"
+      },
+      {
+        "key": "C",
+        "text": "C and D only"
+      },
+      {
+        "key": "D",
+        "text": "D and A only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  }
+]

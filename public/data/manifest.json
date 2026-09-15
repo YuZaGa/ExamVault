@@ -1,0 +1,149 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-09-15T12:18:08.839Z",
+  "totalQuestions": 7897,
+  "totalPaper2": 1145,
+  "totalPaper1": 6752,
+  "units": [
+    {
+      "paper": 2,
+      "unitId": 1,
+      "title": "Drama",
+      "questionCount": 146,
+      "fileName": "p2_unit01.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 2,
+      "title": "Poetry",
+      "questionCount": 172,
+      "fileName": "p2_unit02.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 3,
+      "title": "Fiction & Short Story",
+      "questionCount": 417,
+      "fileName": "p2_unit03.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 4,
+      "title": "Non-Fictional Prose",
+      "questionCount": 45,
+      "fileName": "p2_unit04.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 5,
+      "title": "Language, Linguistics & ELT",
+      "questionCount": 41,
+      "fileName": "p2_unit05.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 6,
+      "title": "English in India",
+      "questionCount": 14,
+      "fileName": "p2_unit06.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 7,
+      "title": "Cultural Studies",
+      "questionCount": 55,
+      "fileName": "p2_unit07.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 8,
+      "title": "Literary Criticism",
+      "questionCount": 100,
+      "fileName": "p2_unit08.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 9,
+      "title": "Literary Theory",
+      "questionCount": 142,
+      "fileName": "p2_unit09.json"
+    },
+    {
+      "paper": 2,
+      "unitId": 10,
+      "title": "Research Methods in English",
+      "questionCount": 13,
+      "fileName": "p2_unit10.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 1,
+      "title": "Teaching Aptitude",
+      "questionCount": 2279,
+      "fileName": "p1_unit01.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 2,
+      "title": "Research Aptitude",
+      "questionCount": 722,
+      "fileName": "p1_unit02.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 3,
+      "title": "Reading Comprehension",
+      "questionCount": 379,
+      "fileName": "p1_unit03.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 4,
+      "title": "Communication",
+      "questionCount": 583,
+      "fileName": "p1_unit04.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 5,
+      "title": "Mathematical Reasoning",
+      "questionCount": 209,
+      "fileName": "p1_unit05.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 6,
+      "title": "Logical Reasoning",
+      "questionCount": 493,
+      "fileName": "p1_unit06.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 7,
+      "title": "Data Interpretation",
+      "questionCount": 407,
+      "fileName": "p1_unit07.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 8,
+      "title": "ICT (Information & Communication Tech)",
+      "questionCount": 599,
+      "fileName": "p1_unit08.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 9,
+      "title": "People, Development & Environment",
+      "questionCount": 474,
+      "fileName": "p1_unit09.json"
+    },
+    {
+      "paper": 1,
+      "unitId": 10,
+      "title": "Higher Education System",
+      "questionCount": 607,
+      "fileName": "p1_unit10.json"
+    }
+  ]
+}
