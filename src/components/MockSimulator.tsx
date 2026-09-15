@@ -45,6 +45,22 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
   const [totalTime, setTotalTime] = useState(0);
   const timerRef = useRef<any>(null);
 
+  // Maintain fresh refs for timer-triggered callbacks
+  const answersRef = useRef(answers);
+  answersRef.current = answers;
+
+  const questionsRef = useRef(questions);
+  questionsRef.current = questions;
+
+  const timeRemainingRef = useRef(timeRemaining);
+  timeRemainingRef.current = timeRemaining;
+
+  const totalTimeRef = useRef(totalTime);
+  totalTimeRef.current = totalTime;
+
+  const selectedMockRef = useRef(selectedMock);
+  selectedMockRef.current = selectedMock;
+
   const toggleStar = (q: Question) => {
     const isNowStarred = storageService.toggleStar(q);
     setDoubtStarred(prev => ({ ...prev, [q.id]: isNowStarred }));
@@ -52,39 +68,59 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
 
   const startMock = async (paper: 1 | 2) => {
     setLoading(true);
-    setSelectedMock(paper);
-    const qs = await questionService.generateMockExam(paper);
-    setQuestions(qs);
-    const durationSecs = paper === 1 ? 60 * 60 : 120 * 60; // 60m for P1, 120m for P2
-    setTotalTime(durationSecs);
-    setTimeRemaining(durationSecs);
-    setAnswers({});
-    setMarkedForReview({});
-    setVisited({ 0: true });
-    setCurrentIndex(0);
-    setIsSubmitted(false);
-    setLoading(false);
+    try {
+      const qs = await questionService.generateMockExam(paper);
+      const durationSecs = paper === 1 ? 60 * 60 : 120 * 60; // 60m for P1, 120m for P2
+      setQuestions(qs);
+      setTotalTime(durationSecs);
+      setTimeRemaining(durationSecs);
+      setAnswers({});
+      setMarkedForReview({});
+      setVisited({ 0: true });
+      setCurrentIndex(0);
+      setIsSubmitted(false);
+      // Set selectedMock AFTER time and questions are fully initialized so timer starts immediately
+      setSelectedMock(paper);
+    } catch (err) {
+      console.error('Error starting mock exam:', err);
+    } finally {
+      setLoading(false);
+    }
   };
 
   useEffect(() => {
-    if (selectedMock && !isSubmitted && timeRemaining > 0) {
-      timerRef.current = setInterval(() => {
-        setTimeRemaining(prev => {
-          if (prev <= 1) {
-            clearInterval(timerRef.current!);
-            handleSubmitTest();
-            return 0;
-          }
-          if (prev === 300 || prev === 60) {
-            audioService.playWarningTick();
-          }
-          return prev - 1;
-        });
-      }, 1000);
+    if (!selectedMock || isSubmitted) {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = null;
+      }
+      return;
     }
 
+    if (timerRef.current) clearInterval(timerRef.current);
+
+    timerRef.current = setInterval(() => {
+      setTimeRemaining(prev => {
+        if (prev <= 1) {
+          if (timerRef.current) {
+            clearInterval(timerRef.current);
+            timerRef.current = null;
+          }
+          handleSubmitTest();
+          return 0;
+        }
+        if (prev === 300 || prev === 60) {
+          audioService.playWarningTick();
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
     return () => {
-      if (timerRef.current) clearInterval(timerRef.current);
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = null;
+      }
     };
   }, [selectedMock, isSubmitted]);
 
@@ -127,15 +163,25 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
   };
 
   const handleSubmitTest = () => {
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+      timerRef.current = null;
+    }
     setShowConfirmSubmit(false);
     setIsSubmitted(true);
+
+    const currQuestions = questionsRef.current;
+    const currAnswers = answersRef.current;
+    const currTimeRemaining = timeRemainingRef.current;
+    const currTotalTime = totalTimeRef.current;
+    const currSelectedMock = selectedMockRef.current;
 
     // Record attempts & Mistake Vault updates
     let correct = 0;
     const unitBreakdown: Record<string, { correct: number; total: number }> = {};
 
-    questions.forEach((q, idx) => {
-      const userAns = answers[idx];
+    currQuestions.forEach((q, idx) => {
+      const userAns = currAnswers[idx];
       const isCorrect = userAns === q.correctOption;
       if (isCorrect) correct++;
 
@@ -153,24 +199,24 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
           unitId: q.unitId,
           selectedOption: userAns,
           isCorrect,
-          timeSpentSeconds: Math.round((totalTime - timeRemaining) / questions.length),
+          timeSpentSeconds: currQuestions.length > 0 ? Math.round((currTotalTime - currTimeRemaining) / currQuestions.length) : 0,
           timestamp: Date.now()
         }, q);
       }
     });
 
     const marksEarned = correct * 2;
-    const accuracy = Math.round((correct / questions.length) * 100);
+    const accuracy = currQuestions.length > 0 ? Math.round((correct / currQuestions.length) * 100) : 0;
 
     const mockResult: MockExamResult = {
       id: 'mock_' + Date.now(),
-      title: selectedMock === 1 ? 'Paper 1 CBT Mock (50 Qs)' : 'Paper 2 CBT Mock (100 Qs)',
-      paper: selectedMock!,
-      totalQuestions: questions.length,
+      title: currSelectedMock === 1 ? 'Paper 1 CBT Mock (50 Qs)' : 'Paper 2 CBT Mock (100 Qs)',
+      paper: currSelectedMock || 1,
+      totalQuestions: currQuestions.length,
       correctCount: correct,
       score: marksEarned,
       accuracy,
-      timeTakenSeconds: totalTime - timeRemaining,
+      timeTakenSeconds: currTotalTime - currTimeRemaining,
       completedAt: Date.now(),
       unitBreakdown
     };
