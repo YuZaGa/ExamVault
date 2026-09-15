@@ -5,17 +5,70 @@ class QuestionService {
   private manifest: Manifest | null = null;
   private unitCache: Map<string, Question[]> = new Map();
 
-  // Load manifest.json
+  // Shuffle helper using Fisher-Yates
+  private shuffle<T>(items: T[]): T[] {
+    const arr = [...items];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  // Intelligent Question Sampler:
+  // 1. Prioritizes 100% UNSEEN questions (questions user has never answered).
+  // 2. If unseen questions are exhausted, cycles through the OLDEST attempted questions (spaced repetition).
+  // 3. Shuffles thoroughly so every session is unpredictable and fresh.
+  private sampleIntelligently(
+    pool: Question[],
+    targetCount: number,
+    attempts: Record<string, any>
+  ): Question[] {
+    if (pool.length <= targetCount) {
+      return this.shuffle(pool);
+    }
+
+    const unseen: Question[] = [];
+    const seen: { question: Question; timestamp: number }[] = [];
+
+    for (const q of pool) {
+      const attempt = attempts[q.id];
+      if (!attempt) {
+        unseen.push(q);
+      } else {
+        seen.push({ question: q, timestamp: attempt.timestamp || 0 });
+      }
+    }
+
+    // Case 1: We have enough brand-new unseen questions
+    if (unseen.length >= targetCount) {
+      return this.shuffle(unseen).slice(0, targetCount);
+    }
+
+    // Case 2: We need to pull all unseen questions, then fill remainder with oldest-seen questions
+    const selected: Question[] = this.shuffle(unseen);
+    const needed = targetCount - selected.length;
+
+    // Sort seen questions by timestamp ASC (oldest attempted first -> spaced repetition)
+    seen.sort((a, b) => a.timestamp - b.timestamp);
+
+    // Take the oldest seen questions and add them
+    const oldestSeen = seen.slice(0, needed).map(s => s.question);
+    selected.push(...oldestSeen);
+
+    return this.shuffle(selected);
+  }
+
+  // Load manifest.json (Network-fresh with fallback)
   public async getManifest(): Promise<Manifest> {
     if (this.manifest) return this.manifest;
     try {
-      const res = await fetch('/data/manifest.json');
+      const res = await fetch('/data/manifest.json', { cache: 'no-cache' });
       if (!res.ok) throw new Error('Failed to load manifest');
       this.manifest = await res.json();
       return this.manifest!;
     } catch (err) {
       console.error('Error fetching manifest:', err);
-      // Fallback empty manifest
       return {
         version: '1.0.0',
         generatedAt: '',
@@ -44,9 +97,10 @@ class QuestionService {
     }
   }
 
-  // Generate a custom drill session based on user configuration
+  // Generate an intelligent custom drill session based on user configuration
   public async generateDrillQuestions(config: DrillConfig): Promise<Question[]> {
     const manifest = await this.getManifest();
+    const attempts = storageService.getAttempts();
 
     // Determine candidate unit files
     const matchingUnitFiles = manifest.units.filter(u => {
@@ -64,7 +118,7 @@ class QuestionService {
       matchingUnitFiles.map(u => this.loadUnitQuestions(u.fileName))
     );
 
-    // Flatten and shuffle
+    // Combine pool
     let combinedPool: Question[] = [];
     unitQuestionArrays.forEach(arr => {
       combinedPool = combinedPool.concat(arr);
@@ -72,28 +126,23 @@ class QuestionService {
 
     if (combinedPool.length === 0) return [];
 
-    // Shuffle pool using Fisher-Yates
-    const shuffled = [...combinedPool];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-    }
-
     // Determine target count: either explicit count OR time-budget calculated (~1.25 mins per question)
     let targetCount = config.targetCount;
     if (config.targetMode === 'time') {
-      // 25 mins -> ~20 questions, 15 mins -> 12 questions, etc.
       targetCount = Math.max(5, Math.round(config.targetMinutes / 1.25));
     }
 
-    return shuffled.slice(0, targetCount);
+    // Intelligent selection prioritizing unseen questions & spaced repetition
+    return this.sampleIntelligently(combinedPool, targetCount, attempts);
   }
 
   // Generate authentic NTA CBT Mock Exam:
   // Paper 1: 50 Questions (5 per unit across all 10 units)
   // Paper 2: 100 Questions (10 per unit across all 10 units)
+  // Intelligent selection guarantees unseen questions first in each unit!
   public async generateMockExam(paper: 1 | 2): Promise<Question[]> {
     const manifest = await this.getManifest();
+    const attempts = storageService.getAttempts();
     const paperUnits = manifest.units.filter(u => u.paper === paper);
 
     const questionsPerUnit = paper === 1 ? 5 : 10;
@@ -103,22 +152,24 @@ class QuestionService {
 
     let mockSet: Question[] = [];
 
+    // Select authentic question quota from each unit using intelligent sampler
     allUnitQuestions.forEach((unitPool) => {
       if (unitPool.length === 0) return;
-      const shuffled = [...unitPool].sort(() => Math.random() - 0.5);
-      mockSet = mockSet.concat(shuffled.slice(0, questionsPerUnit));
+      const sampled = this.sampleIntelligently(unitPool, questionsPerUnit, attempts);
+      mockSet = mockSet.concat(sampled);
     });
 
-    // If still less than target (e.g. 50 or 100), fill from random pool
+    // If still less than target (e.g. 50 or 100), fill from remaining pool
     const targetTotal = paper === 1 ? 50 : 100;
     if (mockSet.length < targetTotal) {
       const remainingPool = allUnitQuestions.flat().filter(q => !mockSet.some(m => m.id === q.id));
       const needed = targetTotal - mockSet.length;
-      mockSet = mockSet.concat(remainingPool.sort(() => Math.random() - 0.5).slice(0, needed));
+      const extra = this.sampleIntelligently(remainingPool, needed, attempts);
+      mockSet = mockSet.concat(extra);
     }
 
-    // Return randomized order
-    return mockSet.sort(() => Math.random() - 0.5).slice(0, targetTotal);
+    // Return randomized order for authentic exam simulation
+    return this.shuffle(mockSet).slice(0, targetTotal);
   }
 
   // Retrieve Mistake Vault questions for a practice session

@@ -1,11 +1,10 @@
-const CACHE_NAME = 'examvault-cache-v1';
+const CACHE_NAME = 'examvault-cache-v2';
 
 const STATIC_ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/icon.svg',
-  '/data/manifest.json'
+  '/icon.svg'
 ];
 
 self.addEventListener('install', (event) => {
@@ -37,7 +36,23 @@ self.addEventListener('fetch', (event) => {
   // Only handle GET requests
   if (event.request.method !== 'GET') return;
 
-  // Cache-first strategy for question data files (/data/*.json)
+  // Manifest file: Network-first to always reflect real-time question counts
+  if (url.pathname === '/data/manifest.json') {
+    event.respondWith(
+      fetch(event.request)
+        .then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const copy = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          }
+          return networkResponse;
+        })
+        .catch(() => caches.match(event.request))
+    );
+    return;
+  }
+
+  // Question data files (/data/*.json): Cache-first for instant offline access
   if (url.pathname.startsWith('/data/')) {
     event.respondWith(
       caches.match(event.request).then((cachedResponse) => {
