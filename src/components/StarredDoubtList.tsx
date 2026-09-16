@@ -1,7 +1,89 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { storageService } from '../services/storageService';
-import { StarredDoubt } from '../types';
-import { Star, Copy, Check, Trash2, Edit3, Save, ExternalLink } from 'lucide-react';
+import { questionService } from '../services/questionService';
+import { StarredDoubt, Question } from '../types';
+import { Star, Copy, Check, Trash2, Edit3, Save, CheckCircle2 } from 'lucide-react';
+import { FormattedQuestionText } from './FormattedQuestionText';
+
+function findMatchingQuestion(storedQ: Question, unitQuestions: Question[]): Question | null {
+  if (!storedQ) return null;
+
+  // 1. Check exact ID match if shift or options align
+  const idCandidate = unitQuestions.find(uq => uq.id === storedQ.id);
+  if (idCandidate) {
+    const sameShift = Boolean(storedQ.shift && idCandidate.shift === storedQ.shift);
+    const optionsMatch = idCandidate.options?.filter(co =>
+      storedQ.options?.some(so => so.text.trim() === co.text.trim())
+    ).length || 0;
+    if (sameShift || optionsMatch >= 2) {
+      return idCandidate;
+    }
+  }
+
+  // 2. Match by shift: In NTA questions, each shift + Q.N has unique shift string
+  if (storedQ.shift) {
+    const shiftMatches = unitQuestions.filter(uq => uq.shift === storedQ.shift);
+    if (shiftMatches.length === 1) {
+      return shiftMatches[0];
+    }
+    if (shiftMatches.length > 1) {
+      // Prioritize candidate whose options match
+      for (const candidate of shiftMatches) {
+        const matchCount = candidate.options?.filter(co =>
+          storedQ.options?.some(so => so.text.trim() === co.text.trim())
+        ).length || 0;
+        if (matchCount >= 2) return candidate;
+      }
+      // Prioritize candidate whose correct option matches
+      for (const candidate of shiftMatches) {
+        if (candidate.correctOption === storedQ.correctOption) {
+          return candidate;
+        }
+      }
+      return shiftMatches[0];
+    }
+  }
+
+  // 3. Match by multiple identical option texts
+  if (storedQ.options && storedQ.options.length >= 2) {
+    let bestCandidate: Question | null = null;
+    let maxMatch = 0;
+    for (const candidate of unitQuestions) {
+      const matchCount = candidate.options?.filter(co =>
+        storedQ.options?.some(so => so.text.trim() === co.text.trim())
+      ).length || 0;
+      if (matchCount > maxMatch && matchCount >= 2) {
+        maxMatch = matchCount;
+        bestCandidate = candidate;
+      }
+    }
+    if (bestCandidate) return bestCandidate;
+  }
+
+  // 4. Match by question stem snippet (ignoring table context block)
+  const cleanStoredText = (storedQ.questionText || '')
+    .replace(/^>[\s\S]*?\n\n/i, '')
+    .replace(/^>\s*/gm, '')
+    .trim();
+
+  if (cleanStoredText.length > 20) {
+    const searchSub = cleanStoredText.slice(0, 50);
+    for (const candidate of unitQuestions) {
+      const cleanCandidateText = (candidate.questionText || '')
+        .replace(/^>[\s\S]*?\n\n/i, '')
+        .replace(/^>\s*/gm, '')
+        .trim();
+      if (
+        cleanCandidateText.includes(searchSub) ||
+        cleanStoredText.includes(cleanCandidateText.slice(0, 50))
+      ) {
+        return candidate;
+      }
+    }
+  }
+
+  return null;
+}
 
 export const StarredDoubtList: React.FC = () => {
   const [starredMap, setStarredMap] = useState<Record<string, StarredDoubt>>(
@@ -10,6 +92,61 @@ export const StarredDoubtList: React.FC = () => {
   const [editingId, setEditingId] = useState<string | null>(null);
   const [tempNote, setTempNote] = useState('');
   const [copiedId, setCopiedId] = useState<string | null>(null);
+
+  // Automatically refresh stored doubts with the latest question data (tables, stems, options)
+  useEffect(() => {
+    const refreshStarred = async () => {
+      const stored = storageService.getStarredDoubts();
+      const values = Object.values(stored);
+      if (values.length === 0) return;
+
+      const unitsNeeded = new Set<string>();
+      for (const item of values) {
+        const q = item.question;
+        if (q && q.paper && q.unitId) {
+          const fileName = `p${q.paper}_unit${String(q.unitId).padStart(2, '0')}.json`;
+          unitsNeeded.add(fileName);
+        }
+      }
+
+      let updated = false;
+      const updatedStored: Record<string, StarredDoubt> = { ...stored };
+
+      for (const fileName of unitsNeeded) {
+        try {
+          const unitQuestions = await questionService.loadUnitQuestions(fileName);
+          for (const key of Object.keys(updatedStored)) {
+            const item = updatedStored[key];
+            const freshQ = findMatchingQuestion(item.question, unitQuestions);
+            if (freshQ) {
+              const textChanged = item.question.questionText !== freshQ.questionText;
+              const optionsChanged = JSON.stringify(item.question.options) !== JSON.stringify(freshQ.options);
+              const idChanged = item.questionId !== freshQ.id;
+
+              if (textChanged || optionsChanged || idChanged) {
+                if (idChanged) {
+                  delete updatedStored[key];
+                  item.questionId = freshQ.id;
+                }
+                item.question = freshQ;
+                updatedStored[freshQ.id] = item;
+                updated = true;
+              }
+            }
+          }
+        } catch (e) {
+          console.error('Error refreshing doubt item:', e);
+        }
+      }
+
+      if (updated) {
+        localStorage.setItem('examvault_starred', JSON.stringify(updatedStored));
+        setStarredMap({ ...updatedStored });
+      }
+    };
+
+    refreshStarred();
+  }, []);
 
   const starredList = Object.values(starredMap).sort((a, b) => b.starredAt - a.starredAt);
 
@@ -74,7 +211,7 @@ export const StarredDoubtList: React.FC = () => {
           </p>
         </div>
       ) : (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           {starredList.map(item => {
             const q = item.question;
             const isEditing = editingId === item.questionId;
@@ -83,18 +220,26 @@ export const StarredDoubtList: React.FC = () => {
               <div 
                 key={item.questionId}
                 className="glass-card"
-                style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '10px' }}
+                style={{ padding: '20px', display: 'flex', flexDirection: 'column' }}
               >
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                  <span className="unit-tag" style={{ fontSize: '0.72rem' }}>
-                    P{q.paper} • U{q.unitId} {q.unitTitle}
-                  </span>
+                {/* Question Header */}
+                <div className="question-header" style={{ marginBottom: '14px' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+                    <span className="unit-tag">
+                      P{q.paper} • U{q.unitId} {q.unitTitle}
+                    </span>
+                    {q.shift && (
+                      <span className="shift-tag">
+                        {q.shift}
+                      </span>
+                    )}
+                  </div>
 
                   <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                     <button
                       onClick={() => handleCopy(item)}
                       className="icon-btn"
-                      style={{ width: '32px', height: '32px' }}
+                      style={{ width: '34px', height: '34px' }}
                       title="Copy Question & Notes to Clipboard"
                     >
                       {copiedId === item.questionId ? (
@@ -107,7 +252,7 @@ export const StarredDoubtList: React.FC = () => {
                     <button
                       onClick={() => handleRemoveStar(item.questionId)}
                       className="icon-btn"
-                      style={{ width: '32px', height: '32px', color: 'var(--color-rose)' }}
+                      style={{ width: '34px', height: '34px', color: 'var(--color-rose)' }}
                       title="Remove from Doubts"
                     >
                       <Trash2 size={16} />
@@ -115,37 +260,61 @@ export const StarredDoubtList: React.FC = () => {
                   </div>
                 </div>
 
-                <p style={{ fontSize: '0.92rem', color: 'var(--text-main)', lineHeight: 1.5 }}>
-                  {q.questionText}
-                </p>
-
-                {/* Options List */}
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: '6px', margin: '4px 0' }}>
-                  {q.options.map(opt => (
-                    <div
-                      key={opt.key}
-                      style={{
-                        fontSize: '0.82rem',
-                        padding: '6px 10px',
-                        borderRadius: '6px',
-                        background: opt.key === q.correctOption ? 'rgba(16, 185, 129, 0.12)' : 'rgba(255, 255, 255, 0.03)',
-                        border: `1px solid ${opt.key === q.correctOption ? 'var(--color-emerald)' : 'var(--border-subtle)'}`,
-                        color: opt.key === q.correctOption ? '#34D399' : 'var(--text-muted)'
-                      }}
-                    >
-                      <strong>({opt.key})</strong> {opt.text}
-                    </div>
-                  ))}
+                {/* Formatted Question Text (DI Tables, Reading Comprehension, Match Lists, Stems) */}
+                <div className="question-text-box" style={{ marginBottom: '18px' }}>
+                  <FormattedQuestionText text={q.questionText} />
                 </div>
 
-                {/* Notes Section */}
-                <div style={{ marginTop: '6px', background: 'rgba(0, 0, 0, 0.3)', padding: '10px 12px', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+                {/* Tactile Options Grid with Official Key Badge */}
+                <div className="options-grid" style={{ marginBottom: '16px' }}>
+                  {q.options.map(opt => {
+                    const isCorrect = opt.key === q.correctOption;
+                    return (
+                      <div
+                        key={opt.key}
+                        className={`option-btn ${isCorrect ? 'correct' : ''}`}
+                        style={{ cursor: 'default' }}
+                      >
+                        <div className="option-key-badge">
+                          {opt.key}
+                        </div>
+                        <div style={{ flex: 1, fontSize: '0.95rem', color: isCorrect ? '#FFFFFF' : 'var(--text-main)' }}>
+                          {opt.text}
+                        </div>
+                        {isCorrect && (
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                            <span style={{ fontSize: '0.72rem', fontWeight: 800, padding: '2px 8px', borderRadius: '4px', background: 'rgba(16, 185, 129, 0.25)', color: '#34D399', letterSpacing: '0.04em' }}>
+                              OFFICIAL KEY
+                            </span>
+                            <CheckCircle2 size={18} color="var(--color-emerald)" style={{ flexShrink: 0 }} />
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
+                </div>
+
+                {/* High-Yield Rule Popover */}
+                {q.cheatSheetRule && (
+                  <div className="cheat-sheet-popover" style={{ marginBottom: '16px' }}>
+                    <div className="cheat-sheet-title">
+                      <span>💡</span>
+                      <span>High-Yield Revision Rule</span>
+                    </div>
+                    <div className="cheat-sheet-content">
+                      {q.cheatSheetRule}
+                    </div>
+                  </div>
+                )}
+
+                {/* Revision Notes Section */}
+                <div style={{ background: 'rgba(0, 0, 0, 0.3)', padding: '12px 14px', borderRadius: 'var(--radius-md)', border: '1px solid var(--border-subtle)' }}>
                   {isEditing ? (
                     <div>
                       <textarea
                         value={tempNote}
                         onChange={e => setTempNote(e.target.value)}
-                        placeholder="Add your revision note or discussion point..."
+                        placeholder="Add your revision note, trap alert, or mnemonic..."
                         rows={3}
                         style={{
                           width: '100%',
@@ -153,32 +322,32 @@ export const StarredDoubtList: React.FC = () => {
                           border: '1px solid var(--border-active)',
                           borderRadius: '6px',
                           color: '#FFFFFF',
-                          padding: '8px',
-                          fontSize: '0.85rem',
+                          padding: '10px',
+                          fontSize: '0.88rem',
                           fontFamily: 'var(--font-body)',
                           resize: 'none',
-                          marginBottom: '8px'
+                          marginBottom: '10px'
                         }}
                       />
                       <button
                         onClick={() => handleSaveNote(item.questionId)}
                         className="btn-primary"
-                        style={{ minHeight: '36px', fontSize: '0.82rem', padding: '0 12px', width: 'auto' }}
+                        style={{ minHeight: '36px', fontSize: '0.82rem', padding: '0 14px', width: 'auto', display: 'inline-flex', alignItems: 'center', gap: '6px' }}
                       >
                         <Save size={14} />
                         Save Note
                       </button>
                     </div>
                   ) : (
-                    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                      <p style={{ fontSize: '0.82rem', color: item.notes ? '#FCD34D' : 'var(--text-dim)', fontStyle: item.notes ? 'normal' : 'italic' }}>
-                        {item.notes ? `📝 Note: ${item.notes}` : 'No notes added yet'}
+                    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '8px' }}>
+                      <p style={{ fontSize: '0.85rem', color: item.notes ? '#FCD34D' : 'var(--text-dim)', fontStyle: item.notes ? 'normal' : 'italic', margin: 0, lineHeight: 1.45 }}>
+                        {item.notes ? `📝 Note: ${item.notes}` : 'No personal notes added yet'}
                       </p>
                       <button
                         onClick={() => handleStartEdit(item)}
-                        style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', fontSize: '0.78rem' }}
+                        style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '4px', fontSize: '0.8rem', padding: '4px 8px', borderRadius: '4px' }}
                       >
-                        <Edit3 size={13} />
+                        <Edit3 size={14} />
                         {item.notes ? 'Edit' : 'Add Note'}
                       </button>
                     </div>

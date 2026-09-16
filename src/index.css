@@ -312,12 +312,38 @@ body {
 }
 
 .simple-question-body {
-  font-size: 1.05rem;
-  font-weight: 500;
-  line-height: 1.65;
-  color: #F1F5F9;
+  font-size: 1.12rem;
+  font-weight: 600;
+  line-height: 1.7;
+  color: #F8FAFC;
   white-space: pre-wrap;
   word-break: break-word;
+  padding: 16px 18px;
+  background: rgba(99, 102, 241, 0.08);
+  border: 1px solid rgba(99, 102, 241, 0.25);
+  border-left: 4px solid #6366F1;
+  border-radius: var(--radius-md);
+  margin-top: 18px;
+  margin-bottom: 22px;
+}
+
+.simple-question-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #A5B4FC;
+  background: rgba(99, 102, 241, 0.2);
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.simple-question-text {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #FFFFFF;
 }
 
 .simple-context-box {
@@ -346,6 +372,122 @@ body {
   max-height: 380px;
   overflow-y: auto;
 }
+
+.simple-table-pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: #38BDF8;
+  white-space: pre;
+  overflow-x: auto;
+  margin: 0;
+  padding: 4px 0;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Data Interpretation (DI) HTML Table Styles */
+.di-table-card {
+  margin-top: 6px;
+}
+
+.di-preamble-text {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: #CBD5E1;
+  margin-bottom: 12px;
+}
+
+.di-table-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #F8FAFC;
+  text-align: center;
+  margin-bottom: 12px;
+  padding: 6px 12px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-sm);
+  letter-spacing: 0.02em;
+}
+
+.di-table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 10px 0 14px 0;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: var(--radius-md);
+  background: rgba(15, 23, 42, 0.4);
+}
+
+.di-html-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+.di-html-table th {
+  background: rgba(30, 41, 59, 0.9);
+  color: #94A3B8;
+  font-weight: 600;
+  font-size: 0.82rem;
+  padding: 10px 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+  border-right: 1px solid rgba(255, 255, 255, 0.08);
+  line-height: 1.4;
+  vertical-align: bottom;
+  text-align: center;
+}
+
+.di-html-table th:first-child {
+  text-align: left;
+}
+
+.di-html-table th:last-child {
+  border-right: none;
+}
+
+.di-html-table td {
+  padding: 8px 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+  color: #F1F5F9;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.4;
+}
+
+.di-html-table td:last-child {
+  border-right: none;
+}
+
+.di-html-table tr:last-child td {
+  border-bottom: none;
+}
+
+.di-html-table tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.di-col-header {
+  font-weight: 600;
+  color: #38BDF8;
+  text-align: left !important;
+}
+
+.di-col-data {
+  text-align: center;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+.di-notes-text {
+  font-size: 0.82rem;
+  line-height: 1.55;
+  color: #94A3B8;
+  margin-top: 10px;
+  font-style: italic;
+  padding-top: 4px;
+}
+
 
 /* Match The Following Simple Table */
 .simple-match-box {

@@ -1,16 +1,157 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { storageService } from '../services/storageService';
+import { questionService } from '../services/questionService';
 import { MistakeItem, Question } from '../types';
 import { ShieldAlert, Sparkles, Flame, CheckCircle, ArrowRight } from 'lucide-react';
+import { FormattedQuestionText } from './FormattedQuestionText';
 
 interface MistakeVaultProps {
   onStartMistakeDrill: (questions: Question[]) => void;
 }
 
+function findMatchingQuestion(storedQ: Question, unitQuestions: Question[]): Question | null {
+  if (!storedQ) return null;
+
+  // 1. Check exact ID match if shift or options align
+  const idCandidate = unitQuestions.find(uq => uq.id === storedQ.id);
+  if (idCandidate) {
+    const sameShift = Boolean(storedQ.shift && idCandidate.shift === storedQ.shift);
+    const optionsMatch = idCandidate.options?.filter(co =>
+      storedQ.options?.some(so => so.text.trim() === co.text.trim())
+    ).length || 0;
+    if (sameShift || optionsMatch >= 2) {
+      return idCandidate;
+    }
+  }
+
+  // 2. Match by shift: In NTA questions, each shift + Q.N has unique shift string
+  if (storedQ.shift) {
+    const shiftMatches = unitQuestions.filter(uq => uq.shift === storedQ.shift);
+    if (shiftMatches.length === 1) {
+      return shiftMatches[0];
+    }
+    if (shiftMatches.length > 1) {
+      // Prioritize candidate whose options match
+      for (const candidate of shiftMatches) {
+        const matchCount = candidate.options?.filter(co =>
+          storedQ.options?.some(so => so.text.trim() === co.text.trim())
+        ).length || 0;
+        if (matchCount >= 2) return candidate;
+      }
+      // Prioritize candidate whose correct option matches
+      for (const candidate of shiftMatches) {
+        if (candidate.correctOption === storedQ.correctOption) {
+          return candidate;
+        }
+      }
+      return shiftMatches[0];
+    }
+  }
+
+  // 3. Match by multiple identical option texts
+  if (storedQ.options && storedQ.options.length >= 2) {
+    let bestCandidate: Question | null = null;
+    let maxMatch = 0;
+    for (const candidate of unitQuestions) {
+      const matchCount = candidate.options?.filter(co =>
+        storedQ.options?.some(so => so.text.trim() === co.text.trim())
+      ).length || 0;
+      if (matchCount > maxMatch && matchCount >= 2) {
+        maxMatch = matchCount;
+        bestCandidate = candidate;
+      }
+    }
+    if (bestCandidate) return bestCandidate;
+  }
+
+  // 4. Match by question stem snippet (ignoring table context block)
+  const cleanStoredText = (storedQ.questionText || '')
+    .replace(/^>[\s\S]*?\n\n/i, '')
+    .replace(/^>\s*/gm, '')
+    .trim();
+
+  if (cleanStoredText.length > 20) {
+    const searchSub = cleanStoredText.slice(0, 50);
+    for (const candidate of unitQuestions) {
+      const cleanCandidateText = (candidate.questionText || '')
+        .replace(/^>[\s\S]*?\n\n/i, '')
+        .replace(/^>\s*/gm, '')
+        .trim();
+      if (
+        cleanCandidateText.includes(searchSub) ||
+        cleanStoredText.includes(cleanCandidateText.slice(0, 50))
+      ) {
+        return candidate;
+      }
+    }
+  }
+
+  return null;
+}
+
 export const MistakeVault: React.FC<MistakeVaultProps> = ({ onStartMistakeDrill }) => {
   const [paperFilter, setPaperFilter] = useState<1 | 2 | 'all'>('all');
-  const activeMistakes = storageService.getActiveMistakes();
-  const conqueredCount = storageService.getConqueredMistakesCount();
+  const [mistakesMap, setMistakesMap] = useState<Record<string, MistakeItem>>(
+    storageService.getMistakes()
+  );
+
+  // Automatically refresh stored mistakes with latest question data (tables, stems, options)
+  useEffect(() => {
+    const refreshMistakes = async () => {
+      const stored = storageService.getMistakes();
+      const values = Object.values(stored);
+      if (values.length === 0) return;
+
+      const unitsNeeded = new Set<string>();
+      for (const item of values) {
+        const q = item.question;
+        if (q && q.paper && q.unitId) {
+          const fileName = `p${q.paper}_unit${String(q.unitId).padStart(2, '0')}.json`;
+          unitsNeeded.add(fileName);
+        }
+      }
+
+      let updated = false;
+      const updatedStored: Record<string, MistakeItem> = { ...stored };
+
+      for (const fileName of unitsNeeded) {
+        try {
+          const unitQuestions = await questionService.loadUnitQuestions(fileName);
+          for (const key of Object.keys(updatedStored)) {
+            const item = updatedStored[key];
+            const freshQ = findMatchingQuestion(item.question, unitQuestions);
+            if (freshQ) {
+              const textChanged = item.question.questionText !== freshQ.questionText;
+              const optionsChanged = JSON.stringify(item.question.options) !== JSON.stringify(freshQ.options);
+              const idChanged = item.questionId !== freshQ.id;
+
+              if (textChanged || optionsChanged || idChanged) {
+                if (idChanged) {
+                  delete updatedStored[key];
+                  item.questionId = freshQ.id;
+                }
+                item.question = freshQ;
+                updatedStored[freshQ.id] = item;
+                updated = true;
+              }
+            }
+          }
+        } catch (e) {
+          console.error('Error refreshing mistake item:', e);
+        }
+      }
+
+      if (updated) {
+        localStorage.setItem('examvault_mistakes', JSON.stringify(updatedStored));
+        setMistakesMap({ ...updatedStored });
+      }
+    };
+
+    refreshMistakes();
+  }, []);
+
+  const activeMistakes = Object.values(mistakesMap).filter(m => m.status === 'active');
+  const conqueredCount = Object.values(mistakesMap).filter(m => m.status === 'conquered').length;
 
   const filteredMistakes = activeMistakes.filter(m => {
     if (paperFilter === 'all') return true;
@@ -168,63 +309,100 @@ export const MistakeVault: React.FC<MistakeVaultProps> = ({ onStartMistakeDrill 
           </p>
         </div>
       ) : (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           {filteredMistakes.map(item => {
+            const q = item.question;
             const streak = item.consecutiveCorrect; // 0 or 1
 
             return (
               <div 
                 key={item.questionId}
                 className="glass-card"
-                style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '10px' }}
+                style={{ padding: '20px', display: 'flex', flexDirection: 'column' }}
               >
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                  <span className="unit-tag" style={{ fontSize: '0.72rem' }}>
-                    P{item.question.paper} • U{item.question.unitId} {item.question.unitTitle}
-                  </span>
+                {/* Header Tags & Streak Indicators */}
+                <div className="question-header" style={{ marginBottom: '14px' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+                    <span className="unit-tag">
+                      P{q.paper} • U{q.unitId} {q.unitTitle}
+                    </span>
+                    {q.shift && (
+                      <span className="shift-tag">
+                        {q.shift}
+                      </span>
+                    )}
+                  </div>
 
                   <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                     {/* Purge Progress: 0/2 or 1/2 */}
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '4px', background: 'rgba(0, 0, 0, 0.3)', padding: '3px 8px', borderRadius: '6px', border: '1px solid var(--border-subtle)' }}>
-                      <span style={{ fontSize: '0.72rem', color: streak === 1 ? '#34D399' : 'var(--text-dim)', fontWeight: 700 }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '4px', background: 'rgba(0, 0, 0, 0.3)', padding: '4px 10px', borderRadius: '6px', border: '1px solid var(--border-subtle)' }}>
+                      <span style={{ fontSize: '0.75rem', color: streak === 1 ? '#34D399' : 'var(--text-dim)', fontWeight: 700 }}>
                         {streak === 1 ? '● ○ 1/2' : '○ ○ 0/2'}
                       </span>
                     </div>
 
-                    <span style={{ fontSize: '0.72rem', color: 'var(--color-rose)', fontWeight: 600, background: 'rgba(244, 63, 94, 0.12)', padding: '3px 8px', borderRadius: '6px' }}>
+                    <span style={{ fontSize: '0.75rem', color: 'var(--color-rose)', fontWeight: 700, background: 'rgba(244, 63, 94, 0.15)', padding: '4px 10px', borderRadius: '6px', border: '1px solid rgba(244, 63, 94, 0.3)' }}>
                       Failed {item.failCount}x
                     </span>
                   </div>
                 </div>
 
-                <p style={{ fontSize: '0.9rem', color: 'var(--text-main)', lineHeight: 1.45, maxHeight: '64px', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                  {item.question.questionText.replace(/^>[\s\S]*?\n\n/i, '').replace(/^>\s*/gm, '')}
-                </p>
+                {/* Question Text Box with Table & Stem Highlighting */}
+                <div className="question-text-box" style={{ marginBottom: '18px' }}>
+                  <FormattedQuestionText text={q.questionText} />
+                </div>
 
-                {item.question.cheatSheetRule && (
-                  <div style={{ fontSize: '0.78rem', color: '#FCD34D', background: 'rgba(245, 158, 11, 0.1)', padding: '6px 10px', borderRadius: '6px' }}>
-                    💡 {item.question.cheatSheetRule}
+                {/* Neutral Options Grid — no answer revealed (recall practice) */}
+                <div className="options-grid" style={{ marginBottom: '16px' }}>
+                  {q.options.map(opt => (
+                    <div
+                      key={opt.key}
+                      className="option-btn"
+                      style={{ cursor: 'default' }}
+                    >
+                      <div className="option-key-badge">
+                        {opt.key}
+                      </div>
+                      <div style={{ flex: 1, fontSize: '0.95rem', color: 'var(--text-main)' }}>
+                        {opt.text}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+
+                {/* High-Yield Rule Popover */}
+                {q.cheatSheetRule && (
+                  <div className="cheat-sheet-popover" style={{ marginBottom: '16px' }}>
+                    <div className="cheat-sheet-title">
+                      <span>💡</span>
+                      <span>Master Cheat Sheet Rule</span>
+                    </div>
+                    <div className="cheat-sheet-content">
+                      {q.cheatSheetRule}
+                    </div>
                   </div>
                 )}
 
-                <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '4px' }}>
+                {/* Card Footer: Practice Button */}
+                <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '6px' }}>
                   <button
                     onClick={() => handlePracticeSingle(item)}
+                    className="btn-secondary"
                     style={{
-                      background: 'rgba(255, 255, 255, 0.08)',
-                      border: '1px solid var(--border-subtle)',
-                      color: 'var(--text-main)',
-                      padding: '6px 14px',
-                      borderRadius: '8px',
-                      fontSize: '0.8rem',
-                      fontWeight: 600,
-                      cursor: 'pointer',
-                      display: 'flex',
+                      padding: '8px 16px',
+                      fontSize: '0.84rem',
+                      fontWeight: 700,
+                      display: 'inline-flex',
                       alignItems: 'center',
-                      gap: '6px'
+                      gap: '8px',
+                      background: 'rgba(244, 63, 94, 0.12)',
+                      borderColor: 'rgba(244, 63, 94, 0.3)',
+                      color: '#FDA4AF',
+                      cursor: 'pointer'
                     }}
                   >
-                    <span>Practice This</span>
+                    <ShieldAlert size={16} />
+                    <span>Practice This Mistake</span>
                     <ArrowRight size={14} />
                   </button>
                 </div>

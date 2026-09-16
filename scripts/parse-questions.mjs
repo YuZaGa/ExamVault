@@ -159,6 +159,8 @@ function parseFile(filePath, paper, unitId, unitTitle) {
       text = text.replace(/^(\d+)\s+(\d+)\s*\n\s*(\d+)$/, '$1 $2/$3');
       text = text.replace(/^(\d+)\s*\n\s*(\d+)$/, '$1/$2');
       text = text.replace(/\s*\n\s*/g, ' ');
+      // Clean any leaked subsequent question stems (e.g. "Article 31 48. Match List...")
+      text = text.replace(/\s+\d+\.\s+[A-Za-z][\s\S]*$/, '').trim();
       options.push({ key, text });
     }
 
@@ -178,6 +180,7 @@ function parseFile(filePath, paper, unitId, unitTitle) {
         text = text.replace(/^(\d+)\s+(\d+)\s*\n\s*(\d+)$/, '$1 $2/$3');
         text = text.replace(/^(\d+)\s*\n\s*(\d+)$/, '$1/$2');
         text = text.replace(/\s*\n\s*/g, ' ');
+        text = text.replace(/\s+\d+\.\s+[A-Za-z][\s\S]*$/, '').trim();
         options.push({ key, text });
       }
     }

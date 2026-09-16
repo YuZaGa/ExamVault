@@ -1,4 +1,4 @@
-const CACHE_NAME = 'examvault-cache-v2';
+const CACHE_NAME = 'examvault-cache-v3';
 
 const STATIC_ASSETS = [
   '/',
@@ -36,8 +36,8 @@ self.addEventListener('fetch', (event) => {
   // Only handle GET requests
   if (event.request.method !== 'GET') return;
 
-  // Manifest file: Network-first to always reflect real-time question counts
-  if (url.pathname === '/data/manifest.json') {
+  // Question data files and manifest (/data/*): Network-first so updates are immediately visible
+  if (url.pathname.startsWith('/data/')) {
     event.respondWith(
       fetch(event.request)
         .then((networkResponse) => {
@@ -48,28 +48,6 @@ self.addEventListener('fetch', (event) => {
           return networkResponse;
         })
         .catch(() => caches.match(event.request))
-    );
-    return;
-  }
-
-  // Question data files (/data/*.json): Cache-first for instant offline access
-  if (url.pathname.startsWith('/data/')) {
-    event.respondWith(
-      caches.match(event.request).then((cachedResponse) => {
-        if (cachedResponse) {
-          return cachedResponse;
-        }
-        return fetch(event.request).then((networkResponse) => {
-          if (!networkResponse || networkResponse.status !== 200) {
-            return networkResponse;
-          }
-          const responseToCache = networkResponse.clone();
-          caches.open(CACHE_NAME).then((cache) => {
-            cache.put(event.request, responseToCache);
-          });
-          return networkResponse;
-        });
-      })
     );
     return;
   }
