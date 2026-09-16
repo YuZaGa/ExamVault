@@ -25,7 +25,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-3",
@@ -165,7 +165,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-8",
@@ -249,7 +249,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-11",
@@ -669,7 +669,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-26",
@@ -697,7 +697,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-27",
@@ -725,7 +725,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
   },
   {
     "id": "P1-U02-28",
@@ -781,7 +781,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-30",
@@ -837,7 +837,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-32",
@@ -1593,7 +1593,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
   },
   {
     "id": "P1-U02-59",
@@ -1705,7 +1705,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-63",
@@ -1929,7 +1929,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Longitudinal: Data gathered from same sample repeatedly over an extended period. | Tracking cognitive development from age 5 to 15."
   },
   {
     "id": "P1-U02-71",
@@ -2209,7 +2209,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-81",
@@ -2321,7 +2321,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-85",
@@ -2349,7 +2349,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-86",
@@ -2405,7 +2405,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-88",
@@ -2461,7 +2461,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-90",
@@ -2629,7 +2629,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-96",
@@ -2685,7 +2685,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-98",
@@ -2713,7 +2713,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-99",
@@ -2769,7 +2769,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-101",
@@ -2993,7 +2993,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-109",
@@ -3161,7 +3161,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-115",
@@ -3385,7 +3385,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-123",
@@ -3469,7 +3469,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Longitudinal: Data gathered from same sample repeatedly over an extended period. | Tracking cognitive development from age 5 to 15."
   },
   {
     "id": "P1-U02-126",
@@ -3553,7 +3553,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-129",
@@ -3609,7 +3609,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-131",
@@ -3721,7 +3721,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-135",
@@ -3749,7 +3749,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-136",
@@ -3861,7 +3861,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-140",
@@ -3917,7 +3917,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-142",
@@ -3945,7 +3945,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-143",
@@ -4197,7 +4197,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-152",
@@ -4309,7 +4309,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-156",
@@ -4337,7 +4337,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-157",
@@ -4561,7 +4561,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-165",
@@ -4617,7 +4617,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-167",
@@ -4729,7 +4729,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-171",
@@ -4869,7 +4869,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-176",
@@ -4953,7 +4953,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-179",
@@ -5261,7 +5261,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-190",
@@ -5401,7 +5401,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-195",
@@ -5429,7 +5429,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-196",
@@ -5653,7 +5653,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-205",
@@ -6017,7 +6017,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-218",
@@ -6157,7 +6157,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-223",
@@ -6213,7 +6213,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-225",
@@ -6241,7 +6241,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-226",
@@ -6381,7 +6381,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-231",
@@ -6605,7 +6605,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-239",
@@ -6717,7 +6717,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-243",
@@ -6885,7 +6885,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-249",
@@ -6969,7 +6969,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-252",
@@ -7053,7 +7053,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-255",
@@ -7221,7 +7221,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-261",
@@ -7305,7 +7305,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-264",
@@ -7529,7 +7529,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-272",
@@ -7921,7 +7921,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-286",
@@ -7949,7 +7949,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-287",
@@ -8201,7 +8201,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-296",
@@ -8369,7 +8369,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-302",
@@ -8509,7 +8509,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-307",
@@ -8621,7 +8621,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-311",
@@ -8789,7 +8789,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-317",
@@ -9013,7 +9013,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-325",
@@ -9097,7 +9097,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-328",
@@ -9237,7 +9237,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-333",
@@ -9489,7 +9489,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-342",
@@ -9545,7 +9545,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-344",
@@ -9685,7 +9685,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-349",
@@ -9713,7 +9713,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-350",
@@ -9769,7 +9769,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-352",
@@ -9825,7 +9825,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-354",
@@ -9993,7 +9993,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-360",
@@ -10357,7 +10357,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-373",
@@ -10385,7 +10385,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-374",
@@ -10497,7 +10497,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-378",
@@ -10525,7 +10525,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Snowball Sampling: Non-Probability | Existing subjects recruit future subjects from their network (hidden populations)."
   },
   {
     "id": "P1-U02-379",
@@ -10581,7 +10581,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-381",
@@ -11225,7 +11225,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-404",
@@ -11253,7 +11253,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Snowball Sampling: Non-Probability | Existing subjects recruit future subjects from their network (hidden populations)."
   },
   {
     "id": "P1-U02-405",
@@ -11309,7 +11309,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-407",
@@ -11373,23 +11373,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_45 | Q.19",
-    "questionText": "Hypothesis testing which results into either affirmation or disaffirmation is\nthe explicit concern in which methods of research?",
+    "questionText": "Hypothesis testing which results into either affirmation or disaffirmation is\nthe explicit concern in which methods of research?\n(A) Descriptive method\n(B) Experimental method\n(C) Ex Post Facto method\n(D) Historical method\n(E) Exegetical method\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Descriptive method"
+        "text": "(A) and (B)"
       },
       {
         "key": "B",
-        "text": "Experimental method"
+        "text": "(B) and (C)"
       },
       {
         "key": "C",
-        "text": "Ex Post Facto method"
+        "text": "(C) and (D)"
       },
       {
         "key": "D",
-        "text": "Historical method (E) Exegetical method Choose the correct answer from the options given below :"
+        "text": "(D) and (E)"
       }
     ],
     "correctOption": "B",
@@ -11457,23 +11457,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_45 | Q.25",
-    "questionText": "The following is a list of some basic teaching competencies identified through\nvarious researches on teaching. Which among of them fall in the domain of\nbehavioural competencies?",
+    "questionText": "The following is a list of some basic teaching competencies identified through\nvarious researches on teaching. Which among of them fall in the domain of\nbehavioural competencies?\n(A) Self efficacy\n(B) Planning\n(C) Locus of control\n(D) Communicating\n(E) Flexibility\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Self efficacy"
+        "text": "(A) and (B)"
       },
       {
         "key": "B",
-        "text": "Planning"
+        "text": "(B) and (C)"
       },
       {
         "key": "C",
-        "text": "Locus of control"
+        "text": "(D) and (E)"
       },
       {
         "key": "D",
-        "text": "Communicating (E) Flexibility Choose the correct answer from the options given below :"
+        "text": "(B) and (D)"
       }
     ],
     "correctOption": "D",
@@ -11485,27 +11485,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_45 | Q.35",
-    "questionText": "Match List I with List II. List I gives steps of research while List II provides techniques used.\nList I \tList II\nSteps of research \tTechniques used",
+    "questionText": "Match List I with List II. List I gives steps of research while List II provides techniques used.\nList I \tList II\nSteps of research \tTechniques used\n(A) Problem formulation \t(I) Tabular and graphical representation of\ndata\n(B) Hypothesis making \t(II) Drawing a subset from a larger set\n(C) Selecting a sampling procedure of\nenquiry\n(III) Raising pivotal question in a field\n(D) Data Analysis \t(IV) Setting up relationship among variables\nof research\nChoose the correct answer from the option given below :",
     "options": [
       {
         "key": "A",
-        "text": "Problem formulation \t(I) Tabular and graphical representation of data"
+        "text": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
       },
       {
         "key": "B",
-        "text": "Hypothesis making \t(II) Drawing a subset from a larger set"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Selecting a sampling procedure of enquiry (III) Raising pivotal question in a field"
+        "text": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Data Analysis \t(IV) Setting up relationship among variables of research Choose the correct answer from the option given below :"
+        "text": "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-415",
@@ -11513,23 +11513,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_45 | Q.36",
-    "questionText": "Match List I with List II\nList I \tList II\nSteps of Argument \tPropositions",
+    "questionText": "Match List I with List II\nList I \tList II\nSteps of Argument \tPropositions\n(A) Affirmation of the thesis as proven \t(I) Wherever there is smoke, there is fire as\nin the kitchen\n(B) Statement of reason \t(II) There is fire on the hill\n(C) Giving an example of underlying rule \t(III) Therefore there is fire on the hill\n(D) Statement of thesis to be established \t(IV) Becuase there is smoke",
     "options": [
       {
         "key": "A",
-        "text": "Affirmation of the thesis as proven \t(I) Wherever there is smoke, there is fire as in the kitchen"
+        "text": "A-I, B-III, C-IV, D-II"
       },
       {
         "key": "B",
-        "text": "Statement of reason \t(II) There is fire on the hill"
+        "text": "A-IV, B-III, C-I, D-II"
       },
       {
         "key": "C",
-        "text": "Giving an example of underlying rule \t(III) Therefore there is fire on the hill"
+        "text": "A-III, B-IV, C-I, D-II"
       },
       {
         "key": "D",
-        "text": "Statement of thesis to be established \t(IV) Becuase there is smoke"
+        "text": "A-II, B-I, C-III, D-IV"
       }
     ],
     "correctOption": "C",
@@ -11541,23 +11541,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_45 | Q.37",
-    "questionText": "For emerging field of mass communication researcher Paul Lazarsfeld proved\nto be seminal thinker and researcher in what way?",
+    "questionText": "For emerging field of mass communication researcher Paul Lazarsfeld proved\nto be seminal thinker and researcher in what way?\n(A) For exploring the potential of Social Science methods.\n(B) For providing training with a high level of entrepreneurial skill.\n(C) For raising the standard of American Education System.\n(D) For making assumptions that media have limited direct effect.\nChoose the most appropriate answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "For exploring the potential of Social Science methods."
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "For providing training with a high level of entrepreneurial skill."
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "For raising the standard of American Education System."
+        "text": "(C) and (D) only"
       },
       {
         "key": "D",
-        "text": "For making assumptions that media have limited direct effect. Choose the most appropriate answer from the options given below :"
+        "text": "(A) and (D) only"
       }
     ],
     "correctOption": "A",
@@ -11813,7 +11813,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-426",
@@ -11925,7 +11925,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-430",
@@ -11981,7 +11981,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-432",
@@ -12009,7 +12009,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-433",
@@ -12093,7 +12093,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-436",
@@ -12129,23 +12129,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_51 | Q.10",
-    "questionText": "According to NEP-20 the primary activities of the NRF will be to",
+    "questionText": "According to NEP-20 the primary activities of the NRF will be to\n(A) Fund competitive peer reviewed grant proposals of all types across all disciplines.\n(B) Open new institutions of research and innovation.\n(C) Act as a liaison between researchers and relevant branches of government as well as\nindustry.\n(D) Include research in curriculum at school level.\nChoose the most appropriate answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Fund competitive peer reviewed grant proposals of all types across all disciplines."
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Open new institutions of research and innovation."
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Act as a liaison between researchers and relevant branches of government as well as industry."
+        "text": "(A) and (C) only"
       },
       {
         "key": "D",
-        "text": "Include research in curriculum at school level. Choose the most appropriate answer from the options given below:"
+        "text": "(C) and (D) only"
       }
     ],
     "correctOption": "B",
@@ -12157,23 +12157,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_51 | Q.11",
-    "questionText": "Identify from the list below the threats to internal validity of research.",
+    "questionText": "Identify from the list below the threats to internal validity of research.\n(A) Interaction of selection and independent variable (X)\n(B) Statistical regression\n(C) Interaction of pretesting and X\n(D) Differential selection of subjects\n(E) Experimental mortality\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Interaction of selection and independent variable (X)"
+        "text": "B, D and E only"
       },
       {
         "key": "B",
-        "text": "Statistical regression"
+        "text": "A , B and C Only"
       },
       {
         "key": "C",
-        "text": "Interaction of pretesting and X"
+        "text": "B , C and D Only"
       },
       {
         "key": "D",
-        "text": "Differential selection of subjects (E) Experimental mortality Choose the correct answer from the options given below:"
+        "text": "C, D and E only"
       }
     ],
     "correctOption": "A",
@@ -12289,7 +12289,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-443",
@@ -12317,7 +12317,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-444",
@@ -12485,7 +12485,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-450",
@@ -12541,7 +12541,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-452",
@@ -12597,7 +12597,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-454",
@@ -13101,7 +13101,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-472",
@@ -13129,7 +13129,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-473",
@@ -13241,7 +13241,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-477",
@@ -13249,23 +13249,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_60 | Q.8",
-    "questionText": "Match List I with List II\nList I – Research Steps \tList II – Characteristics",
+    "questionText": "Match List I with List II\nList I – Research Steps \tList II – Characteristics\n(A) Research problem definition \t(I) Appropriateness of techniques and their\napplication\n(B) Formulation of research hypothesis \t(II) Development of a conceptual framework\nwhich is in accord with hypothesis of research\n(C) Design of research \t(III) Defining the variables to be related in\nunambiguous terms\n(D) Data Analysis \t(IV) Academic and social value of the research\nquestion to be weighed\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Research problem definition \t(I) Appropriateness of techniques and their application"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Formulation of research hypothesis \t(II) Development of a conceptual framework which is in accord with hypothesis of research"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "C",
-        "text": "Design of research \t(III) Defining the variables to be related in unambiguous terms"
+        "text": "(A)-(I), (B)-(II), (C)- (III), (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Data Analysis \t(IV) Academic and social value of the research question to be weighed Choose the correct answer from the options given below:"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)- (III)"
       }
     ],
     "correctOption": "B",
@@ -13361,23 +13361,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_60 | Q.39",
-    "questionText": "Identify from the list below the threats to internal validity of research.",
+    "questionText": "Identify from the list below the threats to internal validity of research.\n(A) Interaction of selection and independent variable (X)\n(B) Statistical regression\n(C) Interaction of pretesting and X\n(D) Differential selection of subjects\n(E) Experimental mortality\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Interaction of selection and independent variable (X)"
+        "text": "(B), (D) and (E) only"
       },
       {
         "key": "B",
-        "text": "Statistical regression"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Interaction of pretesting and X"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Differential selection of subjects (E) Experimental mortality Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "A",
@@ -13409,7 +13409,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-483",
@@ -13417,23 +13417,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_60 | Q.43",
-    "questionText": "According to NEP-20 the primary activities of the NRF' will be to",
+    "questionText": "According to NEP-20 the primary activities of the NRF' will be to\n(A) Fund competitive peer reviewed grant proposals of all types across all disciplines.\n(B) Open new institutions of research and innovation.\n(C) Act as a liason between researchers and relevant branches of government as well as industry.\n(D) Include research in curriculum at school level.\nChoose the most appropriate answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Fund competitive peer reviewed grant proposals of all types across all disciplines."
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Open new institutions of research and innovation."
+        "text": "(A) and (C) only"
       },
       {
         "key": "C",
-        "text": "Act as a liason between researchers and relevant branches of government as well as industry."
+        "text": "(B) and (C) only"
       },
       {
         "key": "D",
-        "text": "Include research in curriculum at school level. Choose the most appropriate answer from the options given below:"
+        "text": "(C) and (D) only"
       }
     ],
     "correctOption": "B",
@@ -13473,27 +13473,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_61 | Q.24",
-    "questionText": "Identify the main features of ‘qualitative research’ from the following :",
+    "questionText": "Identify the main features of ‘qualitative research’ from the following :\n(A) It is concerned with understanding the phenomena from the participant’s perspective\n(B) It assumes that there are social facts with a single objective reality\n(C) Researcher becomes immersed in the situation, present or past\n(D) Researcher is detached from the study to avoid bias\n(E) There is greater flexibility in both the methods and research process\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "It is concerned with understanding the phenomena from the participant’s perspective"
+        "text": "(A), (C) and (E) only"
       },
       {
         "key": "B",
-        "text": "It assumes that there are social facts with a single objective reality"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Researcher becomes immersed in the situation, present or past"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Researcher is detached from the study to avoid bias (E) There is greater flexibility in both the methods and research process Choose the correct answer from the options given below :"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-486",
@@ -13529,27 +13529,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_61 | Q.37",
-    "questionText": "Match List I with List II :\nList I \tList II\nMethods of research \tFeatures emphasized",
+    "questionText": "Match List I with List II :\nList I \tList II\nMethods of research \tFeatures emphasized\n(A) Experimental \t(I) Primary and secondary sources tapped\nwith emphasis on internal criticism\n(B) ExPost Facto \t(II) Status of facts and conditions are\nascertained\n(C) Descriptive \t(III) A variable is manipulated to see its\neffect on other variable\n(D) Historical \t(IV) The differences are noted and factors\ncausal or otherwise are determined\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Experimental \t(I) Primary and secondary sources tapped with emphasis on internal criticism"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "ExPost Facto \t(II) Status of facts and conditions are ascertained"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
       },
       {
         "key": "C",
-        "text": "Descriptive \t(III) A variable is manipulated to see its effect on other variable"
+        "text": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
       },
       {
         "key": "D",
-        "text": "Historical \t(IV) The differences are noted and factors causal or otherwise are determined Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-488",
@@ -13605,7 +13605,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-490",
@@ -13633,7 +13633,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-491",
@@ -13781,27 +13781,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_64 | Q.14",
-    "questionText": "Identify the characteristic features of ‘Hypothetico-deductive research’ paradigm:",
+    "questionText": "Identify the characteristic features of ‘Hypothetico-deductive research’ paradigm:\n(A) Researcher is detached from the study to avoid bias\n(B) Researcher becomes immersed in the research situation present or past\n(C) The researcher seeks to establish relationships and explains causes of changes in\nmeasured social facts\n(D) Actual settings are the direct source of data\n(E) An attempt is made to set up universal context free generalizations.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Researcher is detached from the study to avoid bias"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Researcher becomes immersed in the research situation present or past"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "The researcher seeks to establish relationships and explains causes of changes in measured social facts"
+        "text": "(A), (C) and (E) only"
       },
       {
         "key": "D",
-        "text": "Actual settings are the direct source of data (E) An attempt is made to set up universal context free generalizations. Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-497",
@@ -13837,27 +13837,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_64 | Q.17",
-    "questionText": "Match List I with List II\nList I - Research Types \tList II - Goal of Research",
+    "questionText": "Match List I with List II\nList I - Research Types \tList II - Goal of Research\n(A) Fundamental Research \t(I) Appraising impact of interventions\n(B) Applied Research \t(II) Amelioration of a given situation\n(C) Action of Research principles \t(III) Exploring applicability of already\nestablished\n(D) Evaluative Research \t(IV) Advancing the corpus of knowledge in\na field\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Fundamental Research \t(I) Appraising impact of interventions"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Applied Research \t(II) Amelioration of a given situation"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "C",
-        "text": "Action of Research principles \t(III) Exploring applicability of already established"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Evaluative Research \t(IV) Advancing the corpus of knowledge in a field Choose the correct answer from the options given below:"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-499",
@@ -13949,27 +13949,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_65 | Q.8",
-    "questionText": "Identify the features of empirico-inductive paradigm of research",
+    "questionText": "Identify the features of empirico-inductive paradigm of research\n(A) Research is concerned with the process rather than simply with outcomes or products\n(B) Based on logical positivist philosophy which assumes a single objective reality\n(C) Researchers are concerned with what are called 'participant perspectives'\n(D) Attempts to establish universal context free generalizations\nChoose the most appropriate answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Research is concerned with the process rather than simply with outcomes or products"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Based on logical positivist philosophy which assumes a single objective reality"
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Researchers are concerned with what are called 'participant perspectives'"
+        "text": "(C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Attempts to establish universal context free generalizations Choose the most appropriate answer from the options given below :"
+        "text": "(A) and (C) only"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-503",
@@ -14089,27 +14089,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_65 | Q.45",
-    "questionText": "Match List land List II\nList I \tList II\nSampling Methods \tProcedure involved",
+    "questionText": "Match List land List II\nList I \tList II\nSampling Methods \tProcedure involved\n(A) Simple Random Sampling informant to\nidentify\n(I) The first member is used as an other.\n(B) Stratified Random Sampling basis of\ntheir settings\n(II) The units are chosen intact on the\nThe process goes on like this\n(C) \tCluster Sampling randomly \t(III) The units are chosen from defined\ngroups/levels\n(D) \tSnowball sampling independent \t(IV) The units are chosen by giving equal\nand chance to each\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Simple Random Sampling informant to identify (I) The first member is used as an other."
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Stratified Random Sampling basis of their settings (II) The units are chosen intact on the The process goes on like this"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "C",
-        "text": "Cluster Sampling randomly \t(III) The units are chosen from defined groups/levels"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Snowball sampling independent \t(IV) The units are chosen by giving equal and chance to each Choose the correct answer from the options given below :"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III) Read the passage carefully and answer the question that follow: As the world is becoming increasingly interconnected, Global Citizenship Education (GCED), a response to contemporary global challenges, will be provided to empower learners to become aware of and understand global issues and to become active promoters of more peaceful, tolerant, inclusive, secure and sustainable societies. As a part of holistic education, students at all HEls will be provided with opportunities for internships with local industry, businesses, artists, crafts person etc. as well as research internship with faculty and researchers at their own or other HEIs/research institutions, so that students may actively engage with the practical side of their learning and, as a by-product, further improve their employability. India will be promoted as a global study destination providing premium education at affordable costs thereby helping to restore its role as a Vishwa Guru. An international students office at each HEI hosting foreign students will be set up to coordinate all matters relating to welcoming and supporting students arriving from abroad. Research training collaboration and faculty/student exchanges with high quality foreign institution will be facilitated, and relevant mutually beneficial MOU with foreign countries will be signed. High Performing Indian Universities will be encouraged to set up campuses in other countries, and similarly, selected universities e.g. those from top 100 universities in the world will be facilitated to operate in India. A legislative framework facilitating such entry will be put in place and such universities will be given special dispensation regarding regulatory, governance and content norms on par with other autonomous institutions of India. Furthermore, research collaboration and student exchanges between Indian institutions and global institutions will be promoted through special efforts. Credits acquired in foreign universities will be permitted, where appropriate as per the requirements of each HEI, to be counted for the award of a degree."
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Cluster Sampling: Probability | Population divided into naturally occurring heterogeneous clusters (e.g. city wards, schools). Entire clusters are chosen randomly."
   },
   {
     "id": "P1-U02-508",
@@ -14117,23 +14117,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_66 | Q.8",
-    "questionText": "In two groups, randomized subjects post test only research design which of the following may\nbe the source for jeopardizing validity?",
+    "questionText": "In two groups, randomized subjects post test only research design which of the following may\nbe the source for jeopardizing validity?\n(A) Pretesting procedures\n(B) Measuring instruments\n(C) Interaction of selection and the independent variable\n(D) Reactive experimental procedures\n(E) Statistical regression\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Pretesting procedures"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Measuring instruments"
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Interaction of selection and the independent variable"
+        "text": "(C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Reactive experimental procedures (E) Statistical regression Choose the correct answer from the options given below:"
+        "text": "(D) and (E) only"
       }
     ],
     "correctOption": "C",
@@ -14165,7 +14165,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-510",
@@ -14173,27 +14173,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_66 | Q.32",
-    "questionText": "Match List I with List II\nList I - Research Steps \tList II - Main features",
+    "questionText": "Match List I with List II\nList I - Research Steps \tList II - Main features\n(A) Defining a research problem \t(A) Appropriate statistical techniques for\ndata analysis\n(B) Hypothesis making \t(II) Representativeness of the units chosen\n(C) Drawing a research sample \t(III) Identifying the variables for setting up\na plausible relationship\n(D) Hypothesis testing \t(IV) Carefully chosen terms and concepts\nwith operational descriptions. if need be.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Defining a research problem \t(A) Appropriate statistical techniques for data analysis"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Hypothesis making \t(II) Representativeness of the units chosen"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
       },
       {
         "key": "C",
-        "text": "Drawing a research sample \t(III) Identifying the variables for setting up a plausible relationship"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Hypothesis testing \t(IV) Carefully chosen terms and concepts with operational descriptions. if need be. Choose the correct answer from the options given below:"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-511",
@@ -14249,7 +14249,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-513",
@@ -14397,27 +14397,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_68 | Q.28",
-    "questionText": "Match the list\nList I \tList II\nStatistical test \tStatistical test Application",
+    "questionText": "Match the list\nList I \tList II\nStatistical test \tStatistical test Application\n(A) Chi-square \t(I) Is used to determine the significance\nbetween group means.\n(B) t-test \t(II) A procedure to decompose variation\ninto two or more independent variables.\n(C) ANOVA \t(III) Analyses the relationship between two\nor more independent variables and a single\ndependent variable.\n(D) Multiple regression \t(IV) Produces a value that reflects the\nrelationship between expected and observed\nfrequencies.\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Chi-square \t(I) Is used to determine the significance between group means."
+        "text": "(A)-I), (B)-(II), (C)-(III), (D) (IV)"
       },
       {
         "key": "B",
-        "text": "t-test \t(II) A procedure to decompose variation into two or more independent variables."
+        "text": "(A) (II), (B) (III) (C) IV), (D) (D)"
       },
       {
         "key": "C",
-        "text": "ANOVA \t(III) Analyses the relationship between two or more independent variables and a single dependent variable."
+        "text": "(A) (III), (B) (V), (C)-(D. (D) (II)"
       },
       {
         "key": "D",
-        "text": "Multiple regression \t(IV) Produces a value that reflects the relationship between expected and observed frequencies. Choose the correct answer from the options given below :"
+        "text": "(A)-IV) (B)-(I) (C)-(II), (D)-III)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-519",
@@ -14425,27 +14425,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_68 | Q.29",
-    "questionText": "The ethical considerations in research include:",
+    "questionText": "The ethical considerations in research include:\n(A)Free copying from books and journals\n(B) Informed consent\n(C) Avoiding plagiarism\n(D) Proper referencing\n(E)Privacy as an insignificant issue\nChoose the correct answer from the options given below",
     "options": [
       {
         "key": "A",
-        "text": "Free copying from books and journals"
+        "text": "(B), (C), (D) only"
       },
       {
         "key": "B",
-        "text": "Informed consent"
+        "text": "(A) (B) (C)only"
       },
       {
         "key": "C",
-        "text": "Avoiding plagiarism"
+        "text": "(C), (D) ,(E)only"
       },
       {
         "key": "D",
-        "text": "Proper referencing (E)Privacy as an insignificant issue Choose the correct answer from the options given below"
+        "text": "(A) (D) (E) only"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-520",
@@ -14501,7 +14501,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-522",
@@ -14557,7 +14557,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-524",
@@ -14565,27 +14565,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_69 | Q.34",
-    "questionText": "Match List I with List II :\nList I(Methods of research) \tList I(Features emphasized)",
+    "questionText": "Match List I with List II :\nList I(Methods of research) \tList I(Features emphasized)\n(A) Experimental \t(I) Primary and secondary sources tapped with\nemphasis on internal criticism\n(B) Ex Post Facto \t(II) Status of facts and conditions are ascertained\n(C) Descriptive \t(III) A variable is manipulated to see its effect on\nother variable\n(D) Historical \t(IV) The differences are noted and factors causal\nor otherwise are \tdetermined\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Experimental \t(I) Primary and secondary sources tapped with emphasis on internal criticism"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Ex Post Facto \t(II) Status of facts and conditions are ascertained"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
       },
       {
         "key": "C",
-        "text": "Descriptive \t(III) A variable is manipulated to see its effect on other variable"
+        "text": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
       },
       {
         "key": "D",
-        "text": "Historical \t(IV) The differences are noted and factors causal or otherwise are \tdetermined Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-525",
@@ -14809,7 +14809,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U02-537",
@@ -14893,7 +14893,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-540",
@@ -14977,7 +14977,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-543",
@@ -15005,7 +15005,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-544",
@@ -15013,27 +15013,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_5 | Q.5",
-    "questionText": "Given below are two statements\nStatement I: Maximum performance tests are designed to assess the upper limits of the\nexaminees' knowledge and ability\nStatement II: Typical response tests are designed to measure specific behaviors and\ncharacteristics of examinees In light of the above statements,\nchoose the most appropriate answer from the options given below",
+    "questionText": "Given below are two statements\nStatement I: Maximum performance tests are designed to assess the upper limits of the\nexaminees' knowledge and ability\nStatement II: Typical response tests are designed to measure specific behaviors and\ncharacteristics of examinees In light of the above statements,\nchoose the most appropriate answer from the options given below\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is correct but Statement II is false\n(D) Statement I is incorrect but Statement II is true\nBehavioral teaching\ncompetencies\nDescription\nA. Instructing I. Optimizing 'on\ntask' and minimizing\n'off task' activities\nB. Communicating II. Watching groups,\nbehaviors and pace\netc. and reacting\nquickly\nC. Managing III. Using methods\nand activities by the\nteacher to promote\nlearning\nD. Monitoring IV. Transmitting thoughts\nand ideas verbally and non-\nverbally\nChoose the correct answer from the options given below:\n(A) A - IV, B - 111, C - II, D - I\n(B) A - I, B - II, C - Ill, D - IV\n(C) A - II, B - I, C - IV, D - Ill\n(D) A - Ill, B - IV, C - I, D – II\n7) . In quantitative research paradigm which of the following sampling methods are given\npreference?\na. Simple random sampling\nb. Stratified sampling\nc. Quota sampling\nd. Snowball sampling\ne. Systematic sampling\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Both Statement I and Statement II are true"
+        "text": "a, b and c only"
       },
       {
         "key": "B",
-        "text": "Both Statement I and Statement II are false"
+        "text": "a. b and e only"
       },
       {
         "key": "C",
-        "text": "Statement I is correct but Statement II is false"
+        "text": "b, c and d only"
       },
       {
         "key": "D",
-        "text": "Statement I is incorrect but Statement II is true Behavioral teaching competencies Description A. Instructing I. Optimizing 'on task' and minimizing 'off task' activities B. Communicating II. Watching groups, behaviors and pace etc. and reacting quickly C. Managing III. Using methods and activities by the teacher to promote learning D. Monitoring IV. Transmitting thoughts and ideas verbally and non- verbally Choose the correct answer from the options given below:"
+        "text": "c, d and e only List I List II"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U02-545",
@@ -15061,7 +15061,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-546",
@@ -15173,7 +15173,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Cluster Sampling: Probability | Population divided into naturally occurring heterogeneous clusters (e.g. city wards, schools). Entire clusters are chosen randomly."
   },
   {
     "id": "P1-U02-550",
@@ -15257,7 +15257,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Cluster Sampling: Probability | Population divided into naturally occurring heterogeneous clusters (e.g. city wards, schools). Entire clusters are chosen randomly."
   },
   {
     "id": "P1-U02-553",
@@ -15265,23 +15265,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "30.09.2020 FN | Q.36",
-    "questionText": "The scope for violating research ethics is considered to be relevant in respect of\nwhich of the following stages in a research study?",
+    "questionText": "The scope for violating research ethics is considered to be relevant in respect of\nwhich of the following stages in a research study?\n(A) Formulating research hypothesis and setting up a Null hypothesis for testing it\n(B) Defining and delimiting the scope of the research study\n(C) Analysing and interpreting research data\n(D) In defining a research population and method of sampling\n(E) Reporting the research findings and using the same as a basis for policy\nformulation\nChoose the\ncorrect answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Formulating research hypothesis and setting up a Null hypothesis for testing it"
+        "text": "c and e only"
       },
       {
         "key": "B",
-        "text": "Defining and delimiting the scope of the research study"
+        "text": "a and b only"
       },
       {
         "key": "C",
-        "text": "Analysing and interpreting research data"
+        "text": "b and c only"
       },
       {
         "key": "D",
-        "text": "In defining a research population and method of sampling (E) Reporting the research findings and using the same as a basis for policy formulation Choose the correct answer from the options given below:"
+        "text": "d and e only"
       }
     ],
     "correctOption": "A",
@@ -15341,7 +15341,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-556",
@@ -15369,7 +15369,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-557",
@@ -15397,7 +15397,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-558",
@@ -15481,7 +15481,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-566",
@@ -15509,7 +15509,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-567",
@@ -15601,27 +15601,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "17.10.2020 FN | Q.9",
-    "questionText": "When the middle term is both positively and negatively related to the major term.\nthe infe1-ence is called.",
+    "questionText": "When the middle term is both positively and negatively related to the major term.\nthe infe1-ence is called.\n(A) Based on uniformity of co-existence\n(B) Kevalanavayi\n(C) Kevalavyatireki\n(D) Anavayavyatireki\nChoose the correct answer from the options given below:\n(A) (a). (b) and (c) only\n(B) (a). (c) and (e) only\n(C) (b), (c) and (d) only\n(D) (a), (d) and (e) only\n12. In terms of Indian logic, \"This hill has smoke which is invariably associated with fire\", is\ncalled:\n(A) Pratigya or proposition\n(B) Universal concomitance together with an example\n(C) Upanaya- the application of the universal concomitance to the present case\n(D) Conclusion or Nigamana drawn from the preceding proposition\n13. Given below are two statements:\nStatement I: 'SWAYAM' an initiative of the Government of India. rums at providing\naffordable and quality education to the citizens.\nStatement II: 'SWAYAM\" aims at promoting the education and health of adolescent girls.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I iscorrect but Statement II is false\n(D) Statement I isincorrect but Statement II is true\n14. A clock takes 5 seconds to strike 5 times at 5 O'clock. How long will it take to strike 9\ntimes at 9 O'clock?\n(A) 9 seconds\n(B) 10 seconds\n(C) 12 seconds\n(D) 8 seconds\n15. The average of 70 numbers is 32. If each number is increased by 3, then the new average\nwill become\n(A) 31\n(B) 33\n(C) 35\n(D) 37\n16. Given below are two statements:\nStatement I: Aggressive and inflammatory statements by the teacher make the classroom\ncommunication academically effective.\nStatement II: Choice of appropriate words lends credence to classroom communication\nprocesses.\nIn the light of the above statements. choose the correct answer from the options given below:\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is correct but Statement II is false\n(D) Statement I isincorrect but Statement II is true\n17. Match List I with List II\nList I List II\n(Examples of Communication) (Types of Communication)\n(A) Sending e-mail (I) Semiotics\n(B) Verbal instruction (II) Transactional\n(C) Exchange of information between two\ngroups of people\n(Ill) Formal\n(D) Traffic signals (IV) Informal\nChoose the correct answer from the options given below:\n(A) (A)-(III),(B)-(IV), (C)-(II), (D)-(1)\n(B) (A)-(II), (B)-(Ill), (C)-(1), (D)-(IV)\n(C) (A)-(1), (B)-(II) , (C)-(IV), (D)-(Ill)\n(D) (A)-(IV), (B)-(1), (C)-(Ill), (D)-(II)\n18. Given below are two statements:\nStatement I: Emissions of hydro carbons and carbon monoxide are inherently very low from\ndiesel vehicles.\nStatement II: Diesel driven vehicles are inherently more fuel efficient compared to petrol\ndriven vehicles.\nIn the light of the above statements, choose the most appropriate answer from t he options\ngiven below:\n(A) Both Statement I and Statement II are correct\n(B) Both Statement I and Statement II a1·e incorrect\n(C) Statement I is correct but Statement II is incorrect\n(D) Statement I is incorrect but Statement II is correct\n19. Given below are two statements:\nStatement I: In order to be effective. teaching and testing must go together.\nStatement II: Feedback does not form an essential component of formative assessment.\nIn the light of the above statements. choose the most appropriate answer from the opt ions\ngiven below:\n(A) Both Statement I and Statement II are correct\n(B) Both Statement I and Statement II are incorrect\n(C) Statement I is correct but Statement II is incorrect\n(D) Statement I is incorrect but Statement II is correct\n20. Given below are two statements: One is labelled as Assertion (A) and the other is labelled\nas Reason (R):\nAssertion (A): Random Access Memory (RAM) is volatile and stores data/programs\ncurrently in use.\nReason (R): RAM is a storage medium that retains its contents even after the supply of\nelectricity has been turned off.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)\n(C) (A) is true but (R) is false\n(D) (A) is false but (R) is true\n21. Consider the following incomplete sentence:\nWi-Fi is short for Wireless Fidelity and it is a set of ____ for using short range __ _\nto allow computing ____ to connect to a LAN or to the Internet.\nComplete the above sentence by choosing the co1'1·ect words in order from the following\nlist:\na. Standards\nb. Waves\nc. Devices\nChoose the correct answer from the options given below:\n(A) (c), (b), (a)\n(B) (c), (a), (b)\n(C) (a), (c), (b)\n(D) (a), (b), (c)\n22. Which of the following can be the major communication barriers to online teaching?\na. Technology\nb. Legalities\nc. Student community\nd. Culture\ne. Gender\nChoose the correct answer from the options given below:\n(A) (a) . (b). (c) only\n(B) (a). (d), (e) only\n(C) (b) . (c). (d) only\n(D) (c). (d). (e) only\n23. When a particular 'statistics· in a 1·esearch situation is evidently declared to be\nsignificant. which of t he following decisions will be considered tenable?\na. Null hypothesis is 1-ejected\nb. Alternative hypothesis is accepted\nc. Null hypothesis is accepted\nd. Alternative hypothesis is rejected\ne. Null hypothesis a long, with the alternate hypothesis are accepted.\nChoose the correct answer from the options given below:\n(A) (b) and (c) only\n(B) (c) and (d) only\n(C) (d) and (e) only\n(D) (a) and (b) only\n24. A person in a car drives along a straight road from point A to point B at a speed of 60 km\nhour for 15 minutes and t hen from point B to point C at a speed of 90 km hour for 10\nminutes. The average speed of his travel from point A to C is\n(A) 75 km/hr\n(B) 72 km/hr\n(C) 68kmlhr\n(D) 78 km/hr\n25. Which of the following types of institutions come under the ambit of National Board of\nAccreditation (NBA)?\n(A) Teacher education institutions\n(B) Technical institutions\n(C) Agriculture institutions\n(D) Medical institution\n26. Given below are two statements:\nStatement I: Chance or accidental errors in research will cause obtained results to depart from\nthe true value as often in one direction or in another.\nStatement II: Systematic error causes obtained results in research to vary in a particular\ndirection and is far more likely to catch the researcher by surprise than is chance error.\nIn the light of the above statements. choose the most appropriate from the options given\nbelow:\n(A) Both Statement I and Statement II are correct\n(B) Both Statement I and Statement II are incorrect\n(C) Statement I is correct but Statement II is incorrect\n(D) Statement I isincorrect but Statement II is correct\n27. Given below are two statements:\nStatement I: Upamitiis defined as knowledge of the relation between a word and its\ndenotation\nStatement II: Verbal testimony is the statement of a trustworthy person and consists in\nunderstanding its meaning.\nIn the light of the above statements, choose the most appropriate answer from the options\ngiven below:\n(A) Both Statement I and Statement II are correct\n(B) Both Statement I and Statement II are incorrect\n(C) Statement I iscorrect but Statement II is incorrect\n(D) Statement I isincorrect but Statement II is correct\n28. From the following identify those which illustrate the fallacy of the unproved\nmiddle?\na. Ashrayllsidha\nb. Swarupasidha\nc. Vyapyatvasidha\nd. Virudha\ne. Badhita\nChoose the correct answer from the options given below:\n(A) (a), (b) and (c) only\n(B) (b), (c) and (d) only\n(C) (a). (d) and (e) only\n(D) (a). (c) and (d) only\n29. Which of the following statements is true in respect of computers?\n(A) Software is loaded into secondary storage from RAM and is then executed by CPU.\n(B) Software is loaded into RAM from secondary storage and is then executed by CPU.\n(C) Software is loaded into RAM from secondary storage and is then executed by\nmotherboard.\n(D) Software is loaded into secondry storage from RAM and is then executed by\nmotherboard.\n30. A student scores 55. 60. 65 and 70 respectively in English. Physics. Chemistry and\nMathematics. If the credits assigned to English. Physics. Chemistry and Mathematics are 2. 3.\n3 and 4 respectively then what would be the average mark of the student?\n(A) 62.50\n(B) 63. 75\n(C) 64.25\n(D) 64. 75\n31. A shopkeeper sells an item at a discount of 40% on the item's listed price of Rs. 1500.00.\nHe still makes a profit of 20% on the original cost of the item. What is the original cost of the\nitem?\n(A) Rs .500\n(B) Rs. 750\n(C) Rs. 600\n(D) Rs. 1080\n32. Which of the following 'need strengths' in Maslow' s hierarchy are related to higher order\nlearning?\na. Physiological needs\nb. Safety needs\nc. Social needs\nd. Esteem needs\ne. Needs for self actualization\nChoose the correct answer from the options given below:\n(A) (a) and (b) only\n(B) (b) and (c) only\n(C) (c) and (d) only\n(D) (d) and (e) only\n33. Match List I with List II:\nList I List II\n(Computer Terms) (Description)\n(A) Operating System (OS) (I) A ser vice that runs on the internet.\n(B) WWW (II) Softwa1·e that helps an OS to control a\npiece of hardware.\n(C) Device Drive1· (III) Softwa1·e that controls peripherals and\nallocates memory and process01· time.\n(D) IP (IV) Defines network addresses and is used\nfor routing packets.\nChoose the correct answer from the options given below:\n(A) (A)-(II), (B)-(IV), (C)-(III), (D)-(I) (2)\n(B) (A)-(III), (B)-(I), (C)-(II), (D)-(IV)\n(C) (A)-(IV), (B)-(I), (C)-(II), (D) (III)\n(D) (A)-(III), (B)-(IV), (C)-(II),\n34. Identify the correct sequence of the media production process.\n(A) Content Preparation\n(B) Planning\n(C) Production\n(D) Transmission\n(E) Feedback analysis\nChoose the correct answer from the options given below:\n(A) (a), (b), (c), (d), (e)\n(B) (b), (c), (d). (a). (e)\n(C) (d), (c), (b), (e). (a)\n(D) (b), (a), (c). (d), (e)\n35. Which of the following sources of energy on combustion produces maximum carbon\ndioxide per unit of energy output or heat content?\n(A) Coal (sub-bituminous)\n(B) Natural gas\n(C) Diesel fuel and heating oil\n(D) Gasoline (without ethanol)\n36. Which statutory body of a University has the power to accord formal approval to the\nprogrammes and courses of studies?\n(A) Senate\n(B) Syndicate\n(C) Academic Council\n(D) Board of Studies\n37. Formulation of long term - low emission development strategies by each country was\nsuggested under\n(A) Paris Agreement\n(B) Montreal Protocol\n(C) International solar alliance\n(D) Kyoto Protocol\n38. Given below are two statements: One is labelled as Assertion (A) and the other is labelled\nas Reason (R):\nAssertion (A): Data must be authentic before it can be of any value in a historical research,\nyet proof of authenticity does not establish' its value, it must also be accurate\nReason (R): External criticism is, therefore, referred to as lower criticism of the data.\nIn the light of the above statements, choose the most appropriate answer from the options\ngiven below:\n(A) Both (A) and (R) are con-ectand (R) is the correct explanation of (A)\n(B) Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)\n(C) (A) is correct but (R) is not correct\n(D) (A) is not correct but (R) is correct\n39. List I mentions various methods of research while List II offers their description. Match\nList I with List II :\nList I List II\n(A) Experimental method (I) A detailed description of the way people\nbelieve and act in a particular society\n(B) Ex-post facto method (II) Studies designed to obtain information\nconcerning the current status of\nphenornena\n(C) Descript live survey method (Il l) Studying the effect of manipulating\nindependent variable on dependent variable\nunder appropriate control imposed.\n(D) Ethnographic method (IV) Conducting a probe into causal factors\non the basis of evidences manifest now\nChoose the correct answer from the options given below:\n(A) (A) -(1). (B)-(11). (C)-(111), (D)-(IV)\n(B) (A) -(IV), (B)-(111), (C)-(11), (D)-(1)\n(C) (A)-(11), (B)-(1), (C)-(IV), (D)-(111)\n(D) (A) -(III), (B)-(IV), (C)-(1), (D)-(11)\n40. Which of the following are objectives of a performance appraisal system?\na. To help an employee in finding out his/her own strengths and weaknesses.\nb. To help in creating desirable organizational ethos.\nc. To help in identifying people for the purpose of motivating and training them for new\nroles.\nd. To help in distinguishing the non-performers from performers.\ne. To enable learners to understand the weakness in the system.\nChoose the correct answer from the options given below:\n(A) (a). (b). (c) only\n(B) (b). (c). (d) only\n(C) (c). (d). (e) only\n(D) (e). (d), (a) only\n41. If the intensity of a given noise increases two-fold. the noise level in decibels (dB)\nincreases by\n(A) ~ 2 dB\n(B) ~ 3 dB\n(C) ~ 6dB\n(D) ~ 10 dB\n42. The communication process is active and interactive at a very high level in which of the\nfollowing level of teaching?\n(A) Reflective level\n(B) Understanding level\n(C) Memory level\n(D) Autonomous development level\n43. Which of the following have been identified as key behaviours contributing to effective\nteaching?\na. Lesson clarity\nb. Instructional variety\nc. Using student ideas and contribution\nd. Engagement in learning process\ne. Structuring\nChoose the correct answer from the options given below\n(A) (a), (b) and (d) only\n(B) (a), (b) and (c) only\n(C) (b), (c) and (d) only\n(D) (c), (d) and (e) only\n44. Cognitive dissonance in classroom communication is the result of\n(A) Filtering of message\n(B) Student interest\n(C) Student-based interaction\n(D) Chaotic conditions\n45. In which of the following, the direction of influence is mainly one way :\n(A) Counselling\n(B) Guiding\n(C) Teaching\n(D) Learning\nS=46-50);\nComprehension:\nRead the passage carefully and answer questions from 46 to 50.\nThe true role of our energy is to gain personal power and operate from it at all times. Today,\nin many situations, people lose their personal power in relationships between boss\nsubordinate, client-customer, colleague-colleague. teacher-student, husband-wife, parent\nchild, Friend-Friend, etc. Often in these relationships someone plays the role of the\nopp1·essor while the other plays the role of the oppressed. But this is a great weakness in the\nrelationship and it undermines people's capacity to be their authentic sieves and accomplish\nwhat they want in their lives. We need personal power to hold our self-esteem and go forward\nto succeed in our pursuits. Human relationships often deteriorate through these power\nstruggles and ultimately both, whether they are playing the role of an oppressor or the\noppressed, lose their personal power. Personal power can be seen as the result of an\ninte1·play between masculine and feminine forms of power. Both these forms of powe1· can\nco-exist in both men and women. Both feminine and the masculine forms of power need to be\nhonoured and expressed for a beautiful presence and creation in the world. We have to gain a\ndeeper understanding the characteristics of masculine and feminine forms of power.\n46. Interplay of forms of power is\n(A) The essence of success in ow· pursuits\n(B) Distinctly gender-based\n(C) Nothing but assertion of power\n(D) Needed for the creation of world\n47. Loss of personal power in the society is attributed to\n(A) Rigid human relations\n(B) Aggressiveness of the opressors\n(C) Weakness of the oppressed\n(D) Power struggle in society\n48. The power relations in a society tend to\n(A) Hurt self accomplishments by people\n(B) Improve the people's abilities\n(C) Increase self-esteem\n(D) Have more oppressors than the oppressed\n49. The passage focuses on the idea of\n(A) Importance of power struggle\n(B) Different forms and structures of power\n(C) The need for power division in the society\n(D) Harnessing personal power in the interest of co-existence\n50. Relationships of different types of power among people will lead to",
     "options": [
       {
         "key": "A",
-        "text": "Based on uniformity of co-existence"
+        "text": "Social diversity"
       },
       {
         "key": "B",
-        "text": "Kevalanavayi"
+        "text": "Hierarchical structure"
       },
       {
         "key": "C",
-        "text": "Kevalavyatireki"
+        "text": "Balance of power in society"
       },
       {
         "key": "D",
-        "text": "Anavayavyatireki Choose the correct answer from the options given below:"
+        "text": "Subjugation of the weak and meek"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Ex-Post Facto: Investigation starts after the fact; no manipulation possible (events already occurred). | Assessing impact of an earthquake or historical policy."
   },
   {
     "id": "P1-U02-572",
@@ -15705,7 +15705,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-575",
@@ -15741,27 +15741,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "17.10.2020 AN | Q.32",
-    "questionText": "List I gives stages of development of values while List II their outcomes\nMatch List I with List II\nList I List II\nStage of development of values Outcomes\n(i) Stage I (l) Value collection through\ninvitation\n(ii) Stage II (II) Inner evaluation\n(iii) Stage III (Ill) Value con solidation\n(iv) Stage IV (IV) Value clarification\nChoose the correct answer from t he options given below :",
+    "questionText": "List I gives stages of development of values while List II their outcomes\nMatch List I with List II\nList I List II\nStage of development of values Outcomes\n(i) Stage I (l) Value collection through\ninvitation\n(ii) Stage II (II) Inner evaluation\n(iii) Stage III (Ill) Value con solidation\n(iv) Stage IV (IV) Value clarification\nChoose the correct answer from t he options given below :\n(A) (i)-(11), (ii)-(111), (iii)-(1), (iv) -(IV)\n(B) (i)-(1), (ii)-(II), (iii)-(IV), (iv)-(III)\n(C) (i)-(IV), (ii)-(I), (iii)-(III), (iv)-(Il)\n(D) (i)-(III), (ii) -(IV), (iii)-(II), (iv)-(1)\n33).At what angle the hands of a clock are inclined at 15 minutes past 5?\n34). Given below are two statements:\nStatement I: Kevalvyatireki form of inference 1s that when the middle term is the\ndifferentium of the minor term.\nStatement II: Kevalanvayi form of inference 1s that when the middle term 1s both\npositively and negatively related to the major term.\nIn the light of the above statements, choose t he correct answer from the options given\nbelow:\nA. Both Statement I and Statement II are true\nB. Both Statement I and Statement II are false\nC. Statement I is correct but Statement II is false\nD. Statement I is incorrect but Statement II is true\n35). Announcement of arrival and departure of trains at railway stations is:\nA. Spatial communication\nB. Organisational communication\nC. Public communication\nD. Sectional communication\n36). Given below are two statements:\nStatement I: The content and style of communication are the predictor variables of\neffective teaching.\nStatement II: A good and communicative teacher evokes relatively less questions from the\nstudents.\nIn the light of the above statements, choose the correct answer from the options given below:\nA. Both Statement I and Statement II are true\nB. Both Statement I and Statement II are false\nC. Statement I is correct but Statement II is false\nD. Statement I is incorrect but Statement II is true\n37). Given below are two statements:\nStatement I: Two sounds of same intensity but different frequency characteristics may\nappear to be of different loudness.\nStatement II: The response of human ear to noise of different frequencies is not uniform.\nIn the light of the above statements. choose the most appropriate answer from the options\ngiven below:\n(1) Both Statement I and Statement II are correct\n(2) Both Statement I and Statement II are incorrect\n(3) Statement I is correct but Statement II is incorrect\n(4) Statement I is incorrect but Statement II is correct\n38. Given below are two statements:\nStatement I: A company-wide network, closed to public access, which uses internet-type\ntechnology is called World Wide Web.\nStatement II: MODEM is a device that enables a computer to communicate over telephone\nlines.\nIn the light of the above statements, choose the correct answer from the options given below:\nA. Both Statement I and Statement II are true\nB. Both Statement I and Statement II are false\nC. Statement I is correct but Statement II is false\nD. Statement I is incorrect but Statement II is true\n39) The critical difference between experimental and ex post facto research lies in terms of:\n(A) Selection of sample\n(B) Causal connection between two variables\n(C) Use of research tools\n(D) Control and manipulation of independent variable\n40). Given below are some metals which are released into environment from a variety of\nanthropogenic sources. Identify the metals which have been of serious concern from the pointof\nview of pollution of water bodies\n(i) Aluminium\n(ii) Copper\n(iii) Mercury\n(iv) Cadmium\n(v) Lead\nChoose the most appropriate answer from the options given below:\n(A) (ii), (iii), (v) only\n(B) (i), (ii), (iii), (v) only\n(C) (iii), (iv), (v) only\n(D) (i), (ii), (v) only\n41.Match List I with List II\nList I List II\n(Examples of\nCommunication)\n(Type of\nCommunication)\n(A) A company\nboss telephones\nhis/her secretary for\nsome help from\noutside.\n(I) Marketing\ncommunication\n(B) A company\nissues a circular of\nguidelines for its\nemployees.\n(II) Horizontal\ncommunication\n(C) Employees\ndiscuss certain\nissues among\nthemselves.\n(III) Vertical\ncommunication\n(D) A company\nsends a formal\nletter to its\nretailers and\nwholesalers.\n(IV) Informal\ncommunication\nChoose the correct answer from the options given below:\n(A) (A)-(IV). (B)-(III). (C)-(II), (D)-(I)\n(B) (A) -(I). (B)-(II). (C)-(III). (D) -(IV)\n(C) (A)-(II), (B). (III). (C)-(IV), (D)-(I)\n(D) (A) -(III). (B)-(IV). (C)-(I). (D) -(II)\n42 Given below are two statements:\nStatement I: Computer based testing ensures high reliability and validity in the process of\nevaluation centred on effective and conative domains of behavior.\nStatement II: Support materials in the form of programmed instructional models have a\ntremendous potential to maximize learning.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is co1Tect but Statement II is false\n(D) Statement I is incorrect but Statement II is true\n43. What is the hallmark of reflective teaching?\n(A) Clear. organized and well structured content\n(B) Personalized, interactive and high level of cognitive interchange\n(C) Systematic, planned and quick question-answer session\n(D) Logical, coherent and example based presentations\n44) Match List I with List II :\nList I List II\n(Digital Initiative) (Objective)\n(B) SWAYAM PRABHA\n(II) All-digital library that stores\ninformation (metadata) about\ndifferent\ntypes of digital contents.\n(A) NAD\n(I) Utilization of satellite\ncommunication\ntechnologies for transmission of\neducation e-contents through National\nchannels\n(C) NDL (III) 24 x 7 online store\nhouse of all\nacademic awards VIZ.\ncertificates,\ndegrees etc.\n(D) SWAYAM (IV) Offers various online\ncourses for school\neducation and higher\neducation.\nChoose the correct answer from the options given below:\n(A) (A) -(II), (B) -(I), (C)-(III), (D)-(IV)\n(B) (A)-(III), (B)-(I), (C)-(II), (D)-(IV)\n(C) (A)-(III), (B)-(IV), (C) (II), (D)-(I)\n(D) (A)-(IV), (B)-(I), (C)-(II), (D)-(III)\n45) The education imported through institutions of higher learning in India such as 'Sanskrit\nVidyapith' is an example of\n(A) Non-conventional learning programmes\n(B) Value Education Programmes\n(C) Oriental learning Programmes\n(D) Professional education programmes\nS=46-50);\nComprehension:\nRead the passage carefully and answer questions from 46 to 50.\nOur life exists by constant interchange and replenishment. Every day, food is needed for\nthe\nbody to survive. For our vital energies to thrive every day, vital nourishment is needed. For\nour minds to be sharp and intelligent every day, an increase in knowledge is needed. But a\nhuman does not live by nourishment of the mind, life energy and body alone, but also by\nthe\nnourishment that comes by the connection with our Divine source. This deeper\nnourishment\nis needed each day for our inmost well-being. To connect to our deeper self and receive its\nnourishment, our awareness needs to touch deepe1· than our mind, vital energy and body.\nAmere mental awareness cannot touch this inner-most space. Our efforts too can take us\nonly\nup to a certain point. The true question is, how much do we really want to connect with the\ndivinity within us. If it is a sincere inner urge, then at some point, we realize that there is a\nPresence that lives within us and carries us forward. To recognize this Presence when it\nreveals itself to us, we can begin to know its nature. It exists quietly in the background,\noften unnoticed by our surface self. When we are lost in the whirls of our mind, vital life.\nenergy and body, we lose our connection with this 'presence'. When we remember and\nsincerely seek to connect, sooner or later, the 'Presence' makes itself felt.\n46. The passage focusses on the\nA. Need for body replenishment\nB. Intellectual thoughts\nC. Importance of connect with the Divine Presence\nD. Vital life energies\n47.How can we realize the Divine Presence?\n(A) By searching for the divine\n(B) By recognising its presence within us\n(C) By reaching the innermost space\n(D) By making sincere efforts within one's own self\n48. The Divine Presence in each individual can be found through",
     "options": [
       {
         "key": "A",
-        "text": "(i)-(11), (ii)-(111), (iii)-(1), (iv) -(IV)"
+        "text": "One's own realization of divinity"
       },
       {
         "key": "B",
-        "text": "(i)-(1), (ii)-(II), (iii)-(IV), (iv)-(III)"
+        "text": "The whirls of our mind"
       },
       {
         "key": "C",
-        "text": "(i)-(IV), (ii)-(I), (iii)-(III), (iv)-(Il)"
+        "text": "The surface self"
       },
       {
         "key": "D",
-        "text": "(i)-(III), (ii) -(IV), (iii)-(II), (iv)-(1) 33).At what angle the hands of a clock are inclined at 15 minutes past 5? 34). Given below are two statements: Statement I: Kevalvyatireki form of inference 1s that when the middle term is the differentium of the minor term. Statement II: Kevalanvayi form of inference 1s that when the middle term 1s both positively and negatively related to the major term. In the light of the above statements, choose t he correct answer from the options given below: A. Both Statement I and Statement II are true B. Both Statement I and Statement II are false C. Statement I is correct but Statement II is false D. Statement I is incorrect but Statement II is true 35). Announcement of arrival and departure of trains at railway stations is: A. Spatial communication B. Organisational communication C. Public communication D. Sectional communication 36). Given below are two statements: Statement I: The content and style of communication are the predictor variables of effective teaching. Statement II: A good and communicative teacher evokes relatively less questions from the students. In the light of the above statements, choose the correct answer from the options given below: A. Both Statement I and Statement II are true B. Both Statement I and Statement II are false C. Statement I is correct but Statement II is false D. Statement I is incorrect but Statement II is true 37). Given below are two statements: Statement I: Two sounds of same intensity but different frequency characteristics may appear to be of different loudness. Statement II: The response of human ear to noise of different frequencies is not uniform. In the light of the above statements. choose the most appropriate answer from the options given below:"
+        "text": "Knowing the nature of agitated mind"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": null
+    "cheatSheetRule": "SWAYAM PRABHA: 34 (expanded to 40) DTH Channels broadcasting high-quality educational programs 24×7 using GSAT-15 satellite. | Infonet centre: INFLIBNET maintains web portal; programs provided by CEC, NPTEL, IGNOU, NCERT."
   },
   {
     "id": "P1-U02-578",
@@ -15937,27 +15937,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "11.11.2020 FN | Q.23",
-    "questionText": "Given below are two Statements :\n'The water of the pond is muddy. It must have rained last night.\nWhat kind of Anumana (inference) has been used in the above statements.\nChoose the correct option from the following :\n(a) S'esavat anumana\n(b) Comparison\n(c) Purvovat anumana\n(d) Both (A) and (B)\nChoose the most appropriate answer from the options given below",
+    "questionText": "Given below are two Statements :\n'The water of the pond is muddy. It must have rained last night.\nWhat kind of Anumana (inference) has been used in the above statements.\nChoose the correct option from the following :\n(a) S'esavat anumana\n(b) Comparison\n(c) Purvovat anumana\n(d) Both (A) and (B)\nChoose the most appropriate answer from the options given below\n(A). (A) only\n(B).(B) only\n(C).(C) only\n(D).(D) only\n24 .MatchList I withList II :\nList I List II\n(A) Input (I) Mouse\n(B) Output (II) Monitor\n(C) Memory (III) Cache\n(D) Software (IV) Python\nChoose the correct answer from the options given below :\n(A). (A)-(I), (B)-(II). (C)-(IV). (D)-{III)\n(B). (A)-(I), (B)-(III). (C)-(II). (D)-(IV)\n(C). (A)-{III), {B)-(II), (C)-(I), (D)-(IV)\n(D). (A)-(I), {B)-(II). (C)-(III), (D)-(IV)\n25. Three pipes fill a tank in 4 h ours. If two of them take 8 and 12 hours each to fill the tank,\nhow many hours will the third pipe take to fill the tank?\n(A) 6 hours\n(B) 15 hours\n(C) 18 hours\n(D) 24 hours\n26 .The word blog is derived from the word\n(A) My log\n(B) We blog\n(C) E-blog\n(D) Blogger\n27. What are the advantages of Choice Based Credit System (CBCS) introduced by the UGC for\nhigher education institutions?\nA. Focuses on student-centric education\nB. Allows students to choose inter-disciplinary and intra-disciplinary courses.\nc. Makes education at par with global standards\nd. Makes it easy to estimate the performance levels of students in terms of marks\ne. Offers flexibility for students to undertake studies at different times and at different\ninstitutions.\n.\nChoose the correct answer from the options given below :\n(A). (a), (b), (c), (d) only\n(B). (b), (c), (d), (e) only\n(C). (a), (b), (c), (e) only\n(D). (c), (d), (e), (a) only\n28. Match List I with List II :\nList I List II\n(Scales of measurement) (Description of properties)\n(A) Nominal (I) Classification and order\n(B) Ordinal (II) Classification\n(C) Interval (III) Classification, order and equal units\n(D) Ratio (IV) Classification, order, equal units and\nAbsolute Zero\nChoose the co1Tect answer from the options given below :\n(A). (A)-(IV), (B)-(III), (C)-(11), (D)-(I)\n(B). (A)-(II), (B)-(I), (C)-(III), (D)-(IV)\n(C). (A)-(I), (B)-(II), (C)-(IV), (D)-(III)\n(D). (A)-(III), (B)-(IV), (C)-(I), (D)-(II)\n29. Which of the International Agreements/Convent ion/Protocols are legally binding on the member\ncountries (parties)?\na. Convention on Biological Diversity\nb. Kyoto Protocol\nc. Montreal Protocol\nd. Paris Agreement\nChoose the most appropriate answer from the options given below :\n(A). (c) only\n(B). (a) and (c) only\n(C). (a), (b) and (c) only\n(D). (b), (c) and (d) only\n30. If some pens are pencils but no pencil is sharpener then\na. All pencils are pens\nb. Some sharpeners are pencils\nc. Some pens are not sharpener\nd. Some pencils are not pens\nChoose the correct answer from the options given below :\n(A). (A) and (C) only\n(B). (B) and (C) only\n(C). (A) and (D) only\n(D).(B) and (D) only\n31 .In conducting an empirical study, a researcher employs a non-parametric test for data analysis and\nfinds that the 'statistics' arrived at is 'significant' at .05 level. What decisions will be warranted\nthereafter\na. Rejecting the Null hypothesis (Ho)\nb. Accepting the Null hypothesis (Ho)\nc. Accepting the alternate hypothesis (H1)\nd. Keeping the decision in abeyance\ne. Rejecting the alternate hypothesis (H1)\nChoose the correct answer from the options given below\n(A). (A) and (B) only\n(B). (B) and (C) only\n(C).(D) only\n(D). (A) and (C) only\n32. Given below are two statements : One is labelled as Assertion (A) and the other is labelled as\nReason (R) :\nAssertion (A) :\nIn order to bridge the gap between theory and practice both fundamental and applied research formats\nhave to be promoted.\nReason (R) :\nFundamental research focuses on theory making and applied research is directed at exploring the\napplicability of theory in varied practical situations.\nIn the light of the above statements, choose the most appropriate answer\nfrom the options given below :\n(A) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)\n(C) (A) is correct but (R) is not correct\n(D) (A) is not correct but (R) is correct\n33. Given below are two statements :\nStatement I :Equality of educational opportunities is a pre-condition for achieving equity in education\nStatement II : Equity in education can be achieved without equality of educational opportunities.\nIn the light of the above statements, choose the correct answer from the options given below :\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is correct but Statement II is false\n(D) Statement I isincorrect but Statement II is true\n34. Given below are two statements :\nStatement I :Indirect instruction is an approach to teaching and learning in which the process is\ninquiry, the content involves concept and the context is a problem\nStatement II :In NRT test data tell us about a student's level of proficiency in mastery of some skills\nor set of skills.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I iscorrect but Statement II is false\n(D) Statement I is incorrect but Statement II is true\n35. Given below are two statements :One is labelled as Assertion (A) and the other is labelled as\nReason (R\nAssertion (A) :\nCarbon monoxide (CO) is a serious asphyxiant: even a short exposure may have fatal h ealth issues\nReason (R):\nHemoglobin present in the blood has greater affinity towards carbon monoxide than oxygen.\nIn the light of the above statements,choose the most appropriate answer from the options given below:\n(A) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)\n(C) (A) is correct but (R) is not correct\n(D) (A) is not correct but (R) is correct\n36. Given below are two statements\nStatement I :Interactive and multimedia systems provide for a new culture of teaching and learning.\nStatement II : Virtual classrooms convert students into senseless humanoids.\nIn the light of the above statements, choose the correct answer from the options given below :\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is correct but Statement II is false\n(D) Statement I is incorrect but Statement II is true\n37. Given below are two statements :\nStatement I : Qualitative research is an umbrella term to refer to various research strategies that share\ncertain characteristics. The data collected have been termed 'soft' i.e. rich in description\nStatement II : Quantitative research is mainly h ypotheticodeductive and employs mostly statistical\ntechniques for data analysis\nIn the light of the above statements, choose the correct answer from the options given below\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I iscorrect but Statement II is false\n(D) Statement I isincorrect but Statement II is true\n38. Identify the teaching strategies which are employed during indirect instruction:\na. Emphasizing direct and indirect exemplars\nb. Presenting the stimulus material\nc. Inquiry based question-answer session\nd. Presenting, asking and providing feed back\ne. Promoting problem solving approach\nChoose the correct answer from the options given below :\n(A). (a), (b) and (c) only\n(B). (b), (c) and (d) only\n(C). (c), (d) and (e) only\n(D). (a), (c) and (e) only\n39. Which of the following explain the concept of values?\na. Values a.re beliefs tied inextricably to human emotion and behaviour\nb. Values refer to desirable goals people strive to attain\nc. Values are conflict-free\nd. Values are ordered by importance relative to one another\ne. Values are utilized primarily to effect change in knowledge of a person\nChoose the correct answer from the options given below :\n(A). (a). (b). (c) only\n(B). (a). (b). (d) only\n(C). (b). (c). (d) only\n(D). (c). (d). (e) only\n40. Wind energy is very sensitive to the wind velocity because wind power 1s directly proportional to\nthe\n(A). wind velocity\n(B). square root of the wind velocity\n(C). square root of the wind velocity\n(D). cube of the wind velocity\n41 .Which of the following are useful in positive components of classroom communication?\na. Restrictive actions\nb. Empathy\nc. Punctuality\nd. Follow-up\ne. Scattered reflections\nChoose the most appropriate answer from the options given below :\n(A), (B), (C) only\n(B), (C), (D) only\n(C), (D), (E) only\n(A), (D), (E) only\n42. Identifying the sequence of stages of message processing\n(A) Action\n(B) Internalisation\n(C) Selection\n(D) Understanding\n(E) Perception\nChoose the correct answer from the options given below :\nA. (A). (B), (D), (E), (C)\nB. (B), (C), (A), (D). (E)\nC. (D). (E), (B). (A). (C)\nD. (E) . (D). (C). (B). (A)\n43. In which of the following, there is a greater flexibility in both the methods and process of\nresearch?\n(A) Ethnography and phenomenology\n(B) Descriptive survey and impact studies\n(C)Experimental and observation basedstudies\n(D) Expose facto and historical studies\n44. which of the following are non-probability sampling methods?\na. Cluster sampling\nb. Judgemental sampling\nc. Systematic sampling\nd. Snowball sampling\ne. Quota sampling\nChoose the correct answer from the options given below :\n(A). (a), (b) and (c) only\n(B). (b), (d) and (e) only\n(C). (b), (c) and (d) only\n(D). (c), (d) and (e) only\n45. Given below are two statements :One is labelled as Assertion (A) and the other\nis labelled as Reason (R):\nAssertion (A) :Substance is always the subject of all predicates\nReason (R) :Substance is self-existent and self-conceived. In\nComprehension:\nRead the passage and answer questions from 46 to 50. Through their work and the efforts of others,\nmanagers in all kinds of organisational settings, whether industrial, educational, governmental, or\nmilitary are attempting to run their organizations with the management by objectives process as a\nbasic underlying management concept. Management by objectives is basically a process where bythe\nseniors and the junior managers of an enterprise jointly identify its common goals, define each\nindividual's major areas of responsibility in terms of the results expected... use these measU1·es as\nguides for operating the unit and assessing the contribution of each of its members. In some cases, this\nprocess has been successfully carried beyond the\nmanagerial level to include hourly employees. The concept rests on a philosophy of management that\nemphasizes an integration between external control by managers and self-control by employees. It can\napply to any manager or individual no matter what level or function, and to any organisation,\nregardless of size. The effective functioning of this system is an agreement between a manager and an\nemployee about that employee's groups performance goals during a stated time period. These goals\ncan emphasise either output variables of intervening variables or some combination of both. The\nimportant thing is that goals are jointly established and agreed upon in advance. At the end of the time\nperiod, performance is reviewed in relation to accepted goals. Both the employee and the manager\nparticipate in this review.\nSubQuestionNo : 46\n46. The philosophy behind management by objectives is to\nA. effect improvement through a joint review of achievement of performance goals within a\ngiven timeframe\nB. integrate external and internal controls by managers\nC. provide managers scope to review the accepted output variables\nD. agree upon different performance goals for managers and employees\nSubQuestionNo : 47 .\n47. The critical feature of the concept in this type of management is related to\n(A) the assignment of responsibility to the workers\nIn the light of the above statements, choose the correct answer Fromthe options given\nbelow\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)\n(C) (A) is true but (R) is false\n(D) (A) is false but (R) is true\n(B) distinguishing the operational role between managers and workers\n(C) promoting of uniformity of work environment mong all types of organisation\n(D) shaping of responsibility with an eye on results\nSubQuestion No : 48\n48. In an MBO. organisation is managed through the identification of\n(A) competing goals\n(B) common objectives\n(C) its specific characteristics\n(D) senior and junior managers\n.\nSubQuestion No : 49\n49. In this frame of reference, how does an organisation function effectively?\n(A) By including the hourly employees in the managerial positions\n(B) By identifying and executing performance targets in a collaborative mode\n(C) By imposing a rigid philosophy of management\n(D) By providing separate work environment for both managers and workers\nSubQuestion No : 50\n50. The requisite for management by objectives is centred on",
     "options": [
       {
         "key": "A",
-        "text": ". (A) only"
+        "text": "the control by seniors"
       },
       {
         "key": "B",
-        "text": ".(B) only"
+        "text": "the guidance of juniors"
       },
       {
         "key": "C",
-        "text": ".(C) only"
+        "text": "the participatory process"
       },
       {
         "key": "D",
-        "text": ".(D) only 24 .MatchList I withList II : List I List II"
+        "text": "the organisational settings"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Cluster Sampling: Probability | Population divided into naturally occurring heterogeneous clusters (e.g. city wards, schools). Entire clusters are chosen randomly."
   },
   {
     "id": "P1-U02-585",
@@ -16013,7 +16013,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-587",
@@ -16153,7 +16153,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-592",
@@ -16209,7 +16209,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-594",
@@ -16349,7 +16349,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-599",
@@ -16461,7 +16461,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Cluster Sampling: Probability | Population divided into naturally occurring heterogeneous clusters (e.g. city wards, schools). Entire clusters are chosen randomly."
   },
   {
     "id": "P1-U02-603",
@@ -16573,7 +16573,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-609",
@@ -16601,7 +16601,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-610",
@@ -16909,7 +16909,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-624",
@@ -16965,7 +16965,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-626",
@@ -17049,7 +17049,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-629",
@@ -17273,7 +17273,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U02-638",
@@ -17329,7 +17329,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-656",
@@ -17637,7 +17637,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-683",
@@ -17665,7 +17665,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-684",
@@ -17749,7 +17749,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-687",
@@ -17805,7 +17805,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-689",
@@ -18113,7 +18113,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-735",
@@ -18197,7 +18197,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-738",
@@ -18317,27 +18317,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_55 | Q.26",
-    "questionText": "The format of thesis writing is the same as in",
+    "questionText": "The format of thesis writing is the same as in\n(A) Preparation of a research paper/article\n(B) Writing of seminar presentation\n(C) A research dissertation\n(D) Presenting a workshop/conference paper\n46. Select the code, which is not correct in the context of deductive argument with two\npremises:\n(A) An argument with one true premise, one false premise and a false conclusion may be\nvalid.\n(B) An argument with two true premises and a false conclusion may be valid.\n(C) An argument with one true premise, one false premise and a false conclusion may be\nvalid.\n(D) An argument with two false premises and a false conclusion may be valid.\n47. Given below two premise and four conclusions are drawn from them (taking singly or\ntogether).\nSelect the code that states the conclusion validly drawn.\nPremises:\n(i) All religious persons are emotional.\n(ii) Ram is a religious person.\nConclusion:\n(a) Ram is emotional.\n(b) All emotional persons are religious.\n(c) Ram is not a non-religious person.\n(d) Some religious persons are not emotional.\nCodes:\n(A) (a), (b), (c) and (d)\n(B) (a) only\n(C) (a) and (c) only\n(D) (b) and (c) only\n48. If the proposition ‘All thieves are poor’ is false, which of the following propositions can be\nclaimed certainly to be true?\nPropositions:\n(A) Some thieves are poor.\n(B) Some thieves are not poor.\n(C) No thief is poor.\n(D) No poor person is a thief.\n49. Consider the following statement and select the correct code stating the nature of the\nargument involved in it:\twww.netugc.com\nTo suppose that the earth is the only populated world in the infinite space is as absurd as to\nassert that in an entire field of millet only one grain will grow.\n(A) Astronomical\n(B) Anthropological\n(C) Deductive\n(D) Analogical\n50. Select the code, which is not correct about Venn diagram:",
     "options": [
       {
         "key": "A",
-        "text": "Preparation of a research paper/article"
+        "text": "Venn diagram represents propositions as well as classes."
       },
       {
         "key": "B",
-        "text": "Writing of seminar presentation"
+        "text": "It can provide clear method of notation."
       },
       {
         "key": "C",
-        "text": "A research dissertation"
+        "text": "It can be either valid or invalid."
       },
       {
         "key": "D",
-        "text": "Presenting a workshop/conference paper"
+        "text": "It can provide the direct method of testing the validity."
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-743",
@@ -18421,7 +18421,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-746",
@@ -18849,27 +18849,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_61 | Q.34",
-    "questionText": "Which of the following statements about the Union Public Service Commission are correct\n?\n1. UPSC is a Constitutional body.\n2. It serves as an advisory body.\n3. It is called upon to advise the Government in regard to representation of the Scheduled\nCastes and Scheduled Tribes in the Civil Service.\n4. It is consulted on appointments of Chairman and members of Tribunals and Commissions.\nSelect the correct answer from the code given below :\nCodes :",
+    "questionText": "Which of the following statements about the Union Public Service Commission are correct\n?\n1. UPSC is a Constitutional body.\n2. It serves as an advisory body.\n3. It is called upon to advise the Government in regard to representation of the Scheduled\nCastes and Scheduled Tribes in the Civil Service.\n4. It is consulted on appointments of Chairman and members of Tribunals and Commissions.\nSelect the correct answer from the code given below :\nCodes :\n(A) 1, 2 and 3\n(B) 1, 2 and 4\n(C) 1, 3 and 4\n(D) 1 and 2\n46. CLASS stands for\n(A) Complete Literacy and Studies in Schools\n(B) Computer Literates and Students in Schools\n(C) Computer Literacy and Studies in Schools\n(D) Centre for Literacy and Studies in Schools\n47. Which one of the following is not a type of experimental method ?\n(A) Single group experiment\n(B) Residual group experiment\n(C) Parallel group experiment\n(D) Rational group experiment\n48. Which one of the following is not a non-parametric test ?\n(A) t-test\n(B) Sign test\n(C) Chi-square test\n(D) Run test\n49. Read the following statements – one labelled as Assertion (A) and the other as Reason(R) :\nAssertion (A) : Qualitative research in India has a long way to go to reach international\nstandards.\nReason (R) : Because the funding agencies do not support qualitative research in academic\ninstitutions.\nFind the correct answer from the codes given below :\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A).\n(C) (A) is true, but (R) is false.\n(D) Both (A) and (R) are false.\n50. Identify the correct sequence of research steps :\n(A) Selection of topic, review of literature, data collection, interpretation of findings\n(B) Review of literature, selection of topic, data collection, interpretation of findings\n(C) Selection of topic, data collection, review of literature, interpretation of findings\n(D) Selection of topic, review of literature, interpretation of findings, data collection\n51. Deconstruction is a popular method of research in\n(A) Basic Science\n(B) Applied Science\n(C) Social Science\n(D) Literature\n52. With which one of the following techniques communality is associated ?\n(A) Univariate analysis\n(B) Factor analysis\n(C) Case studies\n(D) SWOT analysis\n53. The variable which impacts the relationship between an independent variable and a\ndependent variable is known as\n(A) antecedent variable\n(B) precedent variable\n(C) predictor variable\n(D) control variable\n54. Which one of the following is a nonprobability sampling method ?\n(A) Simple Random Sampling\n(B) Stratified Sampling\n(C) Cluster Sampling\n(D) Quota Sampling\n55. By the year 2022, the Climate Change Action Plan of Government of India aims at\ninstalling\n(A) 20,000 MW of wind power\n(B) 25,000 MW of wind power\n(C) 20,000 MW of solar power\n(D) 10,000 MW of solar power\n56. Which one of the following biosphere reserves has UNESCO recognition ?\n(A) Manas\n(B) Kanchenjunga\n(C) Seshachalam Hills\n(D) Greater Nicobar\n57. Which activity contributes to water pollution more than any other throughout world ?\n(A) Agriculture\n(B) Hydroelectric power generation\n(C) Industry\n(D) Urbanisation\n58. Match List – I with List – II and find the correct answer from the codes given below :\nList – I\n(Biosphere Reserve)\nList – II\n(Area of Location)\na. Nilgiri i. Deccan\nPeninsula\nb. Manas ii. Chhattisgarh\nc. Similipal iii. Eastern\nHimalaya\nd. Achankmar-\nAmarkantak\niv. Western Ghat\nCodes :\na b c d\n(A) i ii iii iv\n(B) ii iii iv i\n(C) iii iv ii i\n(D) iv iii i ii\n59. G5 are the five most important emerging economies of world. Which one of the following\ndoes not form part of G5 ?\n(A) Mexico\n(B) Brazil\n(C) China\n(D) Korea\n60. Which of the following nations has the maximum per capita emissions of carbon di-\noxide?",
     "options": [
       {
         "key": "A",
-        "text": "1, 2 and 3"
+        "text": "China"
       },
       {
         "key": "B",
-        "text": "1, 2 and 4"
+        "text": "Japan"
       },
       {
         "key": "C",
-        "text": "1, 3 and 4"
+        "text": "USA"
       },
       {
         "key": "D",
-        "text": "1 and 2"
+        "text": "India"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U02-762",
@@ -18925,7 +18925,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-764",
@@ -18953,7 +18953,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U02-765",
@@ -18961,23 +18961,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "JUNE 2013 | Q.41",
-    "questionText": "A working hypothesis is",
+    "questionText": "A working hypothesis is\n(A) a proven hypothesis for an argument.\n(B) not required to be tested.\n(C) a provisionally accepted hypothesis for further research.\n(D) a scientific theory.\n46. The Construction of the Taj Mahal was completed between the period\n(A) 1632-1636 A.D.\n(B) 1630-1643 A.D.\n(C) 1632-1643 A.D.\n(D) 1636-1643 A.D.\n47. The documents indicating the ownership of land, where the Taj Mahal was built, known as\n(A) Farman\n(B) Sale Deed\n(C) Sale-Purchase Deed\n(D) None of the above\n48. In the process of communication, which one of the following is in the chronological\norder?\n(A) Communicator, Medium, Receiver, Effect, Message\n(B) Medium, Communicator, Message, Receiver, Effect\n(C) Communicator, Message, Medium, Receiver, Effect.\n(D) Message, Communicator, Medium, Receiver, Effect.\n49. Bengal Gazette, the first Newspaper in India was started in 1780 by\n(A) Dr. Annie Besant\n(B) James Augustus Hicky\n(C) Lord Cripson\n(D) A.O. Hume\n50. Press censorsip in India was imposed during the tenure of the Prime Minister\n(A) Rajeev Gandhi\n(B) Narasimha Rao\n(C) Indira Gandhi\n(D) Deve Gowda\n51. Communication via New media such as computers, teleshopping, internet and mobile\ntelephony is termed as\n(A) Entertainment\n(B) Interactive communication\n(C) Developmental communication\n(D) Communication\n52. Classroom communication of a teacher rests on the principle of\n(A) Infotainment\n(B) Edutainment\n(C) Entertainment\n(D) Enlightenment\n53. __________________ is important when a teacher communicates with his/her student.\n(A) Sympathy\n(B) Empathy\n(C) Apathy\n(D) Antipathy\n54. In a certain code GALIB is represented by HBMJC. TIGER will be represented by\n(A) UJHFS\n(B) UHJSE\n(C) JHUSF\n(D) HUJSE\n55. In a certain cricket tournament 45 matches were played. Each team played once against\neach of the other teams. The number of teams participated in the tournament is\n(A) 8\n(B) 10\n(C) 12\n(D) 210\n56. The missing number in the series 40, 120, 60, 180, 90, ?, 135 is\n(A) 110\n(B) 270\n(C) 105\n(D) 210\n57. The odd numbers from 1 to 45 which are exactly divisible by 3 are arranged in an\nascending order. The number at 6th position is\n(A) 18\n(B) 24\n(C) 33\n(D) 36\n58. The mean of four numbers a,b,c,d is 100. IF c = 70, then the mean of the remaining\nnumbers is\n(A) 30\n(B) 85/2\n(C) 170/3\n(D) 110\n59. If the radius of a circle is increased by 50%, the perimeter of the circle will increased by\n(A) 20%\n(B) 30%\n(C) 40%\n(D) 50%\n60. If the statement ‘some men are honest’ is false, which among the following statements\nwill be true.\nChoose the correct code given below:\n(i) All men are honest\n(ii) No men are honest\n(iii) Some men are not honest.\n(iv) All men are dishonest.\nCodes:",
     "options": [
       {
         "key": "A",
-        "text": "a proven hypothesis for an argument."
+        "text": "(i), (ii) and (iii)"
       },
       {
         "key": "B",
-        "text": "not required to be tested."
+        "text": "(ii), (iii) and (iv)"
       },
       {
         "key": "C",
-        "text": "a provisionally accepted hypothesis for further research."
+        "text": "(i), (iii) and (iv)"
       },
       {
         "key": "D",
-        "text": "a scientific theory."
+        "text": "(ii), (i) and (iv)"
       }
     ],
     "correctOption": "C",
@@ -19065,7 +19065,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U02-769",
@@ -19233,7 +19233,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-775",
@@ -19457,7 +19457,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-783",
@@ -19569,7 +19569,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-787",
@@ -19849,7 +19849,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-797",
@@ -19857,27 +19857,27 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "Shift_70 | Q.10",
-    "questionText": "We use Factorial Analysis:",
+    "questionText": "We use Factorial Analysis:\n(A) To know the relationship between two variables\n(B) To test the Hypothesis\n(C) To know the difference between two variables\n(D) To know the difference among the many variables\n46. The Kothari Commission's report was entitled on:\n(A) Education and National Development\n(B) Learning to be adventure\n(C) Diversification of Education\n(D) Education and socialization in democracy\n47. Which of the following is not a Dualmode University?\n(A) Delhi University\n(B) Bangalore University\n(C) Madras University\n(D) Indira Gandhi National Open University\n48. Which part of the Constitution of India is known as \"Code of Administrators”?\n(A) Part I\n(B) Part II\n(C) Part III\n(D) Part IV\n49. Which article of the constitution provides safeguards to Naga Customary and their social\npractices against any act of Parliament?\n(A) Article 371 A\n(B) Article 371 B\n(C) Article 371 C\n(D) Article 263\n50. Which one of the following is not the tool of good governance?",
     "options": [
       {
         "key": "A",
-        "text": "To know the relationship between two variables"
+        "text": "Right to information"
       },
       {
         "key": "B",
-        "text": "To test the Hypothesis"
+        "text": "Citizens' Charter"
       },
       {
         "key": "C",
-        "text": "To know the difference between two variables"
+        "text": "Social Auditing"
       },
       {
         "key": "D",
-        "text": "To know the difference among the many variables"
+        "text": "Judicial Activism"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-798",
@@ -19961,7 +19961,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Sampling Method: Type | How It Works"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U02-801",
@@ -20193,23 +20193,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "DECEMBER 2007 | Q.10",
-    "questionText": "Which technique is generally followed when the population is finite?",
+    "questionText": "Which technique is generally followed when the population is finite?\n(A) Area Sampling Technique\n(B) Purposive Sampling Technique\n(C) Systematic Sampling Technique\n(D) None of the above\n46. The first Indian Satellite for serving the educational sector is known as:\n(A) SATEDU\n(B) INSAT - B\n(C) EDUSAT\n(D) INSAT-C\n47. Exclusive educational channel of IGNOU is known as:\n(A) GyanDarshan\n(B) Cyan Vani\n(C) DoorDarshan\n(D) Prasar Bharati\n48. The head quarter of Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya is situated in:\n(A) Sevagram\n(B) New Delhi\n(C) Wardha\n(D) Ahmedabad\n49. Match List - I with List - II and select the correct answer using the codes given below:\nList-I List-II\n(Institutes) (Locations)\n(a) Central Institute of English (i) Chitrakoot and Foreign Languages\n(b) Gramodaya Vishwavidyalaya (ii) Hyderabad\n(c) Central Institute of Higher Tibetan Studies (iii) New Delhi\n(d) IGNOU (iv) Dharmasala\nCodes:\n(a) (b) (c) (d)\n(A) (ii) (i) (iv) (iii)\n(B) (iv) (iii) (ii) (i)\n(C) (iii) (iv) (i) (ii)\n(D) (i) (ii) (iv) (iii)\n50. The aim of vocationalization of education is:",
     "options": [
       {
         "key": "A",
-        "text": "Area Sampling Technique"
+        "text": "preparing students for a vocation along with knowledge"
       },
       {
         "key": "B",
-        "text": "Purposive Sampling Technique"
+        "text": "converting liberal education into vocational education"
       },
       {
         "key": "C",
-        "text": "Systematic Sampling Technique"
+        "text": "giving more importance to vocational than general education"
       },
       {
         "key": "D",
-        "text": "None of the above"
+        "text": "making liberal education job-oriented"
       }
     ],
     "correctOption": "C",
@@ -20549,7 +20549,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U02-822",
@@ -20669,23 +20669,23 @@
     "unitId": 2,
     "unitTitle": "Research Aptitude",
     "shift": "2005 DECEMBER | Q.10",
-    "questionText": "The important pre-requisites of a researcher in sciences, sodal sciences and humanities\nare :",
+    "questionText": "The important pre-requisites of a researcher in sciences, sodal sciences and humanities\nare :\n(A) laboratory skills, records, supervisor, topic\n(B) Supervisor, topic, critical analysis, patience\n(C) archives, supervisor, topic, flexibility in thinking\n(D) topic, supervisor, good temperament, preconceived notions\n46. In which year the value per tin was minimum ?\n(A) 1995\n(B) 1996\n(C) 1998\n(D) 1999\n47. What was the difference between the tins exported in 1997 and 1998 ?\n(A) 10\n(B) 1000\n(C) 100000\n(D) 1000000\n48. What was the approximate percentage increase in export value from 1995 to 1999 ?\n(A) 350\n(B) 330.3\n(C) 433.3\n(D) None of these\n49. What was the percentage drop in export quantity from 1995 to 1996 ?\n(A) 75\n(B) 50\n(C) 25\n(D) None of these\n50. If in 1998, the tins were exported at the same rate per tin as that in 1997, what would be\nthe value (in crores of rupees) of export in 1998 ?",
     "options": [
       {
         "key": "A",
-        "text": "laboratory skills, records, supervisor, topic"
+        "text": "400"
       },
       {
         "key": "B",
-        "text": "Supervisor, topic, critical analysis, patience"
+        "text": "375"
       },
       {
         "key": "C",
-        "text": "archives, supervisor, topic, flexibility in thinking"
+        "text": "352"
       },
       {
         "key": "D",
-        "text": "topic, supervisor, good temperament, preconceived notions"
+        "text": "330"
       }
     ],
     "correctOption": "B",

@@ -21,9 +21,11 @@ import {
   ChevronDown,
   ChevronUp,
   Trophy,
-  Info
+  Info,
+  Flag
 } from 'lucide-react';
 import { FormattedQuestionText } from './FormattedQuestionText';
+import { ReportQuestionModal } from './ReportQuestionModal';
 
 interface MockSimulatorProps {
   onBack: () => void;
@@ -46,6 +48,17 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
   const [isReviewMode, setIsReviewMode] = useState(false);
   const [reviewFilter, setReviewFilter] = useState<ReviewFilterType>('all');
   const [doubtStarred, setDoubtStarred] = useState<Record<string, boolean>>({});
+  const [reportingQuestion, setReportingQuestion] = useState<Question | null>(null);
+  const [reportToast, setReportToast] = useState<string | null>(null);
+
+  const handleReportSuccess = (_questionId: string) => {
+    setReportToast('Question reported & excluded from pack');
+    setTimeout(() => setReportToast(null), 3500);
+
+    if (!isReviewMode && currentIndex < questions.length - 1) {
+      setCurrentIndex(prev => prev + 1);
+    }
+  };
 
   // Past Mock Results & Scorecard Stats
   const [pastResults, setPastResults] = useState<MockExamResult[]>(() => storageService.getMockResults());
@@ -856,17 +869,40 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
                   <span className="shift-tag">{currentReviewQ.shift}</span>
                 </div>
 
-                <button 
-                  onClick={() => toggleStar(currentReviewQ)}
-                  className="icon-btn"
-                  title={isStarred ? 'Remove from Doubts' : 'Star for Revision'}
-                >
-                  <Star 
-                    size={18} 
-                    fill={isStarred ? '#F59E0B' : 'none'} 
-                    color={isStarred ? '#F59E0B' : 'var(--text-muted)'} 
-                  />
-                </button>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <button
+                    onClick={() => setReportingQuestion(currentReviewQ)}
+                    className="icon-btn"
+                    title="Report broken question"
+                    style={{ 
+                      padding: '4px 8px', 
+                      height: 'auto', 
+                      borderRadius: '6px', 
+                      fontSize: '0.72rem', 
+                      display: 'flex', 
+                      alignItems: 'center', 
+                      gap: '4px', 
+                      color: '#F87171', 
+                      border: '1px solid rgba(239, 68, 68, 0.25)', 
+                      background: 'rgba(239, 68, 68, 0.08)' 
+                    }}
+                  >
+                    <Flag size={12} />
+                    <span>Report</span>
+                  </button>
+
+                  <button 
+                    onClick={() => toggleStar(currentReviewQ)}
+                    className="icon-btn"
+                    title={isStarred ? 'Remove from Doubts' : 'Star for Revision'}
+                  >
+                    <Star 
+                      size={18} 
+                      fill={isStarred ? '#F59E0B' : 'none'} 
+                      color={isStarred ? '#F59E0B' : 'var(--text-muted)'} 
+                    />
+                  </button>
+                </div>
               </div>
 
               {/* Status Outcome Banner */}
@@ -1304,8 +1340,36 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
           <span className="unit-tag">
             U{currentQ.unitId}: {currentQ.unitTitle}
           </span>
-          <span className="shift-tag">{currentQ.shift}</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <span className="shift-tag">{currentQ.shift}</span>
+            <button
+              onClick={() => setReportingQuestion(currentQ)}
+              className="icon-btn"
+              title="Report broken question"
+              style={{ 
+                padding: '4px 8px', 
+                height: 'auto', 
+                borderRadius: '6px', 
+                fontSize: '0.72rem', 
+                display: 'flex', 
+                alignItems: 'center', 
+                gap: '4px', 
+                color: '#F87171', 
+                border: '1px solid rgba(239, 68, 68, 0.25)', 
+                background: 'rgba(239, 68, 68, 0.08)' 
+              }}
+            >
+              <Flag size={12} />
+              <span>Report</span>
+            </button>
+          </div>
         </div>
+
+        {reportToast && (
+          <div style={{ padding: '8px 12px', borderRadius: '8px', background: 'rgba(239, 68, 68, 0.15)', border: '1px solid rgba(239, 68, 68, 0.3)', marginBottom: '16px', display: 'flex', alignItems: 'center', gap: '8px', color: '#FCA5A5', fontSize: '0.82rem', fontWeight: 600 }}>
+            <span>{reportToast}</span>
+          </div>
+        )}
 
         <div className="question-text-box">
           <FormattedQuestionText text={currentQ.questionText} />
@@ -1422,6 +1486,16 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
             </div>
           </div>
         </div>
+      )}
+
+      {/* Report Broken Question Modal */}
+      {reportingQuestion && (
+        <ReportQuestionModal
+          question={reportingQuestion}
+          isOpen={!!reportingQuestion}
+          onClose={() => setReportingQuestion(null)}
+          onReportSuccess={handleReportSuccess}
+        />
       )}
     </div>
   );

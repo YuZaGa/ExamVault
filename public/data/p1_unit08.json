@@ -333,7 +333,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-14",
@@ -725,7 +725,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-28",
@@ -1285,7 +1285,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-48",
@@ -1397,7 +1397,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-52",
@@ -1453,7 +1453,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-54",
@@ -2125,7 +2125,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-78",
@@ -2433,7 +2433,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-89",
@@ -2517,7 +2517,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-92",
@@ -3189,7 +3189,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-116",
@@ -3413,7 +3413,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-124",
@@ -3469,7 +3469,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-126",
@@ -3497,7 +3497,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-127",
@@ -3805,7 +3805,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-138",
@@ -3889,7 +3889,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-141",
@@ -4085,7 +4085,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-148",
@@ -4253,7 +4253,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-154",
@@ -4449,7 +4449,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-161",
@@ -4897,7 +4897,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-177",
@@ -5429,7 +5429,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "MAC Address: Media Access Control | 48-bit physical/hardware address (6 pairs of hex digits separated by hyphens or colons)."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-196",
@@ -5485,7 +5485,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-198",
@@ -5541,7 +5541,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-200",
@@ -5597,7 +5597,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-202",
@@ -5653,7 +5653,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Trojan Horse: Misleading software that appears legitimate or useful but contains malicious payload. | Does not self-replicate; relies on deception."
+    "cheatSheetRule": "Ransomware: Encrypts victim's files/hard drive and demands ransom payment (usually cryptocurrency) for decryption key. | Extortion via cryptographic lock."
   },
   {
     "id": "P1-U08-204",
@@ -5821,7 +5821,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-210",
@@ -5849,7 +5849,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-211",
@@ -5877,7 +5877,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-212",
@@ -6185,7 +6185,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-224",
@@ -6549,7 +6549,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-237",
@@ -6661,7 +6661,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-241",
@@ -6745,7 +6745,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-244",
@@ -6773,7 +6773,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-245",
@@ -7081,7 +7081,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-256",
@@ -7249,7 +7249,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-262",
@@ -7501,7 +7501,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-271",
@@ -7725,7 +7725,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-279",
@@ -8089,7 +8089,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-292",
@@ -8173,7 +8173,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-295",
@@ -8257,7 +8257,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-298",
@@ -8397,7 +8397,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-303",
@@ -8425,7 +8425,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-304",
@@ -8761,7 +8761,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-316",
@@ -8873,7 +8873,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-320",
@@ -9237,7 +9237,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-333",
@@ -9685,7 +9685,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-349",
@@ -9769,7 +9769,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-352",
@@ -10189,7 +10189,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-367",
@@ -10617,23 +10617,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_45 | Q.22",
-    "questionText": "Identify the correct order of the following storage capacities ranked from\nlargest to smallest capacity",
+    "questionText": "Identify the correct order of the following storage capacities ranked from\nlargest to smallest capacity\n(A) 1500 M Bytes\n(B) 5 K Bytes\n(C) 1 G Bytes\n(D) 2 T Bytes\nChoose the correct answer from the option given below :",
     "options": [
       {
         "key": "A",
-        "text": "1500 M Bytes"
+        "text": "(D), (A), (C), (B)"
       },
       {
         "key": "B",
-        "text": "5 K Bytes"
+        "text": "(A), (D), (C), (B)"
       },
       {
         "key": "C",
-        "text": "1 G Bytes"
+        "text": "(A), (B), (C), (D)"
       },
       {
         "key": "D",
-        "text": "2 T Bytes Choose the correct answer from the option given below :"
+        "text": "(D), (C), (A), (B)"
       }
     ],
     "correctOption": "A",
@@ -10729,23 +10729,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_45 | Q.43",
-    "questionText": "Match List I with List II :\nList I (Computer Terms) \tList II (Purpose)",
+    "questionText": "Match List I with List II :\nList I (Computer Terms) \tList II (Purpose)\n(A) OCR \t(I) Used to scan typed or handwritten\ndocuments\n(B) OMR \t(II) Used to mark multiple-choice\nexaminations\n(C) Email \t(III) Asynchronous Communication\n(D) Instant Messaging \t(IV) Synchronous Communication\nChoose the correct answer from the option given below :",
     "options": [
       {
         "key": "A",
-        "text": "OCR \t(I) Used to scan typed or handwritten documents"
+        "text": "(A)-(II), (B)-(I), (C)-(IV),(D)-(III)"
       },
       {
         "key": "B",
-        "text": "OMR \t(II) Used to mark multiple-choice examinations"
+        "text": "(A)-(II). (B)-(I), (D)-(IV),(C)-(III)"
       },
       {
         "key": "C",
-        "text": "Email \t(III) Asynchronous Communication"
+        "text": "(A)-(I). (C)-(III),(D)-(IV), (B)-(II)"
       },
       {
         "key": "D",
-        "text": "Instant Messaging \t(IV) Synchronous Communication Choose the correct answer from the option given below :"
+        "text": "(A)-(I), (C)-(IV), (D)-(III) ,(B)-(II)"
       }
     ],
     "correctOption": "C",
@@ -10805,7 +10805,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-389",
@@ -11141,7 +11141,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-401",
@@ -11373,23 +11373,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_51 | Q.20",
-    "questionText": "With respect to computers. which of the following are random access storage devices?",
+    "questionText": "With respect to computers. which of the following are random access storage devices?\n(A) Magnetic Tape\n(B) Hard Disk\n(C) Pen Drive\n(D) CDRONI\nChoose the correct answer' from the options given Below:",
     "options": [
       {
         "key": "A",
-        "text": "Magnetic Tape"
+        "text": "A, B and C only"
       },
       {
         "key": "B",
-        "text": "Hard Disk"
+        "text": "B, C and D only"
       },
       {
         "key": "C",
-        "text": "Pen Drive"
+        "text": "A, C and D only"
       },
       {
         "key": "D",
-        "text": "CDRONI Choose the correct answer' from the options given Below:"
+        "text": "A, B and D only"
       }
     ],
     "correctOption": "C",
@@ -11429,23 +11429,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_51 | Q.28",
-    "questionText": "Identify the correct order of the following computer storage capacities ranked from largest to\nsmallest capacity.",
+    "questionText": "Identify the correct order of the following computer storage capacities ranked from largest to\nsmallest capacity.\n(A) 100 Gbytes\n(B) 10 000 000 000 Bytes\n(C) 1 Bytes\n(D) 1 000000 Bytes\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "100 Gbytes"
+        "text": "C, A, D, B"
       },
       {
         "key": "B",
-        "text": "10 000 000 000 Bytes"
+        "text": "C, A, B, D"
       },
       {
         "key": "C",
-        "text": "1 Bytes"
+        "text": "A, C, D, B"
       },
       {
         "key": "D",
-        "text": "1 000000 Bytes Choose the correct answer from the options given below:"
+        "text": "A, C, B, D"
       }
     ],
     "correctOption": "B",
@@ -12101,27 +12101,27 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_57 | Q.21",
-    "questionText": "Given below are two statements, one is labelled as Assertion A and the other is labelled as\nReason R\nAssertion A: One of the important aims of research is the development of a theory.\nReason R: Both facts and theory are important for doing the research.\nIn light of the above statements, choose the most appropriate answer from the\noptions given below",
+    "questionText": "Given below are two statements, one is labelled as Assertion A and the other is labelled as\nReason R\nAssertion A: One of the important aims of research is the development of a theory.\nReason R: Both facts and theory are important for doing the research.\nIn light of the above statements, choose the most appropriate answer from the\noptions given below\n(A) A is correct but R is not correct\n(B) A is not correct but R is correct\n(C) Both A and R are correct and R is the correct explanation of A\n(D) Both A and R are correct but R is NOT the correct explanation of A\n(A) Asynchronous communication\n(B) Friendly communication\n(C) Non-verbal communication\n(D) Synchronous communication\n23. How many Indian languages have been declared endangered by UNESCO?\n(A) 117\n(B) 197\n(C) 47\n(D) 87\n24. Debriefing involves several activities following the collection of data :\nA. Explanation of any deception\nB. Explaining the superiority of the present research\nC. Description of the purpose of the study\nD. Post-study follow-up medical or psychological attention\nE. Publication of the finding of the research in a journal\nChoose the correct answer from the options given below:\n(A) A, B and only\n(B) A, C and D only\n(C) B, C and D only\n(D) C, D and E only\n25. \"Have you stopped stealing from your parents?\" Which one of the following\nfallacies is committed in this argument ?\n(A) Appeal to Ignorance\n(B) Appeal to Pity\n(C) Begging the Question\n(D) Complex Question\n26. Match List I with List II\nList I \tList II\nICT Tool for Teaching \tPurpose\nA. Google Classroom \tI. Assesment of learning\nB. Google Meet \tII. Synchronous interaction\nC. Google Quiz\nIII. Acces to course content\nD. Google Jamboard\nIV. Colloborative tasks\nChoose the correct answer from the options given below:\n(A) A-I, B- V, C-III, D-II\n(B) A-II B-I, C-IV ,D-III,\n(C) A - III, B-II, C-I, D-IV\n(D) A - IV, B-III, C-II, D-I\n27. Characteristics of good measurement are\nA. Reliability\nB. Accuracy\nC. Objectivity\nD. Validity\nE Practicability\nChoose the correct answer from the options given below:\n(A) A, B and C only\n(B) A, C and D only\n(C) A, D and E only\n(D) B, C and D only\n28. The communication which happens outside the realm of interpersonal communication is\n(A)Interpersonal communication\n(B) Intrapersonal communication\n(C) Mass communication\n(D) Upward communication\n29. Which Operating System is used by the Apple computer systems (an American technology\ncompany)\n(A) Linux\n(B) Mac\n(C) Solaris\n(D) Windows\n30. Find the missing term in the following series\n2, 5, 10, 17, 26, ?\n(A) 35\n(B) 36\n(C) 37\n(D) 38\n31. The major objective of value education in institutions is\n(A) Acquainting students with the value of education\n(B) Developing ideal teachers\n(C) Developing responsible and good citizens\n(D) Value for society\n32. Which one of the following Articles of the Indian Constitution talks about our duty to protect\nthe environment?\n(A) Article 51A(a)\n(B) Article 51A(c)\n(C) Article 51A(e)\n(D) Article 51A(g)\n33. Match List I with List II\nList I Network Security Technique \tList II Implementation Technique\nA. Symmetric encryption \tI. Public and private key\nB. Asymmetric encryption \tII. Digital signature\nC. Authentication \tIII. Secret key\nD. Denial of Service Avoidance \tIV. Email filter\nChoose the correct answer from the options given below:\n(A) A - I, B- III, C-IV, D II,\n(B) A II, B-I, C-III, D-IV,\n(C) A-II, B-I, C-IV, D III,\n(D) A - III, BI, C-II, D-IV,\n34. Which among the following are the main thrusts of the NEP-200 regarding institutional\nrestructuring and consolidation?\nA. A rigid separation of discipline, with early specialization and streaming of students into\nnarrow areas of study\nB. Developing a spectrum of institutions with a focus on research only\nC. To establish stage-wise mechanism for granting graded autonomy to colleges\nD. Developing vibrant communities of scholars, breaking down harmful silos,\nenable students in disciplines including artistic, creative and sports\nE. to end the fragmentation by transforming higher education institutions into large\nmultidisciplinary universities\n(A) A, B and C only\n(B) A, D and E only\n(C) B, C and D only\n(D) C, D and E only\n35. The theory of meaningful verbal learning deals with which of the following concerns?\nA. How knowledge (curriculum content) is organised\nB. How the mind works to process new information (learning)\nC. How teachers can apply ideas about curriculum and learning when they present new material\nto students (instruction)\nD. How the students provide responses to critical questions (questions response)\nE. How the institution has established a language lab (infrastructure)\nChoose the correct answer from the options given below:\n(A) A, B and C only\n(B) A, B and D only\n(C) A, B and E only\n(D) C, D and E only\n36. Match List I with List II\nList I \tList II\nA. University Education Commission \tI. Dr L Mudaliyar\nB. Secondary Education Commission \tII. Dr Radha Krishnan\nC. Education Commission \tIII. Dr Sam Pitroda\nD. National Knowledge Commission \tIV. Dr DS Kothari\nChoose the correct answer from the options given below:\n(A) A-I, B-II, C-III, D-IV,\n(B) A-II B-I, C-IV D-III,\n(C) A-III, B-I, C-IV, D-II,\n(D) A-IV, B-III, C-II, D-I,\n37. Given below are two statements, one is labelled as Assertion A and the other is labelled as\nReason R\nAssertion A: The classroom communication is a transactional process\nReason R: Quality of questions asked determines the quality of learning\nIn light of the above statements, choose the correct answer from the options\n(A) A is false but R is true\n(B) A is true but R is false\n(C) Both A and R are true and R is the correct explanation of A\n(D) Both A and R are true but R is NOT the correct explanation of A\n38. Given below are two statements\nStatement I: National Commission of Higher Education and Research (NCHER)\nis the apex regulatory body for Higher Education in India\nStatement II: The Independent Regulatory Authority for Higher Education will not be dealing\nwith entry regulatory functions of AICTE, MCI and BCI, as recommended by the National\nKnowledge Commission\nIn light of the above statements,\nchoose the most appropriate answer from the\noptions given below\n(A) Both Statement I and Statement II are correct\n(B) Both Statement I and Statement II are incorrect\n(C) Statement I is correct but Statement II is incorrect\n(D) Statement I is incorrect but Statement II is correct\n39. The communication between two or more persons who are subordinates working under the\nsame person is an example of :\n(A) Diagonal communication\n(B) Downward communication\n(C) Lateral communication\n(D) Upward communication\n40. Which model is designed to provide students with a cognitive structure for comprehending\nmaterial presented through lectures, readings and other media?\n(A) Advance organisers\n(B) Inductive thinking\n(C) Mnemonic\n(D) Scientific inquiry\n41.Given below are two statements\nStatement I: The single discount equivalent to a series discount\nof 10 %, 20 % and 30 % is 40 %\nStatement II: The single discount equivalent to a series discount\nof 15 %, 25% and 30 % is 50 %\nIn light of the above statements, choose the correct answer from the options given below\n(A) Both Statement I and Statement II are false\n(B) Both Statement I and Statement II are true\n(C) Statement I is false but Statement II is true\n(D) Statement I is true but Statement II is false\n42. What Phishing?\n(A) A key logging software\n(B) It uses networks to search out computers\n(C) Re-directs the user to a fake website\n(D) Someone sends legitimate-looking emails to users\n43. Which one of the following options describes a valid deductive argument with all the premises\nand the conclusion as True?\n(A) Improbable Argument\n(B) Probable Argument\n(C) Sound Argument\n(D) Unsound Argument\n44. When a teacher presents the most general ideas of the discipline first, followed by a gradual\nincrease in detail and specificity, it is known as\n(A) Cooperative learning\n(B) Inductive thinking\n(C) Jurisprudential inquiry\n(D) Progressive differentiation\n45. Given below are two statements\nStatement I: In waste water treatment systems, most of the large floating materials are removed\nin the screen chamber\nStatement II: Colloidal and dissolved organic content of waste water are removed in the grit\nchamber\nIn light of the above statements, choose the most appropriate answer from the options given\nbelow\n(A) Both Statement I and Statement II are correct\n(B) Both Statement I and Statement II are incorrect\n(C) Statement I is correct but Statement II is incorrect\n(D) Statement I is incorrect but Statement II is correct\nStudy the given table carefully and answer the questions that follow: The given table has the\nnumber of candidates who appeared and qualified for | an university entrance examination (in\nthousands) in 5 different years (A Appeared, Q-Qualified)\nyear \tBSC \tBA \tMSC \tMA\nA \tQ \tA \tQ \tA \tQ \tA \tQ\n2016 \t34 \t12 \t64 \t23 \t28 \t13 \t48 \t24\n2017 \t36 \t18 \t66 \t25 \t24 \t11 \t47 \t23\n2018 \t42 \t21 \t72 \t28 \t22 \t12 \t46 \t25\n2019 \t48 \t23 \t68 \t26 \t25 \t12 \t49 \t27\n2020 \t38 \t19 \t74 \t32 \t26 \t13 \t52 \t32\nRead the given passage and answer the questions that follow:\nThere is no such thing as memory in the sense of something that can be seen, touched or\nweighed Memory is an abstraction referring to a set of skills rather than to an object Neither is\nthere a single standard for judging a good or poor memory There are a number of different ways\nin which a person may have a 'good' memory\nMemory is generally viewed as consisting of three stages (1) Acquisition refers to learning the\nmaterial; (2) Storage refers to keeping the material in the brain until it is needed; and (3)\nRetrieval refers to getting the material back out when it is needed These three stages may be\nviewed the 4 R's of Remembering, Recording, Retaining and Retrieving\nMemory consists of at least two different processes: short-term memory and\nlong-term memory Short-term memory has a limited capacity and rapid\nforgetting rate Its capacity can be increased by chunking, or grouping\nseparate bits of information into larger chunks Long-term memory has a\nvirtually unlimited capacity One measure of memory is recall In aided recall, cues help to\nproduce information A second measure of memory is recognition in which one must be able to\nidentify it when it is presented In a third measure of memory,\nrelearning, the difference between how long it took to learn the material the\nfirst time and how long it takes to learn it again indicated how much one can remember\nThere are several explanations of why we forget Passive-decay theory says that learning causes\na physical 'trace' in the brain that decays with time Repression theory says that we purposely\npush unpleasent memories into unconscious mind Systematic-distortion theory says that our\nmemories may be distracted by our values and interests Inference theory says that forgetting is\ndue to problems in retrieving the information, and that we can remember almost anything, if\ngiven right cues\n46.What are the constituent elements of memory in the order presented by the | author?\n(A) Acquire-Retrieve Store\n(B) Acquire-Store Retrieve\n(C) Recall Retrieve Recognize\n(D) Store Acquire-Retrieve\n47.Which one of the following is not a measure of memory?\n(A) Recall\n(B) Recognize\n(C) Record\n(D) Relearning\n48. Memory not a sensory experience because it is a/an\n(A) Absence of single standard for judging the quality of memory\n(B) Concrete skill\n(C) Hybrid skill\n(D) Value\n49. \"Systematic-distortion theory\" offers an explanation for\n(A) Acquiring\n(B) Forgetting\n(C) Remembering\n(D) Retrieving\n50.This text can be taken as an answer to which one of the following question",
     "options": [
       {
         "key": "A",
-        "text": "A is correct but R is not correct"
+        "text": "How can we measure memory?"
       },
       {
         "key": "B",
-        "text": "A is not correct but R is correct"
+        "text": "What are the types of memory ?"
       },
       {
         "key": "C",
-        "text": "Both A and R are correct and R is the correct explanation of A"
+        "text": "What is memory ?"
       },
       {
         "key": "D",
-        "text": "Both A and R are correct but R is NOT the correct explanation of A"
+        "text": "Why do we forget?"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Begging the Question: *Petitio Principii* | Circular reasoning where the premise assumes the truth of the conclusion."
   },
   {
     "id": "P1-U08-436",
@@ -12297,23 +12297,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_60 | Q.11",
-    "questionText": "With respect to computers. which of the following are random access storage devices?",
+    "questionText": "With respect to computers. which of the following are random access storage devices?\n(A) Magnetic Tape\n(B) Hard Disk\n(C) Pen Drive\n(D) CDROM\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Magnetic Tape"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Hard Disk"
+        "text": "(A), (C), and (D) only"
       },
       {
         "key": "C",
-        "text": "Pen Drive"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "CDROM Choose the correct answer from the options given below:"
+        "text": "(A), (B) and (D) only"
       }
     ],
     "correctOption": "C",
@@ -12325,23 +12325,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_60 | Q.13",
-    "questionText": "Match List I with List II\nList I - Computer Terms \tList II - Description",
+    "questionText": "Match List I with List II\nList I - Computer Terms \tList II - Description\n(A) Magnetic Tape \t(I) Used in digital cameras photo printers\nand cell phones\n(B) Memory Card \t(II) Uses laser beam technology to read or\nwrite data\n(C) Hard Disk \t(III) Used for data archival purposes but\nmust be accessed sequentially\n(D) DVD \t(IV) A set of metal disks mounted on a\nspindle\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Magnetic Tape \t(I) Used in digital cameras photo printers and cell phones"
+        "text": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Memory Card \t(II) Uses laser beam technology to read or write data"
+        "text": "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Hard Disk \t(III) Used for data archival purposes but must be accessed sequentially"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "DVD \t(IV) A set of metal disks mounted on a spindle Choose the correct answer from the options given below:"
+        "text": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
       }
     ],
     "correctOption": "A",
@@ -12381,23 +12381,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_60 | Q.19",
-    "questionText": "Identify the correct order of the following computer storage capacities ranked from largest to\nsmallest capacity.",
+    "questionText": "Identify the correct order of the following computer storage capacities ranked from largest to\nsmallest capacity.\n(A) 100 GBytes\n(B) 10 000 000 000 Bytes\n(C) 1 TBytes\n(D) 1 000 000 KBytes\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "100 GBytes"
+        "text": "(C), (A), (D), (B)"
       },
       {
         "key": "B",
-        "text": "10 000 000 000 Bytes"
+        "text": "(C), (A), (B), (D)"
       },
       {
         "key": "C",
-        "text": "1 TBytes"
+        "text": "(A), (C), (D), (B)"
       },
       {
         "key": "D",
-        "text": "1 000 000 KBytes Choose the correct answer from the options given below:"
+        "text": "(A), (C), (B), (D)"
       }
     ],
     "correctOption": "B",
@@ -12429,7 +12429,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-447",
@@ -12465,23 +12465,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_61 | Q.32",
-    "questionText": "Identify the correct order of the following different types of computer components ranked from\nfastest to slowest in terms of access time.",
+    "questionText": "Identify the correct order of the following different types of computer components ranked from\nfastest to slowest in terms of access time.\n(A) RAM\n(B) Optical Drive\n(C) CPU Cache\n(D) SSD\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "RAM"
+        "text": "(B), (D), (A), (C)"
       },
       {
         "key": "B",
-        "text": "Optical Drive"
+        "text": "(C), (D), (A), (B)"
       },
       {
         "key": "C",
-        "text": "CPU Cache"
+        "text": "(A), (B), (C), (D)"
       },
       {
         "key": "D",
-        "text": "SSD Choose the correct answer from the options given below :"
+        "text": "(C), (A), (D), (B)"
       }
     ],
     "correctOption": "D",
@@ -12493,23 +12493,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_61 | Q.34",
-    "questionText": "Match List I with List II :\nList I \tList II\n(Computer Terms) \t(Description)",
+    "questionText": "Match List I with List II :\nList I \tList II\n(Computer Terms) \t(Description)\n(A) \tHTML \t(I) Semantic Web\n(B) \tWeb 2.0 \t(II) Use of Internet to make phone calls\n(C) \tWeb 3.0 \t(III) Language used to create web pages\n(D) \tVOIP \t(IV) Collaborative web\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "HTML \t(I) Semantic Web"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Web 2.0 \t(II) Use of Internet to make phone calls"
+        "text": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Web 3.0 \t(III) Language used to create web pages"
+        "text": "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
       },
       {
         "key": "D",
-        "text": "VOIP \t(IV) Collaborative web Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       }
     ],
     "correctOption": "A",
@@ -12541,7 +12541,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-451",
@@ -12549,7 +12549,7 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_61 | Q.46",
-    "questionText": "Which of the following statements are related to the role of ICT in citizen services?",
+    "questionText": "Which of the following statements are related to the role of ICT in citizen services?\n(A) Access to public documents\n(B) On-line payments\n(C) Better medical education across the country\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
@@ -12557,15 +12557,15 @@
       },
       {
         "key": "B",
-        "text": "On-line payments"
+        "text": "(A) and (C) only"
       },
       {
         "key": "C",
-        "text": "Better medical education across the country Choose the correct answer from the options given below :"
+        "text": "(B) and (C) only"
       },
       {
         "key": "D",
-        "text": "(A), (B) and (C)"
+        "text": "(A) and (B) only"
       }
     ],
     "correctOption": "D",
@@ -12681,7 +12681,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Trojan Horse: Misleading software that appears legitimate or useful but contains malicious payload. | Does not self-replicate; relies on deception."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-456",
@@ -12821,7 +12821,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-461",
@@ -12961,7 +12961,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-466",
@@ -12969,23 +12969,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_64 | Q.11",
-    "questionText": "Match List I with List II\nList I (Computer Terms) \tList II (Description)",
+    "questionText": "Match List I with List II\nList I (Computer Terms) \tList II (Description)\n(A) Processor \t(I) Part that runs executable programs\n(B) RAM \t(II) Part that stores files permanently\n(C) Hard Disk \t(III) Part that stores instructions and data\ntemporarily for use\n(D) Compiler \t(IV) Part that translates source program to\nexecutable program\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Processor \t(I) Part that runs executable programs"
+        "text": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "RAM \t(II) Part that stores files permanently"
+        "text": "(A)-(IV),(B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "C",
-        "text": "Hard Disk \t(III) Part that stores instructions and data temporarily for use"
+        "text": "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Compiler \t(IV) Part that translates source program to executable program Choose the correct answer from the options given below:"
+        "text": "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
       }
     ],
     "correctOption": "A",
@@ -12997,23 +12997,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_64 | Q.25",
-    "questionText": "Which of the following group of statements in the context of Information Technology (IT) is\ncorrect?",
+    "questionText": "Which of the following group of statements in the context of Information Technology (IT) is\ncorrect?\n(A) Mouse, Keyboard, and Plotter are all input devices.\n(B) Unix, Windows, and Linux are all operating systems.\n(C) Register, Cache Memory, and Hard Disk are all memory modules.\n(D) Monitor, Printer, and Scanner are all output devices.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Mouse, Keyboard, and Plotter are all input devices."
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Unix, Windows, and Linux are all operating systems."
+        "text": "(A) and (D) only"
       },
       {
         "key": "C",
-        "text": "Register, Cache Memory, and Hard Disk are all memory modules."
+        "text": "(C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Monitor, Printer, and Scanner are all output devices. Choose the correct answer from the options given below:"
+        "text": "(B) and (C) only"
       }
     ],
     "correctOption": "D",
@@ -13025,27 +13025,27 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_64 | Q.44",
-    "questionText": "Match List I with List II\nList I - (Teaching Method) \tList II - (Examples)",
+    "questionText": "Match List I with List II\nList I - (Teaching Method) \tList II - (Examples)\n(A) Monologic teaching method \t(I) Cybernetics and computer-aided\ninstruction\n(B) Dialogic teaching method \t(II) Case studies and tutorials\n(C) Action based teaching method \t(III) Team teaching and demonstration\n(D) Self study based teaching method \t(IV) Simulation and role playing\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Monologic teaching method \t(I) Cybernetics and computer-aided instruction"
+        "text": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Dialogic teaching method \t(II) Case studies and tutorials"
+        "text": "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)"
       },
       {
         "key": "C",
-        "text": "Action based teaching method \t(III) Team teaching and demonstration"
+        "text": "(A)-(I), (B)-(IV), (C)-(II), (D)-(III)"
       },
       {
         "key": "D",
-        "text": "Self study based teaching method \t(IV) Simulation and role playing Choose the correct answer from the options given below:"
+        "text": "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-469",
@@ -13109,23 +13109,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_65 | Q.18",
-    "questionText": "Identify the correct order of following computer memory types ranked from slowest to fastest in\nterms of access time.",
+    "questionText": "Identify the correct order of following computer memory types ranked from slowest to fastest in\nterms of access time.\n(A) Cache\n(B) CDROM\n(C) Hard Disk\n(D) RAM\n(E) Register\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Cache"
+        "text": "(C), (B), (A), (D), (E)"
       },
       {
         "key": "B",
-        "text": "CDROM"
+        "text": "(E), (A), (D), (C), (B)"
       },
       {
         "key": "C",
-        "text": "Hard Disk"
+        "text": "(B), (C), (D), (A), (E)"
       },
       {
         "key": "D",
-        "text": "RAM (E) Register Choose the correct answer from the options given below :"
+        "text": "(D), (A), (E), (B), (C)"
       }
     ],
     "correctOption": "C",
@@ -13165,23 +13165,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_66 | Q.14",
-    "questionText": "Match List I with List II\nList I - (Computer Components) \tList II – (Description)",
+    "questionText": "Match List I with List II\nList I - (Computer Components) \tList II – (Description)\n(A) HDD \t(I) Visual Display Unit\n(B) RAM \t(II) Volatile Memory\n(C) ROM \t(III) External Memory\n(D) CRT \t(IV) Non-Writable Memory\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "HDD \t(I) Visual Display Unit"
+        "text": "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
       },
       {
         "key": "B",
-        "text": "RAM \t(II) Volatile Memory"
+        "text": "(A)-(III), (B)-(II), (C)-(I). (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "ROM \t(III) External Memory"
+        "text": "(A)-(IV), (B)-(III), (C)-(H), (D)-(I)"
       },
       {
         "key": "D",
-        "text": "CRT \t(IV) Non-Writable Memory Choose the correct answer from the options given below :"
+        "text": "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)"
       }
     ],
     "correctOption": "D",
@@ -13221,23 +13221,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_66 | Q.18",
-    "questionText": "Identify the correct order of the following computer storage capacities ranked from smallest to\nlargest capacity.",
+    "questionText": "Identify the correct order of the following computer storage capacities ranked from smallest to\nlargest capacity.\n(A) 00 GBytes\n(B) 10 000 000 000 Bytes\n(C) 1 TBytes\n(D) 100 000 MBytes\n(E) 1 000 000 KBytes\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "00 GBytes"
+        "text": "(D), (B), (E), (A), (C)"
       },
       {
         "key": "B",
-        "text": "10 000 000 000 Bytes"
+        "text": "(E), (B), (D), (A), (C)"
       },
       {
         "key": "C",
-        "text": "1 TBytes"
+        "text": "(B), (E), (D), (A), (C)"
       },
       {
         "key": "D",
-        "text": "100 000 MBytes (E) 1 000 000 KBytes Choose the correct answer from the options given below:"
+        "text": "(E), (B), (D), (C), (A)"
       }
     ],
     "correctOption": "B",
@@ -13277,7 +13277,7 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_66 | Q.31",
-    "questionText": "With regard to computer memory, which of the following statements are TRUE?",
+    "questionText": "With regard to computer memory, which of the following statements are TRUE?\n(A) Secondary storage is slower. cheaper. and less volatile than primary storage.\n(B) Tape drives are direct access devices.\n(C) The contents of most forms of RAM are volatile, thus making them unsuitable for long\nterm data storage.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
@@ -13285,15 +13285,15 @@
       },
       {
         "key": "B",
-        "text": "Tape drives are direct access devices."
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "The contents of most forms of RAM are volatile, thus making them unsuitable for long term data storage. Choose the correct answer from the options given below:"
+        "text": "(A) and (C) only"
       },
       {
         "key": "D",
-        "text": "(A) and (B) only"
+        "text": "(A), (B) and (C)"
       }
     ],
     "correctOption": "C",
@@ -13501,23 +13501,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_68 | Q.34",
-    "questionText": "Which of the following file format contains exclusively the ASCII file format?",
+    "questionText": "Which of the following file format contains exclusively the ASCII file format?\n(A)PDF\n(B) RTF\n(C) JPG\n(D) CSV\n(E) TXT\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "PDF"
+        "text": "(A), (B) and (D) only"
       },
       {
         "key": "B",
-        "text": "RTF"
+        "text": "(B), (D) and (E) only"
       },
       {
         "key": "C",
-        "text": "JPG"
+        "text": "(A), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "CSV (E) TXT Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "B",
@@ -13529,7 +13529,7 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_68 | Q.36",
-    "questionText": "Identify the correct order of the following computer storage devices in order of speed of data\nretrieval from fastest to slowest.",
+    "questionText": "Identify the correct order of the following computer storage devices in order of speed of data\nretrieval from fastest to slowest.\n(A) Hard Disk\n(B) Main Memory\n(C) CD-ROM\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
@@ -13537,15 +13537,15 @@
       },
       {
         "key": "B",
-        "text": "Main Memory"
+        "text": "(C), (A), (B)"
       },
       {
         "key": "C",
-        "text": "CD-ROM Choose the correct answer from the options given below :"
+        "text": "(A), (C), (B)"
       },
       {
         "key": "D",
-        "text": "(B), (C), (A)"
+        "text": "(B), (A), (C)"
       }
     ],
     "correctOption": "D",
@@ -13557,7 +13557,7 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_69 | Q.17",
-    "questionText": "Which of the following statements are related to the role of ICT in citizen services?",
+    "questionText": "Which of the following statements are related to the role of ICT in citizen services?\n(A) Access to public documents\n(B) On-line payments\n(C) Better medical education across the country\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
@@ -13565,15 +13565,15 @@
       },
       {
         "key": "B",
-        "text": "On-line payments"
+        "text": "(A) and (C) only"
       },
       {
         "key": "C",
-        "text": "Better medical education across the country Choose the correct answer from the options given below :"
+        "text": "(B) and (C) only"
       },
       {
         "key": "D",
-        "text": "(A), (B) and (C)"
+        "text": "(A) and (B) only"
       }
     ],
     "correctOption": "D",
@@ -13585,23 +13585,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_69 | Q.18",
-    "questionText": "Identify the correct order of the following different types of computer components ranked from\nfastest to slowest in terms of access time.",
+    "questionText": "Identify the correct order of the following different types of computer components ranked from\nfastest to slowest in terms of access time.\n(A) RAM\n(B) Optical Drive\n(C) CPU Cache\n(D) SSD\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "RAM"
+        "text": "(B), (D), (A), (C)"
       },
       {
         "key": "B",
-        "text": "Optical Drive"
+        "text": "(C), (D), (A), (B)"
       },
       {
         "key": "C",
-        "text": "CPU Cache"
+        "text": "(A), (B), (C), (D)"
       },
       {
         "key": "D",
-        "text": "SSD Choose the correct answer from the options given below :"
+        "text": "(C), (A), (D), (B)"
       }
     ],
     "correctOption": "D",
@@ -13661,7 +13661,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-491",
@@ -13689,7 +13689,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-492",
@@ -13697,23 +13697,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_69 | Q.42",
-    "questionText": "match List I with List II :\nList I \tList II\n(Computer Terms) \t(Description)",
+    "questionText": "match List I with List II :\nList I \tList II\n(Computer Terms) \t(Description)\n(A) HTML \t(I) Semantic Web\n(B) Web 2.0 \t(II) Use of Internet to make phone calls\n(C) Web 3.0 \t(III) Language used to create web pages\n(D) VOIP \t(IV) Collaborative web\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "HTML \t(I) Semantic Web"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Web 2.0 \t(II) Use of Internet to make phone calls"
+        "text": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Web 3.0 \t(III) Language used to create web pages"
+        "text": "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
       },
       {
         "key": "D",
-        "text": "VOIP \t(IV) Collaborative web Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       }
     ],
     "correctOption": "A",
@@ -13801,7 +13801,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-496",
@@ -13829,7 +13829,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-497",
@@ -14005,23 +14005,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_8 | Q.42",
-    "questionText": "Find the odd number in the following series 644, 328, 164, 84, 44, 24, 14",
+    "questionText": "Find the odd number in the following series 644, 328, 164, 84, 44, 24, 14\n(A) 44\n(B) 84\n(C) 164\n(D) 328\nList I List II\n(a) Web browser (i) Hard Disk\n(b) Operating system (ii) Chrome\n(c) Secondary memory (iii)MS-Word\n(d) Application software (iv) DOS\nChoose the correct answer from the options given below:\n1. a. - iii, b - ii, c - i, d - iv\n2. a - ii, b. - iv, c - i, d - iii\n3. a - iii, b - i, c. - ii, d - iv\n4. a - iii, b - i, c - iv, d. – ii\nA web browser is a software application for accessing information on the World Wide Web.\n44. Which of the following constitutes the 'ability' (can do) component for describing the\ncompetence of a teacher?\n(a). Confidence in performing teaching task\n(b). Knowledge of the subject being taught\n(c). Skill in analyzing the learning tasks\n(d). Experience in handling learning task related situations\n(e). Commitment to organizing teaching-learning tasks\nChoose the correct answer from the options given below:\n(A) b, c and d only\n(B) a, b and c only\n(C) a, c and d only\n(D) c, d and e only\n45. Which of the following is an application software?\n(A) Android\n(B) iOS\n(C) Linux\n(D) MS Word\nComprehension:\nRead the given passage carefully and answer the questions that follow\nThe ceremonial use of slogans and catchwords in educational discussions raises the\nsuspicion\nof a tenuous linkage between thought and action. As stock phrases multiply and the talk\nbegins to take on an idealistic ring, the wary listener might well begin to wonder whether\nthe\nlip service paid to these concepts is connected with what actually goes on in classrooms. It\nis\ndifficult in this day and age to be opposed to democracy, creativity, and innovation in\neducation, but how are these attractive words related to the more mundane business of\nteaching practice? The answer, of course, is that the two are often not related - a fact t hat\naccounts for one of the most frequently recurring complaints among today's educators: the\nall-too-obvious gap between theory (i.e., educational talk) on the one hand and practice on\nthe other.\nThe dissonance between what teachers say, or at least what their leaders say, and what t hey\ndo takes many forms and has several important consequences. For some, it lays the\ngroundwork for the development of a cynical outlook towards the admonitions of idealists\nand the advocates of new and supposedly revolutionary practices. This cynicism, which\ngrows\nout of a prior sense of disillusionment, strikes many young teachers as they begin to\nappreciate the unrealistic quality of several of the expectations aroused during the period of\ntheir professional training. Teaching as actually experienced and as described in textbooks\nand\ncollege courses often turns out to be to quite different states of affairs. The result is that\ncollege instructors of education and other outsiders begin to be looked upon with suspicion\nby many practitioners. Even the testimony of fellow tea cheers may be viewed suspiciously\nwhen\nit conflicts with the listeners own experience in the classroom.\n(A) Opposition to revolutionary practices\n(B) Lays ground for frequent complaints\n(C) Emergence of disillusionment among teachers\n(D) Support to the admonition of idealists\n47. The passage analyses\n(A) The linkage between language and d discussions\n(B) The schism between theory and actual practice of teaching\n(C) The need to the use of high brow language in educational discussions\n(D) The importance of ideal ism in education\n48. Why do young teachers appreciate the unrealistic quality of expectations?\n(A) Because of the cynical attitude among teachers\n(B) Because of the testimonial given by fellow teachers\n(C) Because of their professional t raining\n(D) Because of their own experience in teaching\n49. How are the idealistic concepts related to the routine practices in education?\n(A) They intertwine theory and practice\n(B) They make classroom teaching innovative\n(C) They make the business of education highly profitable\n(D) They lead to the identification of gap between theory and practice\n50. The use of stock phrases in educational discussions has tended to reveal",
     "options": [
       {
         "key": "A",
-        "text": "44"
+        "text": "The linkage between thought and action"
       },
       {
         "key": "B",
-        "text": "84"
+        "text": "The difference between saying and doing in class room contexts"
       },
       {
         "key": "C",
-        "text": "164"
+        "text": "The ceremonial importance of slogans"
       },
       {
         "key": "D",
-        "text": "328 List I List II (a) Web browser (i) Hard Disk (b) Operating system (ii) Chrome (c) Secondary memory (iii)MS-Word (d) Application software (iv) DOS Choose the correct answer from the options given below:"
+        "text": "The idealistic ring of talks"
       }
     ],
     "correctOption": "D",
@@ -14053,7 +14053,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-507",
@@ -14257,23 +14257,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_16 | Q.40",
-    "questionText": "Match List I with List II. List I provides the basic management functions to be\nperformed by a teacher while the List II gives their description.\nList I List II\n(a) Planning (i) It involves feedback of results and\nfollow up to compare\naccomplishments.\n(b) Organizing (ii) It involves engagement in task\nrelevant activities.\n(c) Motivating (iii) It involves bringing together\nresources and people.\n(d) Controlling (iv) It involves setting goals and\nobjectives\nChoose the correct answer from the options given below :",
+    "questionText": "Match List I with List II. List I provides the basic management functions to be\nperformed by a teacher while the List II gives their description.\nList I List II\n(a) Planning (i) It involves feedback of results and\nfollow up to compare\naccomplishments.\n(b) Organizing (ii) It involves engagement in task\nrelevant activities.\n(c) Motivating (iii) It involves bringing together\nresources and people.\n(d) Controlling (iv) It involves setting goals and\nobjectives\nChoose the correct answer from the options given below :\n(A) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)\n(B) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)\n(C) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)\n(D) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)\nList I(Type of media) List II (Example)\n(a) Synchronous media (i) Application of multi-media\n(b) Asynchronous media (ii) Interactive multi-media\n(c) Rich media (iii) E-mail\n(d) Hyper media (iv) Telephone\nChoose the correct answer from the options given below :\n(A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)\n(B) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)\n(C) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)\n(D) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)\n42.Which of the following statements are true?\n(i) An algorithm may produce no output\n(ii) An algorithm expressed in a programming language is called a computer program.\n(iii) An algorithm is expressed in a graphical form known as flowchart\n(iv) An algorithm can have infinite sequence of instructions.\nChoose the correct answer from the options given below",
     "options": [
       {
         "key": "A",
-        "text": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        "text": "(i) and (ii) only"
       },
       {
         "key": "B",
-        "text": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        "text": "(i), (ii) and (iv) only"
       },
       {
         "key": "C",
-        "text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        "text": "(iii) and (iv) only"
       },
       {
         "key": "D",
-        "text": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii) List I(Type of media) List II (Example) (a) Synchronous media (i) Application of multi-media (b) Asynchronous media (ii) Interactive multi-media (c) Rich media (iii) E-mail (d) Hyper media (iv) Telephone Choose the correct answer from the options given below :"
+        "text": "(ii) and (iii) only"
       }
     ],
     "correctOption": "A",
@@ -14313,23 +14313,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "11.11.2020 FN | Q.20",
-    "questionText": "Match List I withList II :\nList I List II\n(Medium) (Example for description)",
+    "questionText": "Match List I withList II :\nList I List II\n(Medium) (Example for description)\n(A) Newspaper (I) Networking\n(B) Radio and television (II) Audio, Video and graphics\n(C) Social Media (III) Broadsheet\n(D) Multi-media (IV) Broadcasting\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Newspaper (I) Networking"
+        "text": ". (A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Radio and television (II) Audio, Video and graphics"
+        "text": ". (A)-(IV), (B)-(I), (C)-(II), (D)-(III)"
       },
       {
         "key": "C",
-        "text": "Social Media (III) Broadsheet"
+        "text": ". (A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Multi-media (IV) Broadcasting Choose the correct answer from the options given below :"
+        "text": ". (A)-(Il), (B)-(III), (C)-(IV), (D)-(I)"
       }
     ],
     "correctOption": "A",
@@ -14613,7 +14613,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-527",
@@ -14697,7 +14697,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-530",
@@ -14977,7 +14977,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-550",
@@ -15145,7 +15145,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-556",
@@ -15425,7 +15425,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-566",
@@ -15481,7 +15481,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-570",
@@ -15517,23 +15517,23 @@
     "unitId": 8,
     "unitTitle": "ICT (Information & Communication Tech)",
     "shift": "Shift_35 | Q.10",
-    "questionText": "Participation in which type of research has the great potential for ensuring the\nimprovement of the professional as well as work situation?",
+    "questionText": "Participation in which type of research has the great potential for ensuring the\nimprovement of the professional as well as work situation?\n(A) Fundamental research\n(B) Applied research\n(C) Evaluative research\n(D) Action research\n46. Through which Act University Grants Commission came into existence?\n(A)UGC Act — 1956\n(B)UGC Act — 1949\n(C)UGC Act — 1944\n(D)UGC Act — 1968\n47. The binary equivalent of decimal number 75 ?\n(A)1101001\n(B)101001\n(C)100101\n(D)1001011\n48. Which statement is true about Random Access Memory CRAM) in a computer system?\n(A)RAM is non-volatile and the amount of RAM in a computer system cannot affect its\nperformance\n(B)RAM is non-volatile and the amount of RAM in a computer system can affect its\nperformance\n(C)RAM is volatile and the amount of RAM in a computer cannot affect its performance\n(D)RAM is volatile and the amount of RAM in a computer system can affect its performance\n49. A virus type that is capable of transferring from one computer to another without any\n'use interaction' is known as\n(A)Worm\n(B)Trojan\n(c)Key logging\n(D)Boot sector virus\n50. The introduction of MOOC in open and distance learning programmes is justified because\nof its",
     "options": [
       {
         "key": "A",
-        "text": "Fundamental research"
+        "text": "Low cost considerations"
       },
       {
         "key": "B",
-        "text": "Applied research"
+        "text": "Accessibility considerations"
       },
       {
         "key": "C",
-        "text": "Evaluative research"
+        "text": "Speed considerations"
       },
       {
         "key": "D",
-        "text": "Action research"
+        "text": "Novelty considerations"
       }
     ],
     "correctOption": "D",
@@ -15649,7 +15649,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-584",
@@ -15705,7 +15705,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U08-586",

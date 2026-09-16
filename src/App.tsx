@@ -13,6 +13,8 @@ import { RoutineTracker } from './components/RoutineTracker';
 import { questionService } from './services/questionService';
 import { storageService } from './services/storageService';
 import { Manifest, DrillConfig, Question, UnitHealth, DailyHabit } from './types';
+import { AdminReportPanel } from './components/AdminReportPanel';
+import { reportService } from './services/reportService';
 
 export const App: React.FC = () => {
   const [manifest, setManifest] = useState<Manifest | null>(null);
@@ -22,6 +24,16 @@ export const App: React.FC = () => {
   const [profile, setProfile] = useState(storageService.getProfile());
   const [showSyncModal, setShowSyncModal] = useState(false);
   const [todayHabit, setTodayHabit] = useState<DailyHabit>(storageService.getTodayHabit());
+  const [restoredNotification, setRestoredNotification] = useState<string | null>(null);
+
+  // Admin View State
+  const [isAdminView, setIsAdminView] = useState<boolean>(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      return window.location.pathname.startsWith('/admin') || params.get('admin') === 'true';
+    }
+    return false;
+  });
 
   // Active Drill State
   const [activeDrillQuestions, setActiveDrillQuestions] = useState<Question[] | null>(null);
@@ -49,6 +61,22 @@ export const App: React.FC = () => {
     }
 
     refreshData();
+
+    // Check if any admin-approved question fixes can be restored
+    reportService.checkAndRestoreApprovedFixes().then((restored) => {
+      if (restored.length > 0) {
+        setRestoredNotification(`🎉 ${restored.length} reported question${restored.length > 1 ? 's' : ''} fixed & restored by admin!`);
+        setTimeout(() => setRestoredNotification(null), 6000);
+        refreshData();
+      }
+    });
+
+    const handlePopState = () => {
+      const params = new URLSearchParams(window.location.search);
+      setIsAdminView(window.location.pathname.startsWith('/admin') || params.get('admin') === 'true');
+    };
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
   }, []);
 
   const refreshData = async () => {
@@ -158,12 +186,27 @@ export const App: React.FC = () => {
       {/* Top Header */}
       <Header
         onOpenSync={() => setShowSyncModal(true)}
+        onOpenAdmin={() => setIsAdminView(true)}
         streakDays={profile.streakDays}
       />
 
       {/* Main View Router */}
       <main style={{ flex: 1 }}>
-        {activeDrillQuestions ? (
+        {isAdminView ? (
+          <AdminReportPanel
+            onBack={() => {
+              setIsAdminView(false);
+              if (window.location.pathname.startsWith('/admin')) {
+                window.history.replaceState({}, document.title, '/');
+              } else if (new URLSearchParams(window.location.search).has('admin')) {
+                const url = new URL(window.location.href);
+                url.searchParams.delete('admin');
+                window.history.replaceState({}, document.title, url.pathname + (url.search ? url.search : ''));
+              }
+              refreshData();
+            }}
+          />
+        ) : activeDrillQuestions ? (
           <CommuteDrill
             questions={activeDrillQuestions}
             mode={activeDrillMode}
@@ -227,7 +270,7 @@ export const App: React.FC = () => {
       </main>
 
       {/* Fixed Mobile Bottom Navigation */}
-      {!activeDrillQuestions && (
+      {!activeDrillQuestions && !isAdminView && (
         <BottomNav
           activeTab={activeTab}
           onChangeTab={(tab) => {
@@ -236,6 +279,35 @@ export const App: React.FC = () => {
           }}
           activeMistakesCount={activeMistakesCount}
         />
+      )}
+
+      {/* Auto-Restoration Alert Toast */}
+      {restoredNotification && (
+        <div 
+          style={{
+            position: 'fixed',
+            bottom: activeDrillQuestions || isAdminView ? '24px' : '84px',
+            left: '50%',
+            transform: 'translateX(-50%)',
+            zIndex: 9999,
+            background: 'linear-gradient(135deg, #10B981, #059669)',
+            color: '#FFFFFF',
+            padding: '12px 20px',
+            borderRadius: '14px',
+            boxShadow: '0 8px 30px rgba(0, 0, 0, 0.5)',
+            fontSize: '0.88rem',
+            fontWeight: 600,
+            maxWidth: '90%',
+            textAlign: 'center',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '8px',
+            border: '1px solid rgba(255, 255, 255, 0.25)',
+            animation: 'slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1)'
+          }}
+        >
+          {restoredNotification}
+        </div>
       )}
 
       {/* Sync Modal */}

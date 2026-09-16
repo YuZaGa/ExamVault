@@ -19,19 +19,25 @@ function loadRules() {
   if (fs.existsSync(MASTER_TABLES_P2)) {
     const content = fs.readFileSync(MASTER_TABLES_P2, 'utf8');
     const tableRows = content.split('\n');
-    for (const row of tableRows) {
-      if (row.startsWith('|') && !row.includes('---') && !row.includes('Critical Term') && !row.includes('Sub-Field')) {
+    for (let i = 0; i < tableRows.length; i++) {
+      const row = tableRows[i];
+      if (row.startsWith('|') && !row.includes('---')) {
+        // Skip header row if followed by separator line
+        if (i + 1 < tableRows.length && /^\s*\|(?:\s*[-:]+[-|\s:]*)\|/.test(tableRows[i + 1])) continue;
         const cols = row.split('|').map(c => c.trim()).filter(Boolean);
         if (cols.length >= 2) {
-          const term = cols[0].replace(/\*\*/g, '').replace(/"/g, '');
-          const detail = cols[1].replace(/\*\*/g, '');
-          const context = cols[2] ? cols[2].replace(/\*\*/g, '') : '';
+          const term = cols[0].replace(/\*\*/g, '').replace(/"/g, '').trim();
+          const detail = cols[1].replace(/\*\*/g, '').trim();
+          const context = cols[2] ? cols[2].replace(/\*\*/g, '').trim() : '';
           const fullRule = context ? `${term}: Coined/Proposed by ${detail} (${context})` : `${term}: ${detail}`;
-          rulesMap.push({
-            keyword: term.toLowerCase(),
-            rule: fullRule,
-            paper: 2
-          });
+          if (term.length > 3) {
+            rulesMap.push({
+              keyword: term.toLowerCase(),
+              regex: new RegExp(`\\b${term.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i'),
+              rule: fullRule,
+              paper: 2
+            });
+          }
         }
       }
     }
@@ -40,19 +46,38 @@ function loadRules() {
   if (fs.existsSync(ACTION_PLAN_P1)) {
     const content = fs.readFileSync(ACTION_PLAN_P1, 'utf8');
     const tableRows = content.split('\n');
-    for (const row of tableRows) {
-      if (row.startsWith('|') && !row.includes('---') && !row.includes('Parameter') && !row.includes('Dimension')) {
+    const genericHeaders = new Set([
+      'feature', 'scale', 'relation', 'parameter', 'category', 'dimension', 'time horizon',
+      'causality', 'questionnaire', 'year', 'disease', 'substance', 'reality', 'proposition type',
+      'institution / term', 'level / storage media', 'protocol / address', 'threat type',
+      'directional flow', 'level of teaching', 'evaluation type', 'initiative / component',
+      'philosophical root', 'nature of reality', 'logic approach', 'primary method',
+      'role of researcher', 'key goals', 'sampling method'
+    ]);
+
+    for (let i = 0; i < tableRows.length; i++) {
+      const row = tableRows[i];
+      if (row.startsWith('|') && !row.includes('---')) {
+        // Skip header row if followed by separator line
+        if (i + 1 < tableRows.length && /^\s*\|(?:\s*[-:]+[-|\s:]*)\|/.test(tableRows[i + 1])) continue;
         const cols = row.split('|').map(c => c.trim()).filter(Boolean);
         if (cols.length >= 2) {
-          const term = cols[0].replace(/\*\*/g, '').replace(/"/g, '');
-          const detail = cols[1].replace(/\*\*/g, '');
-          const extra = cols[2] ? cols[2].replace(/\*\*/g, '') : '';
+          let term = cols[0].replace(/\*\*/g, '').replace(/"/g, '').replace(/^\$\\bullet\$\s*/, '').trim();
+          const detail = cols[1].replace(/\*\*/g, '').trim();
+          const extra = cols[2] ? cols[2].replace(/\*\*/g, '').trim() : '';
+
+          if (genericHeaders.has(term.toLowerCase())) continue;
+          if (/^\d{4}$/.test(term)) continue; // skip bare 4-digit years
+
           const fullRule = extra ? `${term}: ${detail} | ${extra}` : `${term}: ${detail}`;
-          rulesMap.push({
-            keyword: term.toLowerCase(),
-            rule: fullRule,
-            paper: 1
-          });
+          if (term.length > 3) {
+            rulesMap.push({
+              keyword: term.toLowerCase(),
+              regex: new RegExp(`\\b${term.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i'),
+              rule: fullRule,
+              paper: 1
+            });
+          }
         }
       }
     }
@@ -64,10 +89,11 @@ function loadRules() {
 loadRules();
 
 function findCheatSheetRule(text, paper) {
-  const lower = text.toLowerCase();
   for (const r of rulesMap) {
-    if ((r.paper === paper || !r.paper) && r.keyword.length > 3 && lower.includes(r.keyword)) {
-      return r.rule;
+    if ((r.paper === paper || !r.paper) && r.keyword.length > 3) {
+      if (r.regex ? r.regex.test(text) : text.toLowerCase().includes(r.keyword)) {
+        return r.rule;
+      }
     }
   }
   return null;
@@ -142,13 +168,9 @@ function parseFile(filePath, paper, unitId, unitTitle) {
 
     // Extract Options: Look for (A)-(D), (1)-(4), or 1.-4.
     let options = [];
-    let firstOptBlockIndex = -1;
     const optLetterRegex = /(?:^|\n)\s*\(([A-D1-4])\)\s*([\s\S]*?)(?=(?:\n\s*\([A-D1-4]\)|\n\s*>|\n\s*---|\n\s*###|$))/g;
     let optMatch;
     while ((optMatch = optLetterRegex.exec(block)) !== null) {
-      if (firstOptBlockIndex === -1) {
-        firstOptBlockIndex = optMatch.index;
-      }
       let key = optMatch[1].toUpperCase();
       if (key === '1') key = 'A';
       else if (key === '2') key = 'B';
@@ -161,19 +183,15 @@ function parseFile(filePath, paper, unitId, unitTitle) {
       text = text.replace(/\s*\n\s*/g, ' ');
       // Clean any leaked subsequent question stems (e.g. "Article 31 48. Match List...")
       text = text.replace(/\s+\d+\.\s+[A-Za-z][\s\S]*$/, '').trim();
-      options.push({ key, text });
+      options.push({ key, text, index: optMatch.index });
     }
 
     // If (A)-(D) failed, look for 1. / 2. / 3. / 4. format
     if (options.length < 4) {
       options = [];
-      firstOptBlockIndex = -1;
       const optNumberRegex = /(?:^|\n)\s*([1-4])\.\s*([\s\S]*?)(?=(?:\n\s*[1-4]\.|\n\s*>|\n\s*---|\n\s*###|$))/g;
       let numMatch;
       while ((numMatch = optNumberRegex.exec(block)) !== null) {
-        if (firstOptBlockIndex === -1) {
-          firstOptBlockIndex = numMatch.index;
-        }
         const num = numMatch[1];
         const key = num === '1' ? 'A' : num === '2' ? 'B' : num === '3' ? 'C' : 'D';
         let text = numMatch[2].replace(/==/g, '').trim();
@@ -181,7 +199,7 @@ function parseFile(filePath, paper, unitId, unitTitle) {
         text = text.replace(/^(\d+)\s*\n\s*(\d+)$/, '$1/$2');
         text = text.replace(/\s*\n\s*/g, ' ');
         text = text.replace(/\s+\d+\.\s+[A-Za-z][\s\S]*$/, '').trim();
-        options.push({ key, text });
+        options.push({ key, text, index: numMatch.index });
       }
     }
 
@@ -190,29 +208,24 @@ function parseFile(filePath, paper, unitId, unitTitle) {
       continue;
     }
 
-    // Ensure options are sorted A, B, C, D
+    // The true 4 answer options of any question are ALWAYS the LAST 4 options immediately preceding the Answer.
+    // In match questions or multi-statement questions, earlier (A)-(D) entries are table rows or statements to evaluate.
+    const last4Options = options.slice(-4);
     const optionMap = { A: '', B: '', C: '', D: '' };
-    for (const opt of options.slice(0, 4)) {
+    for (const opt of last4Options) {
       if (optionMap[opt.key] !== undefined) {
         optionMap[opt.key] = opt.text;
       }
     }
     const finalOptions = [
-      { key: 'A', text: optionMap.A || options[0]?.text || '' },
-      { key: 'B', text: optionMap.B || options[1]?.text || '' },
-      { key: 'C', text: optionMap.C || options[2]?.text || '' },
-      { key: 'D', text: optionMap.D || options[3]?.text || '' }
+      { key: 'A', text: optionMap.A || last4Options[0]?.text || '' },
+      { key: 'B', text: optionMap.B || last4Options[1]?.text || '' },
+      { key: 'C', text: optionMap.C || last4Options[2]?.text || '' },
+      { key: 'D', text: optionMap.D || last4Options[3]?.text || '' }
     ];
 
-    // Extract Question Text: accurately slice before first option starts
-    let questionText = '';
-    if (firstOptBlockIndex !== -1 && firstOptBlockIndex > headerMatch[0].length) {
-      questionText = block.substring(headerMatch[0].length, firstOptBlockIndex).trim();
-    } else {
-      let qBody = block.substring(headerMatch[0].length);
-      const optStart = qBody.search(/(?:^|\n)\s*\([A-D1-4]\)/);
-      questionText = optStart !== -1 ? qBody.substring(0, optStart).trim() : qBody.split(/\n\s*>/)[0].trim();
-    }
+    // Extract Question Text: cut immediately before the real options start (last4Options[0].index)
+    let questionText = block.substring(headerMatch[0].length, last4Options[0].index).trim();
     // Clean up leading question numbers e.g. "28. " at the start of questionText
     questionText = questionText.replace(/^\d+\.\s*/, '').trim();
 

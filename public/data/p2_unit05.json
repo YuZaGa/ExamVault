@@ -621,15 +621,15 @@
     "unitId": 5,
     "unitTitle": "Language, Linguistics & ELT",
     "shift": "Shift: MARCH 2023 SHIFT I | Q.51",
-    "questionText": "Which of the following works have been written by Thomas Carlyle?\n(a) Of Heroes and Hero-Worship\n(b) The French Revolution\n(c) Of Human Bondage\n(d) The Hour and the Man\n(e) Hudibras\nChoose the correct answer from the options given below:",
+    "questionText": "Which of the following works have been written by Thomas Carlyle?\n(a) Of Heroes and Hero-Worship\n(b) The French Revolution\n(c) Of Human Bondage\n(d) The Hour and the Man\n(e) Hudibras\nChoose the correct answer from the options given below:\n(A) (a) and (b)\n(B) (a) and (c)\n(C) (a) and (d)\n(D) (a) and (e)\n\n\n(a) Desire in Language: A Semiotic Approach to Literature and Art\n(b) Illuminations\n(c) Syntax and Semantics\n(d) La revolution du langage poétique\n(e) The Madwoman in the Attic\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "(a) and (b)"
+        "text": "(a) and (c)"
       },
       {
         "key": "B",
-        "text": "(a) and (c)"
+        "text": "(b) and (a)"
       },
       {
         "key": "C",
@@ -637,7 +637,7 @@
       },
       {
         "key": "D",
-        "text": "(a) and (e) (a) Desire in Language: A Semiotic Approach to Literature and Art (b) Illuminations (c) Syntax and Semantics (d) La revolution du langage poétique (e) The Madwoman in the Attic Choose the correct answer from the options given below:"
+        "text": "(b) and (e)"
       }
     ],
     "correctOption": "A",
@@ -837,7 +837,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U05-32",
@@ -1013,23 +1013,23 @@
     "unitId": 5,
     "unitTitle": "Language, Linguistics & ELT",
     "shift": "Shift: DECEMBER 2021 SHIFT I | Q.99",
-    "questionText": "In Noam Chomsky's definition of grammar which two features are drawn from mathematics ?\nA. complexity\nB. abstraction\nC. transformation\nD. generation\nChoose the correct answer from the options given below: Options:",
+    "questionText": "In Noam Chomsky's definition of grammar which two features are drawn from mathematics ?\nA. complexity\nB. abstraction\nC. transformation\nD. generation\nChoose the correct answer from the options given below: Options:\n(A) A and B only\n(B) A and C only\n(C) B and D only\n(D) C and D only\n100.Who among the following Dickens characters appears as a ghost?",
     "options": [
       {
         "key": "A",
-        "text": "A and B only"
+        "text": "Daniel Quilp"
       },
       {
         "key": "B",
-        "text": "A and C only"
+        "text": "Dora Spenlow"
       },
       {
         "key": "C",
-        "text": "B and D only"
+        "text": "Esther Summerson,"
       },
       {
         "key": "D",
-        "text": "C and D only 100.Who among the following Dickens characters appears as a ghost?"
+        "text": "Jacob Marley"
       }
     ],
     "correctOption": "D",
@@ -1201,6 +1201,6 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   }
 ]

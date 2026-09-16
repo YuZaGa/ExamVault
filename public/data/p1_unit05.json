@@ -473,7 +473,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-19",
@@ -781,7 +781,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-30",
@@ -1117,7 +1117,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-42",
@@ -1173,7 +1173,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-44",
@@ -1789,7 +1789,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-66",
@@ -1929,7 +1929,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-71",
@@ -1957,7 +1957,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-72",
@@ -2069,7 +2069,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-76",
@@ -2433,7 +2433,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-89",
@@ -2461,7 +2461,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-90",
@@ -2545,7 +2545,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-93",
@@ -2573,7 +2573,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-94",
@@ -2601,7 +2601,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-95",
@@ -2713,7 +2713,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-99",
@@ -2797,7 +2797,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-102",
@@ -2825,7 +2825,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-103",
@@ -2881,7 +2881,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-105",
@@ -2965,7 +2965,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-108",
@@ -3021,7 +3021,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-110",
@@ -3133,7 +3133,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-114",
@@ -3189,7 +3189,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-116",
@@ -3273,7 +3273,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-119",
@@ -3329,7 +3329,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-121",
@@ -3385,7 +3385,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-123",
@@ -3469,7 +3469,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-126",
@@ -3497,7 +3497,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-127",
@@ -3665,7 +3665,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-133",
@@ -3721,7 +3721,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-135",
@@ -3749,7 +3749,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-136",
@@ -3917,7 +3917,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-143",
@@ -3973,7 +3973,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-145",
@@ -4029,7 +4029,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-147",
@@ -4281,7 +4281,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-156",
@@ -4589,7 +4589,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-167",
@@ -4617,7 +4617,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-168",
@@ -4645,7 +4645,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-169",
@@ -4673,7 +4673,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-170",
@@ -4813,7 +4813,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-175",
@@ -5261,7 +5261,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-193",
@@ -5297,23 +5297,23 @@
     "unitId": 5,
     "unitTitle": "Mathematical Reasoning",
     "shift": "Shift_68 | Q.14",
-    "questionText": "Arrange the following solar cell base materials in order of their Band gap energy:",
+    "questionText": "Arrange the following solar cell base materials in order of their Band gap energy:\n(A) Silicon (Si)\n(B) Germanium (Ge)\n(C) Gallium Arsenide (Ga As)\n(D) Cadmium Sulphide (CdS)\nChoose the correct answer from the options given below",
     "options": [
       {
         "key": "A",
-        "text": "Silicon (Si)"
+        "text": "(A)> (B)> (D)> (C)"
       },
       {
         "key": "B",
-        "text": "Germanium (Ge)"
+        "text": "(D) >(C)>A> (B)"
       },
       {
         "key": "C",
-        "text": "Gallium Arsenide (Ga As)"
+        "text": "(A)> (B)> (C)>(D)"
       },
       {
         "key": "D",
-        "text": "Cadmium Sulphide (CdS) Choose the correct answer from the options given below"
+        "text": "(D)> (A) > (C) > (B)"
       }
     ],
     "correctOption": "B",
@@ -5577,23 +5577,23 @@
     "unitId": 5,
     "unitTitle": "Mathematical Reasoning",
     "shift": "Shift_5 | Q.6",
-    "questionText": "Match List I with List II\n8. In which research method manipulation of 'independent variable' and control of 'extraneous\nvariables' are neither possible nor desirable?",
+    "questionText": "Match List I with List II\n8. In which research method manipulation of 'independent variable' and control of 'extraneous\nvariables' are neither possible nor desirable?\n(A) Experimental method\n(B) Ex post facto method\n(C) Historical method\n(D) Descriptive survey method\n9) A teacher uses a question-answer session to ensure desired learning outcomes in his/ her\nclassroom.\nIn this process, he/she offers the following type of comment to a few answers given by a\nstudent:\n\"Yes, you are right, good\" This will be considered as an example of\n(A) Positive feedback\n(B) Negative feedback\n(C) Confirmatory feedback\n(D) Corrective feedback\nS=10-15);\nComprehension:\nRead the given passage carefully and answer the questions that follow\nMuch is still unknown about human behavior. Unanswered questions remain and further\nresearch is necessary. Knowledge about motivation, leader behavior, and change will\ncontinue to be of great concern to practitioners of management for several reasons: It can\nhelp improve the effective leadership of human resources; it can help in preventing\nresistance to change, restriction to output, and personnel disputes; and often it can\nlead to a more productive organization. Our intention has been to provide a conceptual\nframework that may be useful to you in applying the conclusions of the behavior\nsciences. The value that a framework of this kind has is not in changing one's knowledge\nbut in changing one's behavior in working with people. We have discussed three basic\ncompetencies in influencing: diagnosing - being able to understand and interpret the\nsituation you are attempting to influence; adapting - being able to adapt your behavior\nand the resources you control to the contingencies of the situation; and communicating\n- being able to put the message in such a way that people can easily understand and\naccept it. Each of these competencies is different and requires a different developmental\napproach. For example, diagnosing is cognitive or of the mind in nature and requires\nthinking skills; adapting is behavioral in nature and requires behavioral practice; and\ncommunicating is process-oriented and requires learning and interrelating the key steps\nin the process. Because these three competencies require different knowledge and\nskills, how do we continue the process that we started with. The key to starting the\nprocess of changing behavior is sharing what you have learned with other people in\nyour own organization. Two things occur when people who work together all have a\ncommon language. First, they are able to give each other feedback and help in a very\nrational, unemotional way that effects behavior. Second, when followers start to realize\nthat if their manager is using situational leadership, it is not the manager, but their behavior,\nthat determines the leadership style to be used with them\n10.What prompts a change in a person's behavior?\n(A) Leadership style\n(B) Situational support to the managers\n(C) Sharing of learning outcomes with others in the organization\n(D) Segregation of competencies\n11. What prompts a change in a person's behaviour?\n(A) Leadership style\n(B) Situational support to the managers\n(C) Sharing of learning outcomes with others in the organization\n(D) Segregation of competencies\n12. Which of the following prohibits resistance to change?\n(A) Knowledge of leader behavior\n(B) Removing restriction on output\n(C) Personnel disputes\n(D) Non-productive organization\n13. The inferences that can be drawn from the passage are\nA. Common language among people in an organization will ensure unbiased feedback\nB. People are known for fluctuating behavior\nC. People's behavior influences the leader\nD. Emotions and human behavior are separate and easily explicable\nChoose the correct answer from the options given below:\n(A) a and b only\n(B) b and c only\n(C) c and d only\n(D) a and c only\n14. What is the value outcome of applying a theoretical framework of behavioral science?\n(A) Changes in ones own knowledge\n(B) Change in one's behavior while working with others\n(C) Not understandable human behavior\n(D) Emergence of value-loaded framework\n15. Each of the basic competencies needs\n(A) Exclusivity\n(B) Situational contingency\n(C) Inter-relation with others\n(D A different approach in acquiring it\n16. A man is 30 years older than his son. Five years ago, his age was 6 times the age of his son.\nThe age of the son is\n(A) 10 years\n(B) 11 years\n(C) 12 years\n(D)15 years\n17. Given below are two statements Statement I: When I look deep into myself, I always stumble\nwith one perception or another. I can never catch myself Statement II: Self is the logical\npresupposition\nof all knowledge. Therefore, the concepts like substance and person cannot be applied to it.\nIn light of the above statements,\nchoose the most appropriate answer from the options given below\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is true but Statement II is false\n(D) Statement I is false but Statement II is true\n18. Given below are two statements\nStatement I: All knowledge is a recollection. It is true on a certain account\nStatement II: All men by nature, desire understanding In light of the above statements,\nchoose the most appropriate answer from the opt ions given be low\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is true but Statement II is false\n(D) Statement I is false but Statement II is true\n19. Match List I with List II\nList I List II\n(Concepts) (Schools)\nA. Nirvana I. Sankhya\nB. Nihshreyasa II. Jainism\nC. Apavarga Ill. Upanishads\nD. Moksha IV. Buddhism\nChoose the correct answer from the options given below:\n(A) A - IV, B - 111, C - 11, D - I\n(B) A - I, B - II, C - IV, D - Ill\n(C) A - II, B - I, C - Ill, D - IV\n(D) A - 111, B - IV, C - 11, D – I\n20. When communication meets the aims and objectives of classroom teaching, it becomes\n(A) Extra-ordinary\n(B) Personal\n(C) Functional\n(D) Obligatory\n21. Given below are two statements, o ne is labelled as Assertion A and the other is labelled as\nReason R\nAssertion A: Human touch in communication enables students to become participatory Reason\nR\nIn a technology-driven classroom environment, the communicative role of a teacher is\nsecondary In light of the above statement\nchoose the correct answer from the options given below\n(A) Both A and R are true and R is the correct explanation of A\n(B) Both A and R are true but R is NOT the correct explanation of A\n(C) A is true but R is false’\n(D) A is false but R is true\n22. Which of the following can be considered as psychological barriers to effective\ncommunication?\na. Descriptive message\nb. Inattentiveness\nc. Too much reliance on the written word\nd. Limited retention\ne. Logical organization\nf. Flow of thought\nChoose the correct answer from the options given below:\n(A) A, Band Conly\n(B) B, C and D only\n(C) C, D and E only\n(D) D, E and F only\n23. A motorist travels to a place 150km away at an average speed of 50km/ hour and returns at a\nspeed of 30km/hour. His average speed for the whole journey is\n(A) 35 km/ hour\n(B) 37.5 km/hour\n(C) 40 km/hour\n(D) 42.5 km/hour\n24. A sum of money earning compound interest annually doubles itself after 4 years.\nWhat is the rate of interest?\n(A) ~14 %\n(B) ~19 %\n(C) ~18 %\n(D) ~15 %\n25. What is the next term in the following series?\n4, 12, 28, 52\n(A) 76\n(B) 84\n(C) 98\n(D 104\n26. Given below are two statements\nStatement I: Different communities exist independent of one another but jointly somehow they\ngive an idea of communitarian life of a society\nStatement II: Earth exists e ither through a blind chance or through an inner necessity\nor through an external cause In light of the above statements,\nchoose the most appropriate answer from the options given be low\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is true but Statement II is false\n(D) Statement I is false but Statement II is true\n27. Deduction proceeds from\n(A) Particular to universal\n(B) Universal to particular\n(C) Particular to particular\n(D) Universal to universal\n28. Match List I with List II\nList I List II\nType of communication Characteristics\nA. Vertical I. Feedback oriented\nB. Horizontal II. Inter-personal\nC. Circular Ill. Top-down\nD. Transactional IV. Rumour-oriented\nChoose the correct answer from the options given below:\n(A) A - I, B - 11, C - 111, D - IV\n(B) A - 11, B - Ill, C - IV, D - I\n(C) A - 111, B - IV, C - I, D - 11\n(D) A - IV, B - I, C - 11, D – Ill\n29. In the following letter series, the next term is bdf, egi, hjl, _\n(A) kmo\n(B) jmp\n(C) ilo\n(D) kno\n30. Given below are two statements\nStatement I: Persuasive communication by a teacher in the classroom is intended to make his/her\nversion of information acceptable to students\nStatement II: If it happens at the institutional level, the purpose behind it is image building In\nlight of the above statements,\nchoose the most appropriate answer from the options given below",
     "options": [
       {
         "key": "A",
-        "text": "Experimental method"
+        "text": "Both Statement I and Statement II are t rue"
       },
       {
         "key": "B",
-        "text": "Ex post facto method"
+        "text": "Both Statement I and Statement II are false"
       },
       {
         "key": "C",
-        "text": "Historical method"
+        "text": "Statement I is true but Statement II is false"
       },
       {
         "key": "D",
-        "text": "Descriptive survey method 9) A teacher uses a question-answer session to ensure desired learning outcomes in his/ her classroom. In this process, he/she offers the following type of comment to a few answers given by a student: \"Yes, you are right, good\" This will be considered as an example of"
+        "text": "Statement I is false but Statement II is true S=31-35); Comprehension: Study the data given in the table and answer the questions that follow"
       }
     ],
     "correctOption": "D",
@@ -5653,7 +5653,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-209",
@@ -5709,7 +5709,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-212",
@@ -5821,7 +5821,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-216",
@@ -5905,7 +5905,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U05-228",
@@ -5997,23 +5997,23 @@
     "unitId": 5,
     "unitTitle": "Mathematical Reasoning",
     "shift": "JUNE 2006 | Q.10",
-    "questionText": "The depth of any research can be judged by:",
+    "questionText": "The depth of any research can be judged by:\n(A) title of the research.\n(B) objectives of the research.\n(C) total expenditure on the research.\n(D) duration of the research.\n46. The ratio of the total expenditure on football to that of expenditure on hockey is:\n(A) 1:15\n(B) 1:1\n(C) 15:1\n(D) 3:20\n47. if the total expenditure on sports during the year was Rs. 1,20,000,00 how much was\nspent on basket ball?\n(A) Rs. 9,50,000\n(B) Rs. 10,00,000\n(C) Rs. 12,00,000\n(D) Rs. 15,00,000\n48. The chart shows that the most popular game of the country is :\n(A) Hockey\n(B) Football\n(C) Cricket\n(D) Tennis\n49. Out of the following country's expenditure is the same on :\n(A) Hockey and Tennis\n(B) Golf and Basket ball\n(C) Cricket and Football\n(D) Hockey and Golf\n50. If the total expenditure on sport during the year was Rs. 1,50,00,000 the expenditure on\ncricket and hockey together was:",
     "options": [
       {
         "key": "A",
-        "text": "title of the research."
+        "text": "Rs. 60,00,000"
       },
       {
         "key": "B",
-        "text": "objectives of the research."
+        "text": "Rs. 50,00,000"
       },
       {
         "key": "C",
-        "text": "total expenditure on the research."
+        "text": "Rs. 37,50,000"
       },
       {
         "key": "D",
-        "text": "duration of the research."
+        "text": "Rs. 25,00,000"
       }
     ],
     "correctOption": "B",

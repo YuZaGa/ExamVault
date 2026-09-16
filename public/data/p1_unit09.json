@@ -53,7 +53,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-4",
@@ -137,7 +137,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-7",
@@ -165,7 +165,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-8",
@@ -361,7 +361,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-15",
@@ -557,7 +557,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-22",
@@ -613,7 +613,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-24",
@@ -669,7 +669,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-26",
@@ -725,7 +725,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-28",
@@ -865,7 +865,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-33",
@@ -921,7 +921,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-35",
@@ -949,7 +949,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-36",
@@ -1061,7 +1061,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-40",
@@ -1453,7 +1453,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-54",
@@ -1509,7 +1509,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-56",
@@ -2097,7 +2097,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-77",
@@ -2125,7 +2125,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-78",
@@ -2321,7 +2321,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-85",
@@ -2685,7 +2685,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-98",
@@ -2937,7 +2937,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-107",
@@ -3049,7 +3049,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-111",
@@ -3217,7 +3217,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-117",
@@ -3245,7 +3245,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-118",
@@ -3329,7 +3329,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-121",
@@ -3469,7 +3469,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-126",
@@ -3497,7 +3497,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-127",
@@ -3609,7 +3609,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-131",
@@ -3945,7 +3945,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-143",
@@ -4113,7 +4113,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-149",
@@ -4197,7 +4197,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-152",
@@ -4225,7 +4225,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-153",
@@ -4309,7 +4309,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "1986: NPE 1986 (revised 1992) | Rajiv Gandhi Govt."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-156",
@@ -4365,7 +4365,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-158",
@@ -4701,7 +4701,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-170",
@@ -4729,7 +4729,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-171",
@@ -4757,7 +4757,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-172",
@@ -4925,7 +4925,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-178",
@@ -5009,7 +5009,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-181",
@@ -5037,7 +5037,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-182",
@@ -5065,7 +5065,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-183",
@@ -5373,7 +5373,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-194",
@@ -5877,7 +5877,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-212",
@@ -5961,7 +5961,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-215",
@@ -6017,7 +6017,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-217",
@@ -6129,7 +6129,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-221",
@@ -6241,7 +6241,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-225",
@@ -6381,7 +6381,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-230",
@@ -6829,7 +6829,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-246",
@@ -6913,7 +6913,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-249",
@@ -6969,7 +6969,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Contradictory: $A \\leftrightarrow O$<br>$E \\leftrightarrow I$ | Exactly one is True, and the other is False. They can never be both true or both false."
   },
   {
     "id": "P1-U09-251",
@@ -7193,7 +7193,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-259",
@@ -7221,7 +7221,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-260",
@@ -7249,7 +7249,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-261",
@@ -7361,7 +7361,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "1986: NPE 1986 (revised 1992) | Rajiv Gandhi Govt."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-265",
@@ -7445,7 +7445,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-268",
@@ -7613,7 +7613,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-274",
@@ -7781,7 +7781,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-280",
@@ -8033,7 +8033,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-289",
@@ -8229,7 +8229,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-296",
@@ -8321,27 +8321,27 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_45 | Q.7",
-    "questionText": "NEP-2020 proposes to establish NETF. What are the stipulated functions of\nthis body?",
+    "questionText": "NEP-2020 proposes to establish NETF. What are the stipulated functions of\nthis body?\n(A) Articulate new directions for research and innovation in technology.\n(B) Provide a platform for free exchange of ideas on use of technology to\nunderstand learning.\n(C) Engage multilingual experts to help promotion of all Indian Languages.\n(D) Advancing international research efforts to address global challenges in\nhealthcare agriculture and climate change using AI (Artificial Intelligence).\n(E) Build intellectual and institutional capacities in Educational technology.\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Articulate new directions for research and innovation in technology."
+        "text": "(A), (D), (E) only"
       },
       {
         "key": "B",
-        "text": "Provide a platform for free exchange of ideas on use of technology to understand learning."
+        "text": "(A), (B), (E) only"
       },
       {
         "key": "C",
-        "text": "Engage multilingual experts to help promotion of all Indian Languages."
+        "text": "(B), (D), (E) only"
       },
       {
         "key": "D",
-        "text": "Advancing international research efforts to address global challenges in healthcare agriculture and climate change using AI (Artificial Intelligence). (E) Build intellectual and institutional capacities in Educational technology. Choose the correct answer from the options given below :"
+        "text": "(A), (C), (D) only"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-300",
@@ -8369,7 +8369,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-301",
@@ -8405,23 +8405,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_45 | Q.38",
-    "questionText": "Which of the following pollutants have adverse implications for human health\nas well as climate change?",
+    "questionText": "Which of the following pollutants have adverse implications for human health\nas well as climate change?\n(A) Nitrogen dioxide\n(B) Particulate matter (PM2.5)\n(C) Ozone\n(D) Methane\n(E) Nitrous oxide\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Nitrogen dioxide"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "B",
-        "text": "Particulate matter (PM2.5)"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Ozone"
+        "text": "(B) and (D) only"
       },
       {
         "key": "D",
-        "text": "Methane (E) Nitrous oxide Choose the correct answer from the options given below :"
+        "text": "(B) and (C) only"
       }
     ],
     "correctOption": "D",
@@ -8509,7 +8509,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-306",
@@ -8593,7 +8593,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-309",
@@ -8621,7 +8621,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-310",
@@ -8677,7 +8677,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-312",
@@ -8705,7 +8705,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-313",
@@ -8789,7 +8789,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-316",
@@ -8873,7 +8873,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-319",
@@ -8957,7 +8957,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-322",
@@ -9097,7 +9097,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-327",
@@ -9105,23 +9105,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_51 | Q.8",
-    "questionText": "Identify the correct sequence in decreasing order of percentage of total world's water in the\nfollowing locations:",
+    "questionText": "Identify the correct sequence in decreasing order of percentage of total world's water in the\nfollowing locations:\n(A) Atmosphere\n(B) Rivers and streams\n(C) Ground water\nList I \tList II\n(A) Kyoto Protocol \t(I) Clean and Affordable Energy\n(B) Montreal Protocol \t(II) Clean Development Mechanism\n(C)Paris Agreement \t(III) Nationally Determined Contribution\n(D)International Solar Alliance \t(IV) Phase out of chlorinated compounds\n(D) Lakes (Freshwater)\n(E) Ice caps and Glaciers\nChoose the current answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Kyoto Protocol \t(I) Clean and Affordable Energy"
+        "text": "E, C. B, D. A"
       },
       {
         "key": "B",
-        "text": "Rivers and streams"
+        "text": "E, D. C, B, A"
       },
       {
         "key": "C",
-        "text": "Ground water List I \tList II"
+        "text": "E, B, C, D, A"
       },
       {
         "key": "D",
-        "text": "Kyoto Protocol \t(I) Clean and Affordable Energy"
+        "text": "E. C, D, A, B"
       }
     ],
     "correctOption": "D",
@@ -9153,7 +9153,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-329",
@@ -9181,7 +9181,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-330",
@@ -9209,7 +9209,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-331",
@@ -9265,7 +9265,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-333",
@@ -9433,7 +9433,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-339",
@@ -9461,7 +9461,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-340",
@@ -9685,7 +9685,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-348",
@@ -9741,7 +9741,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-350",
@@ -9937,7 +9937,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-357",
@@ -9965,7 +9965,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-358",
@@ -9973,23 +9973,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_60 | Q.34",
-    "questionText": "Match List I with List II\nList I \tList II",
+    "questionText": "Match List I with List II\nList I \tList II\n(A) Kyoto Protocol \t(I) Clean and Affordable Energy\n(B) Montreal Protocol \t(II) Clean Development Mechanism\n(C) Paris Agreement \t(III) Nationally Determined\nContribution\n(D) International Solar Alliance \t(IV) Phase out of chlorinated\ncompounds\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Kyoto Protocol \t(I) Clean and Affordable Energy"
+        "text": "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)"
       },
       {
         "key": "B",
-        "text": "Montreal Protocol \t(II) Clean Development Mechanism"
+        "text": "(A)-(I), (B)- (III), (C)-(IV), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Paris Agreement \t(III) Nationally Determined Contribution"
+        "text": "(A)-(II). (B)-(IV), (C)-(I), (D)-(III)"
       },
       {
         "key": "D",
-        "text": "International Solar Alliance \t(IV) Phase out of chlorinated compounds Choose the correct answer from the options given below:"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       }
     ],
     "correctOption": "A",
@@ -10085,23 +10085,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_61 | Q.33",
-    "questionText": "Match List I with List II :\nList I \tList II\n(Days Celebrated) \t(When)",
+    "questionText": "Match List I with List II :\nList I \tList II\n(Days Celebrated) \t(When)\n(A) \tEarth Day \t(I) 24 January\n(B) \tUNO Day \t(II) 5th June\n(C) \tEnvironment Day \t(III) 24th October\n(D) \tInternational Day of Education \t(IV) 22nd April\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Earth Day \t(I) 24 January"
+        "text": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "UNO Day \t(II) 5th June"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Environment Day \t(III) 24th October"
+        "text": "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
       },
       {
         "key": "D",
-        "text": "International Day of Education \t(IV) 22nd April Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       }
     ],
     "correctOption": "D",
@@ -10189,7 +10189,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-366",
@@ -10217,7 +10217,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-367",
@@ -10357,7 +10357,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-372",
@@ -10365,23 +10365,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_65 | Q.7",
-    "questionText": "The global environmental issue of Ozone depletion is due to emission of :",
+    "questionText": "The global environmental issue of Ozone depletion is due to emission of :\n(A) Sulphur dioxide\n(B) Chlorinated hydrocarbons\n(C) Methane\n(D) Carbone dixoide\nChoose the most appropriate answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Sulphur dioxide"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Chlorinated hydrocarbons"
+        "text": "(B) only"
       },
       {
         "key": "C",
-        "text": "Methane"
+        "text": "(B) and (D) only"
       },
       {
         "key": "D",
-        "text": "Carbone dixoide Choose the most appropriate answer from the options given below :"
+        "text": "(A), (B) and (C) only"
       }
     ],
     "correctOption": "B",
@@ -10449,23 +10449,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_65 | Q.43",
-    "questionText": "The waste component of waste categorized as 'Trash' consists of",
+    "questionText": "The waste component of waste categorized as 'Trash' consists of\n(A) Paper, Cardboard cartons\n(B) Animal wastes\n(C) Industrial process wastes\n(D) Vegetable wastes\n(E) Wood\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Paper, Cardboard cartons"
+        "text": "(A) and (E) only"
       },
       {
         "key": "B",
-        "text": "Animal wastes"
+        "text": "(A), (C) and (E) only"
       },
       {
         "key": "C",
-        "text": "Industrial process wastes"
+        "text": "(A), (C), (D) and (E) only"
       },
       {
         "key": "D",
-        "text": "Vegetable wastes (E) Wood Choose the correct answer from the options given below :"
+        "text": "(A), (B), (D) and (E) only"
       }
     ],
     "correctOption": "A",
@@ -10617,23 +10617,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_68 | Q.7",
-    "questionText": "Ozone layer depletion is on account of:",
+    "questionText": "Ozone layer depletion is on account of:\n(A) Chlorinated hydrocarbons\n(B) Sulphur containing compounds\n(C) Carbon monoxide\n(D)Nitrogen containing fertilizers\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Chlorinated hydrocarbons"
+        "text": "(A), (C), (D) only"
       },
       {
         "key": "B",
-        "text": "Sulphur containing compounds"
+        "text": "(A), (B), (C) only"
       },
       {
         "key": "C",
-        "text": "Carbon monoxide"
+        "text": "(A),(D) only"
       },
       {
         "key": "D",
-        "text": "Nitrogen containing fertilizers Choose the correct answer from the options given below:"
+        "text": "(A), (B), (C), (D)"
       }
     ],
     "correctOption": "C",
@@ -10701,23 +10701,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_69 | Q.32",
-    "questionText": "Match List I with List II :\nList I \tList II\n(Days Celebrated) \t(When)",
+    "questionText": "Match List I with List II :\nList I \tList II\n(Days Celebrated) \t(When)\n(A) Earth Day \t(I) 24 January\n(B) UNO Day \t(II) 5th June\n(C) Environment Day \t(III) 24th October\n(D) International Day of Education \t(IV) 22nd April\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Earth Day \t(I) 24 January"
+        "text": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "UNO Day \t(II) 5th June"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Environment Day \t(III) 24th October"
+        "text": "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
       },
       {
         "key": "D",
-        "text": "International Day of Education \t(IV) 22nd April Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)- (II), (D)-(I)"
       }
     ],
     "correctOption": "D",
@@ -10973,7 +10973,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-394",
@@ -10981,27 +10981,27 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_2 | Q.31",
-    "questionText": "Which country registered maximum growth(%) by 2019 with reference to year 2015?",
+    "questionText": "Which country registered maximum growth(%) by 2019 with reference to year 2015?\n(A) z\n(B) t\n(C) x\n(D) y\n32 For the country 'Y', what is the average annual growth (%) of Renewable Energy capacity?\n(A) - 10.85 %\n(B) - 12.77 %\n(C) - 13.25 %\n(D) ~11.65 %\n33 Taking all four countries together, what is the over-all increase (%) in installed capacity of\nReliable Energy in the year 2019, with reference to 2015?\n(A) 52.32 %\n(B) 91.11 %\n(C) 117.32 %\n(D) 121.81 %\n34. Between 2016 to 2017, which country registered maximum growth(%) in installed capacity of\nRenewable Energy?\n(A) x\n(B) z\n(C) y\n(D) t\n35. In any given year, compared to the previous year which country(s) registered maximum growth\n(%)?\n(A) T\n(B) Z and Y\n(C) y\n(D) X and Z\n36. What is the full form of the abbreviation BIOS?\n(A) Big Information Online System\n(B) Binary Input Output Software\n(C) Basic Input Output System\n(D) Binary Inner Open Software\n37. Given below are two statements, one is labelled as Assertion A and the other is labelled as\nReason R\nAssertion A: Nowadays many online courses are available and their popularity is increasing\nReason R: Selecting the right course from many such, is a big challenge\nIn light of the above statements, choose the most appropriate answer from the options\ngiven below\n(A) Both A and R are correct and R is the correct explanation of A\n(B) Both A and R are correct but R is NOT the correct explanation of A\n(C) A is correct but R is not correct\n(D) A is not correct but R is correct\n38. Match List I with List II\nList I List II\nEmitted Pollutants Environmental Impact\na. Carbon dioxide i. Formation of acid rain\nb. Carbon monoxide ii. Toxic and are carcinogenic\nc. Nitrogen oxides iii. Toxic and can cause respiratory diseases\nd. Benzene and hydrocarbons iv. Contribution to global warming as a\ngreenhouse gas\nChoose the correct answer from the options given below:\n(A) a - iv, b - iii, c - i, d - ii\n(B) a - iv, b - ii, c - i, d - iii\n(C) a - iv, b - ii, c - iii, d - i\n(D) a - i, b - iii, c - ii, d – iv\n39. From disaster mitigation measures given below, identify the measures which can be\ncharacterized as non-structural\na. Flood dykes\nb. Land-use zoning\nc. Raising of homes in flood -prone areas\nd. Insurance programs\ne. Reinforce tornado safe rooms\nChoose the correct answer from the options given below:\n(A) b and d only\n(B) a, b and d only\n(C) b, d and e only\n(D) a, b, d and e only\n40 Under Goal 4 of Millenium Development Goals, the reduction sought to be achieved in under-five\nchild mortality rate between 1990-2015 was to the extent of\n(A) Half\n(B) Two-third\n(C) Three-fourth\n(D) One-third\n41. A-F system is used in which of the following number systems?\n(A) Binary\n(B) Octal\n(C) Hexa - Decimal\n(D) Decimal\n42. Match List I with List II\nList I List II\nModes of supply of education services Exampes o t ese services in eucat1on\nA. Mode 1 · Cross border supply I. Professors, teachers and researchers\nworking\nabroad on a temporary basis\nB. Mode 2 · Consumption abroad II. Language training companies, Local\nuniversity and Satellite campuses\nC. Mode 3 · Commercial presence Ill. Distance education, Virtual education,\nCorporate training thro ugh ICT\nD. Mode 4 · Movement of natural persons IV. A student travels to another country to\nenroll in a course of study/degree program\nChoose the correct answer from the options given below:\n(A) A · IV, B · I, C · 111, D · 11\n(B) A · Ill, B · IV, C · II, D · I\n(C) A · 11, B · 111, C · I, D · IV\n(D) A · I, B · II, C · IV, D · Ill\n43 Computer hardware consists of\n(A) Computer table\n(B) Monitor and CPU\n(C)Software\n(D) Google\n44. Identify the correct sequence of countries in decreasing order of their contribution to global\ncarbon dioxide emissions\na. USA\nb. China\nc. Russia\nd. India\ne. Japan\nChoose the correct answer from the options given below\n(A) a, b, d, c, e\n(B) b, a, d, c, e\n(C) b, a, d, e, c\n(D) a, b, d, e, c\n45. Ashtadhyayi was written by\n(A) Chanakya\n(B) Jivaka\n(C) Katyayana\n(D) Panini\n46. Which of the following is a data visualization method?\n(A) Line\n(B) Circle and Triangle\n(C) Pie chart and Bar chart\n(D) Pentagon\n47. Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason\nR\nAssertion A: A windmill with proper design considerations can be made to operate at\nefficiencies in the range 60% to 65%\nReason R: The efficiency of the windmill depends on its design parameters\nIn light of the above statements, choose the most appropriate answer from the options\ngiven below\n(A) Both A and R are correct and R is the correct explanation of A\n(B) Both A and R are correct but R is NOT the correct explanation of A\n(C) A is correct but R is not correct\n(D) A is not correct but R is correct\n48. National Program for Technology Enhanced l earning (NPTEL) was initiated by the MHRD in 2003\nto enhance the quality in\n(A) Medical education\n(B) Agriculture education\n(C)Engineering education\n(D) legal education\n49. Which of the following areas of liberal education at the higher level in the feudal society of\nEu rope were classified under quadrivium?\na. Grammar\nb. Logic\nc. Arithmetic\nd. Astronomy\ne. Music\nChoose the correct answer from the options given below:\n(A) a, b and c only\n(B) b, c and d only\n(C) c, d and e only\n(D) a, d and e only\n50. The Sustainable Development Goals (SDGs) set in 201 5 by the United Nations a re intended to be\nachieved by",
     "options": [
       {
         "key": "A",
-        "text": "z"
+        "text": "2025"
       },
       {
         "key": "B",
-        "text": "t"
+        "text": "2030"
       },
       {
         "key": "C",
-        "text": "x"
+        "text": "2035"
       },
       {
         "key": "D",
-        "text": "y 32 For the country 'Y', what is the average annual growth (%) of Renewable Energy capacity?"
+        "text": "2040"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Acid Rain: $< 5.6$ | Acidic"
   },
   {
     "id": "P1-U09-395",
@@ -11169,7 +11169,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-402",
@@ -11289,27 +11289,27 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "Shift_11 | Q.38",
-    "questionText": "Which of the following systems of Indian Philosophy are antithetical to the Vedas?\n(i) Purva Mirafisa\n(ii) Uttar Miraiksa\n(iii)Buddhism\n(iv) Jainism\n(v) Charvaks\nChoose the correct answer from the options given below :",
+    "questionText": "Which of the following systems of Indian Philosophy are antithetical to the Vedas?\n(i) Purva Mirafisa\n(ii) Uttar Miraiksa\n(iii)Buddhism\n(iv) Jainism\n(v) Charvaks\nChoose the correct answer from the options given below :\n(A) (i), (ii), (iii) only\n(B) (ii), (iii), (iv) only\n(C) (iii), (iv), (v) only\n(D) (iv), (v), (i) only\n39) A teacher intends to use transformational approach in teaching in order to ensure effective\nway of influencing student's learning. Which of the following activities will be deemed\nappropriate in this context?\n(i) Providing a sense of respect and trust for students.\n(ii) Promoting contingent rewards for efforts of students.\n(iii)Intervening in student's task only if standards are not met.\n(iv) Communicating high level expectation.\n(v) Promoting careful problem solving and individual consideration.\nChoose the most appropriate answer from the options given below\n(A) (i), (ii), (iii)\n(B) (ii), (iii), (iv)\n(C) (iii), (iv), (v)\n(D) (i), (iv), (v)\n40. Given below are two statements: One is labelled as Assertion (A) and the other is labelled as\nReason (R):\nAssertion (A): A society garners commonality through its language, customs, history and\ngeography.\nReasons (R): A society's unity through commonality is facilitated by its communication system\nand culture.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)\n(C) (A) is true but (R) is false\n(D) (A) is false but (R) is true\n41. The inherent cause (Samavayi) of Indian Philosophy corresponds to which of the causes\ngiven by Aristotle?\n(A) Material Cause\n(B) Formal Cause\n(C) Efficient Cause\n(D) Final Cause\n42. The aims and objectives of which of the following have co-benefits with Sustainable\nDevelopment Goals?\n(i) International Solar Alliance\n(ii) Montreal Protocol\n(iii)Paris Agreement\n(iv) Convention on Biodiversity\n(v) National Action Plan on Climate Change\nChoose the most appropriate answer from the options given below :\n(A) (i), (ii), (iii), (v) only\n(B) (i), (iii), (iv), (v) only\n(C) (i), (iii), (v) only\n(D) (ii), (iii), (iv), (v) only\n43. In a city the noise levels represented by equivalent sound pressure level over 8 hours period\nwere reported as 80 dB (A). What does 'A refer to\n(A) a type of amplifier used in the measurement\n(B) a type of microphone used in the measurement\n(C) the measurements of day time\n(D) a type of weighting used in the measurement\n44. Given below are two statements:\nStatement I: Search engines are also known as web browsers.\nStatement II: 189.365.250.2 is an example of a valid IP address.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both Statement I and Statement II are true\n(B) Both Statement I and Statement II are false\n(C) Statement I is correct but Statement II is false\n(D) Statement I is incorrect but Statement II is true\n45. Given below are two statements: One is labelled as Assertion (A) and the other is labelled as\nReason (It) :\nAssertion (A): The problem of organic pollution in rivers is usually worse in hot summer\nmonths.\nReason (R): Higher water temperatures exacerbate oxygen depletion\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:\n(A) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n(B) Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)\n(C) (A) is correct but (R) is not correct\n(D) (A) is not correct but (R) is correct\nS=46-50);\nComprehension:\nRead the passage and answer questions from 46 to 50.\nOnce the decision has been made to enter an overseas market, a business must consider the\nextent to which it will adapt its offerings to local conditions. Is it possible to market the product\nin almost the same way in every country which is known as a global strategy, or will the\nmarketing have to be adjusted for each market? If a business pursues a global strategy this means\nit is adopting essentially the same marketing mix wherever it competes. A Pan-global marketing\nstrategy has been adopted by business in several markets, such as jeans soft drinks and luxury\ngoods. One advantage of a global approach is that it offers marketing economies of scale. For\nexample, the business can develop one advertising campaign and one approach to packaging\nworldwide. However, this type of strategy does not respond to the requirements of different\nnational markets and so the business may lose sales to competitors who focus more on local\nneeds. In markets such as food and drinks and the media, a business may need to adapt\nsignificantly to local requirements. On the other hand, a more local approach may meet customer\nneeds more precisely, but may be more expensive and more complex to manage. In reality, most\ncompanies will choose a balance between the global and local approach. There are global brands\nthat sell in many different markets. They have the same name and logo everywhere. However,\nsome advertisements are made in the way the product is promotional to reflect local conditions.\n46. If the global strategy is benefit of local conditions, the business consequence is\n(A) more investment in media advertising campaigns\n(B) emergence of different national markets\n(C) change in the customer needs\n(D) the dominance of competitors who focus on local conditions.\n47. What does global strategy mean?\n(A) Opting for the same marketing mix in every competitive market\n(B) Globalise the local conditions of marketing\n(C) Creating product differentiation to suit different markets\n(D) Making overseas marketing non-competitive\n48. What should be the global strategy in business?\n(A) Sell different brands in different overseas markets\n(B) Market the same product in every country the same way\n(C) Decide to enter the overseas market\n(D) Know the local conditions of the local market\n49. The assessment of global brands in the passage is that\n(A) they should have a single packaging approach\n(B) they should advertise the product reflecting global conditions\n(C) the global products should have different names and logo\n(D) the glocalization of business marketing is a reality\n50. The benefits from a nonglobal approach is to opt for:",
     "options": [
       {
         "key": "A",
-        "text": "(i), (ii), (iii) only"
+        "text": "grand sale of non-luxury goods"
       },
       {
         "key": "B",
-        "text": "(ii), (iii), (iv) only"
+        "text": "make expansion of costly products"
       },
       {
         "key": "C",
-        "text": "(iii), (iv), (v) only"
+        "text": "single advertising campaign worldwide"
       },
       {
         "key": "D",
-        "text": "(iv), (v), (i) only 39) A teacher intends to use transformational approach in teaching in order to ensure effective way of influencing student's learning. Which of the following activities will be deemed appropriate in this context? (i) Providing a sense of respect and trust for students. (ii) Promoting contingent rewards for efforts of students. (iii)Intervening in student's task only if standards are not met. (iv) Communicating high level expectation. (v) Promoting careful problem solving and individual consideration. Choose the most appropriate answer from the options given below"
+        "text": "refreshing marketing economies of scale"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-409",
@@ -11449,7 +11449,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-415",
@@ -11533,7 +11533,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-418",
@@ -11709,23 +11709,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "3rd December 2019 Morning Shift | Q.44",
-    "questionText": "National Disaster Management Authority is an agency of the Ministry of",
+    "questionText": "National Disaster Management Authority is an agency of the Ministry of\n(A) Jal Shakti (B) Home Affairs\n(C) Earth Science (D) Housing and Urban Affairs\n45) Methane, a greenhouse gas, is emitted from\n(i) Landfills\n(ii) Construction debris\n(iii) Wet lands\n(iv) e-waste\nChoose the correct statements from the options given below:\n(A) (i), (ii) and (iv)\n(B) (i), (iii) and (iv)\n(C) (i) and (iii) only\n(D) (i) and (iv) only\n46.In which of the following, 'One Nation, One Standard' is mentioned as the 'mantra' to\nensure national standards and quality.\n(A) National Policy on Education - 1968\n(B) National Policy on Education - 1986\n(C) National Policy for Skill Development and Entrepreneurship - 2015\n(D) NITI Aayog - Three Year Action Agenda - 2017-18 to 2019-2020\n47. Identify the distinctive feature of traditional method of Indian education from the\nfollowing list:\n(A) 'Direct perception of truth' - both as means and end\n(B) Making everything on 'Trust'\n(C) Evolving own way of learning\n(D) Following Nyaya Philosophy with Deductive - Inductive Process\n48. Identify values specially related to organizational ethos from the list given below:\n(i) Team work in the approach\n(ii) Productivity of the tasks\n(iii) Changes in the global contents\n(iv) Financial security\n(v) Humility in dealing with others' concerns\n(vi) Technological resources\nChoose your answer from the following options:\n(A) (i), (iii) and (vi)\n(B) (iii), (iv) and (v)\n(C) (ii), (iii) and (iv)\n(D) (i), (ii) and (v)\n49. Non-traditional teaching and learning strategies lay emphasis on\n(i) Students' need based resource materials and learning standards\n(ii) Developing skills, attitude and values\n(iii) Promoting In-Box thinking process\n(iv) Lecture based model\n(v) Acquiring knowledge necessary to respond creatively\nSelect your answer from the following options:\n(A) (i), (ii) and (v)\n(B) (ii), (iii) and (iv)\n(C) (iii), (iv) and (v)\n(D) (i), (iv) and (v)\n50. Which of the following terms is related to the digital learning environment for\ndesign?",
     "options": [
       {
         "key": "A",
-        "text": "(i), (ii) and (iv)"
+        "text": "e-Vidwan"
       },
       {
         "key": "B",
-        "text": "(i), (iii) and (iv)"
+        "text": "e-Acharya"
       },
       {
         "key": "C",
-        "text": "Earth Science (D) Housing and Urban Affairs 45) Methane, a greenhouse gas, is emitted from (i) Landfills (ii) Construction debris (iii) Wet lands (iv) e-waste Choose the correct statements from the options given below:"
+        "text": "e-Kalpa"
       },
       {
         "key": "D",
-        "text": "(i), (iii) and (iv)"
+        "text": "e-Yantra"
       }
     ],
     "correctOption": "B",
@@ -12009,7 +12009,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-440",
@@ -12037,7 +12037,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-445",
@@ -12261,7 +12261,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-466",
@@ -12353,23 +12353,23 @@
     "unitId": 9,
     "unitTitle": "People, Development & Environment",
     "shift": "DECEMBER 2015 | Q.12",
-    "questionText": "Ethical norms in research do not involve guidelines for:",
+    "questionText": "Ethical norms in research do not involve guidelines for:\n(A) Thesis format\n(B) Copyright\n(C) Patenting policy\n(D) Data sharing policies\n46. Which of the following is not an input device?\n(A) Microphone\n(B) Keyboard\n(C) Joystick\n(D) Monitor\n47. Which of the following is an open source software?\n(A) MS Word\n(B) Windows\n(C) Mozilla Firefox\n(D) Acrobat Reader\n48. Which of the following enables us to send the same letter to different persons in MS\nWord?\n(A) Mail join\n(B) Mail copy\n(C) Mail insert\n(D) Mail merge\n49. Inside rural homes, the source/sources of Nitrogen Oxide Pollution may be:\n(a) Unvented gas stoves\n(b) Wood stoves\n(c) Kerosene heaters\nChoose the correct code:\n(A) (a) and (b) only\n(B) (b) and (c) only\n(C) (b) only\n(D) (a), (b) and (c)\n50. Which of the following pollutants can cause cancer in humans?\n(A) Pesticides\n(B) Mercury\n(C) Lead\n(D) Ozone\n51. Assertion (A): People population control measures do not necessarily help in checking\nenvironmental degradation.\nReason (R): The relationship between population growth and environmental degradation is\nrather complex.\nChoose the correct answer from the following\n(A) Both (A) and (R) are true and (R) is the correct explanation of (A).\n(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).\n(C) (A) is true but (R) is false.\n(D) (A) is false but (R) is true.\n52. Which of the following phenomena is not a natural hazard?\n(A) Wildfire\n(B) Lightning\n(C) Landslide\n(D) Chemical contamination\n53. As part of National Climate Change Policy, Indian government is planning to raise the\ninstalled capacity of renewable energy by the year 2030 to\n(A) 175 GW\n(B) 200 GW\n(C) 250 GW\n(D) 350 GW\n54. At present, in terms of per capita energy consumption (kWh/year), identify the correct\nsequence.\n(A) Brazil > Russia > China > India\n(B) Russia > China > India > Brazil\n(C) Russia > China > Brazil > India\n(D) China > Russia > Brazil > India\n55. Which of the following are the objectives of Rashtriya Uchchatar Shiksha Abhiyan (RUSA)?\n(a) To improve the overall quality of state institutions.\n(b) To ensure adequate availability of quality faculty.\n(c) To create new institutions through upgradation of existing autonomous colleges.\n(d) To downgrade universities with poor infrastructure into autonomous colleges.\nSelect the correct answer from the codes given below:\n(A) (a), (b), (c) and (d)\n(B) (a), (b) and (c)\n(C) (a), (c) and (d)\n(D) (a), (b) and (d)\n56. The grounds on which discrimination in admission to educational institutions is\nconstitutionally prohibited are\n(a) Religion\n(b) Sex\n(c) Place of birth\n(d) Nationality\nSelect the correct answer from the codes given below:\n(A) (b), (c) and (d)\n(B) (a), (b) and (c)\n(C) (a), (b) and (d)\n(D) (a), (b), (c) and (d)\n57. Which of the following statements are correct about Lok Sabha?\n(a) The Constitution puts a limit on the size of the Lok Sabha.\n(b) The size and shape of the Parliamentary Constituencies is determined by the Election\nCommission.\n(c) First - past - the Post electoral system is followed.\n(d) The Speaker of Lok Sabha does not have a casting vote in case of an equality of votes.\nSelect the correct answer from the codes given below:\n(A) (a) and (c)\n(B) (a), b) and (c)\n(C) (a), (c) and (d)\n(D) (a), (b), (c) and (d)\n58. Public Order as an item in the Constitution figures in\n(A) The Union List\n(B) The State List\n(C) The Concurrent List\n(D) The Residuary Powers\n59. The term of office of the Advocate General of a State is:\n(A) 4 years\n(B) 5 years\n(C) 6 years or 65 years of age whichever is earlier\n(D) not fixed\n60. Which among the following States has the highest number of seats in the Lok Sabha?",
     "options": [
       {
         "key": "A",
-        "text": "Thesis format"
+        "text": "Maharashtra"
       },
       {
         "key": "B",
-        "text": "Copyright"
+        "text": "Rajasthan"
       },
       {
         "key": "C",
-        "text": "Patenting policy"
+        "text": "Tamil Nadu"
       },
       {
         "key": "D",
-        "text": "Data sharing policies"
+        "text": "West Bengal"
       }
     ],
     "correctOption": "A",
@@ -12877,7 +12877,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-489",
@@ -13017,7 +13017,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-494",
@@ -13101,7 +13101,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-497",
@@ -13129,7 +13129,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U09-498",

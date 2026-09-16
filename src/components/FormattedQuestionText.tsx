@@ -27,81 +27,127 @@ interface ParsedDITable {
   notes: string[];
 }
 
-// Regex to detect individual match rows e.g. (a) Kyoto protocol \t(I) Global warming
-const MATCH_ROW_REGEX = /^\s*(?:\(([a-eA-E0-9])\)|([a-eA-E0-9])\.)\s+(.+?)\s*(?:\t|\s{2,}|\s+)(?:\(([IVXivx1-9]+)\)|([IVXivx1-9]+)\.?)\s+(.+)$/;
-
+// Intelligent Match Question Parser that extracts clean 2-column comparison tables
 function parseMatchQuestion(rawText: string): ParsedMatchQuestion | null {
-  if (!/match\s+(?:the\s+)?list/i.test(rawText)) return null;
+  if (!/(?:match\s+.*list|list\s*[-–—]?\s*(?:I|1)\b[\s\S]*list\s*[-–—]?\s*(?:II|2)\b)/i.test(rawText)) {
+    return null;
+  }
 
-  const lines = rawText.split('\n');
+  // Strip trailing paper remnants e.g. "Codes : (i) (ii) (iii) (iv)"
+  let text = rawText.replace(/\n\s*Codes\s*:[\s\S]*$/i, '').trim();
+
+  // Split off outro e.g. "Choose the correct answer from the options given below:"
+  let intro = text;
+  let outro = '';
+  const outroMatch = text.match(/\n\s*(Choose\s+the\s+(?:most\s+appropriate|correct)\s+answer[\s\S]*)$/i);
+  if (outroMatch) {
+    outro = outroMatch[1].trim();
+    intro = text.substring(0, outroMatch.index).trim();
+  }
+
+  // Detect candidate key patterns for left items:
+  // Can be (A), (B), (C), (D) or (a), (b), (c), (d) or (i), (ii), (iii), (iv) or (1), (2), (3), (4)
+  const patterns = [
+    { type: 'A-D', regex: /(?:^|\n)\s*\(([A-D])\)\.?\s*/g },
+    { type: 'a-d', regex: /(?:^|\n)\s*\(([a-d])\)\.?\s*/g },
+    { type: 'i-iv', regex: /(?:^|\n)\s*\(((?:i|ii|iii|iv|v))\)\.?\s*/gi },
+    { type: '1-4', regex: /(?:^|\n)\s*\(([1-4])\)\.?\s*/g }
+  ];
+
+  let bestMatches: { key: string; index: number; matchLen: number }[] = [];
+
+  for (const p of patterns) {
+    const matches: { key: string; index: number; matchLen: number }[] = [];
+    let m: RegExpExecArray | null;
+    p.regex.lastIndex = 0;
+    while ((m = p.regex.exec(intro)) !== null) {
+      matches.push({ key: m[1], index: m.index, matchLen: m[0].length });
+    }
+    if (matches.length >= 3 && matches.length <= 6) {
+      bestMatches = matches;
+      break;
+    }
+  }
+
+  if (bestMatches.length < 3) {
+    return null;
+  }
+
+  const headerBlock = intro.substring(0, bestMatches[0].index).trim();
+
   const items: MatchItem[] = [];
-  const introLines: string[] = [];
-  const outroLines: string[] = [];
+  for (let i = 0; i < bestMatches.length; i++) {
+    const curr = bestMatches[i];
+    const nextIndex = i + 1 < bestMatches.length ? bestMatches[i + 1].index : intro.length;
+    const rawItem = intro.substring(curr.index + curr.matchLen, nextIndex).trim().replace(/\s*\n\s*/g, ' ');
+
+    let rightMatch = rawItem.match(/(?:^|\s+)(?:\(([IVXivx]+)\)\.?|([IVXivx]+)\.)\s*(.+)$/);
+    if (!rightMatch) {
+      rightMatch = rawItem.match(/(?:^|\s+)(?:\(([a-eA-E])\)\.?|([a-eA-E])\.)\s*(.+)$/);
+    }
+    if (!rightMatch) {
+      rightMatch = rawItem.match(/(?:^|\s+)(?:\(([1-5])\)\.?|([1-5])\.)\s*(.+)$/);
+    }
+
+    if (rightMatch) {
+      const rightKey = rightMatch[1] || rightMatch[2];
+      const rightText = rightMatch[3].trim().replace(/^[.\s\-–—:]+/, '');
+      const leftText = rawItem.substring(0, rightMatch.index).trim().replace(/^[.\s\-–—:]+/, '');
+      items.push({
+        leftKey: curr.key,
+        leftText,
+        rightKey,
+        rightText
+      });
+    } else {
+      items.push({
+        leftKey: curr.key,
+        leftText: rawItem.replace(/^[.\s\-–—:]+/, ''),
+        rightKey: '',
+        rightText: ''
+      });
+    }
+  }
+
   let headerList1 = 'List I';
   let headerList2 = 'List II';
 
-  let parsingItems = false;
-  let finishedItems = false;
+  const h1Match = headerBlock.match(/List\s*[-–—]?\s*(?:I|1)\b(?:\s*\(([^)]+)\)|\n\s*\(([^)]+)\))?/i);
+  const h2Match = headerBlock.match(/List\s*[-–—]?\s*(?:II|2)\b(?:\s*\(([^)]+)\)|\n\s*\(([^)]+)\))?/i);
+  let sub1 = h1Match ? (h1Match[1] || h1Match[2]) : null;
+  let sub2 = h2Match ? (h2Match[1] || h2Match[2]) : null;
 
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i].trim();
-    if (!line) continue;
-
-    const m = line.match(MATCH_ROW_REGEX);
-    if (m) {
-      parsingItems = true;
-      const leftKey = m[1] || m[2];
-      const leftText = m[3].trim();
-      const rightKey = m[4] || m[5];
-      const rightText = m[6].trim();
-      items.push({ leftKey, leftText, rightKey, rightText });
-      continue;
-    }
-
-    if (!parsingItems) {
-      introLines.push(line);
-    } else {
-      if (
-        /choose\s+the\s+(?:most\s+appropriate|correct)\s+answer/i.test(line) ||
-        /options\s+given/i.test(line) ||
-        finishedItems
-      ) {
-        finishedItems = true;
-        outroLines.push(line);
-      } else {
-        if (items.length > 0 && !finishedItems) {
-          items[items.length - 1].rightText += ' ' + line;
-        } else {
-          outroLines.push(line);
-        }
+  if (!sub1 && !sub2) {
+    const lines = headerBlock.split('\n').map(l => l.trim()).filter(Boolean);
+    const listIndex = lines.findIndex(l => /List\s*[-–—]?\s*(?:I|1)\b/i.test(l));
+    if (listIndex !== -1 && listIndex + 1 < lines.length) {
+      const rest = lines.slice(listIndex + 1).join(' ').trim();
+      if (/Description/i.test(rest)) {
+        const parts = rest.split(/Description/i);
+        sub1 = parts[0].trim();
+        sub2 = 'Description';
       }
     }
   }
 
-  if (items.length < 3) return null;
+  if (sub1) headerList1 = `List I: ${sub1.trim().replace(/^[:\s-]+|[:\s-]+$/g, '')}`;
+  if (sub2) headerList2 = `List II: ${sub2.trim().replace(/^[:\s-]+|[:\s-]+$/g, '')}`;
 
-  const fullIntro = introLines.join('\n');
-  const h1Match = fullIntro.match(/List\s*[-–—]?\s*I\b(?:\s*\(([^)]+)\)|\n\s*\(([^)]+)\))?/i);
-  const h2Match = fullIntro.match(/List\s*[-–—]?\s*II\b(?:\s*\(([^)]+)\)|\n\s*\(([^)]+)\))?/i);
+  let cleanIntro = headerBlock
+    .split('\n')
+    .map(l => l.trim())
+    .filter(l => !/List\s*[-–—]?\s*(?:I|II|1|2)\b/i.test(l) && !l.includes('Description') && !/^\([^)]+\)$/.test(l))
+    .join(' ')
+    .trim();
 
-  const sub1 = h1Match ? (h1Match[1] || h1Match[2]) : null;
-  const sub2 = h2Match ? (h2Match[1] || h2Match[2]) : null;
-
-  if (sub1) headerList1 = `List I (${sub1.trim()})`;
-  else headerList1 = 'List I';
-
-  if (sub2) headerList2 = `List II (${sub2.trim()})`;
-  else headerList2 = 'List II';
-
-  let cleanIntro = introLines[0] || 'Match List I with List II';
-  cleanIntro = cleanIntro.replace(/\s*:\s*$/, '.');
+  if (!cleanIntro) cleanIntro = 'Match List I with List II:';
 
   return {
     intro: cleanIntro,
     headerList1,
     headerList2,
     items,
-    outro: outroLines.join(' ') || 'Choose the correct answer from the options given below:'
+    outro: outro || 'Choose the correct answer from the options given below:'
   };
 }
 

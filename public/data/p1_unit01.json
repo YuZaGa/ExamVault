@@ -305,7 +305,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-13",
@@ -389,7 +389,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-16",
@@ -417,7 +417,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-17",
@@ -473,7 +473,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-19",
@@ -725,7 +725,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-28",
@@ -753,7 +753,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-29",
@@ -977,7 +977,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-37",
@@ -1621,7 +1621,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-60",
@@ -1705,7 +1705,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-63",
@@ -1845,7 +1845,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-68",
@@ -2237,7 +2237,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-82",
@@ -2293,7 +2293,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-84",
@@ -2433,7 +2433,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-89",
@@ -2713,7 +2713,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-99",
@@ -2965,7 +2965,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U01-108",
@@ -3161,7 +3161,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-115",
@@ -3301,7 +3301,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-120",
@@ -3385,7 +3385,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-123",
@@ -3497,7 +3497,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-127",
@@ -3861,7 +3861,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-140",
@@ -3973,7 +3973,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-144",
@@ -4281,7 +4281,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-155",
@@ -4309,7 +4309,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-156",
@@ -4505,7 +4505,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U01-163",
@@ -4645,7 +4645,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-168",
@@ -4841,7 +4841,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-175",
@@ -4869,7 +4869,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-176",
@@ -5513,7 +5513,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-199",
@@ -5597,7 +5597,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-202",
@@ -5877,7 +5877,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-212",
@@ -5961,7 +5961,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-215",
@@ -6017,7 +6017,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-217",
@@ -6213,7 +6213,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-224",
@@ -6325,7 +6325,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-228",
@@ -6521,7 +6521,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-235",
@@ -6941,7 +6941,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-250",
@@ -7109,7 +7109,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-256",
@@ -7249,7 +7249,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-261",
@@ -7305,7 +7305,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-263",
@@ -7445,7 +7445,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-268",
@@ -7473,7 +7473,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-269",
@@ -7529,7 +7529,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-271",
@@ -7613,7 +7613,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-274",
@@ -8173,7 +8173,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
   },
   {
     "id": "P1-U01-294",
@@ -8369,7 +8369,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-301",
@@ -8425,7 +8425,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-303",
@@ -8453,7 +8453,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-304",
@@ -8985,7 +8985,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-323",
@@ -9489,7 +9489,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-341",
@@ -9741,7 +9741,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-350",
@@ -10049,7 +10049,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-361",
@@ -10833,7 +10833,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-389",
@@ -11197,7 +11197,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-402",
@@ -11813,7 +11813,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-424",
@@ -11981,7 +11981,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-430",
@@ -12121,7 +12121,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "1960: Berlo's SMCR Model | David K. Berlo"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-435",
@@ -12345,7 +12345,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-443",
@@ -12513,7 +12513,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-449",
@@ -12681,7 +12681,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-455",
@@ -12737,7 +12737,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-457",
@@ -13745,7 +13745,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "1956: Gerbner's General Model | George Gerbner"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-493",
@@ -13829,7 +13829,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-496",
@@ -13913,7 +13913,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-499",
@@ -13941,7 +13941,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-500",
@@ -14193,7 +14193,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-509",
@@ -14249,7 +14249,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-511",
@@ -14473,7 +14473,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-519",
@@ -14557,7 +14557,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-522",
@@ -14669,7 +14669,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-526",
@@ -14753,7 +14753,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-529",
@@ -15313,7 +15313,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-549",
@@ -15425,7 +15425,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-553",
@@ -15593,7 +15593,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-559",
@@ -15649,7 +15649,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-561",
@@ -15873,7 +15873,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-569",
@@ -15929,7 +15929,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-571",
@@ -16349,7 +16349,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-586",
@@ -16405,7 +16405,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-588",
@@ -16433,7 +16433,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-589",
@@ -16461,7 +16461,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-590",
@@ -16601,7 +16601,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-595",
@@ -16685,7 +16685,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-598",
@@ -16937,7 +16937,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-607",
@@ -16965,7 +16965,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-608",
@@ -17049,7 +17049,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-611",
@@ -17077,7 +17077,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-612",
@@ -17161,7 +17161,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-615",
@@ -17217,7 +17217,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-617",
@@ -17329,7 +17329,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-621",
@@ -17581,7 +17581,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-630",
@@ -17665,7 +17665,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-633",
@@ -18085,7 +18085,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-648",
@@ -18253,7 +18253,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "1960: Berlo's SMCR Model | David K. Berlo"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-654",
@@ -18309,7 +18309,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-656",
@@ -18337,7 +18337,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-657",
@@ -18393,7 +18393,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-659",
@@ -18729,7 +18729,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-671",
@@ -18757,7 +18757,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-672",
@@ -18785,7 +18785,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-673",
@@ -18897,7 +18897,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-677",
@@ -18953,7 +18953,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-679",
@@ -18981,7 +18981,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-680",
@@ -19569,7 +19569,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-701",
@@ -19597,7 +19597,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-702",
@@ -20045,7 +20045,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-718",
@@ -20101,7 +20101,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-720",
@@ -20129,7 +20129,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-721",
@@ -20409,7 +20409,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-731",
@@ -20465,7 +20465,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-733",
@@ -20549,7 +20549,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-736",
@@ -20661,7 +20661,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-740",
@@ -20745,7 +20745,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-743",
@@ -20773,7 +20773,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-744",
@@ -20801,7 +20801,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-745",
@@ -21277,7 +21277,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-762",
@@ -21305,7 +21305,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-763",
@@ -21361,7 +21361,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-767",
@@ -21389,7 +21389,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-768",
@@ -21781,7 +21781,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-782",
@@ -22061,7 +22061,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-792",
@@ -22117,7 +22117,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-794",
@@ -22285,7 +22285,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-800",
@@ -22397,7 +22397,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-804",
@@ -22453,7 +22453,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-806",
@@ -22705,7 +22705,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-815",
@@ -22789,7 +22789,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-818",
@@ -23097,7 +23097,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-829",
@@ -23153,7 +23153,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Formative Evaluation: Conducted during the active learning process. | Continuous monitoring, immediate diagnostic feedback, improving learning as it happens."
   },
   {
     "id": "P1-U01-831",
@@ -23209,7 +23209,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-833",
@@ -23461,7 +23461,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-842",
@@ -23713,7 +23713,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-851",
@@ -23741,7 +23741,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-852",
@@ -23769,7 +23769,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-853",
@@ -23909,7 +23909,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": "Malaria: *Plasmodium* (Protozoa) | Female *Anopheles* mosquito"
   },
   {
     "id": "P1-U01-858",
@@ -23993,7 +23993,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-861",
@@ -24077,7 +24077,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-864",
@@ -24245,7 +24245,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-870",
@@ -24329,7 +24329,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-873",
@@ -24637,7 +24637,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-884",
@@ -25225,7 +25225,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-905",
@@ -25253,7 +25253,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-906",
@@ -25757,7 +25757,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-924",
@@ -26121,7 +26121,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-937",
@@ -26709,7 +26709,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-958",
@@ -26877,7 +26877,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-964",
@@ -27157,7 +27157,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-974",
@@ -27353,7 +27353,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-981",
@@ -27717,7 +27717,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-994",
@@ -27829,7 +27829,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-998",
@@ -28109,7 +28109,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1009",
@@ -28305,7 +28305,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1016",
@@ -28473,7 +28473,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1022",
@@ -28501,7 +28501,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1023",
@@ -28557,7 +28557,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1025",
@@ -28641,7 +28641,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1028",
@@ -28921,7 +28921,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1038",
@@ -29061,7 +29061,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1043",
@@ -29089,7 +29089,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1044",
@@ -29117,7 +29117,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Formative Evaluation: Conducted during the active learning process. | Continuous monitoring, immediate diagnostic feedback, improving learning as it happens."
   },
   {
     "id": "P1-U01-1045",
@@ -29173,7 +29173,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1047",
@@ -29313,7 +29313,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1052",
@@ -29817,7 +29817,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1070",
@@ -29957,7 +29957,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1075",
@@ -30433,7 +30433,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-1092",
@@ -30517,7 +30517,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1095",
@@ -30545,7 +30545,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "NAAC (National Assessment and Accreditation Council): Established 1994 by UGC; HQ Bengaluru | Institutional accreditation; assesses higher education institutions across 7 criteria, grading up to A++ based on CGPA."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1096",
@@ -30657,7 +30657,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1100",
@@ -30713,7 +30713,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1102",
@@ -30741,7 +30741,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1103",
@@ -31021,7 +31021,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1113",
@@ -31161,7 +31161,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1118",
@@ -31273,7 +31273,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1122",
@@ -31301,7 +31301,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1123",
@@ -31329,7 +31329,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1124",
@@ -31665,7 +31665,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1136",
@@ -31749,7 +31749,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1139",
@@ -31777,7 +31777,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1140",
@@ -31973,7 +31973,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Nominal: Classification into distinct non-overlapping categories; no order or magnitude. | Equivalence / Frequency ($=, \\neq$)"
   },
   {
     "id": "P1-U01-1147",
@@ -32057,7 +32057,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1150",
@@ -32113,7 +32113,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1152",
@@ -32281,7 +32281,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1158",
@@ -32421,7 +32421,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1163",
@@ -32701,7 +32701,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1174",
@@ -32813,7 +32813,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1178",
@@ -32981,7 +32981,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1184",
@@ -33065,7 +33065,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1187",
@@ -33093,7 +33093,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1188",
@@ -33401,7 +33401,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1199",
@@ -33429,7 +33429,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1200",
@@ -33485,7 +33485,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1202",
@@ -33849,7 +33849,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1215",
@@ -34353,7 +34353,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1233",
@@ -34521,7 +34521,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1239",
@@ -34745,7 +34745,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1247",
@@ -35025,7 +35025,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1257",
@@ -35053,7 +35053,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1258",
@@ -35081,7 +35081,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1259",
@@ -35165,7 +35165,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1262",
@@ -35529,7 +35529,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1275",
@@ -35557,7 +35557,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1276",
@@ -35613,7 +35613,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1278",
@@ -35697,7 +35697,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1281",
@@ -35809,7 +35809,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1285",
@@ -36145,7 +36145,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1297",
@@ -36229,7 +36229,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1300",
@@ -36397,7 +36397,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1306",
@@ -36509,7 +36509,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1310",
@@ -36817,7 +36817,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1321",
@@ -36929,7 +36929,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1325",
@@ -36985,7 +36985,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1327",
@@ -37041,7 +37041,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1329",
@@ -37349,7 +37349,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1340",
@@ -37461,7 +37461,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1344",
@@ -37657,7 +37657,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1351",
@@ -37685,7 +37685,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1352",
@@ -37713,7 +37713,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1353",
@@ -37741,7 +37741,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1354",
@@ -37769,7 +37769,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1355",
@@ -37853,7 +37853,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1358",
@@ -37881,7 +37881,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1359",
@@ -37965,7 +37965,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1362",
@@ -38077,7 +38077,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1366",
@@ -38105,7 +38105,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1367",
@@ -38161,7 +38161,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1369",
@@ -38329,7 +38329,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1375",
@@ -38665,7 +38665,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1387",
@@ -39197,7 +39197,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1406",
@@ -39533,7 +39533,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1418",
@@ -39729,7 +39729,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1425",
@@ -39869,7 +39869,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1430",
@@ -40009,7 +40009,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1435",
@@ -40037,7 +40037,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1436",
@@ -40121,7 +40121,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1439",
@@ -40205,7 +40205,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1442",
@@ -40261,7 +40261,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1444",
@@ -40429,7 +40429,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1450",
@@ -40653,7 +40653,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1458",
@@ -40877,7 +40877,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1466",
@@ -41185,7 +41185,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1477",
@@ -41297,7 +41297,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1481",
@@ -41325,7 +41325,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1483",
@@ -41333,23 +41333,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_45 | Q.45",
-    "questionText": "Match List I with List II\nList I gives the methods of teaching in Institutions of higher learning while\nList II provides the techniques of increasing effectiveness of the method.\nList I \tList II\nMethods of teaching \tTechniques for increasing effectiveness",
+    "questionText": "Match List I with List II\nList I gives the methods of teaching in Institutions of higher learning while\nList II provides the techniques of increasing effectiveness of the method.\nList I \tList II\nMethods of teaching \tTechniques for increasing effectiveness\n(A) Face to face interactive method \t(I) Using Swayam and Moocs\n(B) Open and distance learning method \t(II) Programmed instructional packages\n(C) Individualized method of teaching \t(III) Modular instructional material\n(D) Online methods of teaching \t(IV) Reflective questions coupled with\ndiscussion\nChoose the correct answer from the option given below :",
     "options": [
       {
         "key": "A",
-        "text": "Face to face interactive method \t(I) Using Swayam and Moocs"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Open and distance learning method \t(II) Programmed instructional packages"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Individualized method of teaching \t(III) Modular instructional material"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "D",
-        "text": "Online methods of teaching \t(IV) Reflective questions coupled with discussion Choose the correct answer from the option given below :"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III) (46-50) Read the passage carefully and answer the questions that follow: The Corona Virus COVID-19 pandemic is the defining global health crisis of our time and the greatest challenge we have faced since World War Two. Since its emergence in Asia late last year. the virus has spread to every continent except Antarctica. We have now reached the tragic milestone of one million deaths, and the human family is suffering under an almost intolerable burden of loss. But the pandemic is much more than a health crisis, its also an unprecedented socio economi crisis. Stressing every one of the country it touches. it has the potential to create devastating social, economic and political effects that will leave deep and longstanding scars. UNDP is the technical lead in the UN's socio economic recovery. alongside the health response lead by WHO, and the Global Humanitarian Response Plan. and working under the leadership of the UN Resident Coordinators. Every day. people are losing jobs and income, with no way of knowing when normality will return. Small islandnations. heavily dependent on tourism, have empty hotels and deserted beaches. The International Labour Organisation estimates that 400 million jobs would be lost. The World Bank projects a US 8110 billion decline in remitttances this year. which could mean 800 million people will not be able to meet their basic needs."
       }
     ],
     "correctOption": "C",
@@ -41437,7 +41437,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1487",
@@ -41521,7 +41521,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1490",
@@ -41605,7 +41605,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1493",
@@ -41745,7 +41745,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1498",
@@ -42137,7 +42137,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1512",
@@ -42305,7 +42305,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1518",
@@ -42333,7 +42333,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1519",
@@ -42501,7 +42501,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1525",
@@ -42585,7 +42585,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1528",
@@ -42725,7 +42725,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1533",
@@ -42865,7 +42865,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1538",
@@ -43061,7 +43061,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-1545",
@@ -43201,7 +43201,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1550",
@@ -43537,7 +43537,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1562",
@@ -43769,23 +43769,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_51 | Q.18",
-    "questionText": "Which of the following are the highest taxonomic categories in the cognitive, affective and\npsychomotor domains of learning?",
+    "questionText": "Which of the following are the highest taxonomic categories in the cognitive, affective and\npsychomotor domains of learning?\n(A) Analysis\n(B) Evaluation\n(C) Awareness\n(D) Characterization\n(E) Naturalization\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Analysis"
+        "text": "A, B and G only"
       },
       {
         "key": "B",
-        "text": "Evaluation"
+        "text": "B, D and E only"
       },
       {
         "key": "C",
-        "text": "Awareness"
+        "text": "B, C and D only"
       },
       {
         "key": "D",
-        "text": "Characterization (E) Naturalization Choose the correct answer from the options given below:"
+        "text": "D and E only"
       }
     ],
     "correctOption": "B",
@@ -43825,23 +43825,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_51 | Q.22",
-    "questionText": "Which of the following options are true regarding inference with reference classical Indian\nsystem of logic?",
+    "questionText": "Which of the following options are true regarding inference with reference classical Indian\nsystem of logic?\n(A) It is deductive\n(B) It is inductive\n(C) It has to be formally valid\n(D) It has to be materially true\nChoose the current answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "It is deductive"
+        "text": "A, B and D only"
       },
       {
         "key": "B",
-        "text": "It is inductive"
+        "text": "A, C and D only"
       },
       {
         "key": "C",
-        "text": "It has to be formally valid"
+        "text": "A, B and C only"
       },
       {
         "key": "D",
-        "text": "It has to be materially true Choose the current answer from the options given below:"
+        "text": "A, B, C and D only"
       }
     ],
     "correctOption": "D",
@@ -43873,7 +43873,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1574",
@@ -43909,27 +43909,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_51 | Q.31",
-    "questionText": "Choose the correct answer from the options given below:\nList I \tList II\nHelping behavior\nof effective\nteaching\nDescription",
+    "questionText": "Choose the correct answer from the options given below:\nList I \tList II\nHelping behavior\nof effective\nteaching\nDescription\n(A) Using student\nideas of\ncontributions\nI. Warm and nurturing relationship with learners\n(B) Structuring II. Teacher statements to encourage students to\nelaborate on an answer\n(C) Probing III. Teacher comments for the purpose of\norganizing what is to come\n(D) Teacher affect IV. Taking a student’s response and repeating or\napplying it",
     "options": [
       {
         "key": "A",
-        "text": "Using student ideas of contributions I. Warm and nurturing relationship with learners"
+        "text": "A-IV, B-III, C-II, D-I"
       },
       {
         "key": "B",
-        "text": "Structuring II. Teacher statements to encourage students to elaborate on an answer"
+        "text": "A-I, B-II, C-III, D-IV"
       },
       {
         "key": "C",
-        "text": "Probing III. Teacher comments for the purpose of organizing what is to come"
+        "text": "A-II, B-I, C- IV, D-III"
       },
       {
         "key": "D",
-        "text": "Teacher affect IV. Taking a student’s response and repeating or applying it"
+        "text": "A-III, B-IV, C-I, D-II"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1576",
@@ -43937,23 +43937,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_51 | Q.32",
-    "questionText": "Identify from the following those values which are called 'Sattvika Values”",
+    "questionText": "Identify from the following those values which are called 'Sattvika Values”\n(A) Compassion\n(B) Jealousy\n(C) Respect\n(D) Falsehood\nChoose the most appropriate answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Compassion"
+        "text": "A and B only"
       },
       {
         "key": "B",
-        "text": "Jealousy"
+        "text": "C and D only"
       },
       {
         "key": "C",
-        "text": "Respect"
+        "text": "B and C only"
       },
       {
         "key": "D",
-        "text": "Falsehood Choose the most appropriate answer from the options given below:"
+        "text": "A and C only"
       }
     ],
     "correctOption": "D",
@@ -44517,7 +44517,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1597",
@@ -44909,7 +44909,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-1611",
@@ -44993,7 +44993,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1614",
@@ -45105,7 +45105,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1618",
@@ -45133,7 +45133,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1619",
@@ -45161,7 +45161,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1620",
@@ -45413,7 +45413,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1629",
@@ -45469,7 +45469,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Disease: Pathogen / Type | Vector (Transmitting Agent)"
+    "cheatSheetRule": "Malaria: *Plasmodium* (Protozoa) | Female *Anopheles* mosquito"
   },
   {
     "id": "P1-U01-1631",
@@ -45533,23 +45533,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_54 | Q.49",
-    "questionText": "Which of the following factors have affected the western ghats?",
+    "questionText": "Which of the following factors have affected the western ghats?\n(A) Sensitive bio-diversity\n(B) Formation of human settlements\n(C) Flora and Fauna of the area\n(D) Promotion of unchecked tourism\nChoose the correct answer from the options given below",
     "options": [
       {
         "key": "A",
-        "text": "Sensitive bio-diversity"
+        "text": "A and B only"
       },
       {
         "key": "B",
-        "text": "Formation of human settlements"
+        "text": "B and C only"
       },
       {
         "key": "C",
-        "text": "Flora and Fauna of the area"
+        "text": "B and D only"
       },
       {
         "key": "D",
-        "text": "Promotion of unchecked tourism Choose the correct answer from the options given below"
+        "text": "C and D only"
       }
     ],
     "correctOption": "C",
@@ -45581,7 +45581,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1635",
@@ -45637,7 +45637,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1637",
@@ -45833,7 +45833,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1644",
@@ -45917,7 +45917,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1647",
@@ -45945,7 +45945,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1648",
@@ -46169,7 +46169,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-1656",
@@ -46309,7 +46309,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1661",
@@ -46477,7 +46477,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1667",
@@ -46505,7 +46505,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1668",
@@ -46953,7 +46953,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1684",
@@ -46981,7 +46981,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1685",
@@ -47401,7 +47401,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1701",
@@ -47653,7 +47653,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1710",
@@ -47709,7 +47709,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1712",
@@ -47745,23 +47745,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_60 | Q.6",
-    "questionText": "Which of the following options are true regarding inference with reference to classical Indian\nsystem of logic?",
+    "questionText": "Which of the following options are true regarding inference with reference to classical Indian\nsystem of logic?\n(A) It is deductive\n(B) It is inductive\n(C) It has to be formally valid\n(D) It has to be materially true\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "It is deductive"
+        "text": "(A), (B) and (D) only"
       },
       {
         "key": "B",
-        "text": "It is inductive"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "C",
-        "text": "It has to be formally valid"
+        "text": "(A), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "It has to be materially true Choose the correct answer from the options given below:"
+        "text": "(A), (B), (C) and (D) only"
       }
     ],
     "correctOption": "D",
@@ -47821,7 +47821,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1716",
@@ -47885,23 +47885,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_60 | Q.22",
-    "questionText": "Identify the correct sequence in decreasing order of percentage of total world's water in the\nfollowing locations:",
+    "questionText": "Identify the correct sequence in decreasing order of percentage of total world's water in the\nfollowing locations:\n(A) Atmosphere\n(B) Rivers and streams\n(C) Ground water\n(D) Lakes (Fresh water)\n(E) Ice caps and Glaciers\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Atmosphere"
+        "text": "(E), (C), (B), (D), (A)"
       },
       {
         "key": "B",
-        "text": "Rivers and streams"
+        "text": "(E), (B), (C), (D), (A)"
       },
       {
         "key": "C",
-        "text": "Ground water"
+        "text": "(E), (D), (C), (B), (A)"
       },
       {
         "key": "D",
-        "text": "Lakes (Fresh water) (E) Ice caps and Glaciers Choose the correct answer from the options given below:"
+        "text": "(E), (C), (D), (A), (B)"
       }
     ],
     "correctOption": "D",
@@ -47913,27 +47913,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_60 | Q.23",
-    "questionText": "Match List I with List II\nList I - Helping behaviour of effective\nteaching\nList II – Description",
+    "questionText": "Match List I with List II\nList I - Helping behaviour of effective\nteaching\nList II – Description\n(A) Using student ideas of contributions \t(I) Warm and nurturing relationship with\nlearners\n(B) Structuring \t(II) Teacher statements to encourage\nstudents to elaborate on an answer\n(C) Probing \t(III) Teacher comments for the purpose of\norganizing what is to come\n(D) Teacher affect \t(IV) Taking a student's response and\nrepeating or applying it\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Using student ideas of contributions \t(I) Warm and nurturing relationship with learners"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "B",
-        "text": "Structuring \t(II) Teacher statements to encourage students to elaborate on an answer"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Probing \t(III) Teacher comments for the purpose of organizing what is to come"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
       },
       {
         "key": "D",
-        "text": "Teacher affect \t(IV) Taking a student's response and repeating or applying it Choose the correct answer from the options given below:"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1720",
@@ -47941,23 +47941,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_60 | Q.24",
-    "questionText": "Which of the following are the highest taxonomic categories in the cognitive. affective and\npsychomotor domains of learning?",
+    "questionText": "Which of the following are the highest taxonomic categories in the cognitive. affective and\npsychomotor domains of learning?\n(A) Analysis\n(B) Evaluation\n(C) Awareness\n(D) Characterization\n(E) Naturalization\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Analysis"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Evaluation"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Awareness"
+        "text": "(B), (D) and (E) only"
       },
       {
         "key": "D",
-        "text": "Characterization (E) Naturalization Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "C",
@@ -47997,23 +47997,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_60 | Q.27",
-    "questionText": "Identify from the following those values which are called -Sattvika Values\"",
+    "questionText": "Identify from the following those values which are called -Sattvika Values\"\n(A) Compassion\n(B) Jealousy\n(C) Respect\n(D) Falsehood\nChoose the most appropriate answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Compassion"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Jealousy"
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Respect"
+        "text": "(C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Falsehood Choose the most appropriate answer from the options given below:"
+        "text": "(A) and (C) only"
       }
     ],
     "correctOption": "D",
@@ -48109,23 +48109,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_60 | Q.40",
-    "questionText": "The collection of all the objects to which a term may correctly be applied is called:",
+    "questionText": "The collection of all the objects to which a term may correctly be applied is called:\n(A) The intension of that term\n(B) Connotation of that term\n(C) The extension of that term\n(D) Denotation of that term\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "The intension of that term"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Connotation of that term"
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "The extension of that term"
+        "text": "(A) and (D) only"
       },
       {
         "key": "D",
-        "text": "Denotation of that term Choose the correct answer from the options given below:"
+        "text": "(C) and (D) only"
       }
     ],
     "correctOption": "D",
@@ -48297,7 +48297,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1733",
@@ -48305,23 +48305,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_61 | Q.4",
-    "questionText": "India’s cultural diplomacy is centered around",
+    "questionText": "India’s cultural diplomacy is centered around\n(A) Ramayan\n(B) Multilateral engagements\n(C) Business Promotion\n(D) People to people contacts\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Ramayan"
+        "text": "(A) and (D) only"
       },
       {
         "key": "B",
-        "text": "Multilateral engagements"
+        "text": "(A), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Business Promotion"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "People to people contacts Choose the correct answer from the options given below :"
+        "text": "(B) and (D) only"
       }
     ],
     "correctOption": "D",
@@ -48445,27 +48445,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_61 | Q.20",
-    "questionText": "according to Naiyayikas we ascertain the relation of universal concomitance between x and y :",
+    "questionText": "according to Naiyayikas we ascertain the relation of universal concomitance between x and y :\n(A) We can determine the relation only if we can determine the relation of essential identity\nbetween x and y\n(B) by perceiving that all in cases the presence of x is accompanied by the y\n(C) we can determine the relation only if we can determine the relation of cause and effect\nbetween x and y\n(D) by not perceiving any instance where the presence of x is not accompanied by the presence\nby y or vice-versa\nchoose the correct answer from the option given below :",
     "options": [
       {
         "key": "A",
-        "text": "We can determine the relation only if we can determine the relation of essential identity between x and y"
+        "text": "(A) and (C) only"
       },
       {
         "key": "B",
-        "text": "by perceiving that all in cases the presence of x is accompanied by the y"
+        "text": "(D) and (C) only"
       },
       {
         "key": "C",
-        "text": "we can determine the relation only if we can determine the relation of cause and effect between x and y"
+        "text": "(B) and (D) only"
       },
       {
         "key": "D",
-        "text": "by not perceiving any instance where the presence of x is not accompanied by the presence by y or vice-versa choose the correct answer from the option given below :"
+        "text": "(A), (B) and (C) only"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1739",
@@ -48493,7 +48493,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1740",
@@ -48529,27 +48529,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_61 | Q.29",
-    "questionText": "The key behaviour of an effective teacher is marked by which of the following features?",
+    "questionText": "The key behaviour of an effective teacher is marked by which of the following features?\n(A) Structuring\n(B) Teacher task orientation\n(C)Instructional Variety\n(D) Lesson clarity\n(E) Probing\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Structuring"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Teacher task orientation"
+        "text": "(A), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Instructional Variety"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Lesson clarity (E) Probing Choose the correct answer from the options given below :"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1742",
@@ -48585,27 +48585,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_61 | Q.40",
-    "questionText": "Match List I with List II gives their characteristic features.\nList I \tList II\n(Modes of Evaluation) \t(Characteristic Features)",
+    "questionText": "Match List I with List II gives their characteristic features.\nList I \tList II\n(Modes of Evaluation) \t(Characteristic Features)\n(A) \tFormative Evaluation \t(I) Compares one student with another\nstudent\n(B) \tSummative Evaluation \t(II) Compares the progress of a student\nagainst prespecified standards\n(C) \tCriterion-referenced Evaluation \t(III) Used primarily for motivational and\nmonitoring purposes of learning\n(D) \tNorm-referenced Evaluation \t(IV) Used primarily for gradation of\nprogress made\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Formative Evaluation \t(I) Compares one student with another student"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Summative Evaluation \t(II) Compares the progress of a student against prespecified standards"
+        "text": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
       },
       {
         "key": "C",
-        "text": "Criterion-referenced Evaluation \t(III) Used primarily for motivational and monitoring purposes of learning"
+        "text": "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Norm-referenced Evaluation \t(IV) Used primarily for gradation of progress made Choose the correct answer from the options given below :"
+        "text": "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Formative Evaluation: Conducted during the active learning process. | Continuous monitoring, immediate diagnostic feedback, improving learning as it happens."
   },
   {
     "id": "P1-U01-1744",
@@ -48689,7 +48689,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1747",
@@ -48773,7 +48773,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1750",
@@ -48801,7 +48801,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1751",
@@ -48829,7 +48829,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1752",
@@ -48857,7 +48857,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1753",
@@ -49053,7 +49053,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1761",
@@ -49109,7 +49109,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1763",
@@ -49221,7 +49221,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1767",
@@ -49249,7 +49249,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1768",
@@ -49277,7 +49277,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1769",
@@ -49361,7 +49361,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1772",
@@ -49473,7 +49473,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1777",
@@ -49557,7 +49557,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1780",
@@ -49613,7 +49613,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1782",
@@ -49641,7 +49641,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1783",
@@ -49669,7 +49669,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1784",
@@ -49677,23 +49677,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_64 | Q.9",
-    "questionText": "Identify the correct order of the following INTEL processors in the increasing order of speed.",
+    "questionText": "Identify the correct order of the following INTEL processors in the increasing order of speed.\n(A) 80486\n(B) 8085\n(C) Dual Core\n(D) Pentium-III\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "80486"
+        "text": "(A), (B), (C), (D)"
       },
       {
         "key": "B",
-        "text": "8085"
+        "text": "(B), (A), (D), (C)"
       },
       {
         "key": "C",
-        "text": "Dual Core"
+        "text": "(A), (B), (D), (C)"
       },
       {
         "key": "D",
-        "text": "Pentium-III Choose the correct answer from the options given below:"
+        "text": "(A), (C), (D), (B)"
       }
     ],
     "correctOption": "B",
@@ -49725,7 +49725,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1786",
@@ -49733,27 +49733,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_64 | Q.23",
-    "questionText": "Identify the characteristics of ‘Field-independent learner’",
+    "questionText": "Identify the characteristics of ‘Field-independent learner’\n(A) Seeks guidance and demonstrations from teacher\n(B) Focuses on details of curriculum materials\n(C) Likes to compete\n(D) Relates concepts to personal experience\n(E) Can organize information by himself or herself\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Seeks guidance and demonstrations from teacher"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Focuses on details of curriculum materials"
+        "text": "(A), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Likes to compete"
+        "text": "(B), (C) and (E) only"
       },
       {
         "key": "D",
-        "text": "Relates concepts to personal experience (E) Can organize information by himself or herself Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1787",
@@ -49781,7 +49781,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1788",
@@ -49921,7 +49921,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1793",
@@ -50181,23 +50181,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_65 | Q.15",
-    "questionText": "Identify the indirect teaching strategies from the following list :",
+    "questionText": "Identify the indirect teaching strategies from the following list :\n(A) Gaining attention, informing the learner of the objective and presenting the stimulus\nmaterial\n(B) Concept building through examples and non-examples\n(C) Explaining, exemplification and practice\n(D) Problem based presentation with pair-share technique\n(E) Encouraging students to use references from their own experiences\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Gaining attention, informing the learner of the objective and presenting the stimulus material"
+        "text": "(B), (D) and (E)"
       },
       {
         "key": "B",
-        "text": "Concept building through examples and non-examples"
+        "text": "(A), (B) and (C)"
       },
       {
         "key": "C",
-        "text": "Explaining, exemplification and practice"
+        "text": "(B), (C) and (D)"
       },
       {
         "key": "D",
-        "text": "Problem based presentation with pair-share technique (E) Encouraging students to use references from their own experiences Choose the correct answer from the options given below :"
+        "text": "(C), (D) and (E)"
       }
     ],
     "correctOption": "A",
@@ -50293,7 +50293,7 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_65 | Q.32",
-    "questionText": "Which of the following statements about wikis are True?",
+    "questionText": "Which of the following statements about wikis are True?\n(A) Wiki pages can be locked by moderators to prevent vandlism.\n(B) Every change that is made to a wiki page is logged and can be viewed in a history list.\n(C) A wiki is designed to allow people to collaborate easily.\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
@@ -50301,15 +50301,15 @@
       },
       {
         "key": "B",
-        "text": "Every change that is made to a wiki page is logged and can be viewed in a history list."
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "A wiki is designed to allow people to collaborate easily. Choose the correct answer from the options given below :"
+        "text": "(A) and (C) only"
       },
       {
         "key": "D",
-        "text": "(A) and (B) only"
+        "text": "(A), (B) and (C)"
       }
     ],
     "correctOption": "D",
@@ -50321,23 +50321,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_65 | Q.39",
-    "questionText": "Match List I with List II :\nList I Modalities of Teaching \tList II \tImplementation",
+    "questionText": "Match List I with List II :\nList I Modalities of Teaching \tList II \tImplementation\n(A) \tInstruction \t(I) One way imposition of ideas from the\nteacher to the students\n(B) \tTraining \t(II) Associative presentation of ideas from\nteacher to students\n(C) \tConditioning\n(III) Disciplined drill conducted by teacher\n(D) \tIndoctrination \t(IV) Active interchange of ideas between\nteacher and students\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Instruction \t(I) One way imposition of ideas from the teacher to the students"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
       },
       {
         "key": "B",
-        "text": "Training \t(II) Associative presentation of ideas from teacher to students"
+        "text": "(A)-(I), (B)-(II), (C)-(11I), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Conditioning (III) Disciplined drill conducted by teacher"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "D",
-        "text": "Indoctrination \t(IV) Active interchange of ideas between teacher and students Choose the correct answer from the options given below :"
+        "text": "(A)-(11I), (B)-(IV), (C)-(I), (D)-(II)"
       }
     ],
     "correctOption": "C",
@@ -50377,23 +50377,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_65 | Q.48",
-    "questionText": "Holistic education at HEls is aimed at :",
+    "questionText": "Holistic education at HEls is aimed at :\n(A) Research internship with researchers and faculty at different HEIs.\n(B) Recyling of traditional knowledge systems.\n(C) Providing opportunities for internships at local level.\n(D) Keeping social sciences and natural sciences within distinct spheres of teaching and\nlearning.\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Research internship with researchers and faculty at different HEIs."
+        "text": "(B) and (D) only"
       },
       {
         "key": "B",
-        "text": "Recyling of traditional knowledge systems."
+        "text": "(A) and (C) only"
       },
       {
         "key": "C",
-        "text": "Providing opportunities for internships at local level."
+        "text": "(A) and (D) only"
       },
       {
         "key": "D",
-        "text": "Keeping social sciences and natural sciences within distinct spheres of teaching and learning. Choose the correct answer from the options given below :"
+        "text": "(C) and (D) only"
       }
     ],
     "correctOption": "B",
@@ -50425,7 +50425,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1811",
@@ -50453,7 +50453,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1812",
@@ -50517,27 +50517,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_66 | Q.19",
-    "questionText": "Match List I with List II\nList I - (Levels of teaching and learning) \tList II - (Main Feature)",
+    "questionText": "Match List I with List II\nList I - (Levels of teaching and learning) \tList II - (Main Feature)\n(A) Autonomous development level \t(l) It is problem-centred and requires on the\npart of learners more active participation.\nmore imagination and creativeness\n(B) Memory level \t(II) Lays stress on the importance of\nstudents' feelings and minimizes the value\nof hard thinking.\n(C) Understanding level \t(III) It is comparatively thoughtless.\n(D) Reflective level \t(IV) It emphasizes on seeing of\nrelationships between principles and solitary\nfacts.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Autonomous development level \t(l) It is problem-centred and requires on the part of learners more active participation. more imagination and creativeness"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Memory level \t(II) Lays stress on the importance of students' feelings and minimizes the value of hard thinking."
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Understanding level \t(III) It is comparatively thoughtless."
+        "text": "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
       },
       {
         "key": "D",
-        "text": "Reflective level \t(IV) It emphasizes on seeing of relationships between principles and solitary facts. Choose the correct answer from the options given below:"
+        "text": "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1815",
@@ -50573,23 +50573,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_66 | Q.23",
-    "questionText": "The set of attributes shared by all and only those objects to which a general term refers. is\ncalled:",
+    "questionText": "The set of attributes shared by all and only those objects to which a general term refers. is\ncalled:\n(A) The intension of that term\n(B) Connotation of that term\n(C) The extension of that term\n(D) Denotation of that term\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "The intension of that term"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "Connotation of that term"
+        "text": "(C) and (D) only"
       },
       {
         "key": "C",
-        "text": "The extension of that term"
+        "text": "(A) and (C) only"
       },
       {
         "key": "D",
-        "text": "Denotation of that term Choose the correct answer from the options given below:"
+        "text": "(A) and (D) only"
       }
     ],
     "correctOption": "A",
@@ -50601,27 +50601,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_66 | Q.25",
-    "questionText": "Identify the characteristics of field-dependent learners from the following?",
+    "questionText": "Identify the characteristics of field-dependent learners from the following?\n(A) Perceives global aspects of concepts and materials\n(B) Focuses on facts and principles\n(C) Prefers to work alone\n(D) Seeks guidance and demonstration from teacher\n(E) Likes to cooperate\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Perceives global aspects of concepts and materials"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Focuses on facts and principles"
+        "text": "(A), (D) and (E) only"
       },
       {
         "key": "C",
-        "text": "Prefers to work alone"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Seeks guidance and demonstration from teacher (E) Likes to cooperate Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1818",
@@ -50649,7 +50649,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1819",
@@ -50741,27 +50741,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_66 | Q.37",
-    "questionText": "Match List I with List II. Match the features of education of various types.\nList I \tList II",
+    "questionText": "Match List I with List II. Match the features of education of various types.\nList I \tList II\n(A) Ancient Vedic Education \t(I) Equality was the foundation of student-\nteacher relationship\n(B) Post Vedic Education \t(II) Enrichment of knowledge and\nexperience\n(C) Brahmanic Education \t(III) Knowledge results in wiping out\nfalsehood\n(D) Buddist system of Education \t(IV) Emphasis on character building and\nself realisation\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Ancient Vedic Education \t(I) Equality was the foundation of student- teacher relationship"
+        "text": "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Post Vedic Education \t(II) Enrichment of knowledge and experience"
+        "text": "(A)-(IV), (B)-(I), (C)-(II). (D)-(Ill)"
       },
       {
         "key": "C",
-        "text": "Brahmanic Education \t(III) Knowledge results in wiping out falsehood"
+        "text": "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Buddist system of Education \t(IV) Emphasis on character building and self realisation Choose the correct answer from the options given below:"
+        "text": "(A)-(II), (B)-(III), (C)-(IV), (D)-(l)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1824",
@@ -50873,7 +50873,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1828",
@@ -50901,7 +50901,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1829",
@@ -50929,7 +50929,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1830",
@@ -51265,7 +51265,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1842",
@@ -51321,7 +51321,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1844",
@@ -51609,27 +51609,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_68 | Q.13",
-    "questionText": "Modeling is a direct teaching activity that allows students to imitate from demonstration or infer\nfrom observation, the behaviour to be learned Identify the correct anquence for modeling",
+    "questionText": "Modeling is a direct teaching activity that allows students to imitate from demonstration or infer\nfrom observation, the behaviour to be learned Identify the correct anquence for modeling\n(A)Production\n(B)Attention\n(C)Motivation\n(D)Retention\nChoose the correct answer from the options given below.",
     "options": [
       {
         "key": "A",
-        "text": "Production"
+        "text": "(A),(B), (C), (D)"
       },
       {
         "key": "B",
-        "text": "Attention"
+        "text": "(C), (A), (D) ,(B)"
       },
       {
         "key": "C",
-        "text": "Motivation"
+        "text": "(B), (D), (A), (C)"
       },
       {
         "key": "D",
-        "text": "Retention Choose the correct answer from the options given below."
+        "text": "(B), (A), (C), (D)"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1855",
@@ -51637,27 +51637,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_68 | Q.15",
-    "questionText": "Millennium Development Goal 8- To develop global partnership for development has the\nfollowing targeta:",
+    "questionText": "Millennium Development Goal 8- To develop global partnership for development has the\nfollowing targeta:\n(A)To address special needs of least developed countries.\n(B) To halve by 2015 the proportion of population without sustainable access to safe drinking\nwater and basic sanitation.\n(C)To deal exhaustively with debt problem of developing nations.\n(D) To provide access to affordable essential drugs in developing world in collaboration with\nprivate sector\n(E) To have significant improvement in the lives of 100 mn elum dwellers.\nChoose the correct answer from the options given below",
     "options": [
       {
         "key": "A",
-        "text": "To address special needs of least developed countries."
+        "text": "(A), (C), (D), (E) only"
       },
       {
         "key": "B",
-        "text": "To halve by 2015 the proportion of population without sustainable access to safe drinking water and basic sanitation."
+        "text": "(A), (C),, (D) only"
       },
       {
         "key": "C",
-        "text": "To deal exhaustively with debt problem of developing nations."
+        "text": "(C), (D). (E) only"
       },
       {
         "key": "D",
-        "text": "To provide access to affordable essential drugs in developing world in collaboration with private sector (E) To have significant improvement in the lives of 100 mn elum dwellers. Choose the correct answer from the options given below"
+        "text": "(B) (D), (E) only"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1856",
@@ -51685,7 +51685,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1857",
@@ -51693,7 +51693,7 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_68 | Q.25",
-    "questionText": "Consider the following statements regarding clocks:",
+    "questionText": "Consider the following statements regarding clocks:\n(A) When the hands are in opposite directions, they are 30 minute spaces apart\n(AND)\n(B) The hands are in same straight line when they are co incident or opposite to each other.\n(C) If a clock indicates 8:45, when the correct time is 9:00 it is said to be 15 minutes too\nFast\nChoose the correct statements from above:",
     "options": [
       {
         "key": "A",
@@ -51701,15 +51701,15 @@
       },
       {
         "key": "B",
-        "text": "The hands are in same straight line when they are co incident or opposite to each other."
+        "text": "(A) and (B) only"
       },
       {
         "key": "C",
-        "text": "If a clock indicates 8:45, when the correct time is 9:00 it is said to be 15 minutes too Fast Choose the correct statements from above:"
+        "text": "(B) and (C) only"
       },
       {
         "key": "D",
-        "text": "(A) and (C) only"
+        "text": "(A), (B) and (C)"
       }
     ],
     "correctOption": "B",
@@ -51805,23 +51805,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_68 | Q.33",
-    "questionText": "Consider the series \"tiger, feline, mammal, animal\". Which of the following statements is/are\ntrue with reference to this series?",
+    "questionText": "Consider the series \"tiger, feline, mammal, animal\". Which of the following statements is/are\ntrue with reference to this series?\n(A) It is in order of increasing intension\n(B) It is in order of increasing extension\n(C) It is in order of decreasing intension\n(D) It is in order of decreasing extension\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "It is in order of increasing intension"
+        "text": "(A) and (D) only"
       },
       {
         "key": "B",
-        "text": "It is in order of increasing extension"
+        "text": "(B) only"
       },
       {
         "key": "C",
-        "text": "It is in order of decreasing intension"
+        "text": "(B) and (C) only"
       },
       {
         "key": "D",
-        "text": "It is in order of decreasing extension Choose the correct answer from the options given below :"
+        "text": "(D) only"
       }
     ],
     "correctOption": "C",
@@ -51833,23 +51833,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_68 | Q.35",
-    "questionText": "Identify the examples of Active learning:",
+    "questionText": "Identify the examples of Active learning:\n(A)Students discuss, debate or brainstorm during class\n(B)Student a work as team on problems and projects\n(C) Students engage in inquiry based learning\n(D) Students are exposed to case-based studies.\nChoose the most appropriate answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Students discuss, debate or brainstorm during class"
+        "text": "(A) only"
       },
       {
         "key": "B",
-        "text": "Student a work as team on problems and projects"
+        "text": "(A). (B) and (D) only"
       },
       {
         "key": "C",
-        "text": "Students engage in inquiry based learning"
+        "text": "(A). (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Students are exposed to case-based studies. Choose the most appropriate answer from the options given below:"
+        "text": "(A) and (D) only"
       }
     ],
     "correctOption": "A",
@@ -51881,7 +51881,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1864",
@@ -51909,7 +51909,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1865",
@@ -51965,7 +51965,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1867",
@@ -51973,23 +51973,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_69 | Q.2",
-    "questionText": "The common thread binding India and South East Asian Countries is/are",
+    "questionText": "The common thread binding India and South East Asian Countries is/are\n(A) Buddist tenets\n(B) Yoga\n(C) Cricket\n(D) Sanskrit\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Buddist tenets"
+        "text": "(A) only"
       },
       {
         "key": "B",
-        "text": "Yoga"
+        "text": "(A), (B), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Cricket"
+        "text": "(A) and (D) only"
       },
       {
         "key": "D",
-        "text": "Sanskrit Choose the correct answer from the options given below:"
+        "text": "(A), (B), (D) and (E) only"
       }
     ],
     "correctOption": "C",
@@ -52113,27 +52113,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_69 | Q.12",
-    "questionText": "The key behaviour of an effective teacher is marked by which of the following features?",
+    "questionText": "The key behaviour of an effective teacher is marked by which of the following features?\n(A) Structuring\n(B) Teacher task orientation\n(C) Instructional Variety\n(D) Lesson clarity\n(E) Probing\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Structuring"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Teacher task orientation"
+        "text": "(A), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Instructional Variety"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Lesson clarity (E) Probing Choose the correct answer from the options given below :"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1873",
@@ -52169,27 +52169,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_69 | Q.16",
-    "questionText": "according to Naiyayikas we ascertain the relation of universal concomitance between x and y :",
+    "questionText": "according to Naiyayikas we ascertain the relation of universal concomitance between x and y :\n(A) We can determine the relation only if we can determine the relation of essential identity\nbetween x and y\n(B) by perceiving that all in cases the presence of x is accompanied by the y\n(C) we can determine the relation only if we can determine the relation of cause and effect\nbetween x and y\n(D) by not perceiving any instance where the presence of x is not accompanied by the presence\nby y or vice-versa\nchoose the correct answer from the option given below :",
     "options": [
       {
         "key": "A",
-        "text": "We can determine the relation only if we can determine the relation of essential identity between x and y"
+        "text": "(A) and (C) only"
       },
       {
         "key": "B",
-        "text": "by perceiving that all in cases the presence of x is accompanied by the y"
+        "text": "(D) and (C) only"
       },
       {
         "key": "C",
-        "text": "we can determine the relation only if we can determine the relation of cause and effect between x and y"
+        "text": "(B) and (D) only"
       },
       {
         "key": "D",
-        "text": "by not perceiving any instance where the presence of x is not accompanied by the presence by y or vice-versa choose the correct answer from the option given below :"
+        "text": "(A), (B) and (C) only"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1875",
@@ -52253,27 +52253,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "Shift_69 | Q.23",
-    "questionText": "Match List I with List II gives their characteristic features\nList I \tList II\n(Modes of Evaluation) \t(Characteristic Features)",
+    "questionText": "Match List I with List II gives their characteristic features\nList I \tList II\n(Modes of Evaluation) \t(Characteristic Features)\n(A) \tFormative Evaluation \t(I) Compares one student with another\nstudent\n(B) \tSummative Evaluation \t(II) Compares the progress of a student\nagainst prespecified standards\n(C) \tCriterion-referenced Evaluation \t(III) Used primarily for motivational and\nmonitoring purposes of learning\n(D) \tNorm-referenced Evaluation \t(IV) Used primarily for gradation of\nprogress made\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Formative Evaluation \t(I) Compares one student with another student"
+        "text": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       },
       {
         "key": "B",
-        "text": "Summative Evaluation \t(II) Compares the progress of a student against prespecified standards"
+        "text": "(A)-(III), (B)-(IV), (C)- (II), (D)-(I)"
       },
       {
         "key": "C",
-        "text": "Criterion-referenced Evaluation \t(III) Used primarily for motivational and monitoring purposes of learning"
+        "text": "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Norm-referenced Evaluation \t(IV) Used primarily for gradation of progress made Choose the correct answer from the options given below :"
+        "text": "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Formative Evaluation: Conducted during the active learning process. | Continuous monitoring, immediate diagnostic feedback, improving learning as it happens."
   },
   {
     "id": "P1-U01-1878",
@@ -52329,7 +52329,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1880",
@@ -52413,7 +52413,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1883",
@@ -52721,7 +52721,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1894",
@@ -52777,7 +52777,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1896",
@@ -53001,7 +53001,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1904",
@@ -53337,7 +53337,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1917",
@@ -53365,7 +53365,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1918",
@@ -53477,7 +53477,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1923",
@@ -53589,7 +53589,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1928",
@@ -53701,7 +53701,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1932",
@@ -53841,7 +53841,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-1937",
@@ -53869,7 +53869,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1938",
@@ -53897,7 +53897,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1939",
@@ -54121,7 +54121,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1947",
@@ -54157,7 +54157,7 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "29.09.2020 AN | Q.17",
-    "questionText": "Match List I with List II\nList I List II\n(a). Image (i). doc\n(b). Video (ii).mp3\n(c). Audio (iii). jpeg\n(d). Word processing (iv). mpeg\nChoose the correct answer from the options given below:",
+    "questionText": "Match List I with List II\nList I List II\n(a) Image (i) doc\n(b) Video (ii) mp3\n(c) Audio (iii) jpeg\n(d) Word processing (iv) mpeg\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
@@ -54401,7 +54401,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1957",
@@ -54457,7 +54457,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1959",
@@ -54513,7 +54513,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1961",
@@ -54577,23 +54577,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "29.09.2020 AN | Q.48",
-    "questionText": "The early child was thought of as",
+    "questionText": "The early child was thought of as\n(A) Intelligent enough to know both pain and pleasure\n(B) Having no power of cognition\n(C) Not amenable to specific stimuli\n(D) Having motivational effect in a random way\n50. The basic idea behind laboratory experiment was related to",
     "options": [
       {
         "key": "A",
-        "text": "Intelligent enough to know both pain and pleasure"
+        "text": "Motivating the child with reward and punishment"
       },
       {
         "key": "B",
-        "text": "Having no power of cognition"
+        "text": "Considering hunger and thirst as negligible in impact"
       },
       {
         "key": "C",
-        "text": "Not amenable to specific stimuli"
+        "text": "Animals and children having the same drive"
       },
       {
         "key": "D",
-        "text": "Having motivational effect in a random way"
+        "text": "Teachers controlling children"
       }
     ],
     "correctOption": "B",
@@ -54765,7 +54765,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1970",
@@ -55101,7 +55101,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1986",
@@ -55129,7 +55129,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1987",
@@ -55157,7 +55157,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1988",
@@ -55213,7 +55213,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1990",
@@ -55353,7 +55353,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-1995",
@@ -55605,7 +55605,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2022",
@@ -55633,7 +55633,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2023",
@@ -55661,7 +55661,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2024",
@@ -55717,7 +55717,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2026",
@@ -55885,7 +55885,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2032",
@@ -55913,7 +55913,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2033",
@@ -55941,7 +55941,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2034",
@@ -56081,7 +56081,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2039",
@@ -56109,7 +56109,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2040",
@@ -56445,7 +56445,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2056",
@@ -56529,7 +56529,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2059",
@@ -56697,7 +56697,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2065",
@@ -56789,23 +56789,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "11.11.2020 FN | Q.11",
-    "questionText": "In a park A, B, C, D, E and Fare sitting. C is the brother of D\"s husband and son of A F is the\ndaughter of D and sister of E",
+    "questionText": "In a park A, B, C, D, E and Fare sitting. C is the brother of D\"s husband and son of A F is the\ndaughter of D and sister of E\n(A) E is the grandson of A\n(B) Fis the daughter of C\n(C) B is the father of F\n(D) There are one son and one daughter in the group\n(E) C is the uncle of E\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "E is the grandson of A"
+        "text": ". (a), (b) and (c) only"
       },
       {
         "key": "B",
-        "text": "Fis the daughter of C"
+        "text": ". (a), (c) and (e) only"
       },
       {
         "key": "C",
-        "text": "B is the father of F"
+        "text": ". (b), (d) and (e) only"
       },
       {
         "key": "D",
-        "text": "There are one son and one daughter in the group (E) C is the uncle of E Choose the correct answer from the options given below :"
+        "text": ". (b), (c) and (d) only"
       }
     ],
     "correctOption": "B",
@@ -56873,23 +56873,23 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "11.11.2020 FN | Q.15",
-    "questionText": "Match List I withList II :List I consists of the Vedangas and List II contains subjects dealt in them.\nList I List II",
+    "questionText": "Match List I withList II :List I consists of the Vedangas and List II contains subjects dealt in them.\nList I List II\n(A) Nirukta (I) Phonetics\n(B) Chhandas (II) Ritual\n(C) Shiksha (III) Metrics\n(D) Kalpa (IV) Etymology\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Nirukta (I) Phonetics"
+        "text": ". (A)-(II), (B)-(IV), (C)-(III), (D)-(I)"
       },
       {
         "key": "B",
-        "text": "Chhandas (II) Ritual"
+        "text": ". (A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Shiksha (III) Metrics"
+        "text": ". (A)-(III). (B)-(I), (C)-(ll). (D)-(IV)"
       },
       {
         "key": "D",
-        "text": "Kalpa (IV) Etymology Choose the correct answer from the options given below :"
+        "text": ". (A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
       }
     ],
     "correctOption": "B",
@@ -56921,7 +56921,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2073",
@@ -56949,7 +56949,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2074",
@@ -57005,7 +57005,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2076",
@@ -57621,7 +57621,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2101",
@@ -57649,7 +57649,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2102",
@@ -57733,7 +57733,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2105",
@@ -58209,7 +58209,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2122",
@@ -58293,7 +58293,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2125",
@@ -58377,7 +58377,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2128",
@@ -58433,7 +58433,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2131",
@@ -58489,7 +58489,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2133",
@@ -58853,7 +58853,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2154",
@@ -59553,7 +59553,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2192",
@@ -59609,7 +59609,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2194",
@@ -59637,7 +59637,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2195",
@@ -59665,7 +59665,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2196",
@@ -59805,7 +59805,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2211",
@@ -59973,7 +59973,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2218",
@@ -60001,7 +60001,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2219",
@@ -60085,7 +60085,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2224",
@@ -60169,7 +60169,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2268",
@@ -60225,7 +60225,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2270",
@@ -60253,7 +60253,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2306",
@@ -60281,7 +60281,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2307",
@@ -60337,7 +60337,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2309",
@@ -60449,7 +60449,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2313",
@@ -60589,7 +60589,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2318",
@@ -60673,7 +60673,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2322",
@@ -60757,7 +60757,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2326",
@@ -60785,7 +60785,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2327",
@@ -60813,7 +60813,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2328",
@@ -61065,7 +61065,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2337",
@@ -61093,7 +61093,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2338",
@@ -61485,7 +61485,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2353",
@@ -61793,7 +61793,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2452",
@@ -62129,7 +62129,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-2464",
@@ -62241,7 +62241,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Questionnaire: Closed-Ended | Fixed response options (MCQs, Likert scales); high reliability, easy to quantify, lacks contextual depth."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2468",
@@ -62353,7 +62353,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2472",
@@ -62361,27 +62361,27 @@
     "unitId": 1,
     "unitTitle": "Teaching Aptitude",
     "shift": "JUNE 2015 | Q.30",
-    "questionText": "A good teacher is one who:",
+    "questionText": "A good teacher is one who:\n(A) Inspires students to learn\n(B) Gives useful information\n(C) Explains concepts and principles\n(D) Gives Printed notes to students\n46. The next term in the series is: 2, 5, 9, 19, 37, ?\n(A) 80\n(B) 73\n(C) 75\n(D) 7\n47. Inductive reasoning is grounded on:\n(A) Harmony of nature\n(B) Integrity of nature\n(C) Unity of nature\n(D) Uniformity of nature\n48. If we want to seek new knowledge of facts about the world, we must rely on reason of the\ntype:\n(A) Physiological\n(B) Inductive\n(C) Deductive\n(D) Demonstrative\n49. Effectiveness of communication can be traced from which of the following?\n(a) Attitude surveys\n(b) Performance records\n(c) Students attendance\n(d) Selection of communication channel\nSelect the correct answer from the codes given below:\n(A) (a), (b) and (d)\n(B) (a), (b), (c) and (d)\n(C) (a), (b) and (c)\n(D) (b), (c) and (d)\n50. One day Prakash left home and walked 10 km towards south, turned right and walked 5\nkm, turned right and walked 10 km and turned left and walked 10 km. How many km will he\nhave to walk to reach his home straight?\n(A) 30\n(B) 10\n(C) 20\n(D) 15\n51. A girl introduced a boy as the son of the daughter of the father of her uncle. The boy is\nrelated to the girl as:\n(A) Son\n(B) Brother\n(C) Uncle\n(D) Nephew\n52. In certain code MATHURA is coded as JXQEROX. The code of HOTELS will be:\n(A) ELIPQB\n(B) LEQIBP\n(C) ELQBIP\n(D) LEBIQP\n53. The term 'grapevine' is also known as:\n(A) Horizontal communication\n(B) Downward communication\n(C) Informal communication\n(D) Upward communication\n54. Assertion (A):\nFormal communication tends to be fast and flexible.\nReason (R):\nFormal communication is a systematic and orderly flow of information.\n(A) (A) is false but, (R) is correct\n(B) Both (A) and (R) are correct and (R) is correct explanation of (A)\n(C) Both (A) and (R) are correct, but (R) is not correct explanation of (A)\n(D) (A) is correct but, (R) is false\nQuestion numbers 55 to 60 are based on the tabulated data given below:\nA company has 20 employees with their age (in years) and salary (in thousand rupees per\nmonth) mentioned against each of them:\nS.No. Age (in\nyears)\nSalary (in thousand rupees per\nmonth)\n1. 44 35\n2. 32 20\n3. 54 45\n4. 42 35\n5. 31 20\n6. 53 60\n7. 42 50\n8. 51 55\n9. 34 25\n10. 41 30\n11. 33 30\n12. 31 35\n13. 30 35\n14. 37 40\n15. 44 45\n16. 36 35\n17. 34 35\n18. 49 50\n19. 43 45\n20. 45 50\n55. What is the average salary (in thousand per month) in the age group 40-50 years?\n(A) 36.5\n(B) 35\n(C) 42.5\n(D) 40.5\n56. What is the fraction of employees getting salary less than the average salary of all the\nemployees?\n(A) 47%\n(B) 45%\n(C) 50%\n(D) 55%\n57. What is the frequency (%) in the class interval of 30-35 years?\n(A) 35%\n(B) 20%\n(C) 25%\n(D) 30%\n58. What is the fraction (%) of employees getting salary > 40,000 per month?\n(A) 32%\n(B) 45%\n(C) 50%\n(D) 35%\n59. What is the average age of the employees?\n(A) 45.3 years\n(B) 40.3 years\n(C) 38.6 years\n(D) 47.2 years\n60. Classify the data of age of each employee in class interval of 5 years. Which class interval\nof 5 years has the maximum average salary?",
     "options": [
       {
         "key": "A",
-        "text": "Inspires students to learn"
+        "text": "50-55 years"
       },
       {
         "key": "B",
-        "text": "Gives useful information"
+        "text": "35-40 years"
       },
       {
         "key": "C",
-        "text": "Explains concepts and principles"
+        "text": "40-45 years"
       },
       {
         "key": "D",
-        "text": "Gives Printed notes to students"
+        "text": "45-50 years"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Interval: Ordered scale with equal intervals between points; arbitrary zero (no true zero point). | Addition / Subtraction ($+, -$)"
   },
   {
     "id": "P1-U01-2473",
@@ -62521,7 +62521,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2478",
@@ -62549,7 +62549,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2479",
@@ -62661,7 +62661,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2483",
@@ -62717,7 +62717,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2485",
@@ -62829,7 +62829,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Level of Teaching: Formulated By | Primary Cognitive Focus"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2489",
@@ -62857,7 +62857,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2490",
@@ -63025,7 +63025,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2496",
@@ -63305,7 +63305,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2506",
@@ -63361,7 +63361,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2508",
@@ -63445,7 +63445,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2511",
@@ -63473,7 +63473,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2512",
@@ -63501,7 +63501,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2513",
@@ -63613,7 +63613,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2518",
@@ -63753,7 +63753,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2523",
@@ -63837,7 +63837,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2526",
@@ -64201,7 +64201,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2539",
@@ -64229,7 +64229,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2540",
@@ -64537,7 +64537,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2551",
@@ -64565,7 +64565,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2552",
@@ -64649,7 +64649,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2555",
@@ -64789,7 +64789,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2560",
@@ -64901,7 +64901,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2564",
@@ -65041,7 +65041,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2569",
@@ -65489,7 +65489,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2585",
@@ -65601,7 +65601,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U01-2590",
@@ -65797,7 +65797,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2597",
@@ -65853,7 +65853,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2599",
@@ -65965,7 +65965,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2603",
@@ -66217,7 +66217,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2612",
@@ -66413,7 +66413,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2619",
@@ -66665,7 +66665,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2628",
@@ -66721,7 +66721,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2630",
@@ -67337,7 +67337,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2652",
@@ -67729,7 +67729,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2666",
@@ -67757,7 +67757,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2667",
@@ -67813,7 +67813,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Formative Evaluation: Conducted during the active learning process. | Continuous monitoring, immediate diagnostic feedback, improving learning as it happens."
   },
   {
     "id": "P1-U01-2669",
@@ -68205,7 +68205,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U01-2684",

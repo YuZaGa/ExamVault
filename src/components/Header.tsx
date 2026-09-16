@@ -1,14 +1,15 @@
 import React from 'react';
-import { Flame, Volume2, VolumeX, Smartphone, Share2 } from 'lucide-react';
+import { Flame, Volume2, VolumeX, Smartphone, Share2, ShieldCheck } from 'lucide-react';
 import { audioService } from '../services/audioService';
 import { storageService } from '../services/storageService';
 
 interface HeaderProps {
   onOpenSync: () => void;
+  onOpenAdmin?: () => void;
   streakDays: number;
 }
 
-export const Header: React.FC<HeaderProps> = ({ onOpenSync, streakDays }) => {
+export const Header: React.FC<HeaderProps> = ({ onOpenSync, onOpenAdmin, streakDays }) => {
   const [soundOn, setSoundOn] = React.useState(audioService.soundEnabled);
   const [hapticOn, setHapticOn] = React.useState(audioService.hapticEnabled);
 
@@ -65,6 +66,18 @@ export const Header: React.FC<HeaderProps> = ({ onOpenSync, streakDays }) => {
         >
           <Smartphone size={17} color={hapticOn ? '#6366F1' : 'inherit'} />
         </button>
+
+        {onOpenAdmin && (
+          <button 
+            className="icon-btn" 
+            onClick={onOpenAdmin} 
+            title="Admin Question Approval (/admin)"
+            aria-label="Admin Portal"
+            style={{ color: '#A78BFA' }}
+          >
+            <ShieldCheck size={18} />
+          </button>
+        )}
 
         <button 
           className="icon-btn" 

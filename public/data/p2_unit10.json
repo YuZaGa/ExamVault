@@ -249,7 +249,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U10-11",
@@ -445,6 +445,6 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   }
 ]

@@ -118,11 +118,12 @@ class QuestionService {
       matchingUnitFiles.map(u => this.loadUnitQuestions(u.fileName))
     );
 
-    // Combine pool
+    // Combine pool & filter out excluded questions
     let combinedPool: Question[] = [];
     unitQuestionArrays.forEach(arr => {
       combinedPool = combinedPool.concat(arr);
     });
+    combinedPool = combinedPool.filter(q => !storageService.isQuestionExcluded(q.id));
 
     if (combinedPool.length === 0) return [];
 
@@ -147,7 +148,10 @@ class QuestionService {
 
     const questionsPerUnit = paper === 1 ? 5 : 10;
     const allUnitQuestions = await Promise.all(
-      paperUnits.map(u => this.loadUnitQuestions(u.fileName))
+      paperUnits.map(async u => {
+        const qs = await this.loadUnitQuestions(u.fileName);
+        return qs.filter(q => !storageService.isQuestionExcluded(q.id));
+      })
     );
 
     let mockSet: Question[] = [];
@@ -175,7 +179,7 @@ class QuestionService {
   // Retrieve Mistake Vault questions for a practice session
   public getMistakeQuestions(paperFilter?: 1 | 2, unitFilter?: number): Question[] {
     const activeMistakes = storageService.getActiveMistakes();
-    let filtered = activeMistakes.map(m => m.question);
+    let filtered = activeMistakes.map(m => m.question).filter(q => !storageService.isQuestionExcluded(q.id));
 
     if (paperFilter) {
       filtered = filtered.filter(q => q.paper === paperFilter);

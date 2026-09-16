@@ -25,7 +25,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-3",
@@ -53,7 +53,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-4",
@@ -109,7 +109,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-6",
@@ -137,7 +137,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-7",
@@ -389,7 +389,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-16",
@@ -501,7 +501,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-20",
@@ -529,7 +529,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-21",
@@ -781,7 +781,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-30",
@@ -865,7 +865,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-33",
@@ -949,7 +949,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": "I.A. Richards: Coined/Proposed by *Principles of Literary Criticism* (1924) (*\"The two pillars upon which a theory of criticism must rest are an account of value and an account of communication.\"*)"
   },
   {
     "id": "P2-U08-36",
@@ -977,7 +977,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-37",
@@ -1061,7 +1061,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-40",
@@ -1117,7 +1117,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-42",
@@ -1285,7 +1285,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "1791: Coined/Proposed by Thomas Paine (*Rights of Man*)"
   },
   {
     "id": "P2-U08-48",
@@ -1397,7 +1397,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-52",
@@ -1537,7 +1537,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-57",
@@ -1565,7 +1565,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-58",
@@ -1817,7 +1817,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-67",
@@ -1845,7 +1845,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-68",
@@ -1929,7 +1929,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-71",
@@ -2013,7 +2013,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-74",
@@ -2097,7 +2097,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-77",
@@ -2209,7 +2209,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-81",
@@ -2237,7 +2237,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-82",
@@ -2377,7 +2377,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-87",
@@ -2545,7 +2545,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-93",
@@ -2573,7 +2573,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-94",
@@ -2657,7 +2657,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-97",
@@ -2769,7 +2769,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U08-101",

@@ -81,7 +81,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-5",
@@ -137,7 +137,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "Twelfth Night: Coined/Proposed by *What You Will* (William Shakespeare (1601–02))"
   },
   {
     "id": "P2-U01-7",
@@ -333,7 +333,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-14",
@@ -445,7 +445,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-18",
@@ -613,7 +613,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-24",
@@ -697,7 +697,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": "Gurcharan Das: Coined/Proposed by *Larins Sahib* (1968), *Mira*, *9 Jakhoo Hill* (Sultan Padamsee Award (1968) for *Larins Sahib* (set in 1846 Punjab after First Anglo-Sikh War).)"
   },
   {
     "id": "P2-U01-27",
@@ -1397,7 +1397,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-52",
@@ -1509,7 +1509,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-56",
@@ -2153,7 +2153,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-79",
@@ -2237,7 +2237,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-82",
@@ -2265,7 +2265,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-83",
@@ -2461,7 +2461,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-90",
@@ -2489,7 +2489,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-91",
@@ -2629,7 +2629,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-96",
@@ -2741,7 +2741,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": "Gurcharan Das: Coined/Proposed by *Larins Sahib* (1968), *Mira*, *9 Jakhoo Hill* (Sultan Padamsee Award (1968) for *Larins Sahib* (set in 1846 Punjab after First Anglo-Sikh War).)"
   },
   {
     "id": "P2-U01-100",
@@ -2769,7 +2769,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-101",
@@ -3021,7 +3021,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-111",
@@ -3161,7 +3161,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "1978: Coined/Proposed by Anita Desai (*Fire on the Mountain*)"
   },
   {
     "id": "P2-U01-116",
@@ -3245,7 +3245,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-119",
@@ -3617,23 +3617,23 @@
     "unitId": 1,
     "unitTitle": "Drama",
     "shift": "Shift: DECEMBER 2021 SHIFT I | Q.11",
-    "questionText": "Match List I with List II\nList I \tList II\n(Author) \t(Form)\nA. Pindar \tI. Epinici\nB. Menander \tII. Old Comedy\nC. Sappho \tIII. Lyric Poetry\nD. Aristophanes \tIV. New Comedy\nChoose the correct answer from the options given below",
+    "questionText": "Match List I with List II\nList I \tList II\n(Author) \t(Form)\nA. Pindar \tI. Epinici\nB. Menander \tII. Old Comedy\nC. Sappho \tIII. Lyric Poetry\nD. Aristophanes \tIV. New Comedy\nChoose the correct answer from the options given below\n(A) A \tI, B \tIII, C \tII, \tD \tIV,\n(B) A \tI, B \tIV, \tC \tIII, D \tII\n\n\n(C) A \tII, B \tI, C \tIV, \tD \tIII\n(D) A \tIII, B \tIV,C \tI, D – II\n12.Which of the following novels has its epigraph taken from the Katha Upanishad?",
     "options": [
       {
         "key": "A",
-        "text": "A \tI, B \tIII, C \tII, \tD \tIV,"
+        "text": "A Room with a View by E. M. Forster"
       },
       {
         "key": "B",
-        "text": "A \tI, B \tIV, \tC \tIII, D \tII"
+        "text": "Point Counter Point by Aldous Huxley"
       },
       {
         "key": "C",
-        "text": "A \tII, B \tI, C \tIV, \tD \tIII"
+        "text": "The Island of Doctor Moreau by H. G. Wells"
       },
       {
         "key": "D",
-        "text": "A \tIII, B \tIV,C \tI, D – II 12.Which of the following novels has its epigraph taken from the Katha Upanishad?"
+        "text": "The Razor's Edge by Somerset Maugham"
       }
     ],
     "correctOption": "B",
@@ -3665,7 +3665,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-134",
@@ -4141,7 +4141,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Playwright: Coined/Proposed by Major Plays (Landmark Awards & Honors)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U01-151",

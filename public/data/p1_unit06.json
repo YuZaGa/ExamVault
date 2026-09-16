@@ -333,7 +333,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-14",
@@ -445,7 +445,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": "Contrary: $A \\longleftrightarrow E$ | Cannot both be True, but can both be False."
   },
   {
     "id": "P1-U06-18",
@@ -613,7 +613,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": "Subalternation: $A \\longrightarrow I$<br>$E \\longrightarrow O$ | Truth flows DOWNWARDS ($A \\text{ True} \\implies I \\text{ True}$).<br>Falsehood climbs UPWARDS ($I \\text{ False} \\implies A \\text{ False}$)."
   },
   {
     "id": "P1-U06-24",
@@ -1145,7 +1145,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": "Slippery Slope: — | Claiming without evidence that an initial small step will inevitably lead to an extreme chain of disastrous events."
   },
   {
     "id": "P1-U06-43",
@@ -1257,7 +1257,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-47",
@@ -1845,7 +1845,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
   },
   {
     "id": "P1-U06-68",
@@ -2349,7 +2349,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-86",
@@ -2461,7 +2461,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-90",
@@ -2517,7 +2517,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-92",
@@ -2601,7 +2601,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Asādhārana: Too narrow | Middle term is present *only* in the minor term and nowhere else."
   },
   {
     "id": "P1-U06-95",
@@ -2685,7 +2685,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
+    "cheatSheetRule": "Asādhārana: Too narrow | Middle term is present *only* in the minor term and nowhere else."
   },
   {
     "id": "P1-U06-98",
@@ -2937,7 +2937,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-107",
@@ -3161,7 +3161,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Causality: Experimental | Active manipulation of independent variable with random assignment and control group."
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-115",
@@ -3189,7 +3189,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-116",
@@ -3861,7 +3861,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
   },
   {
     "id": "P1-U06-140",
@@ -4085,7 +4085,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
   },
   {
     "id": "P1-U06-148",
@@ -4197,7 +4197,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
+    "cheatSheetRule": "Sādhārana: Too wide | Middle term is present in both positive & negative instances."
   },
   {
     "id": "P1-U06-152",
@@ -4337,7 +4337,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
   },
   {
     "id": "P1-U06-157",
@@ -4561,7 +4561,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-165",
@@ -4989,27 +4989,27 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "04-03-2023 COM_FN | Q.19",
-    "questionText": "Which of the following make classroom communication interesting?",
+    "questionText": "Which of the following make classroom communication interesting?\n(A) 933\n(B) 950\n(C) 138\n(D) 82\n24. A businessman buys a house for ₹ 9.0 lakhs. He puts the house on rent and keeps 15% of each\nmonth's rent separately for repairs. After paying ₹ 2106 as annual taxes on the rent, he realizes 10%\nannually on his investment. Find the monthly rent of the house.\n(A) ₹ 10,000\n(B) ₹ 9,080\n(C) ₹ 9.030\n(D) ₹ 9,500\n25. Sum of 3 consecutive odd numbers and 3 consecutive even numbers together is 231. Also the\nsmallest odd number is 11 less than the smallest even number. What is the sum of the largest odd\nnumber and the largest even number?\n(A) 81\n(B) 73\n(C) 77\n(D) 79\n26. \"First it is staying out late, then it is not calling home, then wild parties and before you know it, your\nlife will be completely out of control. Someday you will be glad that you had a lockdown.\" Which\ninformal fallacy is committed in the above argument?\n(A) Red herring\n(B) Slippery slope\n(C) Strawman\n(D) Appeal to authority\n27. Which of the following statements are logically equivalent?\n(a) No philosophers are industrialists.\n(b) No industrialists are philosophers.\n(c) All non-industrialists are non-philosophers.\n(d) All philosophers are non-industrialists.\nChoose the most appropriate answer from the options given below:\n(A) (a), (b) and (c) only\n(B) (a), (b) and (d) only\n(C) (a), (c) and (d) only\n(D) (b), (c) and (d) only\n28. Which of the following statements are logically contradictory to each other?\n(a) All philosophers are industrialists.\n(b) Some philosophers are not industrialists.\n(c) No philosophers are industrialists.\n(d) No industrialists are philosophers.\nChoose the most appropriate answer from the options given below:\n(A) (a) and (b) only\n(B) (a), (c) and (d) only\n(C) (a) and (c) only\n(D) (c) and (d) only\n29. If the statement 'No philosophers are industrialists' is given as true which of the following statements\ncan be immediately inferred from it to be true?\n(A) No philosophers are rich persons.\n(B) All industrialists are philosophers.\n(C) Some philosophers are industrialists.\n(D) Some philosophers are not industrialists.\n30. According to Nyāya (Classical Indian school of Logic) which means of knowledge (pramāna) is\nused in the following argument - \"The world is an effect and hence it must have an efficient cause\nlike all objects e.g. pots, cloth etc. do. That efficient cause is God\".\n(A) Postulation (arthāpatti)\n(B) Inference (anumāna)\n(C) Comparison (Upamāna)\n(D) Verbal Testimony (S'abda)\n31. Which one of the following acronyms matches incorrectly with their full form?\n(A) ATM - Automatic Teller Machine\n(B) SIM - Subscriber Identity Module\n(C) GPS - Global Positioning Sensor\n(D) GIS - Geographic Information System\n32. Identify the correct order of the following terms A-E to complete the paragraph given below that\nexplains how data is sent securely over the Internet using the Transport Layer Security (TLS)\nprotocol:\n‘The browser requests the _____ to identify itself by providing its _______. This is sent and a check\nis performed to see if it is _____. If it is, the _____ sends a ____ back to the web server and data\ntransmission begins.’\n(a) authentic\n(b) browser\n(c) certificate\n(d) signal\n(e) web server\nChoose the correct answer from the options given below:\n(A) (c), (b), (d), (a), (e)\n(B) (e), (c), (a), (b), (d)\n(C) (d), (c), (a), (b), (e)\n(D) (b), (c), (a), (b), (d)\n33. Given below are two statements:\nStatement (I): AI is an artificially created environment used to give a feeling of 'being there',\nwhereas virtual reality learns from changing circumstances.\nStatement (II): Unlike dot matrix and inkjet printers, laser printers don't use ink when producing\ndocuments.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both Statement (I) and Statement (II) are true.\n(B) Both Statement (I) and Statement (II) are false.\n(C) Statement (I) is true but Statement (II) is false.\n(D) Statement (I) is false but Statement (II) is true.\n34. Which of the following are the main benefits of networking computers and devices rather than using\na number of stand-alone computers?\n(a) Devices, such as printers, can be shared, thus reducing costs.\n(b) Licences to run software on networks are often far cheaper than buying licenses for an\nequivalent number of stand-alone computers.\n(c) Users cannot share files and data.\n(d) Access to reliable data that comes from a central source, such as a file server.\nChoose the correct answer from the options given below:\n(A) (a) and (c) only\n(B) (b), (c) and (d) only\n(C) (a), (b), (c) and (d) only\n(D) (a), (b) and (d) only\n35. Match List I with List II:\nLIST I\n(Computer Term)\nLIST II\n(Description)\n(a) Disk defragmentor \t(I) Utility that prepares a disk to allow data/files to be\nstored and retrieved.\n(b) Disk formatter \t(II) Storage media with no moving parts.\n(c) Device driver \t(III) Utility that reorganises the sectors on a hard disk so\nthat files can be stored in contiguous data blocks.\n(d) Solid state drive \t(IV) Software that communicates with OS and translates\ndata into a format understood by the device.\nChoose the correct answer from the options given below:\n(A) (a)-(II), (b)-(I), (c)-(III), (d)-(IV)\n(B) (a)-(III), (b)-(I), (c)-(IV), (d)-(II)\n(C) (a)-(I), (b)-(III), (c)-(II), (d)-(IV)\n(D) (a)-(IV), (b)-(II), (c)-(I), (d)-(III)\n36. Which of the following is measured in Dobson Units?\n(A) ChloroFluoro Carbon (CFC)\n(B) Stratospheric Ozone\n(C) Ultraviolet Rays\n(D) Solar Radiation\n37. Photo Electro Chemical (PEC) solar cells are based on\n(A) Only inorganic semiconductors\n(B) Only organic semiconductors\n(C) Only crystal silicon semiconductor\n(D) Hybrid structure of inorganic semiconductors and an electrolyte\n38. Match List I with List II:\nLIST I\n(Summit/Protocol)\nLIST II\n(Year)\n(a) Montreal Protocol \t(I) 1992\n(b) Rio Summit \t(II) 2015\n(c) Kyoto Protocol \t(III) 1987\n(d) Paris Agreement \t(IV) 1997\nChoose the correct answer from the options given below:\n(A) (a)-(III), (b)-(I), (c)-(IV), (d)-(II)\n(B) (a)-(III), (b)-(I), (c)-(II), (d)-(IV)\n(C) (a)-(I), (b)-(III), (c)-(II), (d)-(IV)\n(D) (a)-(IV), (b)-(II), (c)-(I), (d)-(III)\n39. Thermal expansion of oceans may lead to\n(A) Global warming\n(B) Ozone depletion\n(C) Melting of glaciers\n(D) Sea level rise\n40. Waste stabilization ponds are:\n(a) Mainly oxidation ponds\n(b) Used to remove pathogen and organic contents\n(c) Natural treatment systems\n(d) Extremely quick\n(e) Most efficient in extremely cold weather.\nChoose the correct answer from the options given below:\n(A) (a), (b) and (c) only\n(B) (b), (c) and (d) only\n(C) (a), (b) and (e) only\n(D) (c), (d) and (e) only\nStatement-(I): The Governor of the State is the Chancellor of deemed universities.\nStatement-(II): Deemed universities can design their own syllabus and course work.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both Statement (I) and Statement (II) are true.\n(B) Both Statement (I) and Statement (II) are false.\n(C) Statement (I) is true but Statement (II) is false.\n(D) Statement (I) is false but Statement (II) is true.\n42. What is the full form of ‘DIKSHA’?\n(A) Digital Infrastructure for Knowledge Sharing\n(B) District Institute for Knowledge Sharing\n(C) Data Information and Knowledge Sharing\n(D) Digital Institution for Knowledge Sharing\n43. Which of the following are the key ingredients of quality in-service teacher training?\n(a) Preparation of training material\n(b) Assessment of training needs\n(c) Development of appropriate curriculum/Modules\n(d) Assessment of the impact and outcome of the training.\nChoose the most appropriate answer from the options given below:\n(A) (a) and (d) only\n(B) (b) and (c) only\n(C) (a), (c) and (d) only\n(D) (a), (b), (c) and (d)\n44. According to NEP 2020 more HEIs shall be established and developed in underserved regions to\nensure full\n(A) Access, Equity and Inclusion\n(B) Accountability, Equality and Integration\n(C) Assessment, Equivalence and Identity\n(D) Autonomy, Effectiveness and Implication\n45. Which of the following recommendations were put forward by University Education Commission\nappointed after independence by the Indian Government concerning medical education in India?\n(a) Medical colleges should admit a maximum number of hundred students.\n(b) History of medicine with special reference to Indian systems should be taught in the first degree\ncourse in medicine.\n(c) More importance should be attached to Public health, Engineering and Nursing.\n(d) There should be provision of ten beds per student admitted in the medical college.\nChoose the correct answer from the options given below:\n(A) (a) and (b) only\n(B) (b) and (c) only\n(C) (b), (c) and (d) only\n41. Given below are two statements:\n(D) (a), (b), (c) and (d)\n46. According to Gokhale, what percentage of the total expenditure on education should be borne by the\nstate?\n(A) ~ 25%\n(B) ~ 33%\n(C) ~ 66%\n(D) ~ 75%\n47. Given below are two statements:\nStatement (I): Gokhale believed that education was necessary for the Indian masses to be liberated\nfrom their miserable condition.\nStatement (II): Gokhale faced little resistance in the introduction of his bill on elementary\neducation.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:\n(A) Both Statement (I) and Statement (II) are correct.\n(B) Both Statement (I) and Statement (II) are incorrect.\n(C) Statement (I) is correct but Statement (II) is incorrect.\n(D) Statement (I) is incorrect but Statement (II) is correct.\n48. Which of the following can be inferred from the passage?\n(a) The growth of education in India was very slow prior to 1910.\n(b) There was a need to make education compulsory for all according to Gokhale.\n(c) Gokhale believed that achieving education for all Indians was a distant dream.\n(d) Gokhale suggested that majority of expenditure for education should be met by local bodies.\nChoose the correct answer from the options given below:\n(A) (a), (b) and (c) only\n(B) (b), (c) and (d) only\n(C) (a), (b) and (d) only\n(D) (a), (c) and (d) only\n49. Given below are two statements:\nStatement (I): Gokhale believed that education should be made free for the poor people.\nStatement (II): Gokhale suggested that an additional tax of 8-anna should be imposed on salt.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:\n(A) Both Statement (I) and Statement (II) are correct.\n(B) Both Statement (I) and Statement (II) are incorrect.\n(C) Statement (I) is correct but Statement (II) is incorrect.\n(D) Statement (I) is incorrect but Statement (II) is correct.\n50. Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason\n(R):\nAssertion (A): Gokhale was not in favour of free education for the poor.\nReason (R): He suggested that those students whose family income was Rs. 25 per month or more,\nshould pay the education fees.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
     "options": [
       {
         "key": "A",
-        "text": "933"
+        "text": "Both (A) and (R) are correct and R is the correct explanation of (A)."
       },
       {
         "key": "B",
-        "text": "950"
+        "text": "Both (A) and (R) are correct but R is NOT the correct explanation of (A)."
       },
       {
         "key": "C",
-        "text": "138"
+        "text": "(A) is correct but (R) is not correct."
       },
       {
         "key": "D",
-        "text": "82"
+        "text": "(A) is not correct but (R) is correct."
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
   },
   {
     "id": "P1-U06-181",
@@ -5793,7 +5793,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Anupsamhari: Non-exclusive / Inconclusive | The minor term includes everything; no contrasting negative instance exists."
   },
   {
     "id": "P1-U06-209",
@@ -5905,7 +5905,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-213",
@@ -6101,7 +6101,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-220",
@@ -6213,7 +6213,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": "Nyāya: 4 | Pratyakṣa, Anumāna, Upamāna (Comparison), Śabda"
   },
   {
     "id": "P1-U06-224",
@@ -6465,7 +6465,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Anupsamhari: Non-exclusive / Inconclusive | The minor term includes everything; no contrasting negative instance exists."
   },
   {
     "id": "P1-U06-233",
@@ -6577,7 +6577,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-237",
@@ -6829,7 +6829,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-246",
@@ -6969,7 +6969,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Slippery Slope: — | Claiming without evidence that an initial small step will inevitably lead to an extreme chain of disastrous events."
   },
   {
     "id": "P1-U06-251",
@@ -7333,7 +7333,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Straw Man: — | Misrepresenting, exaggerating, or oversimplifying an opponent's argument to make it easy to knock down."
   },
   {
     "id": "P1-U06-264",
@@ -8341,7 +8341,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-300",
@@ -8677,7 +8677,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": "Begging the Question: *Petitio Principii* | Circular reasoning where the premise assumes the truth of the conclusion."
   },
   {
     "id": "P1-U06-312",
@@ -8873,7 +8873,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-319",
@@ -9433,7 +9433,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-339",
@@ -10169,23 +10169,23 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "Shift_45 | Q.29",
-    "questionText": "Which of the following schools of Classical Indian Philosophy reduce Sabda pramima (verbal\nauthority) to inference?",
+    "questionText": "Which of the following schools of Classical Indian Philosophy reduce Sabda pramima (verbal\nauthority) to inference?\n(A) Nayaya\n(B) Vai st e s ikas\n(C) Buddhists\n(D) NIimitmsit\n(E) CarvakaiLokayata\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Nayaya"
+        "text": "(B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Vai st e s ikas"
+        "text": "(B), (C) and (E) only"
       },
       {
         "key": "C",
-        "text": "Buddhists"
+        "text": "(B) and (E) only"
       },
       {
         "key": "D",
-        "text": "NIimitmsit (E) CarvakaiLokayata Choose the correct answer from the options given below :"
+        "text": "(A), (D) and (E) only"
       }
     ],
     "correctOption": "A",
@@ -10225,27 +10225,27 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "Shift_45 | Q.41",
-    "questionText": "What is the correct sequence of steps in case of inference according to\nIndian Logic?",
+    "questionText": "What is the correct sequence of steps in case of inference according to\nIndian Logic?\n(A) Statement of similarity/applicability of the example to case in consideration (upanaya)\n(B) Statement of Reason (hetu)\n(C) Affirmation of the thesis as proved (nigmana)\n(D) Statement of thesis (Pratijñā)\n(E) Giving an example of the underlying rule (udāharana)\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Statement of similarity/applicability of the example to case in consideration (upanaya)"
+        "text": "(D), (E), (A), (C), (B)"
       },
       {
         "key": "B",
-        "text": "Statement of Reason (hetu)"
+        "text": "(D), (C), (B), (A), (E)"
       },
       {
         "key": "C",
-        "text": "Affirmation of the thesis as proved (nigmana)"
+        "text": "(D), (B), (E), (A), (C)"
       },
       {
         "key": "D",
-        "text": "Statement of thesis (Pratijñā) (E) Giving an example of the underlying rule (udāharana) Choose the correct answer from the options given below :"
+        "text": "(D), (E), (A), (B), (C)"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-368",
@@ -10777,7 +10777,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Ashrayāsiddha: Unfounded minor | Minor term does not exist in reality."
   },
   {
     "id": "P1-U06-388",
@@ -11113,7 +11113,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-400",
@@ -11421,7 +11421,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-411",
@@ -11477,7 +11477,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Contrary: $A \\longleftrightarrow E$ | Cannot both be True, but can both be False."
+    "cheatSheetRule": "Subcontrary: $I \\longleftrightarrow O$ | Cannot both be False, but can both be True."
   },
   {
     "id": "P1-U06-413",
@@ -11533,7 +11533,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-415",
@@ -11673,7 +11673,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-420",
@@ -11729,7 +11729,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-422",
@@ -11849,23 +11849,23 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "Shift_61 | Q.36",
-    "questionText": "Match list I and II :\nList I \tList II",
+    "questionText": "Match list I and II :\nList I \tList II\n(A)Vyapti \t(I) The property being inferred\n(B)Linga \t(II) Locus of hetu and sadhya\n(C)Sadhya \t(III) Sign or reason\n(D)Paksha \t(IV) Universal concomitance\nChoose the correct answer from the option given below :",
     "options": [
       {
         "key": "A",
-        "text": "Vyapti \t(I) The property being inferred"
+        "text": "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Linga \t(II) Locus of hetu and sadhya"
+        "text": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Sadhya \t(III) Sign or reason"
+        "text": "(A)-(IV), (B)-(III). (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Paksha \t(IV) Universal concomitance Choose the correct answer from the option given below :"
+        "text": "(A)-(III), (B)-(1), (C)-(IV) , (D)-(II)"
       }
     ],
     "correctOption": "C",
@@ -12177,7 +12177,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-439",
@@ -12289,7 +12289,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-443",
@@ -12437,23 +12437,23 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "Shift_66 | Q.39",
-    "questionText": "With reference to pramana theory both on dialogical and philosophical discourse, which of the\nfollowing options are correct?",
+    "questionText": "With reference to pramana theory both on dialogical and philosophical discourse, which of the\nfollowing options are correct?\n(A) It furnishes the required grounding for the thesis to be backed up by a certain means of\nknowledge.\n(B) It provides the necessary platform to incisely analyse the proposed thesis.\n(C) It enables us to succinitly summarise the observations, that stem out of analysis. in the\nform of anumana or nyaya prayoga.\n(D) It enables the debater to elicit acceptance of his/her own belief system on the basis of\nformal validity alone.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "It furnishes the required grounding for the thesis to be backed up by a certain means of knowledge."
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "It provides the necessary platform to incisely analyse the proposed thesis."
+        "text": "(A) and (C) only"
       },
       {
         "key": "C",
-        "text": "It enables us to succinitly summarise the observations, that stem out of analysis. in the form of anumana or nyaya prayoga."
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "D",
-        "text": "It enables the debater to elicit acceptance of his/her own belief system on the basis of formal validity alone. Choose the correct answer from the options given below:"
+        "text": "(A), (B) and (D) only"
       }
     ],
     "correctOption": "C",
@@ -12625,7 +12625,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-455",
@@ -12653,7 +12653,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-456",
@@ -12709,7 +12709,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-458",
@@ -12765,7 +12765,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-460",
@@ -12905,7 +12905,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-467",
@@ -12989,7 +12989,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Substance: Approximate pH | Nature"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-470",
@@ -13109,23 +13109,23 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "17.10.2020 FN | Q.8",
-    "questionText": "Ayurveda, which deals with indigenous system of medicine, could be traced to:",
+    "questionText": "Ayurveda, which deals with indigenous system of medicine, could be traced to:\n(A) Rigveda\n(B) Yajurveda\n(C) Samaveda\n(D) Atharvaveda\n10. Which of the following features best describe an independent variable in research?\na. It is the cause in the cause-effect relationship_\nb. It is the effect in the cause-effect relationship.\nc. It is the condition or char acteristic which is manipulated in an experimental study.\nd. It is t he variable which is placed under control.\ne. It is a kind of response variable.\nChoose the correct answer from the options given below",
     "options": [
       {
         "key": "A",
-        "text": "Rigveda"
+        "text": "(a) and (e) only"
       },
       {
         "key": "B",
-        "text": "Yajurveda"
+        "text": "(b) and (c) only"
       },
       {
         "key": "C",
-        "text": "Samaveda"
+        "text": "(a) and (c) only"
       },
       {
         "key": "D",
-        "text": "Atharvaveda"
+        "text": "(d) and (e) only"
       }
     ],
     "correctOption": "D",
@@ -13221,27 +13221,27 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "Shift_16 | Q.41",
-    "questionText": "Match List I with List II :",
+    "questionText": "Match List I with List II :\n(A) Both Statement I and Statement II are correct\n(B) Both Statement I and Statement II are incorrect\n(C) Statement I is correct but Statement II is incorrect\n(D) Statement I is incorrect but Statement II is correct\n44.Given below are two propositions :\nAll philosophers are fallible.\nlllegel is not fallible.\nIn the classical square of opposition, which one of the following is the correct option\nfor this?\n(A) Contrary\n(B) Sub contrary\n(C) Contradictory\n(D) Subaltern\n45.In terms of the relationship indicated below, which word will correctly pair to replace\nthe question mark. Frown:Pain :: Smile : _________?\n(A) Joy\n(B) Sorrow\n(C) Failure\n(D) Discomfiture\nS=46-50);\nComprehension:\nRead the passage and answer questions 46 to 50.\nPower' has been differentiated by numerous authors and practitioners. Amitai Etzioni\nwas among the first to describe individuals who are able to induce other individuals to\ncomply and take action because of their position in the organization as having position\npower; those who derive their power from their followers are considered to have\npersonal power. Some are skilled enough to have both. Position power is the extent to\nwhich those people to whom managers report are willing to delegate authority and\nresponsibility to them. So position power tends to flow down in an organization. This is\nnot to say that leaders do not have any impact on how much position power they\naccrue. They certainly do. The confidence and trust they develop with the people\naround them will often determine the willingness of upper management to delegate to\nthem. Remember, though that whatever power is delegated downward can also be\ntaken back. Personal power is the extent to which followers respect, feel good about,\nand are committed to the leader. They believe that their own needs and goals will be\nrecognized, supported, and facilitated by their leader. As such personal power in an\norganisational setting comes from below - from the followers — and so flows up in an\norganisation. Personal power is not inherent in the leader. If it were, managers with\npersonal power could take over any department and have the same commitment and\nrapport they had in their last department. Personal power is a day-to-day\nphenomenon. Personal power is a critical part of having and demonstrating emotional\nintelligence.\n46.When individuals in an organisation ask others to comply with their instructions, it is\nidentified as\n(A) organisational power\n(B) positional power\n(C) authoritarian power\n(D) delegated power\n47.The passage recognizes the critical role of\n(A) faith of the leader in his followers\n(B) emotional intelligence to have personal power\n(C) needs and goals of managers for personal power\n(D) power flowing upwards so that managers can gain personal power\n48.Position power, when delegated is\n(A) volatile\n(B) permanent\n(C) absolute\n(D) inherent\n49.Delegation of power to managers depends upon\n(A) downward flow of authority\n(B) the whimsicality of top managers\n(C) the people around the management\n(D) the trust reposed by the top managers\n50.Personal power emanates from",
     "options": [
       {
         "key": "A",
-        "text": "Both Statement I and Statement II are correct"
+        "text": "the group of managers"
       },
       {
         "key": "B",
-        "text": "Both Statement I and Statement II are incorrect"
+        "text": "the delegation of responsibility"
       },
       {
         "key": "C",
-        "text": "Statement I is correct but Statement II is incorrect"
+        "text": "the followers"
       },
       {
         "key": "D",
-        "text": "Statement I is incorrect but Statement II is correct 44.Given below are two propositions : All philosophers are fallible. lllegel is not fallible. In the classical square of opposition, which one of the following is the correct option for this?"
+        "text": "the top-level executives in an organization"
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Contradictory: $A \\leftrightarrow O$<br>$E \\leftrightarrow I$ | Exactly one is True, and the other is False. They can never be both true or both false."
   },
   {
     "id": "P1-U06-482",
@@ -13249,23 +13249,23 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "11.11.2020 FN | Q.7",
-    "questionText": "Match List I withList II :\nList I List II\n(Philosophical doctrines) (Philosophical schools)",
+    "questionText": "Match List I withList II :\nList I List II\n(Philosophical doctrines) (Philosophical schools)\n(A) Syadavada (I) Nyaya\n(B) Anupalabdhi (II) Buddhism\n(C) Apoha (III) Vedlinta\n(D) Abhava (IV) Jainism\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Syadavada (I) Nyaya"
+        "text": ". (A)-(11). (B)-(IV), (C)-(III). (D)-(1)"
       },
       {
         "key": "B",
-        "text": "Anupalabdhi (II) Buddhism"
+        "text": ". (A)-(IV). (B)-(IIl) (C)-(11). (D)-(1)"
       },
       {
         "key": "C",
-        "text": "Apoha (III) Vedlinta"
+        "text": ". (A)-(1). (B)-(11). (C)-(IV). (D)-(III)"
       },
       {
         "key": "D",
-        "text": "Abhava (IV) Jainism Choose the correct answer from the options given below :"
+        "text": ". (A)-(III). (B)-(1). (C)-(11). (D)-(IV)"
       }
     ],
     "correctOption": "B",
@@ -13493,7 +13493,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-491",
@@ -13549,7 +13549,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Straw Man: — | Misrepresenting, exaggerating, or oversimplifying an opponent's argument to make it easy to knock down."
   },
   {
     "id": "P1-U06-497",
@@ -13745,7 +13745,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U06-508",
@@ -13801,7 +13801,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": "Contradictory: $A \\leftrightarrow O$<br>$E \\leftrightarrow I$ | Exactly one is True, and the other is False. They can never be both true or both false."
   },
   {
     "id": "P1-U06-513",
@@ -13809,27 +13809,27 @@
     "unitId": 6,
     "unitTitle": "Logical Reasoning",
     "shift": "Shift_60 | Q.26",
-    "questionText": "The population information is called parameter while the corresponding sample\ninformation is known as",
+    "questionText": "The population information is called parameter while the corresponding sample\ninformation is known as\n(A) Universe\n(B) Inference\n(C) Sampling design\n(D) Statistics\n46. Classroom communication can be described as\n(A) Exploration\n(B) Institutionalisation\n(C) Unsignified narration\n(D) Discourse\n47. Ideological codes shape our collective\n(A) Productions\n(B) Perceptions\n(C) Consumptions\n(D) Creations\n48. In communication myths have power but are\n(A) uncultural\n(B) insignificant\n(C) imprecise\n(D) unprefered\n49. The first multi-lingual news agency of India was\n(A) Samachar\n(B) API\n(C) Hindustan Samachar\n(D) Samachar Bharati\n50. Organisational communication can be equated with\n(A) intra-personal communication\n(B) inter personal communication\n(C) group communication\n(D) mass comrnunication\n51. If two propositions having the same subject and predicate terms are such that one is the\ndenial of the other, the relationship between them is called\n(A) Contradictory\n(B) Contrary\n(C) Sub-contrary\n(D) Sub-alteration\n52. Ananaya and Krishna can speak and follow English. Bulbul can write and speak Hindi as\nArchana does. Archana talks with Ananya also in Bengali. Krishna can not follow Bengali.\nBulbul talks with Ananya in Hindi. Who can speak and follow English, Hindi and Bengali?\n(A) Archana\n(B) Bulbul\n(C) Ananya\n(D) Krishna\n53. A stipulative definition may be said to be\n(A) Always true\n(B) Always false\n(C) Sometimes true, sometimes false\n(D) Neither true nor false\n54. When the conclusion of an argument follows from its premise/premises conclusively, the\nargument is called\n(A) Circular argument\n(B) Inductive argument\n(C) Deductive argument\n(D) Analogical argument\n55. Saturn and Mars are planets like the earth. They borrow light from the Sun and moves\naround the sun as the Earth does. So those planets are inhabited by various orders of\ncreatures as the earth is\nWhat type of argument is contained in the above passage?\n(A) Deductive\n(B) Astrological\n(C) Analogical\n(D) Mathematical\n56. Given below are two premises. Four conclusions are drawn from those two premises in\nfour codes. Select the code that states the conclusion validly drawn.\nPremises:\n(i) All saints are religious. (major)\n(ii) Some honest persons are saints. (minor)\nCodes\n(A) All saints are honest\n(B) Some saints are honest.\n(C) Some honest persons are religious.\n(C) All religious persons are honest\nFollowing table provides details about the Foreign Tourist Arrivals (FTAs) in India from\ndifferent regions of the’ world in different years. Study the table carefully and answer\nquestions from 57 to 60 based on this table.\nRegion Number of Foreign Tourist\nArrival\n2007 2008 2009\nWestern Europe 1686083 1799525 1610086\nNorth America 1007276 1027297 1024469\nSouth Asia 982428 1051846 982633\nSouth East Asia 303475 332925 348495\nEast Asia 352037 355230 318292\nWest Asia 171661 215542 201110\nTotal FTAs in\nIndia\n5081504 5282603 5108579\n57. Find out the region that contributed around 20 percent of the total foreign tourist arrivals\nin India in 2009.\n(A) Western Europe\n(B) North America\n(C) South Asia\n(D) South East Asia\n58. Which of the following regions has recorded the highest negative growth rate of foreign\ntourist arrivals in India in 2009?\n(A) Western Europe\n(B) North America\n(C) South Asia\n(D) West Asia\n59. Find out the region that has been showing declining trend in terms of share of foreign\ntourist arrivals in India in 2008 and 2009.\n(A) Western Europe\n(B) South East Asia\n(C) East Asia\n(D) West Asia\n60. Identify the region that has shown hyper growth rate of foreign tourist arrivals than the\ngrowth rate of the total FTAs in India in 2008.",
     "options": [
       {
         "key": "A",
-        "text": "Universe"
+        "text": "Western Europe"
       },
       {
         "key": "B",
-        "text": "Inference"
+        "text": "North America"
       },
       {
         "key": "C",
-        "text": "Sampling design"
+        "text": "South Asia"
       },
       {
         "key": "D",
-        "text": "Statistics"
+        "text": "East Asia"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Contradictory: $A \\leftrightarrow O$<br>$E \\leftrightarrow I$ | Exactly one is True, and the other is False. They can never be both true or both false."
   },
   {
     "id": "P1-U06-514",
@@ -13857,7 +13857,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": "Contradictory: $A \\leftrightarrow O$<br>$E \\leftrightarrow I$ | Exactly one is True, and the other is False. They can never be both true or both false."
   },
   {
     "id": "P1-U06-515",
