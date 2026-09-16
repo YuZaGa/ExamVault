@@ -1,10 +1,14 @@
 import { Question, ReportedQuestion, ReportReason } from '../types';
 import { storageService } from './storageService';
 
-const SUPABASE_URL = 'https://bczvcapfjypudemshzko.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJjenZjYXBmanlwdWRlbXNoemtvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODU4MzMzMDEsImV4cCI6MjEwMTQwOTMwMX0.899hQiaaDW4tMzZveZuh-Hqh4ap7EV4hCYvdK8b5HRk';
+const SUPABASE_URL = ((import.meta.env?.VITE_SUPABASE_URL as string | undefined) || '').replace(/\/+$/, '');
+const SUPABASE_ANON_KEY = (import.meta.env?.VITE_SUPABASE_ANON_KEY as string | undefined) || '';
 
 class ReportService {
+  public isConfigured(): boolean {
+    return Boolean(SUPABASE_URL && SUPABASE_ANON_KEY);
+  }
+
   private getHeaders(): HeadersInit {
     return {
       'apikey': SUPABASE_ANON_KEY,
@@ -24,6 +28,10 @@ class ReportService {
   ): Promise<boolean> {
     // 1. Exclude locally right away
     storageService.excludeQuestion(question.id);
+
+    if (!this.isConfigured()) {
+      return true;
+    }
 
     // 2. Post to Supabase cloud
     try {
@@ -57,6 +65,7 @@ class ReportService {
 
   // Fetch pending reports for Admin review
   public async fetchPendingReports(): Promise<ReportedQuestion[]> {
+    if (!this.isConfigured()) return [];
     try {
       const res = await fetch(
         `${SUPABASE_URL}/rest/v1/reported_questions?status=eq.pending&order=reported_at.desc`,
@@ -90,6 +99,7 @@ class ReportService {
 
   // Fetch resolved reports for Admin history
   public async fetchResolvedReports(): Promise<ReportedQuestion[]> {
+    if (!this.isConfigured()) return [];
     try {
       const res = await fetch(
         `${SUPABASE_URL}/rest/v1/reported_questions?status=eq.resolved&order=resolved_at.desc&limit=50`,
@@ -124,6 +134,9 @@ class ReportService {
   // Admin approves fix & restores question:
   // ONLY called when Admin physically clicks "Approve Fix & Restore to Pack" on /admin
   public async approveAndResolve(reportId: string, questionId: string): Promise<boolean> {
+    storageService.unexcludeQuestion(questionId);
+    if (!this.isConfigured()) return true;
+
     try {
       const res = await fetch(
         `${SUPABASE_URL}/rest/v1/reported_questions?id=eq.${reportId}`,
@@ -137,12 +150,7 @@ class ReportService {
         }
       );
 
-      if (res.ok) {
-        // Also un-exclude locally if admin was the one who reported it
-        storageService.unexcludeQuestion(questionId);
-        return true;
-      }
-      return false;
+      return res.ok;
     } catch (err) {
       console.error('Error approving report:', err);
       return false;
@@ -153,7 +161,7 @@ class ReportService {
   // Runs silently on student's phone to un-exclude any questions that Admin has approved
   public async checkAndRestoreApprovedFixes(): Promise<string[]> {
     const excludedIds = storageService.getExcludedQuestionIds();
-    if (excludedIds.size === 0) return [];
+    if (excludedIds.size === 0 || !this.isConfigured()) return [];
 
     try {
       const res = await fetch(
