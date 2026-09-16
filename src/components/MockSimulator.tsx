@@ -15,7 +15,13 @@ import {
   AlertTriangle,
   Star,
   XCircle,
-  HelpCircle
+  HelpCircle,
+  History,
+  Trash2,
+  ChevronDown,
+  ChevronUp,
+  Trophy,
+  Info
 } from 'lucide-react';
 
 interface MockSimulatorProps {
@@ -40,10 +46,21 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
   const [reviewFilter, setReviewFilter] = useState<ReviewFilterType>('all');
   const [doubtStarred, setDoubtStarred] = useState<Record<string, boolean>>({});
 
-  // Countdown timer
+  // Past Mock Results & Scorecard Stats
+  const [pastResults, setPastResults] = useState<MockExamResult[]>(() => storageService.getMockResults());
+  const [expandedResultId, setExpandedResultId] = useState<string | null>(null);
+  const [lastSubmissionStats, setLastSubmissionStats] = useState<{
+    attempted: number;
+    correct: number;
+    incorrect: number;
+    unattempted: number;
+  }>({ attempted: 0, correct: 0, incorrect: 0, unattempted: 0 });
+
+  // Countdown timer with wall-clock deadline
   const [timeRemaining, setTimeRemaining] = useState(0);
   const [totalTime, setTotalTime] = useState(0);
   const timerRef = useRef<any>(null);
+  const endTimeRef = useRef<number>(0);
 
   // Maintain fresh refs for timer-triggered callbacks
   const answersRef = useRef(answers);
@@ -71,6 +88,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
     try {
       const qs = await questionService.generateMockExam(paper);
       const durationSecs = paper === 1 ? 60 * 60 : 120 * 60; // 60m for P1, 120m for P2
+      endTimeRef.current = Date.now() + durationSecs * 1000;
       setQuestions(qs);
       setTotalTime(durationSecs);
       setTimeRemaining(durationSecs);
@@ -79,6 +97,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
       setVisited({ 0: true });
       setCurrentIndex(0);
       setIsSubmitted(false);
+      setIsReviewMode(false);
       // Set selectedMock AFTER time and questions are fully initialized so timer starts immediately
       setSelectedMock(paper);
     } catch (err) {
@@ -97,24 +116,26 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
       return;
     }
 
-    if (timerRef.current) clearInterval(timerRef.current);
+    const updateTimer = () => {
+      const now = Date.now();
+      const remaining = Math.max(0, Math.round((endTimeRef.current - now) / 1000));
+      setTimeRemaining(remaining);
 
-    timerRef.current = setInterval(() => {
-      setTimeRemaining(prev => {
-        if (prev <= 1) {
-          if (timerRef.current) {
-            clearInterval(timerRef.current);
-            timerRef.current = null;
-          }
-          handleSubmitTest();
-          return 0;
+      if (remaining === 300 || remaining === 60) {
+        audioService.playWarningTick();
+      }
+
+      if (remaining <= 0) {
+        if (timerRef.current) {
+          clearInterval(timerRef.current);
+          timerRef.current = null;
         }
-        if (prev === 300 || prev === 60) {
-          audioService.playWarningTick();
-        }
-        return prev - 1;
-      });
-    }, 1000);
+        handleSubmitTest();
+      }
+    };
+
+    updateTimer();
+    timerRef.current = setInterval(updateTimer, 1000);
 
     return () => {
       if (timerRef.current) {
@@ -178,12 +199,22 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
 
     // Record attempts & Mistake Vault updates
     let correct = 0;
+    let incorrect = 0;
+    let unattempted = 0;
     const unitBreakdown: Record<string, { correct: number; total: number }> = {};
 
     currQuestions.forEach((q, idx) => {
       const userAns = currAnswers[idx];
-      const isCorrect = userAns === q.correctOption;
-      if (isCorrect) correct++;
+      const isAttempted = userAns !== undefined;
+      const isCorrect = isAttempted && userAns === q.correctOption;
+
+      if (isCorrect) {
+        correct++;
+      } else if (isAttempted) {
+        incorrect++;
+      } else {
+        unattempted++;
+      }
 
       const unitKey = `Unit ${q.unitId}: ${q.unitTitle}`;
       if (!unitBreakdown[unitKey]) {
@@ -192,21 +223,30 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
       unitBreakdown[unitKey].total++;
       if (isCorrect) unitBreakdown[unitKey].correct++;
 
-      if (userAns !== undefined) {
+      // Only record attempts for questions the user actually answered
+      if (isAttempted) {
         storageService.recordAttempt({
           questionId: q.id,
           paper: q.paper,
           unitId: q.unitId,
           selectedOption: userAns,
           isCorrect,
-          timeSpentSeconds: currQuestions.length > 0 ? Math.round((currTotalTime - currTimeRemaining) / currQuestions.length) : 0,
+          timeSpentSeconds: currQuestions.length > 0 ? Math.round(Math.max(1, currTotalTime - currTimeRemaining) / currQuestions.length) : 0,
           timestamp: Date.now()
         }, q);
       }
     });
 
+    setLastSubmissionStats({
+      attempted: Object.keys(currAnswers).length,
+      correct,
+      incorrect,
+      unattempted
+    });
+
     const marksEarned = correct * 2;
     const accuracy = currQuestions.length > 0 ? Math.round((correct / currQuestions.length) * 100) : 0;
+    const timeTaken = Math.max(1, currTotalTime - currTimeRemaining);
 
     const mockResult: MockExamResult = {
       id: 'mock_' + Date.now(),
@@ -216,19 +256,47 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
       correctCount: correct,
       score: marksEarned,
       accuracy,
-      timeTakenSeconds: currTotalTime - currTimeRemaining,
+      timeTakenSeconds: timeTaken,
       completedAt: Date.now(),
       unitBreakdown
     };
 
     storageService.recordMockResult(mockResult);
+    setPastResults(storageService.getMockResults());
     storageService.updateTodayHabit({ mockDone: true });
   };
 
   const formatTime = (secs: number) => {
-    const m = Math.floor(secs / 60);
-    const s = secs % 60;
-    return `${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
+    const s = Math.max(0, Math.floor(secs));
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
+    const sec = s % 60;
+    if (h > 0) {
+      return `${h}:${m < 10 ? '0' : ''}${m}:${sec < 10 ? '0' : ''}${sec}`;
+    }
+    return `${m < 10 ? '0' : ''}${m}:${sec < 10 ? '0' : ''}${sec}`;
+  };
+
+  const formatResultDate = (timestamp: number) => {
+    const d = new Date(timestamp);
+    return d.toLocaleDateString(undefined, {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit'
+    });
+  };
+
+  const handleDeleteMockResult = (id: string, e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (window.confirm('Delete this mock exam result from history?')) {
+      storageService.deleteMockResult(id);
+      setPastResults(storageService.getMockResults());
+      if (expandedResultId === id) {
+        setExpandedResultId(null);
+      }
+    }
   };
 
   // Launch Screen (Presets)
@@ -321,6 +389,224 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
               <ArrowRight size={18} />
             </button>
           </div>
+        </div>
+
+        {/* Past Mock Results Section */}
+        <div style={{ marginTop: '6px', display: 'flex', flexDirection: 'column', gap: '14px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+              <History size={20} color="var(--color-indigo-light)" />
+              <h3 style={{ fontFamily: 'var(--font-heading)', fontSize: '1.15rem', fontWeight: 800, color: 'var(--text-main)' }}>
+                Past Mock Results
+              </h3>
+            </div>
+            {pastResults.length > 0 && (
+              <span className="brand-badge" style={{ background: 'rgba(99, 102, 241, 0.15)', color: 'var(--color-indigo-light)' }}>
+                {pastResults.length} {pastResults.length === 1 ? 'Test' : 'Tests'} Completed
+              </span>
+            )}
+          </div>
+
+          {pastResults.length === 0 ? (
+            <div className="glass-card" style={{ padding: '24px', textAlign: 'center', background: 'var(--bg-surface)' }}>
+              <div style={{ width: '44px', height: '44px', borderRadius: '50%', background: 'rgba(255, 255, 255, 0.05)', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto 12px auto' }}>
+                <History size={22} color="var(--text-dim)" />
+              </div>
+              <p style={{ fontFamily: 'var(--font-heading)', fontWeight: 700, fontSize: '0.95rem', marginBottom: '4px', color: 'var(--text-main)' }}>
+                No Past Mock Exams Recorded
+              </p>
+              <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', maxWidth: '380px', margin: '0 auto' }}>
+                Launch a Paper 1 or Paper 2 CBT full simulation above. All completed tests, scores, time taken, and unit-by-unit mark breakdowns will be recorded here.
+              </p>
+            </div>
+          ) : (
+            <>
+              {/* Performance Overview Banner */}
+              {(() => {
+                const totalMocks = pastResults.length;
+                const avgAccuracy = Math.round(pastResults.reduce((acc, curr) => acc + curr.accuracy, 0) / totalMocks);
+                const bestScore = Math.max(...pastResults.map(r => r.score));
+
+                return (
+                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '8px' }}>
+                    <div className="glass-card" style={{ padding: '12px', textAlign: 'center' }}>
+                      <div style={{ fontSize: '0.7rem', color: 'var(--text-dim)', fontWeight: 700 }}>COMPLETED</div>
+                      <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1.25rem', fontWeight: 800, color: 'var(--text-main)' }}>
+                        {totalMocks}
+                      </div>
+                    </div>
+                    <div className="glass-card" style={{ padding: '12px', textAlign: 'center' }}>
+                      <div style={{ fontSize: '0.7rem', color: 'var(--text-dim)', fontWeight: 700 }}>AVG ACCURACY</div>
+                      <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1.25rem', fontWeight: 800, color: avgAccuracy >= 70 ? 'var(--color-emerald)' : 'var(--color-amber)' }}>
+                        {avgAccuracy}%
+                      </div>
+                    </div>
+                    <div className="glass-card" style={{ padding: '12px', textAlign: 'center' }}>
+                      <div style={{ fontSize: '0.7rem', color: 'var(--text-dim)', fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '4px' }}>
+                        <Trophy size={13} color="var(--color-indigo-light)" />
+                        <span>BEST SCORE</span>
+                      </div>
+                      <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1.25rem', fontWeight: 800, color: 'var(--color-indigo-light)' }}>
+                        {bestScore} <span style={{ fontSize: '0.75rem', color: 'var(--text-dim)' }}>pts</span>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })()}
+
+              {/* Past Mock Result Cards */}
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                {pastResults.map(result => {
+                  const isExpanded = expandedResultId === result.id;
+                  const maxMarks = result.paper === 1 ? 100 : 200;
+                  const unitEntries = Object.entries(result.unitBreakdown || {});
+
+                  return (
+                    <div 
+                      key={result.id}
+                      className="glass-card"
+                      style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '12px' }}
+                    >
+                      {/* Top Row: Title, Date, Trash */}
+                      <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
+                        <div>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+                            <span 
+                              className="brand-badge" 
+                              style={{ 
+                                background: result.paper === 1 ? 'rgba(99, 102, 241, 0.18)' : 'rgba(16, 185, 129, 0.18)',
+                                color: result.paper === 1 ? '#818CF8' : '#34D399',
+                                fontSize: '0.72rem',
+                                padding: '2px 8px'
+                              }}
+                            >
+                              Paper {result.paper}
+                            </span>
+                            <h4 style={{ fontFamily: 'var(--font-heading)', fontSize: '0.98rem', fontWeight: 700, color: 'var(--text-main)' }}>
+                              {result.title}
+                            </h4>
+                          </div>
+                          <span style={{ fontSize: '0.75rem', color: 'var(--text-dim)' }}>
+                            {formatResultDate(result.completedAt)}
+                          </span>
+                        </div>
+
+                        <button
+                          onClick={(e) => handleDeleteMockResult(result.id, e)}
+                          title="Delete from history"
+                          style={{
+                            background: 'none',
+                            border: 'none',
+                            color: 'var(--text-dim)',
+                            cursor: 'pointer',
+                            padding: '6px',
+                            borderRadius: '6px',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            transition: 'color 0.15s ease'
+                          }}
+                          onMouseEnter={(e) => (e.currentTarget.style.color = 'var(--color-rose)')}
+                          onMouseLeave={(e) => (e.currentTarget.style.color = 'var(--text-dim)')}
+                        >
+                          <Trash2 size={16} />
+                        </button>
+                      </div>
+
+                      {/* Stat Badges Grid */}
+                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '6px', background: 'var(--bg-surface)', padding: '10px', borderRadius: '10px', border: '1px solid var(--border-subtle)' }}>
+                        <div style={{ textAlign: 'center' }}>
+                          <div style={{ fontSize: '0.65rem', color: 'var(--text-dim)', fontWeight: 700 }}>SCORE</div>
+                          <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.92rem', fontWeight: 800, color: 'var(--color-emerald)' }}>
+                            {result.score}/{maxMarks}
+                          </div>
+                        </div>
+
+                        <div style={{ textAlign: 'center' }}>
+                          <div style={{ fontSize: '0.65rem', color: 'var(--text-dim)', fontWeight: 700 }}>ACCURACY</div>
+                          <div style={{ 
+                            fontFamily: 'var(--font-heading)', 
+                            fontSize: '0.92rem', 
+                            fontWeight: 800, 
+                            color: result.accuracy >= 70 ? 'var(--color-emerald)' : result.accuracy >= 50 ? 'var(--color-amber)' : 'var(--color-rose)' 
+                          }}>
+                            {result.accuracy}%
+                          </div>
+                        </div>
+
+                        <div style={{ textAlign: 'center' }}>
+                          <div style={{ fontSize: '0.65rem', color: 'var(--text-dim)', fontWeight: 700 }}>CORRECT</div>
+                          <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.92rem', fontWeight: 800, color: 'var(--text-main)' }}>
+                            {result.correctCount}/{result.totalQuestions}
+                          </div>
+                        </div>
+
+                        <div style={{ textAlign: 'center' }}>
+                          <div style={{ fontSize: '0.65rem', color: 'var(--text-dim)', fontWeight: 700 }}>TIME</div>
+                          <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.92rem', fontWeight: 800, color: 'var(--color-indigo-light)' }}>
+                            {formatTime(result.timeTakenSeconds)}
+                          </div>
+                        </div>
+                      </div>
+
+                      {/* Unit Breakdown Expand Button */}
+                      {unitEntries.length > 0 && (
+                        <div>
+                          <button
+                            onClick={() => setExpandedResultId(isExpanded ? null : result.id)}
+                            style={{
+                              width: '100%',
+                              padding: '8px 12px',
+                              borderRadius: '8px',
+                              border: '1px solid var(--border-subtle)',
+                              background: isExpanded ? 'rgba(255, 255, 255, 0.06)' : 'transparent',
+                              color: 'var(--text-muted)',
+                              fontSize: '0.78rem',
+                              fontWeight: 600,
+                              display: 'flex',
+                              alignItems: 'center',
+                              justifyContent: 'space-between',
+                              cursor: 'pointer',
+                              transition: 'all 0.15s ease'
+                            }}
+                          >
+                            <span>Unit Performance Breakdown ({unitEntries.length} Units)</span>
+                            {isExpanded ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+                          </button>
+
+                          {/* Expanded Unit Performance List */}
+                          {isExpanded && (
+                            <div style={{ marginTop: '8px', display: 'flex', flexDirection: 'column', gap: '6px', background: 'rgba(0, 0, 0, 0.25)', padding: '10px', borderRadius: '8px', border: '1px solid var(--border-subtle)' }}>
+                              {unitEntries.map(([unitName, uStat]) => {
+                                const unitPct = uStat.total > 0 ? Math.round((uStat.correct / uStat.total) * 100) : 0;
+                                const barColor = unitPct >= 70 ? 'var(--color-emerald)' : unitPct >= 50 ? 'var(--color-amber)' : 'var(--color-rose)';
+
+                                return (
+                                  <div key={unitName} style={{ display: 'flex', flexDirection: 'column', gap: '3px' }}>
+                                    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', fontSize: '0.75rem' }}>
+                                      <span style={{ color: 'var(--text-main)', fontWeight: 600, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', maxWidth: '70%' }}>
+                                        {unitName}
+                                      </span>
+                                      <span style={{ color: barColor, fontWeight: 700 }}>
+                                        {uStat.correct}/{uStat.total} ({unitPct}%)
+                                      </span>
+                                    </div>
+                                    <div style={{ width: '100%', height: '4px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: '2px', overflow: 'hidden' }}>
+                                      <div style={{ width: `${unitPct}%`, height: '100%', background: barColor, borderRadius: '2px', transition: 'width 0.3s ease' }} />
+                                    </div>
+                                  </div>
+                                );
+                              })}
+                            </div>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            </>
+          )}
         </div>
       </div>
     );
@@ -743,7 +1029,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
             Paper {selectedMock} Official Simulation
           </p>
 
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px', marginBottom: '24px' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px', marginBottom: '14px' }}>
             <div style={{ background: 'var(--bg-surface)', padding: '14px', borderRadius: '12px', border: '1px solid var(--border-subtle)' }}>
               <div style={{ fontSize: '0.72rem', color: 'var(--text-dim)', fontWeight: 700 }}>SCORE</div>
               <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1.4rem', fontWeight: 800, color: 'var(--color-emerald)' }}>
@@ -766,12 +1052,57 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
             </div>
           </div>
 
-          <div style={{ padding: '14px', borderRadius: '10px', background: 'rgba(244, 63, 94, 0.12)', border: '1px solid rgba(244, 63, 94, 0.3)', marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '10px', textAlign: 'left' }}>
-            <ShieldAlert size={22} color="var(--color-rose)" style={{ flexShrink: 0 }} />
-            <span style={{ fontSize: '0.85rem', color: '#F8FAFC' }}>
-              All {questions.length - correct} missed questions have been automatically forwarded to your <strong>Mistake Vault</strong> for 2x purge drilling!
-            </span>
+          {/* Detailed Question Attempt Breakdown */}
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '8px', marginBottom: '18px', background: 'var(--bg-surface)', padding: '12px', borderRadius: '12px', border: '1px solid var(--border-subtle)' }}>
+            <div>
+              <div style={{ fontSize: '0.66rem', color: 'var(--text-dim)', fontWeight: 700 }}>ATTEMPTED</div>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1rem', fontWeight: 800, color: 'var(--text-main)' }}>
+                {lastSubmissionStats.attempted}/{questions.length}
+              </div>
+            </div>
+            <div>
+              <div style={{ fontSize: '0.66rem', color: 'var(--text-dim)', fontWeight: 700 }}>CORRECT</div>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1rem', fontWeight: 800, color: 'var(--color-emerald)' }}>
+                {lastSubmissionStats.correct}
+              </div>
+            </div>
+            <div>
+              <div style={{ fontSize: '0.66rem', color: 'var(--text-dim)', fontWeight: 700 }}>INCORRECT</div>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1rem', fontWeight: 800, color: lastSubmissionStats.incorrect > 0 ? 'var(--color-rose)' : 'var(--text-muted)' }}>
+                {lastSubmissionStats.incorrect}
+              </div>
+            </div>
+            <div>
+              <div style={{ fontSize: '0.66rem', color: 'var(--text-dim)', fontWeight: 700 }}>UNATTEMPTED</div>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '1rem', fontWeight: 800, color: 'var(--text-dim)' }}>
+                {lastSubmissionStats.unattempted}
+              </div>
+            </div>
           </div>
+
+          {/* Context-Accurate Mistake Vault Notification */}
+          {lastSubmissionStats.incorrect > 0 ? (
+            <div style={{ padding: '14px', borderRadius: '10px', background: 'rgba(244, 63, 94, 0.12)', border: '1px solid rgba(244, 63, 94, 0.3)', marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '10px', textAlign: 'left' }}>
+              <ShieldAlert size={22} color="var(--color-rose)" style={{ flexShrink: 0 }} />
+              <span style={{ fontSize: '0.85rem', color: '#F8FAFC' }}>
+                <strong>{lastSubmissionStats.incorrect}</strong> incorrect question{lastSubmissionStats.incorrect > 1 ? 's' : ''} automatically forwarded to your <strong>Mistake Vault</strong> for 2x purge drilling!
+              </span>
+            </div>
+          ) : lastSubmissionStats.unattempted > 0 ? (
+            <div style={{ padding: '14px', borderRadius: '10px', background: 'rgba(99, 102, 241, 0.12)', border: '1px solid rgba(99, 102, 241, 0.3)', marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '10px', textAlign: 'left' }}>
+              <Info size={22} color="var(--color-indigo-light)" style={{ flexShrink: 0 }} />
+              <span style={{ fontSize: '0.85rem', color: '#F8FAFC' }}>
+                0 incorrect answers! You left <strong>{lastSubmissionStats.unattempted}</strong> question{lastSubmissionStats.unattempted > 1 ? 's' : ''} unattempted. (Unattempted questions are not counted as mistakes).
+              </span>
+            </div>
+          ) : (
+            <div style={{ padding: '14px', borderRadius: '10px', background: 'rgba(16, 185, 129, 0.12)', border: '1px solid rgba(16, 185, 129, 0.3)', marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '10px', textAlign: 'left' }}>
+              <CheckCircle2 size={22} color="var(--color-emerald)" style={{ flexShrink: 0 }} />
+              <span style={{ fontSize: '0.85rem', color: '#F8FAFC' }}>
+                Flawless 100%! All {questions.length} questions answered correctly.
+              </span>
+            </div>
+          )}
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
             <button 
@@ -791,9 +1122,10 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
               onClick={() => {
                 setSelectedMock(null);
                 setIsReviewMode(false);
+                setIsSubmitted(false);
               }}
             >
-              Return to Mock Selection
+              Return to Mock Selection & Past Results
             </button>
           </div>
         </div>

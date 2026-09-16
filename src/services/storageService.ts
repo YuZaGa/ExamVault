@@ -263,6 +263,11 @@ class StorageService {
     localStorage.setItem(STORAGE_KEYS.MOCKS, JSON.stringify(mocks));
   }
 
+  public deleteMockResult(id: string): void {
+    const mocks = this.getMockResults().filter(m => m.id !== id);
+    localStorage.setItem(STORAGE_KEYS.MOCKS, JSON.stringify(mocks));
+  }
+
   // --- HABIT TRACKER ---
 
   public getTodayHabit(): DailyHabit {
