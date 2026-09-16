@@ -84,6 +84,62 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U05-5",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.3",
+    "questionText": "Match the List-I with List-II\nList - I\n(Term)\nList - II\n(Definition)\n(a) Epigram \t(I) An inferior or derivative follower of a more distinguished writer\n(b) Epigone \t(II) The slurring or suppression of a vowel sound or syllable\n(c) Diegesis \t(III) A short poem with a witty turn of thought or a wittily condensed\nexpression in prose.\n(d) Elision \t(IV) A term used in modern narratology to designate the narrated events as\na level distinct from that of the narration.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(IV), (b)-(II), (c)-(III), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(I), (b)-(IV), (c)-(II), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(IV), (d)-(II)"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U05-6",
+    "paper": 2,
+    "unitId": 5,
+    "unitTitle": "Language, Linguistics & ELT",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.2",
+    "questionText": "Terms 'Social fact' and 'collective consciousness' in the context of language were used by-\n(a) Franz Boas\n(b) Bloomfield\n(c) Emile Durkheim\n(d) Noam Chomsky\n(e) Saussure\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (b) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U05-7",
     "paper": 2,
     "unitId": 5,
@@ -245,7 +301,7 @@
       },
       {
         "key": "D",
-        "text": "Neutral gender\nComprehension: (96-100)\nRead the following passage and answer the questions that follow:\nSome sort of parallel may be found in the way logical connectives are usually unnecessary and\noften misleading, because too simple. Omitting an adjective one would need 'therefore' stressing\nthe adjective ‘although'; both logical connections are implied if the sentences are just put after\nanother. In the same way, people are accustomed to judge automatically the forces that hold\ntogether a variety of ideas, they feel they know about the forces, if they have analysed the ideas;\nmany forces, indeed, are covertly included within ideas; and so of the two elements, each of\nwhich defines the other, it is much easier to find words for the ideas than for the forces. Most of\nthe ambiguities I have considered here seem to me beautiful; I consider, then, that I have shown\nby example, in showing the nature of the ambiguity, the nature of the forces which are adequate\nto hold it together. It would seem very artificial to do it the other way round, and very tedious to\ndo it both ways at once. I wish only, then, to say here that such vaguely imagined 'forces' are\nessential to the totality of a poem and they cannot be discussed in terms of ambiguity, because\nthey are complementary to it. But by discussing 'ambiguity, a great deal may be made clear\nabout them. In particular, if there is contradiction, the greater the tension; in some way other\nthan by the contradiction, the tension must be conveyed, and must be sustained."
+        "text": "Neutral gender Comprehension: (96-100) Read the following passage and answer the questions that follow: Some sort of parallel may be found in the way logical connectives are usually unnecessary and often misleading, because too simple. Omitting an adjective one would need 'therefore' stressing the adjective ‘although'; both logical connections are implied if the sentences are just put after another. In the same way, people are accustomed to judge automatically the forces that hold together a variety of ideas, they feel they know about the forces, if they have analysed the ideas; many forces, indeed, are covertly included within ideas; and so of the two elements, each of which defines the other, it is much easier to find words for the ideas than for the forces. Most of the ambiguities I have considered here seem to me beautiful; I consider, then, that I have shown by example, in showing the nature of the ambiguity, the nature of the forces which are adequate to hold it together. It would seem very artificial to do it the other way round, and very tedious to do it both ways at once. I wish only, then, to say here that such vaguely imagined 'forces' are essential to the totality of a poem and they cannot be discussed in terms of ambiguity, because they are complementary to it. But by discussing 'ambiguity, a great deal may be made clear about them. In particular, if there is contradiction, the greater the tension; in some way other than by the contradiction, the tension must be conveyed, and must be sustained."
       }
     ],
     "correctOption": "B",
@@ -353,7 +409,7 @@
       },
       {
         "key": "C",
-        "text": "Practical criticism prioritises on evaluating texts by adopting a purely literary mode of inquiry bereft of\ncontextualization."
+        "text": "Practical criticism prioritises on evaluating texts by adopting a purely literary mode of inquiry bereft of contextualization."
       },
       {
         "key": "D",
@@ -441,7 +497,7 @@
       },
       {
         "key": "D",
-        "text": "J R Taylor\n(91-95)\nRead the following poem and answer the questions that follow:\nApostrophe to Man\nDetestable race, continue to expunge yourself, die out.\nBreed faster, crowd, encroach, sing hymns, build bombing airplanes:\nMake speeches, unveil statues, issue bonds, parade:\nConvert again into explosives the bewildered ammonia and the distracted cellulose;\nConvert again into putrescent matter drawing flies\nThe hopeful bodies of the young: exhort,\nPray, pull long faces, be earnest, be all but overcome, be photographed;\nConfer, perfect your formulae, commercialize\n\n\nBacteria harmful to human tissue,\nPut death on the market;\nBreed, crowd, encroach, expand, expunge yourself, die out,\nHomo called sapiens. `"
+        "text": "J R Taylor (91-95) Read the following poem and answer the questions that follow: Apostrophe to Man Detestable race, continue to expunge yourself, die out. Breed faster, crowd, encroach, sing hymns, build bombing airplanes: Make speeches, unveil statues, issue bonds, parade: Convert again into explosives the bewildered ammonia and the distracted cellulose; Convert again into putrescent matter drawing flies The hopeful bodies of the young: exhort, Pray, pull long faces, be earnest, be all but overcome, be photographed; Confer, perfect your formulae, commercialize Bacteria harmful to human tissue, Put death on the market; Breed, crowd, encroach, expand, expunge yourself, die out, Homo called sapiens. `"
       }
     ],
     "correctOption": "A",
@@ -469,7 +525,7 @@
       },
       {
         "key": "D",
-        "text": "Redoubtable\n(96-100)\nRead the following passage and answer the questions that follow:\nEmergent in the wake of industrialization, studies of everyday life endeavor to bring into visibility and somehow\nmake sense of our humble, taken-for-granted, seemingly unremarkable experience of the quotidian. The project\nhas meant subjecting modern Western individuals to the kind of anthropological scrutiny more often reserved for\nnon-Western peoples. The goal has been to explore patterns of behavior not because they are foreign but because\nthey are so familiar as to fall beneath our notice. Artists as well as social theorists in this tradition set out to\nregister and evaluate the neglected minutiae of our daily lives: the ways we sleep and ambulate, ingest and\neliminate, work and recreate, care for ourselves and others, slip in and out self-awareness, and interact with\npeople, objects, and our surroundings. Generally speaking, everyday life studies is a science of the “small.”\n\n\nThough usually framed in relation to larger social structures, the objects of attention are micro-moments and\nmicro-actions — turning a street corner, stirring a pot, feeding an infant. They are actions that take place without\nrising to the status of “event.” They are moments in time that leave no historical mark (at least as “history” has\ntraditionally been understood). As these examples suggest, such practices are “everyday” not only because they\nare “ordinary” but also because they typically occur every day, perhaps even every few hours. Whether tied to\nbodily rhythms or the rigors of wage work, the non-events of everyday life are almost always characterized by\npatterns of repetition. Theorists of the everyday, focusing on the effects of modernity, have taken various stances\non the political implications of our daily routines. Some have tied their repetitive nature to the mechanization and\nalienation of labor in a capitalist society. For Michel Foucault, domination is not restricted to the factory floor: the\nworkings of power are more diffuse and insidious than this, operating in the very interstices of our seemingly\nprivate lives. For Michel de Certeau, the quotidian is a site not of forcible conformity but of micro-opportunities\nto defy the dominant order."
+        "text": "Redoubtable (96-100) Read the following passage and answer the questions that follow: Emergent in the wake of industrialization, studies of everyday life endeavor to bring into visibility and somehow make sense of our humble, taken-for-granted, seemingly unremarkable experience of the quotidian. The project has meant subjecting modern Western individuals to the kind of anthropological scrutiny more often reserved for non-Western peoples. The goal has been to explore patterns of behavior not because they are foreign but because they are so familiar as to fall beneath our notice. Artists as well as social theorists in this tradition set out to register and evaluate the neglected minutiae of our daily lives: the ways we sleep and ambulate, ingest and eliminate, work and recreate, care for ourselves and others, slip in and out self-awareness, and interact with people, objects, and our surroundings. Generally speaking, everyday life studies is a science of the “small.” Though usually framed in relation to larger social structures, the objects of attention are micro-moments and micro-actions — turning a street corner, stirring a pot, feeding an infant. They are actions that take place without rising to the status of “event.” They are moments in time that leave no historical mark (at least as “history” has traditionally been understood). As these examples suggest, such practices are “everyday” not only because they are “ordinary” but also because they typically occur every day, perhaps even every few hours. Whether tied to bodily rhythms or the rigors of wage work, the non-events of everyday life are almost always characterized by patterns of repetition. Theorists of the everyday, focusing on the effects of modernity, have taken various stances on the political implications of our daily routines. Some have tied their repetitive nature to the mechanization and alienation of labor in a capitalist society. For Michel Foucault, domination is not restricted to the factory floor: the workings of power are more diffuse and insidious than this, operating in the very interstices of our seemingly private lives. For Michel de Certeau, the quotidian is a site not of forcible conformity but of micro-opportunities to defy the dominant order."
       }
     ],
     "correctOption": "B",
@@ -581,7 +637,7 @@
       },
       {
         "key": "D",
-        "text": "(a) and (e)\n\n\n(a) Desire in Language: A Semiotic Approach to Literature and Art\n(b) Illuminations\n(c) Syntax and Semantics\n(d) La revolution du langage poétique\n(e) The Madwoman in the Attic\nChoose the correct answer from the options given below:"
+        "text": "(a) and (e) (a) Desire in Language: A Semiotic Approach to Literature and Art (b) Illuminations (c) Syntax and Semantics (d) La revolution du langage poétique (e) The Madwoman in the Attic Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "A",
@@ -609,7 +665,7 @@
       },
       {
         "key": "D",
-        "text": "The mimetic function of poetry that alludes to the world of external reality in simple, clear\nlanguage"
+        "text": "The mimetic function of poetry that alludes to the world of external reality in simple, clear language"
       }
     ],
     "correctOption": "B",
@@ -657,15 +713,15 @@
       },
       {
         "key": "B",
-        "text": "It is a dramatic composition that focuses on characters, each of them representing a type\npersonality."
+        "text": "It is a dramatic composition that focuses on characters, each of them representing a type personality."
       },
       {
         "key": "C",
-        "text": "It is a dramatic composition that depicts how seriously young people take love, and how\nfoolishly it makes them behave."
+        "text": "It is a dramatic composition that depicts how seriously young people take love, and how foolishly it makes them behave."
       },
       {
         "key": "D",
-        "text": "It is a species of dramatic composition in which the virtues of private life are exhibited, rather\nthan the vices exposed; and the distresses rather than the faults of mankind make our interest in\nthe piece."
+        "text": "It is a species of dramatic composition in which the virtues of private life are exhibited, rather than the vices exposed; and the distresses rather than the faults of mankind make our interest in the piece."
       }
     ],
     "correctOption": "D",
@@ -777,7 +833,7 @@
       },
       {
         "key": "D",
-        "text": "Statement (I) is false but Statement (II) is true\nRead the following poem and answer the questions that follows:\nAre You There?\nMy father and I shove back the furniture\nto the four walls of the sitting room\nthen lie on the carpet wearing blindfolds,\nhis left hand holding my left hand.\nAre you there, Moriarty? he enquires,\nbefore tightening (I imagine) the grip\non his rolled-up copy of yesterday's Times.\nThere is only one possible answer to that.\nI give it while rolling away to the side\nbut still clasping his hand, still in range,\nand sure enough he manages a direct hit.\nNow it is my turn, but the moment I lift\nmy weapon I realise there is no reason\nto continue. I can tell from his stillness,\nand the chill and stiffness of his fingers,\nhe has been dead for a good while already.\nAndrew Motion"
+        "text": "Statement (I) is false but Statement (II) is true Read the following poem and answer the questions that follows: Are You There? My father and I shove back the furniture to the four walls of the sitting room then lie on the carpet wearing blindfolds, his left hand holding my left hand. Are you there, Moriarty? he enquires, before tightening (I imagine) the grip on his rolled-up copy of yesterday's Times. There is only one possible answer to that. I give it while rolling away to the side but still clasping his hand, still in range, and sure enough he manages a direct hit. Now it is my turn, but the moment I lift my weapon I realise there is no reason to continue. I can tell from his stillness, and the chill and stiffness of his fingers, he has been dead for a good while already. Andrew Motion"
       }
     ],
     "correctOption": "B",
@@ -973,7 +1029,7 @@
       },
       {
         "key": "D",
-        "text": "C and D only\n100.Who among the following Dickens characters appears as a ghost?"
+        "text": "C and D only 100.Who among the following Dickens characters appears as a ghost?"
       }
     ],
     "correctOption": "D",

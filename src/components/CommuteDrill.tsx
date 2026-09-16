@@ -14,6 +14,7 @@ import {
   Award,
   BookOpen
 } from 'lucide-react';
+import { FormattedQuestionText } from './FormattedQuestionText';
 
 interface CommuteDrillProps {
   questions: Question[];
@@ -292,9 +293,9 @@ export const CommuteDrill: React.FC<CommuteDrillProps> = ({
                     </span>
                   </div>
 
-                  <p style={{ fontSize: '0.88rem', color: 'var(--text-main)', lineHeight: 1.45 }}>
-                    {q.questionText}
-                  </p>
+                  <div style={{ fontSize: '0.88rem', color: 'var(--text-main)', lineHeight: 1.45, marginBottom: '8px' }}>
+                    <FormattedQuestionText text={q.questionText} />
+                  </div>
 
                   <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: '6px' }}>
                     {q.options.map(opt => {
@@ -422,7 +423,7 @@ export const CommuteDrill: React.FC<CommuteDrillProps> = ({
 
         {/* Question Text */}
         <div className="question-text-box">
-          {currentQ.questionText}
+          <FormattedQuestionText text={currentQ.questionText} />
         </div>
 
         {/* Options Grid (Thumb-friendly touch pills) */}

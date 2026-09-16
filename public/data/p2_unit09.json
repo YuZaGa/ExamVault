@@ -637,7 +637,7 @@
       },
       {
         "key": "D",
-        "text": "a throat\nComprehension (96-100)\nRead the following passage and answer the question that follow:\nI believe implicitly that the child is not born mischievous in the bad sense of the term. If parents\nwould behave themselves whilst the child is growing, before it is born and after, it is a well- known\nfact that the child would instinctively obey the law of truth and the law of love...\nAnd believe me, from my experience of hundreds I was going to say thousands -of children, I know\nthat they have perhaps a finer sense of honour than you or I have. The greatest lessons of life, if we\nwould but stoop and humble ourselves, we would learn not from grown-up learned men, but from the\nso-called ignorant children. Jesus never uttered a loftier or a grander truth than when he said that\nwisdom cometh out of the mouth of babes. I believe it. I have noticed it in my experience that if we\nwould approach babes in humility and innocence, we would learn wisdom from them. I have learned\nthis one lesson - that what is impossible with man is child's play with God and if we have faith in\nthat Divinity which presides on the destiny of the meanest of His creation, I have no doubt that all\nthings are possible and in that final hope, I believe and pass my time and endeavour to obey His will.\nIf we are to reach real peace in this world and if we are to carry on a real war against war, we shall\nhave to begin with children: and if they will grow up in their natural innocence, we won't have to\nstruggle, we won't have to pass fruitless, idle resolutions, but we shall go from love to love and peace\nto peace, until at last all the corners of the world are covered with that peace and love for which,\nconsciously or unconsciously, the whole world is hungering."
+        "text": "a throat Comprehension (96-100) Read the following passage and answer the question that follow: I believe implicitly that the child is not born mischievous in the bad sense of the term. If parents would behave themselves whilst the child is growing, before it is born and after, it is a well- known fact that the child would instinctively obey the law of truth and the law of love... And believe me, from my experience of hundreds I was going to say thousands -of children, I know that they have perhaps a finer sense of honour than you or I have. The greatest lessons of life, if we would but stoop and humble ourselves, we would learn not from grown-up learned men, but from the so-called ignorant children. Jesus never uttered a loftier or a grander truth than when he said that wisdom cometh out of the mouth of babes. I believe it. I have noticed it in my experience that if we would approach babes in humility and innocence, we would learn wisdom from them. I have learned this one lesson - that what is impossible with man is child's play with God and if we have faith in that Divinity which presides on the destiny of the meanest of His creation, I have no doubt that all things are possible and in that final hope, I believe and pass my time and endeavour to obey His will. If we are to reach real peace in this world and if we are to carry on a real war against war, we shall have to begin with children: and if they will grow up in their natural innocence, we won't have to struggle, we won't have to pass fruitless, idle resolutions, but we shall go from love to love and peace to peace, until at last all the corners of the world are covered with that peace and love for which, consciously or unconsciously, the whole world is hungering."
       }
     ],
     "correctOption": "D",
@@ -917,7 +917,91 @@
       },
       {
         "key": "D",
-        "text": "(d) and (e) only\n\n\nComprehension (91-95)\nLeaning into the afternoons I cast my sad nets\ntowards your oceanic eyes.\nThere in the highest blaze my solitude lengthens and flames\nits aims turning a drowning man’s.\nI send out red signals across your absent eyes\nthat smell like the sea or the beach by a lighthouse.\nYou keep only darkness, my distant female\nfrom your regard sometimes the coast of dread emerges.\nLeaning into the afternoons I fling my sad nets\nto that sea that thrashed by your oceanic eyes\nThe birds of night peck at the first stars\nthat flash like my soul when I love you\nThe night gallops on its shadowy mare\nShedding blue tassels over the land"
+        "text": "(d) and (e) only Comprehension (91-95) Leaning into the afternoons I cast my sad nets towards your oceanic eyes. There in the highest blaze my solitude lengthens and flames its aims turning a drowning man’s. I send out red signals across your absent eyes that smell like the sea or the beach by a lighthouse. You keep only darkness, my distant female from your regard sometimes the coast of dread emerges. Leaning into the afternoons I fling my sad nets to that sea that thrashed by your oceanic eyes The birds of night peck at the first stars that flash like my soul when I love you The night gallops on its shadowy mare Shedding blue tassels over the land"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-35",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.1",
+    "questionText": "Identify the correct option in Julia Kristeva's definition of 'chora':\n(a) Liminal Space\n(b) Space of the marginalised\n(c) Non-expressive totality created by the bodily drives\n(d) The chora has no fixed identity\n(e) It precedes the linguistic sign\nChoose the most appropriate answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (c) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-36",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.2",
+    "questionText": "Which of the following assertions is/are not true in the context of culture industry?\n(a) The term 'culture industry’ was used by the Frankfurt School to describe the operations of\nmass media.\n(b) The dominant capitalist class instils its values and beliefs in the minds of the working-class\npeople.\n(c) The word 'industry' signifies the production of cultural products for mass consumption.\n(d) The authentic culture arising from the working class is preserved and protected.\"\n(e) The mass culture thus produced induces activism and critical thinking among the youth.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(d) and (a) only"
+      },
+      {
+        "key": "B",
+        "text": "(e) and (b) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(d) and (e) only"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-37",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.3",
+    "questionText": "Which of the following is true about Tennessee Williams' A Street Car Named Desire?\n(a) It is set in New Orleans.\n(b) The protagonist is a Mississippi landowner.\n(c) It ends with Blanche's defeat and departure.\n(d) Tom Wingfield is the narrator.\n(e) Laura and Stella are cousins.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(b) and (e) only"
       }
     ],
     "correctOption": "B",
@@ -2492,6 +2576,62 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U09-94",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.1",
+    "questionText": "Which of the following critics is associated with the term \"contrapuntal reading\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mikhail Bakhtin"
+      },
+      {
+        "key": "B",
+        "text": "Edward Said"
+      },
+      {
+        "key": "C",
+        "text": "Roland Barthes"
+      },
+      {
+        "key": "D",
+        "text": "Jacques Derrida"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
+    "id": "P2-U09-95",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.2",
+    "questionText": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as\nReason (R).\nAssertion (A): Roland Barthes describes two basic categories of text as “the readerly” and \"the\nwriterly”.\nReason (R): Language is the window through which one sees the world.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is not correct"
+      },
+      {
+        "key": "D",
+        "text": "(A) is not correct but (R) is correct"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Roland Barthes: Coined/Proposed by \"The Death of the Author\" (1967) (*\"The birth of the reader must be at the cost of the death of the Author.\"* Rejection of biographical intent.)"
+  },
+  {
     "id": "P2-U09-96",
     "paper": 2,
     "unitId": 9,
@@ -2989,11 +3129,67 @@
       },
       {
         "key": "D",
-        "text": "Children recreate meaning from the toys.\nRead the following poem, and answer the questions that follow (96-100):\nMr Bleaney\n'This was Mr Bleaney's room, He stayed\nThe whole time he was at the Bodies, till\nThey moved him.' Flowered curtains, Thin and frayed,\nFall to within five inches of the sill.\nWhose window shows a strip of building land.\nTussocky, littered. 'Mr Bleaney took\nMy bit of garden properly in hand.'\nBed, upright chair, sixty-watt bulb, no hook\nBehind the door, no room for books or bags −\n‘I’ll take it.' So it happens that I lie\nWhere Mr Bleaney lay, and stub my fags\nOn the same saucer-souvenir, and try\nStuffing my ears with cotton-wool, to drown\nThe jabbering set he egged her on to buy.\nI know his habits — what time he came down,\nHis preference for sauce to gravy, why\n\n\nHe kept on plugging at the four aways —\nLikewise their yearly frame: the Frinton folk\nWho put him up for summer holidays,\nAnd Christmas at his sister's house in Stoke.\nBut if he stood and watched the frigid wind\nTousling the clouds, lay on the fusty bed\nTelling himself that this was home, and grinned,\nAnd shivered, without shaking off the dread\nThat how we live measures our own nature,\nAnd at his age having no more to show\nThan one hired box should make him pretty sure\nHe warranted no better, I don't know.\nPhilip Larkin"
+        "text": "Children recreate meaning from the toys. Read the following poem, and answer the questions that follow (96-100): Mr Bleaney 'This was Mr Bleaney's room, He stayed The whole time he was at the Bodies, till They moved him.' Flowered curtains, Thin and frayed, Fall to within five inches of the sill. Whose window shows a strip of building land. Tussocky, littered. 'Mr Bleaney took My bit of garden properly in hand.' Bed, upright chair, sixty-watt bulb, no hook Behind the door, no room for books or bags − ‘I’ll take it.' So it happens that I lie Where Mr Bleaney lay, and stub my fags On the same saucer-souvenir, and try Stuffing my ears with cotton-wool, to drown The jabbering set he egged her on to buy. I know his habits — what time he came down, His preference for sauce to gravy, why He kept on plugging at the four aways — Likewise their yearly frame: the Frinton folk Who put him up for summer holidays, And Christmas at his sister's house in Stoke. But if he stood and watched the frigid wind Tousling the clouds, lay on the fusty bed Telling himself that this was home, and grinned, And shivered, without shaking off the dread That how we live measures our own nature, And at his age having no more to show Than one hired box should make him pretty sure He warranted no better, I don't know. Philip Larkin"
       }
     ],
     "correctOption": "C",
     "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+  },
+  {
+    "id": "P2-U09-114",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.1",
+    "questionText": "Which of these is related exclusively with Jacques Lacan?\n(a) Real\n(b) Id\n(c) Symbolic\n(d) Ego\n(e) Imaginary\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "B",
+        "text": "(b) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U09-115",
+    "paper": 2,
+    "unitId": 9,
+    "unitTitle": "Literary Theory",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.2",
+    "questionText": "Which of the following are applicable to the term 'Carnival?\n(a) It became important through the work of the Russian theorist Mikhail Bakhtin.\n(b) It means the way in which popular humour subverts official authority in classical, medieval\nand renaissance texts and culture.\n(c) It overturns the established hierarchy and sets up a popular and democratic counter-culture.\n(d) It brings out the serious elements in literature.\n(e) It is used as a critical tool for interpretation of poetry.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b) and (c) only"
+      },
+      {
+        "key": "B",
+        "text": "(a) and (b) only"
+      },
+      {
+        "key": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (c) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
   },
   {
     "id": "P2-U09-116",
@@ -3745,7 +3941,7 @@
       },
       {
         "key": "D",
-        "text": "sarcasm.\n\n\nRead the following extract and answer the questions that follow:\nThe earth was made for Dombey and Son to trade in, and the sun and moon were made to give\nthem light. Rivers and seas were formed to float their ships; rainbows gave them promise of fair\nweather; winds blew for or against their enterprises; stars and planets circled in their orbits, to\npreserve inviolate a system of which they were the centre. Common abbreviations took new\nmeanings in his eyes, and had sole reference to them: A. D. had no concern with anno Domini,\nbut stood for anno Dombey—and Son.\n- Charles Dickens, Dombey and Son"
+        "text": "sarcasm. Read the following extract and answer the questions that follow: The earth was made for Dombey and Son to trade in, and the sun and moon were made to give them light. Rivers and seas were formed to float their ships; rainbows gave them promise of fair weather; winds blew for or against their enterprises; stars and planets circled in their orbits, to preserve inviolate a system of which they were the centre. Common abbreviations took new meanings in his eyes, and had sole reference to them: A. D. had no concern with anno Domini, but stood for anno Dombey—and Son. - Charles Dickens, Dombey and Son"
       }
     ],
     "correctOption": "D",

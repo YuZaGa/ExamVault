@@ -1,5 +1,61 @@
 [
   {
+    "id": "P2-U03-2",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.1",
+    "questionText": "Which of the following novels deal with the theme of apartheid?\n(a) Purple Hibiscus\n(b) July's People\n(c) Cry, the Beloved Country\n(d) The Mimic Men\n(e) My Son's Story\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(c) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a) and (b) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U03-3",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.3",
+    "questionText": "Identify all the Australian Aboriginal writers out of the following:\n(a) Kim Scott\n(b) Peter Carey\n(c) Oodgeroo Noonuccal\n(d) Kevin Gilbert\n(e) Derek Walcott\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (a) and (e) only"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U03-4",
     "paper": 2,
     "unitId": 3,
@@ -840,6 +896,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U03-34",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.4",
+    "questionText": "Which of the nineteenth century novel portray disabled characters in them?\n(a) Fyodor Dostoevsky's Crime and Punishment\n(b) Flaubert's Madame Bovary\n(c) Jane Austen's Pride and Prejudice\n(d) Charles Dickens's Christmas Carol\n(e) Melville's Moby-Dick\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d), (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (b), (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (d), (b) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U03-35",
     "paper": 2,
     "unitId": 3,
@@ -881,7 +965,7 @@
       },
       {
         "key": "B",
-        "text": "An adjective/adjectival phrase used to define a characteristic quality or attribute of some\nperson or thing."
+        "text": "An adjective/adjectival phrase used to define a characteristic quality or attribute of some person or thing."
       },
       {
         "key": "C",
@@ -889,7 +973,7 @@
       },
       {
         "key": "D",
-        "text": "A rhetorical figure by which the same word or phrase is repeated at the end of successive\nlines."
+        "text": "A rhetorical figure by which the same word or phrase is repeated at the end of successive lines."
       }
     ],
     "correctOption": "B",
@@ -1889,7 +1973,7 @@
       },
       {
         "key": "B",
-        "text": "To have faith in the Divinity and follow the commandments blindly as laid down in the\nScriptures."
+        "text": "To have faith in the Divinity and follow the commandments blindly as laid down in the Scriptures."
       },
       {
         "key": "C",
@@ -1985,6 +2069,34 @@
       }
     ],
     "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U03-76",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.3",
+    "questionText": "Chronologically arrange the fictional writings of R.K. Narayan in order of their publication?\n(a) The Vendor of Sweets\n(b) The Bachelor of Arts\n(c) The English Teacher\n(d) The Guide\n(e) The Financial Expert\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d), (b), (e), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(c), (b), (d), (a), (e)"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c), (e), (d), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(e), (a), (b), (c), (d)"
+      }
+    ],
+    "correctOption": "C",
     "cheatSheetRule": null
   },
   {
@@ -2137,7 +2249,7 @@
     "options": [
       {
         "key": "A",
-        "text": "The term ‘cultural intermediaries’ was introduced by the French cultural theorist Pierce\nBourdieu."
+        "text": "The term ‘cultural intermediaries’ was introduced by the French cultural theorist Pierce Bourdieu."
       },
       {
         "key": "B",
@@ -3213,7 +3325,7 @@
       },
       {
         "key": "D",
-        "text": "Dissonance\nComprehension (96-100)\nRead the following passage and answer the questions:\n\n\nSuspicion amongst thoughts are like bats amongst birds, they ever fly by twilight. Certainly, they are\nto be repressed, or at the least well guarded: for they cloud the mind; they lease friends. And they\ncheck with business, whereby business cannot go on currently. They dispose Kings to tyranny,\nhusbands to jealously, wise men to irresolution and melancholy. They are defects, not in the heart,\nbut in the brain; for they take place in the stoutest natures; as in the example of Henry the seventh of\nEngland. There was not a more suspicious man, nor a more stout. And in such a composition they do\nsmall hurt. For commonly they are not admitted. But with examination, whether they be likely or\nnot. But in fearful natures they gain ground too fast. There is nothing that makes a man suspect\nmuch, more than to know little; and therefore men should remedy suspicion by procuring to know\nmore, and not to keep their suspicions in smother. What would men have? Do they not think they\nwill have their own ends, and be truer to themselves than to them? Therefore there is no better way\nto moderate suspicions, than to account upon such suspicions as true, and yet to bridle them as false.\nFor so far a man ought to make use of suspicions, as to provide, as if that should true that he\nsuspects, yet it may do him no hurt. Suspicions that the mind of itself gathers are but buzzes; but\nsuspicions: that are artificially nourished, and put into men’s heads by the tales and whisperings of\nothers, have strings. Certainly, the best mean to clear the way in this same wood of suspicion, is\nfrankly to communicate them with the party that he suspects. For thereby he shall be sure to know\nmore of the truth of them than he did before; and withal shall make that party more circumspect not\nto give further cease of suspicion. But this would not be done to men of base natures; for they if they\nfind themselves once suspected, will never be true. The situation says, suspicion gives license to\nfaith; as if suspicion did give a passport to faith; but it ought rather to kindle it to discharge itself."
+        "text": "Dissonance Comprehension (96-100) Read the following passage and answer the questions: Suspicion amongst thoughts are like bats amongst birds, they ever fly by twilight. Certainly, they are to be repressed, or at the least well guarded: for they cloud the mind; they lease friends. And they check with business, whereby business cannot go on currently. They dispose Kings to tyranny, husbands to jealously, wise men to irresolution and melancholy. They are defects, not in the heart, but in the brain; for they take place in the stoutest natures; as in the example of Henry the seventh of England. There was not a more suspicious man, nor a more stout. And in such a composition they do small hurt. For commonly they are not admitted. But with examination, whether they be likely or not. But in fearful natures they gain ground too fast. There is nothing that makes a man suspect much, more than to know little; and therefore men should remedy suspicion by procuring to know more, and not to keep their suspicions in smother. What would men have? Do they not think they will have their own ends, and be truer to themselves than to them? Therefore there is no better way to moderate suspicions, than to account upon such suspicions as true, and yet to bridle them as false. For so far a man ought to make use of suspicions, as to provide, as if that should true that he suspects, yet it may do him no hurt. Suspicions that the mind of itself gathers are but buzzes; but suspicions: that are artificially nourished, and put into men’s heads by the tales and whisperings of others, have strings. Certainly, the best mean to clear the way in this same wood of suspicion, is frankly to communicate them with the party that he suspects. For thereby he shall be sure to know more of the truth of them than he did before; and withal shall make that party more circumspect not to give further cease of suspicion. But this would not be done to men of base natures; for they if they find themselves once suspected, will never be true. The situation says, suspicion gives license to faith; as if suspicion did give a passport to faith; but it ought rather to kindle it to discharge itself."
       }
     ],
     "correctOption": "A",
@@ -4333,7 +4445,7 @@
       },
       {
         "key": "D",
-        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)\nComprehension: (91-95)\nRead the following stanza and answer the questions that follow:\nShall I compare thee to a Summer's day\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May'\nAnd summer's lease hath all too short a date.\nSometimes too hot the eye of heaven shines,\nAnd often is his gold complexion dimm'd."
+        "text": "(a)-(III), (b)-(IV), (c)-(I), (d)-(II) Comprehension: (91-95) Read the following stanza and answer the questions that follow: Shall I compare thee to a Summer's day Thou art more lovely and more temperate: Rough winds do shake the darling buds of May' And summer's lease hath all too short a date. Sometimes too hot the eye of heaven shines, And often is his gold complexion dimm'd."
       }
     ],
     "correctOption": "C",
@@ -4365,6 +4477,34 @@
       }
     ],
     "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U03-162",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.3",
+    "questionText": "Who among the following was NOT a member of the Beat Generation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Allen Ginsberg"
+      },
+      {
+        "key": "B",
+        "text": "Gregory Corso"
+      },
+      {
+        "key": "C",
+        "text": "Jack Kerouac"
+      },
+      {
+        "key": "D",
+        "text": "Rita Dove"
+      }
+    ],
+    "correctOption": "D",
     "cheatSheetRule": null
   },
   {
@@ -6321,7 +6461,7 @@
       },
       {
         "key": "D",
-        "text": "(a), (c) and (e)\n\n\n(a) J. C. Ransom — Criticism, Inc.\n(b) William Empson — Seven Types of Ambiguity\n(c) C. Brooks and R. P. Warren — Understanding Poetry\n(d) R. P. Blackmur — In Search of the New Criticism\n(e) Allen Tate — The New Apologists for Poetry\nChoose the correct answer from the options given below:"
+        "text": "(a), (c) and (e) (a) J. C. Ransom — Criticism, Inc. (b) William Empson — Seven Types of Ambiguity (c) C. Brooks and R. P. Warren — Understanding Poetry (d) R. P. Blackmur — In Search of the New Criticism (e) Allen Tate — The New Apologists for Poetry Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "B",
@@ -6533,19 +6673,19 @@
     "options": [
       {
         "key": "A",
-        "text": "The implication is that the reality of fiction has no existence independent of the words, and our\nemotional responses are directed by the words"
+        "text": "The implication is that the reality of fiction has no existence independent of the words, and our emotional responses are directed by the words"
       },
       {
         "key": "B",
-        "text": "The implication is that the reality of fiction is not dependent on the words, and our affective\nstates are not triggered by the words"
+        "text": "The implication is that the reality of fiction is not dependent on the words, and our affective states are not triggered by the words"
       },
       {
         "key": "C",
-        "text": "The mock reality subverts the external reality so obtrusively that readers become conscious of\nthe writer’s strategy"
+        "text": "The mock reality subverts the external reality so obtrusively that readers become conscious of the writer’s strategy"
       },
       {
         "key": "D",
-        "text": "The novel is different from poetry in the sense that it is metonymic in its mode of linear\nprogression, while poetry is metaphoric relying on subject-privileging"
+        "text": "The novel is different from poetry in the sense that it is metonymic in its mode of linear progression, while poetry is metaphoric relying on subject-privileging"
       }
     ],
     "correctOption": "A",
@@ -7560,6 +7700,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U03-277",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.4",
+    "questionText": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as\nReason (R).\nAssertion (A): In 19𝑡𝑡ℎ century, Charlotte Perkins Gilman asserted economic independence over\nvoting rights.\nReason (R): The representation of women as power-seekers was not socially acceptable in 19𝑡𝑡ℎ\ncentury America.\nIn the light of the above statements, choose the most appropriate answer from the options given\nbelow:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "(A) is correct but (R) is not correct"
+      },
+      {
+        "key": "D",
+        "text": "(A) is not correct but (R) is correct"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U03-278",
     "paper": 2,
     "unitId": 3,
@@ -7597,19 +7765,19 @@
     "options": [
       {
         "key": "A",
-        "text": "India: An Area of Darkness: India: A Wounded Civilization: India: A Million Mutinies\nNow: A House for Mr. Biswas"
+        "text": "India: An Area of Darkness: India: A Wounded Civilization: India: A Million Mutinies Now: A House for Mr. Biswas"
       },
       {
         "key": "B",
-        "text": "A House for Mr. Biswas: India: A Million Mutinies Now: India: An Area of Darkness:\nIndia: A Wounded Civilization"
+        "text": "A House for Mr. Biswas: India: A Million Mutinies Now: India: An Area of Darkness: India: A Wounded Civilization"
       },
       {
         "key": "C",
-        "text": "A House for Mr. Biswas: India: An Area of Darkness: India: A Wounded Civilization: India:\nA Million Mutinies Now"
+        "text": "A House for Mr. Biswas: India: An Area of Darkness: India: A Wounded Civilization: India: A Million Mutinies Now"
       },
       {
         "key": "D",
-        "text": "India: A Wounded Civilization: A House for Mr. Biswas: India: An Area of Darkness:\nIndia: A Million Mutinies Now"
+        "text": "India: A Wounded Civilization: A House for Mr. Biswas: India: An Area of Darkness: India: A Million Mutinies Now"
       }
     ],
     "correctOption": "C",
@@ -8509,6 +8677,34 @@
       }
     ],
     "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U03-312",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.4",
+    "questionText": "Which among the following are correct?\n(a) George Lamming - Barbados\n(b) Ben Okri - Nigeria\n(c) Fred D Aguiar - Australia\n(d) Wilson Harris - Guyana\n(e) Zulfikar Ghose - India\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (b) and (d) only"
+      }
+    ],
+    "correctOption": "D",
     "cheatSheetRule": null
   },
   {
@@ -9744,6 +9940,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U03-357",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.4",
+    "questionText": "Beyond the intensity of known grief, there can be:",
+    "options": [
+      {
+        "key": "A",
+        "text": "no grief than being experienced."
+      },
+      {
+        "key": "B",
+        "text": "only a new pain more painful."
+      },
+      {
+        "key": "C",
+        "text": "only the twisted known pains."
+      },
+      {
+        "key": "D",
+        "text": "the griefs beyond limits of pain."
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U03-358",
     "paper": 2,
     "unitId": 3,
@@ -9793,7 +10017,7 @@
       },
       {
         "key": "D",
-        "text": "Nothing can be so much bad as this.\nRead the following extract and answer the questions that follow:\n'Justice' was done, and the President of the Immortals, in Aeschylean phrase, had ended his sport\nwith Tess. And the D'Urberville knights and dames slept on in their tombs unknowing. The two\nspeechless gazers bent themselves down to the earth, as if in prayer, and remained thus a long time,\nabsolutely motionless; the flag continued to wave silently. As soon as they had enough strength they\narose, joined hands again, and went on.\nThomas Hardy, Tess of the D'Urbervilles"
+        "text": "Nothing can be so much bad as this. Read the following extract and answer the questions that follow: 'Justice' was done, and the President of the Immortals, in Aeschylean phrase, had ended his sport with Tess. And the D'Urberville knights and dames slept on in their tombs unknowing. The two speechless gazers bent themselves down to the earth, as if in prayer, and remained thus a long time, absolutely motionless; the flag continued to wave silently. As soon as they had enough strength they arose, joined hands again, and went on. Thomas Hardy, Tess of the D'Urbervilles"
       }
     ],
     "correctOption": "B",
@@ -10696,6 +10920,62 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U03-392",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.1",
+    "questionText": "Which of the following best captures the theme of the passage?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ruling a state is easier than managing a family."
+      },
+      {
+        "key": "B",
+        "text": "Solitude is one condition of peace with one self."
+      },
+      {
+        "key": "C",
+        "text": "The court and the marketplace must be got rid of"
+      },
+      {
+        "key": "D",
+        "text": "Try what one may, no one can ever be at ease. Read the following passage and answer the questions that follow: The aim of all solitude...is the same: to live more at leisure and at one’s ease. But people do not always look for the right way. Often they think they have left business, and they have only changed it. There is scarcely less trouble in governing a family than in governing an entire state: whatever the mind is wrapped up in it, it is all wrapped up in it, and domestic occupations are no less importunate for being less important. Furthermore, by getting rid of the court and the marketplace we do not get rid of the principal worries of our life....Ambition, avarice, irresolution, fear and lust do not leave us when we change our country....They often follow us even into the cloisters and schools of philosophy. Neither deserts, nor rocky caves, nor hair shirts, nor fastings will free us of them. -- Michel de Montaigne, “Of solitude”"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U03-393",
+    "paper": 2,
+    "unitId": 3,
+    "unitTitle": "Fiction & Short Story",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.2",
+    "questionText": "The mistake human beings make is to:",
+    "options": [
+      {
+        "key": "A",
+        "text": "abjure solitude when desirable."
+      },
+      {
+        "key": "B",
+        "text": "abstain from restraining the mind."
+      },
+      {
+        "key": "C",
+        "text": "abstain from the love of leisure."
+      },
+      {
+        "key": "D",
+        "text": "exaggerate the value of family. Read the following passage and answer the questions that follow: The aim of all solitude... is the same: to live more at leisure and at one’s ease. But people do not always look for the right way. Often they think they have left business, and they have only changed it. There is scarcely less trouble in governing a family than in governing an entire state: whatever the mind is wrapped up in it, it is all wrapped up in it, and domestic occupations are no less importunate for being less important. Furthermore, by getting rid of the court and the marketplace we do not get rid of the principal worries of our life....Ambition, avarice, irresolution, fear and lust do not leave us when we change our country....They often follow us even into the cloisters and schools of philosophy. Neither deserts, nor rocky caves, nor hair shirts, nor fastings will free us of them. -- Michel de Montaigne, “Of solitude”"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U03-394",
     "paper": 2,
     "unitId": 3,
@@ -10717,7 +10997,7 @@
       },
       {
         "key": "D",
-        "text": "imbued with logic of mind.\nRead the following extract and answer the questions that follow:\nThe earth was made for Dombey and Son to trade in, and the sun and moon were made to give\nthem light. Rivers and seas were formed to float their ships; rainbows gave them promise of fair\nweather; winds blew for or against their enterprises; stars and planets circled in their orbits, to\npreserve inviolate a system of which they were the centre. Common abbreviations took new\nmeanings in his eyes, and had sole reference to them: A. D. had no concern with anno Domini,\nbut stood for anno Dombey—and Son.\n- Charles Dickens, Dombey and Son"
+        "text": "imbued with logic of mind. Read the following extract and answer the questions that follow: The earth was made for Dombey and Son to trade in, and the sun and moon were made to give them light. Rivers and seas were formed to float their ships; rainbows gave them promise of fair weather; winds blew for or against their enterprises; stars and planets circled in their orbits, to preserve inviolate a system of which they were the centre. Common abbreviations took new meanings in his eyes, and had sole reference to them: A. D. had no concern with anno Domini, but stood for anno Dombey—and Son. - Charles Dickens, Dombey and Son"
       }
     ],
     "correctOption": "B",

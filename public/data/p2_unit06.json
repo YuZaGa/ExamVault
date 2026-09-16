@@ -93,15 +93,15 @@
     "options": [
       {
         "key": "A",
-        "text": "NEP-2020 recommends that there should be high quality learning and print material in\nIndian languages"
+        "text": "NEP-2020 recommends that there should be high quality learning and print material in Indian languages"
       },
       {
         "key": "B",
-        "text": "The Policy recommends early implementation of three-language formulae to promote\nmultilingualism"
+        "text": "The Policy recommends early implementation of three-language formulae to promote multilingualism"
       },
       {
         "key": "C",
-        "text": "The Policy recommends that English language should be the only medium of instruction at\nelementary level"
+        "text": "The Policy recommends that English language should be the only medium of instruction at elementary level"
       },
       {
         "key": "D",
@@ -109,6 +109,34 @@
       }
     ],
     "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U06-6",
+    "paper": 2,
+    "unitId": 6,
+    "unitTitle": "English in India",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.2",
+    "questionText": "The Kothari Commission suggested",
+    "options": [
+      {
+        "key": "A",
+        "text": "that English must be used as a link language to translate one Indian language text into another."
+      },
+      {
+        "key": "B",
+        "text": "that English be studied as a library language with the aim of getting the knowledge of science and technology, commerce and trade by reading standard books in English."
+      },
+      {
+        "key": "C",
+        "text": "that research in India should be done only in English."
+      },
+      {
+        "key": "D",
+        "text": "that a teacher at a University must know how to speak and write in English."
+      }
+    ],
+    "correctOption": "B",
     "cheatSheetRule": null
   },
   {
@@ -149,19 +177,19 @@
     "options": [
       {
         "key": "A",
-        "text": "The “Magna Carta” of Indian Education in the colonial period refers to “The Missionary Clause\n1698”."
+        "text": "The “Magna Carta” of Indian Education in the colonial period refers to “The Missionary Clause 1698”."
       },
       {
         "key": "B",
-        "text": "The “Magna Carta” of Indian Education in the colonial period refers to “Indian Education\nCommission in 1882”."
+        "text": "The “Magna Carta” of Indian Education in the colonial period refers to “Indian Education Commission in 1882”."
       },
       {
         "key": "C",
-        "text": "The “Magna Carta” of Indian Education in the colonial period refers to “Macaulay’s Minute\n1835”."
+        "text": "The “Magna Carta” of Indian Education in the colonial period refers to “Macaulay’s Minute 1835”."
       },
       {
         "key": "D",
-        "text": "The “Magna Carta” of Indian Education in the colonial period refers to ““Wood’s Education\nDespatch of 1854”."
+        "text": "The “Magna Carta” of Indian Education in the colonial period refers to ““Wood’s Education Despatch of 1854”."
       }
     ],
     "correctOption": "D",
@@ -317,19 +345,19 @@
     "options": [
       {
         "key": "A",
-        "text": "It argued that English as a highly developed language was best suited for India's industrial and\nscientific progress."
+        "text": "It argued that English as a highly developed language was best suited for India's industrial and scientific progress."
       },
       {
         "key": "B",
-        "text": "It asserted that English had the potential to further polarize an already divided nation along\nsocio economic and intellectual fault lines."
+        "text": "It asserted that English had the potential to further polarize an already divided nation along socio economic and intellectual fault lines."
       },
       {
         "key": "C",
-        "text": "It observed that English need not be displaced as the medium of instruction although regional\nlanguages were quite ready to take over its functions."
+        "text": "It observed that English need not be displaced as the medium of instruction although regional languages were quite ready to take over its functions."
       },
       {
         "key": "D",
-        "text": "It recommended a quicker switchover of the medium of instruction from English to Indian\nlanguages."
+        "text": "It recommended a quicker switchover of the medium of instruction from English to Indian languages."
       }
     ],
     "correctOption": "A",

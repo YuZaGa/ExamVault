@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { storageService } from '../services/storageService';
 import { MistakeItem, Question } from '../types';
-import { ShieldAlert, Sparkles, Flame, CheckCircle, ArrowRight, BookOpen, AlertCircle } from 'lucide-react';
+import { ShieldAlert, Sparkles, Flame, CheckCircle, ArrowRight } from 'lucide-react';
 
 interface MistakeVaultProps {
   onStartMistakeDrill: (questions: Question[]) => void;
@@ -198,7 +198,7 @@ export const MistakeVault: React.FC<MistakeVaultProps> = ({ onStartMistakeDrill 
                 </div>
 
                 <p style={{ fontSize: '0.9rem', color: 'var(--text-main)', lineHeight: 1.45, maxHeight: '64px', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                  {item.question.questionText}
+                  {item.question.questionText.replace(/^>[\s\S]*?\n\n/i, '').replace(/^>\s*/gm, '')}
                 </p>
 
                 {item.question.cheatSheetRule && (

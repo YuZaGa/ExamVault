@@ -1,5 +1,33 @@
 [
   {
+    "id": "P2-U10-2",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.4",
+    "questionText": "Which of the following are correct according to the MLA Handbook, 9th edition?\n(a) One inch margin on all sides is compulsory in a research page.\n(b) Co-ordinating conjunctions are written in bold letters in the title of a research paper.\n(c) Slash is used between two nouns paired as opposites.\n(d) 'Hanging indent' in the work cited entry is ½ inches.\n(e) Subordinating conjunctions are not written in bold letters in the title of the research paper.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (c) and (d) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d) and (a) only"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d) and (e) only"
+      },
+      {
+        "key": "D",
+        "text": "(b), (c) and (e) only"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U10-3",
     "paper": 2,
     "unitId": 10,
@@ -26,6 +54,34 @@
     ],
     "correctOption": "C",
     "cheatSheetRule": "1997: Coined/Proposed by Arundhati Roy (*The God of Small Things*)"
+  },
+  {
+    "id": "P2-U10-4",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.1",
+    "questionText": "According to MLA Handbook, the mechanics of prose refers to technical questions that writers\nmust follow. These include:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Spelling, punctuation, grammar, capitalization"
+      },
+      {
+        "key": "B",
+        "text": "Spelling, punctuation, capitalization, style of numbering"
+      },
+      {
+        "key": "C",
+        "text": "Spelling, punctuation, capitalization, content"
+      },
+      {
+        "key": "D",
+        "text": "Spelling, capitalization, style of numbering, linguistics"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U10-5",
@@ -65,23 +121,51 @@
     "options": [
       {
         "key": "A",
-        "text": "2016. Boggs, Colleen Glenney. \"Public Reading and the Civil War Draft Lottery.\" American\nPeriodicals, vol. 26, no. 2, 2016, pp. 149-66"
+        "text": "2016. Boggs, Colleen Glenney. \"Public Reading and the Civil War Draft Lottery.\" American Periodicals, vol. 26, no. 2, 2016, pp. 149-66"
       },
       {
         "key": "B",
-        "text": "\"Public Reading and the Civil War Draft Lottery.\" American Periodicals, vol. 26, no. 2, 2016,\nP. 149-66."
+        "text": "\"Public Reading and the Civil War Draft Lottery.\" American Periodicals, vol. 26, no. 2, 2016, P. 149-66."
       },
       {
         "key": "C",
-        "text": "Boggs, Colleen Glenney, American Periodicals. \"Public Reading and the Civil War Draft\nLottery.\" vol. 26, no. 2, 2016, P. 149-66"
+        "text": "Boggs, Colleen Glenney, American Periodicals. \"Public Reading and the Civil War Draft Lottery.\" vol. 26, no. 2, 2016, P. 149-66"
       },
       {
         "key": "D",
-        "text": "Boggs, Colleen Glenney. \"Public Reading and the Civil War Draft Lottery.\" American\nPeriodicals, vol. 26, no. 2, 2016, pp. 149-66."
+        "text": "Boggs, Colleen Glenney. \"Public Reading and the Civil War Draft Lottery.\" American Periodicals, vol. 26, no. 2, 2016, pp. 149-66."
       }
     ],
     "correctOption": "D",
     "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U10-7",
+    "paper": 2,
+    "unitId": 10,
+    "unitTitle": "Research Methods in English",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.1",
+    "questionText": "A manuscript having an overlap with earlier papers by the same authors or by some of the\npresent authors is termed as:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Plagiarism"
+      },
+      {
+        "key": "B",
+        "text": "Self Plagiarism"
+      },
+      {
+        "key": "C",
+        "text": "Intertextuality"
+      },
+      {
+        "key": "D",
+        "text": "Multiple references"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Intertextuality: Coined/Proposed by Julia Kristeva (*Desire in Language* (based on Bakhtin))"
   },
   {
     "id": "P2-U10-8",
@@ -149,11 +233,11 @@
     "options": [
       {
         "key": "A",
-        "text": "Surname, First name. Title of the Book in italics. Place of Publication: Name of the Publishing House,\nYear of publication."
+        "text": "Surname, First name. Title of the Book in italics. Place of Publication: Name of the Publishing House, Year of publication."
       },
       {
         "key": "B",
-        "text": "Surname, First name in initials (Year of Publication). Title of the Book. Place of Publication. Name of\nthe Publishing House."
+        "text": "Surname, First name in initials (Year of Publication). Title of the Book. Place of Publication. Name of the Publishing House."
       },
       {
         "key": "C",
@@ -161,7 +245,7 @@
       },
       {
         "key": "D",
-        "text": "Surname, First name. Title of the Book in italics. Place of Publication: Name of the Publishing House,\nYear of publication. Print."
+        "text": "Surname, First name. Title of the Book in italics. Place of Publication: Name of the Publishing House, Year of publication. Print."
       }
     ],
     "correctOption": "C",
@@ -185,11 +269,11 @@
       },
       {
         "key": "C",
-        "text": "It should be kept in mind that a dissertation or a thesis should take the form of an argument in\nwhich thewriter must attempt to convince the reader of his or her case."
+        "text": "It should be kept in mind that a dissertation or a thesis should take the form of an argument in which thewriter must attempt to convince the reader of his or her case."
       },
       {
         "key": "D",
-        "text": "A researcher should not bother about the use of the proper scholarly conventions from the very\nbeginning."
+        "text": "A researcher should not bother about the use of the proper scholarly conventions from the very beginning."
       }
     ],
     "correctOption": "D",

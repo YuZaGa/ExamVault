@@ -105,7 +105,7 @@
       },
       {
         "key": "D",
-        "text": "3520\nComprehension: (46-50)"
+        "text": "3520 Comprehension: (46-50)"
       }
     ],
     "correctOption": "B",
@@ -145,7 +145,7 @@
     "unitId": 5,
     "unitTitle": "Mathematical Reasoning",
     "shift": "Shift: 02-01-2026 FN | Q.24",
-    "questionText": "Identify the correct mathematical statements:\n(a) A batsman makes a score of 87 runs in the 17th inning and thus increases his average by",
+    "questionText": "Identify the correct mathematical statements:\n(a) A batsman makes a score of 87 runs in the 17th inning and thus increases his average by\n3.Then his average after 17th inning is 36.\n(b) The value of a number substracted from Numerator and Denominator of the fraction 6/7 to\nget a fraction equal to 3/4 is 3\n(c) If 15% of 40 is greater than 25% of a number by 2, then the number is 16.\n(d) The value of (1+1/2) (1+1/3) (1+1/4) _______ (1+1/120) is 60.5\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
@@ -189,7 +189,7 @@
       },
       {
         "key": "D",
-        "text": "599\nComprehension: (46-50)"
+        "text": "599 Comprehension: (46-50)"
       }
     ],
     "correctOption": "C",
@@ -441,7 +441,7 @@
       },
       {
         "key": "D",
-        "text": "(a)-(IV), (b)-(I), (c)-(III), (d)-(II)\nComprehension: (46-50)"
+        "text": "(a)-(IV), (b)-(I), (c)-(III), (d)-(II) Comprehension: (46-50)"
       }
     ],
     "correctOption": "C",
@@ -793,7 +793,7 @@
     "options": [
       {
         "key": "A",
-        "text": "𝑥\n𝑦 = 8\n5"
+        "text": "𝑥 𝑦 = 8 5"
       },
       {
         "key": "B",
@@ -801,11 +801,11 @@
       },
       {
         "key": "C",
-        "text": "𝑥\n𝑦 = 5\n8"
+        "text": "𝑥 𝑦 = 5 8"
       },
       {
         "key": "D",
-        "text": "𝑥\n𝑦 = 3\n4"
+        "text": "𝑥 𝑦 = 3 4"
       }
     ],
     "correctOption": "C",
@@ -2296,6 +2296,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P1-U05-84",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "21-02-2023 ARB_FN AND 21-02-2023 FOR_AN | Q.4",
+    "questionText": "The average of the total number of literates in Cities A, B, C and E together is (in lakhs)",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.67"
+      },
+      {
+        "key": "B",
+        "text": "0.72"
+      },
+      {
+        "key": "C",
+        "text": "1.08"
+      },
+      {
+        "key": "D",
+        "text": "1.52"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P1-U05-85",
     "paper": 1,
     "unitId": 5,
@@ -2828,6 +2856,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P1-U05-104",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "11-03-2023 SOCIO_FN | Q.4",
+    "questionText": "What is the average of the increase in total installed capacity of electricity through renewable\nenergy sources in the two states from the year 2011 to the year 2021?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 GW"
+      },
+      {
+        "key": "B",
+        "text": "12.5GW"
+      },
+      {
+        "key": "C",
+        "text": "17.1GW"
+      },
+      {
+        "key": "D",
+        "text": "22.5GW"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
     "id": "P1-U05-105",
     "paper": 1,
     "unitId": 5,
@@ -2837,7 +2893,7 @@
     "options": [
       {
         "key": "A",
-        "text": "A gain of 16 2%\n3"
+        "text": "A gain of 16 2% 3"
       },
       {
         "key": "B",
@@ -2845,7 +2901,7 @@
       },
       {
         "key": "C",
-        "text": "A loss of 16 2%\n3"
+        "text": "A loss of 16 2% 3"
       },
       {
         "key": "D",
@@ -3209,11 +3265,11 @@
       },
       {
         "key": "C",
-        "text": "61\n2 % and 6 1yrs.\n2"
+        "text": "61 2 % and 6 1yrs. 2"
       },
       {
         "key": "D",
-        "text": "62 % and 6 2yrs.\n3 \t3"
+        "text": "62 % and 6 2yrs. 3 \t3"
       }
     ],
     "correctOption": "D",
@@ -3948,6 +4004,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P1-U05-146",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_49 | Q.3",
+    "questionText": "Find out the average of difference of fees of MCA and MTech for 2016-2020",
+    "options": [
+      {
+        "key": "A",
+        "text": "7600"
+      },
+      {
+        "key": "B",
+        "text": "7650"
+      },
+      {
+        "key": "C",
+        "text": "7700"
+      },
+      {
+        "key": "D",
+        "text": "7750"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+  },
+  {
     "id": "P1-U05-147",
     "paper": 1,
     "unitId": 5,
@@ -4424,6 +4508,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P1-U05-164",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_56 | Q.2",
+    "questionText": "What is the average of the number of vacant seats for all trains?",
+    "options": [
+      {
+        "key": "A",
+        "text": "302"
+      },
+      {
+        "key": "B",
+        "text": "304"
+      },
+      {
+        "key": "C",
+        "text": "306"
+      },
+      {
+        "key": "D",
+        "text": "308"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P1-U05-165",
     "paper": 1,
     "unitId": 5,
@@ -4501,11 +4613,67 @@
       },
       {
         "key": "D",
-        "text": "840\nRead the passage carefully and answer the questions that follows(46-50)\nThroughout history, people have turned to mythology, folklore and religion for explanations of\nlife's origins, and to this day, there are many who firmly believe what has been written in religious\nbooks and passed down from generation to generation. With the advent of the Age of Reason in the\n18th century and scientific advances in the 19th century, however, the quest for deeper knowledge\ncould be satisfied by digging for empirical\nevidence and putting it to empirical test.\nIn 1865, Gregor Mendel, an Austrian monk who had been experimenting for eight years with\ngarden peas, announced to the scientific community that specific characteristics, or traits, were\ntransmitted from parent to offspring in an organized and predictable manner. Along with Charles\nDarwin's Theory of Natural Selection and evolution, as stated in his 1859 publication, 'On the\nOrigin of Species'. Mendel's work set the stage for the science of genetics to become the prominent\nexplanation of where life comes from. With the help of improved microscopes, scientists\ndiscovered the existence and structure of cells containing chromosomes. In the early 1900s,\nexperiments with fruit flies revealed that chromosomes located in the cell's nucleus were made of\ngenes. The Drosophila, commonly called fruit fly, was the first living organism to be genetically\nmapped. In 1944, Oswald Avery identified genes in bacteria as genetic messengers made of DNA.\nIn 1953, James Watson and Francis Crick discovered the double-helix structure of DNA, for which\nthey received the Nobel Prize nine years later. With each ground breaking discovery, molecular\nbiologists were able to form an even clearer picture of the mechanics of life. To crack the code of\nlife, prominent scientists proposed compiling a comprehensive genetic map of a human being."
+        "text": "840 Read the passage carefully and answer the questions that follows(46-50) Throughout history, people have turned to mythology, folklore and religion for explanations of life's origins, and to this day, there are many who firmly believe what has been written in religious books and passed down from generation to generation. With the advent of the Age of Reason in the 18th century and scientific advances in the 19th century, however, the quest for deeper knowledge could be satisfied by digging for empirical evidence and putting it to empirical test. In 1865, Gregor Mendel, an Austrian monk who had been experimenting for eight years with garden peas, announced to the scientific community that specific characteristics, or traits, were transmitted from parent to offspring in an organized and predictable manner. Along with Charles Darwin's Theory of Natural Selection and evolution, as stated in his 1859 publication, 'On the Origin of Species'. Mendel's work set the stage for the science of genetics to become the prominent explanation of where life comes from. With the help of improved microscopes, scientists discovered the existence and structure of cells containing chromosomes. In the early 1900s, experiments with fruit flies revealed that chromosomes located in the cell's nucleus were made of genes. The Drosophila, commonly called fruit fly, was the first living organism to be genetically mapped. In 1944, Oswald Avery identified genes in bacteria as genetic messengers made of DNA. In 1953, James Watson and Francis Crick discovered the double-helix structure of DNA, for which they received the Nobel Prize nine years later. With each ground breaking discovery, molecular biologists were able to form an even clearer picture of the mechanics of life. To crack the code of life, prominent scientists proposed compiling a comprehensive genetic map of a human being."
       }
     ],
     "correctOption": "B",
     "cheatSheetRule": "Year: Model Name | Formulated By"
+  },
+  {
+    "id": "P1-U05-168",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_57 | Q.3",
+    "questionText": "Find out the difference between the average of Qualified candidates (2016 2020) of M.Sc. and\nthe average of Qualified candidates (2016-2020) of MA?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1350"
+      },
+      {
+        "key": "B",
+        "text": "1375"
+      },
+      {
+        "key": "C",
+        "text": "1400"
+      },
+      {
+        "key": "D",
+        "text": "1425"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+  },
+  {
+    "id": "P1-U05-169",
+    "paper": 1,
+    "unitId": 5,
+    "unitTitle": "Mathematical Reasoning",
+    "shift": "Shift_57 | Q.4",
+    "questionText": "What is the average of the difference between total number of candidates who Appeared and the\nQualified candidates for the stream B.Sc. for 2016-2020?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2100"
+      },
+      {
+        "key": "B",
+        "text": "2120"
+      },
+      {
+        "key": "C",
+        "text": "2125"
+      },
+      {
+        "key": "D",
+        "text": "2135"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
   },
   {
     "id": "P1-U05-170",
@@ -5145,7 +5313,7 @@
       },
       {
         "key": "D",
-        "text": "Cadmium Sulphide (CdS)\nChoose the correct answer from the options given below"
+        "text": "Cadmium Sulphide (CdS) Choose the correct answer from the options given below"
       }
     ],
     "correctOption": "B",
@@ -5425,7 +5593,7 @@
       },
       {
         "key": "D",
-        "text": "Descriptive survey method\n9) A teacher uses a question-answer session to ensure desired learning outcomes in his/ her\nclassroom.\nIn this process, he/she offers the following type of comment to a few answers given by a\nstudent:\n\"Yes, you are right, good\" This will be considered as an example of"
+        "text": "Descriptive survey method 9) A teacher uses a question-answer session to ensure desired learning outcomes in his/ her classroom. In this process, he/she offers the following type of comment to a few answers given by a student: \"Yes, you are right, good\" This will be considered as an example of"
       }
     ],
     "correctOption": "D",
@@ -5621,7 +5789,7 @@
       },
       {
         "key": "D",
-        "text": "2:3\nSub Question No : 30"
+        "text": "2:3 Sub Question No : 30"
       }
     ],
     "correctOption": "D",
@@ -5733,7 +5901,7 @@
       },
       {
         "key": "D",
-        "text": "192\nConsider the following two tables (I and II) that show the production (in Tonnes) of four\nproducts P, Q, R and S during the years 2010-2015 and the selling price per Tonne (in Rs.\nThousands) respectively. In accordance with the tables I and II, answer the questions that\nfollow.\nI: Production Year wise (in Tonnes)\nII: Selling Price (in Rs. Thousands)\nWhere, stability of production of a given product during 2010-2015\n= Average production/ maximum production – minimum production And Revenue (in Rs.\nThousands) from selling a product\n= production of a product * selling price."
+        "text": "192 Consider the following two tables (I and II) that show the production (in Tonnes) of four products P, Q, R and S during the years 2010-2015 and the selling price per Tonne (in Rs. Thousands) respectively. In accordance with the tables I and II, answer the questions that follow. I: Production Year wise (in Tonnes) II: Selling Price (in Rs. Thousands) Where, stability of production of a given product during 2010-2015 = Average production/ maximum production – minimum production And Revenue (in Rs. Thousands) from selling a product = production of a product * selling price."
       }
     ],
     "correctOption": "A",
@@ -5845,7 +6013,7 @@
       },
       {
         "key": "D",
-        "text": "duration of the research.\n46. The ratio of the total expenditure on football to that of expenditure on hockey is:"
+        "text": "duration of the research. 46. The ratio of the total expenditure on football to that of expenditure on hockey is:"
       }
     ],
     "correctOption": "B",

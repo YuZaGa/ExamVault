@@ -142,27 +142,42 @@ function parseFile(filePath, paper, unitId, unitTitle) {
 
     // Extract Options: Look for (A)-(D), (1)-(4), or 1.-4.
     let options = [];
+    let firstOptBlockIndex = -1;
     const optLetterRegex = /(?:^|\n)\s*\(([A-D1-4])\)\s*([\s\S]*?)(?=(?:\n\s*\([A-D1-4]\)|\n\s*>|\n\s*---|\n\s*###|$))/g;
     let optMatch;
     while ((optMatch = optLetterRegex.exec(block)) !== null) {
+      if (firstOptBlockIndex === -1) {
+        firstOptBlockIndex = optMatch.index;
+      }
       let key = optMatch[1].toUpperCase();
       if (key === '1') key = 'A';
       else if (key === '2') key = 'B';
       else if (key === '3') key = 'C';
       else if (key === '4') key = 'D';
-      const text = optMatch[2].replace(/==/g, '').trim();
+      let text = optMatch[2].replace(/==/g, '').trim();
+      // Format mixed fraction newlines e.g. "13 7\n11" -> "13 7/11" or "135\n7" -> "135/7"
+      text = text.replace(/^(\d+)\s+(\d+)\s*\n\s*(\d+)$/, '$1 $2/$3');
+      text = text.replace(/^(\d+)\s*\n\s*(\d+)$/, '$1/$2');
+      text = text.replace(/\s*\n\s*/g, ' ');
       options.push({ key, text });
     }
 
     // If (A)-(D) failed, look for 1. / 2. / 3. / 4. format
     if (options.length < 4) {
       options = [];
+      firstOptBlockIndex = -1;
       const optNumberRegex = /(?:^|\n)\s*([1-4])\.\s*([\s\S]*?)(?=(?:\n\s*[1-4]\.|\n\s*>|\n\s*---|\n\s*###|$))/g;
       let numMatch;
       while ((numMatch = optNumberRegex.exec(block)) !== null) {
+        if (firstOptBlockIndex === -1) {
+          firstOptBlockIndex = numMatch.index;
+        }
         const num = numMatch[1];
         const key = num === '1' ? 'A' : num === '2' ? 'B' : num === '3' ? 'C' : 'D';
-        const text = numMatch[2].replace(/==/g, '').trim();
+        let text = numMatch[2].replace(/==/g, '').trim();
+        text = text.replace(/^(\d+)\s+(\d+)\s*\n\s*(\d+)$/, '$1 $2/$3');
+        text = text.replace(/^(\d+)\s*\n\s*(\d+)$/, '$1/$2');
+        text = text.replace(/\s*\n\s*/g, ' ');
         options.push({ key, text });
       }
     }
@@ -186,11 +201,16 @@ function parseFile(filePath, paper, unitId, unitTitle) {
       { key: 'D', text: optionMap.D || options[3]?.text || '' }
     ];
 
-    // Extract Question Text: portion before options start
-    let qBody = block.substring(headerMatch[0].length);
-    const optStart = qBody.search(/(?:^|\n)\s*(?:\([A-D1-4]\)|[1-4]\.)/);
-    let questionText = optStart !== -1 ? qBody.substring(0, optStart).trim() : qBody.split(/\n\s*>/)[0].trim();
-    // Clean up leading question numbers e.g. "28. "
+    // Extract Question Text: accurately slice before first option starts
+    let questionText = '';
+    if (firstOptBlockIndex !== -1 && firstOptBlockIndex > headerMatch[0].length) {
+      questionText = block.substring(headerMatch[0].length, firstOptBlockIndex).trim();
+    } else {
+      let qBody = block.substring(headerMatch[0].length);
+      const optStart = qBody.search(/(?:^|\n)\s*\([A-D1-4]\)/);
+      questionText = optStart !== -1 ? qBody.substring(0, optStart).trim() : qBody.split(/\n\s*>/)[0].trim();
+    }
+    // Clean up leading question numbers e.g. "28. " at the start of questionText
     questionText = questionText.replace(/^\d+\.\s*/, '').trim();
 
     if (!questionText || questionText.length < 5) continue;

@@ -1,5 +1,33 @@
 [
   {
+    "id": "P2-U04-2",
+    "paper": 2,
+    "unitId": 4,
+    "unitTitle": "Non-Fictional Prose",
+    "shift": "Shift: DECEMBER 2024 SHIFT II | Q.2",
+    "questionText": "In which of the texts, the following lines occur?\n\"Of all the causes which conspire to blind\nMan's erring judgement, and misguide the mind,\nWhat the weak head with strongest bias rules,\nIs pride, the never failing vice of fools.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "An Essay on Criticism"
+      },
+      {
+        "key": "B",
+        "text": "The Rape of the Lock"
+      },
+      {
+        "key": "C",
+        "text": "An Essay on Man"
+      },
+      {
+        "key": "D",
+        "text": "Epistle to Dr. Arbuthnot"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
     "id": "P2-U04-3",
     "paper": 2,
     "unitId": 4,
@@ -737,7 +765,7 @@
     "options": [
       {
         "key": "A",
-        "text": "Douglass's autobiography belongs to the tradition of fugitive-slave narrative popular in the North\nbefore the Civil War."
+        "text": "Douglass's autobiography belongs to the tradition of fugitive-slave narrative popular in the North before the Civil War."
       },
       {
         "key": "B",

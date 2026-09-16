@@ -1381,7 +1381,7 @@
     "options": [
       {
         "key": "A",
-        "text": "It means the technology can travel with the user; for instance, users can download software,\nemail messages, and web pages onto a laptop or other mobile device"
+        "text": "It means the technology can travel with the user; for instance, users can download software, email messages, and web pages onto a laptop or other mobile device"
       },
       {
         "key": "B",
@@ -1389,11 +1389,11 @@
       },
       {
         "key": "C",
-        "text": "It refers to a wireless Personal Area Network (PAN) technology that transmits signal over\nshort distances among cell phones, computers and other devices"
+        "text": "It refers to a wireless Personal Area Network (PAN) technology that transmits signal over short distances among cell phones, computers and other devices"
       },
       {
         "key": "D",
-        "text": "It provides communication for devices owned by a single user that work over a short\ndistance"
+        "text": "It provides communication for devices owned by a single user that work over a short distance"
       }
     ],
     "correctOption": "C",
@@ -2921,7 +2921,7 @@
     "options": [
       {
         "key": "A",
-        "text": "Cloud computing is Internet - based computing where shared resources, software, and\ninformation are provided to firms on demand."
+        "text": "Cloud computing is Internet - based computing where shared resources, software, and information are provided to firms on demand."
       },
       {
         "key": "B",
@@ -3409,7 +3409,7 @@
       },
       {
         "key": "D",
-        "text": "Dual Core CPU based\nComprehension (46-50)"
+        "text": "Dual Core CPU based Comprehension (46-50)"
       }
     ],
     "correctOption": "C",
@@ -4189,11 +4189,11 @@
       },
       {
         "key": "C",
-        "text": "Data packets will always follow the same route but could arrive at different times in different\norder"
+        "text": "Data packets will always follow the same route but could arrive at different times in different order"
       },
       {
         "key": "D",
-        "text": "Data packets may follow different routes but will always arrive at the same time in the same\norder"
+        "text": "Data packets may follow different routes but will always arrive at the same time in the same order"
       }
     ],
     "correctOption": "A",
@@ -4665,7 +4665,7 @@
       },
       {
         "key": "C",
-        "text": "It is a network where a computer is connected to the Internet and acts as a gateway for other\ndevices."
+        "text": "It is a network where a computer is connected to the Internet and acts as a gateway for other devices."
       },
       {
         "key": "D",
@@ -5113,11 +5113,11 @@
       },
       {
         "key": "C",
-        "text": "Data packets will always follow the same route but could arrive at different times in different\norder"
+        "text": "Data packets will always follow the same route but could arrive at different times in different order"
       },
       {
         "key": "D",
-        "text": "Data packets may follow different routes but will always arrive at the same time in the same\norder"
+        "text": "Data packets may follow different routes but will always arrive at the same time in the same order"
       }
     ],
     "correctOption": "A",
@@ -5133,7 +5133,7 @@
     "options": [
       {
         "key": "A",
-        "text": "The quality of the pictures taken by a digital camera depends on its resolution, which is\nmeasured in megabytes"
+        "text": "The quality of the pictures taken by a digital camera depends on its resolution, which is measured in megabytes"
       },
       {
         "key": "B",
@@ -5329,7 +5329,7 @@
     "options": [
       {
         "key": "A",
-        "text": "Global Positioning Systems (GPSs) in cars send signals to satellite which then work out\nwhere they are and send this data back to the car."
+        "text": "Global Positioning Systems (GPSs) in cars send signals to satellite which then work out where they are and send this data back to the car."
       },
       {
         "key": "B",
@@ -5341,7 +5341,7 @@
       },
       {
         "key": "D",
-        "text": "Geographic Information System (GIS) is a computer based tool for mapping and analysing\nthings that exist and events that happen on earth."
+        "text": "Geographic Information System (GIS) is a computer based tool for mapping and analysing things that exist and events that happen on earth."
       }
     ],
     "correctOption": "D",
@@ -6461,7 +6461,7 @@
       },
       {
         "key": "D",
-        "text": "(c), (d) and (e) only\n(c) Social\nnetworking sites\n(III) Legitimate-looking email sent to a user in the hope of gathering\npersonal information; as soon as the recipient clicks on the link in\nemail (or email attachment) they are sent to a fake website.\n(d) Pharming \t(IV) Software that secretly gathers information by monitoring key presses\non a user's keyboard; this information is relayed back to person who\nsent the software originally."
+        "text": "(c), (d) and (e) only (c) Social networking sites (III) Legitimate-looking email sent to a user in the hope of gathering personal information; as soon as the recipient clicks on the link in email (or email attachment) they are sent to a fake website. (d) Pharming \t(IV) Software that secretly gathers information by monitoring key presses on a user's keyboard; this information is relayed back to person who sent the software originally."
       }
     ],
     "correctOption": "C",
@@ -6713,7 +6713,7 @@
       },
       {
         "key": "D",
-        "text": "The email header is changed so that the message appears to have come from someone\nelse."
+        "text": "The email header is changed so that the message appears to have come from someone else."
       }
     ],
     "correctOption": "B",
@@ -7261,19 +7261,19 @@
     "options": [
       {
         "key": "A",
-        "text": "Asynchronous is real-time communication, while synchronous is one-way\ntechnology."
+        "text": "Asynchronous is real-time communication, while synchronous is one-way technology."
       },
       {
         "key": "B",
-        "text": "Asynchronous is communication that does not occur at the same time, while\nsynchronous communication occurs at the same time."
+        "text": "Asynchronous is communication that does not occur at the same time, while synchronous communication occurs at the same time."
       },
       {
         "key": "C",
-        "text": "Asynchronous communication includes instant messaging, while synchronous\ncommunication includes email."
+        "text": "Asynchronous communication includes instant messaging, while synchronous communication includes email."
       },
       {
         "key": "D",
-        "text": "Asynchronous communication is fast and instant while synchronous communication\nis collected at a single point in time."
+        "text": "Asynchronous communication is fast and instant while synchronous communication is collected at a single point in time."
       }
     ],
     "correctOption": "B",
@@ -7317,11 +7317,11 @@
     "options": [
       {
         "key": "A",
-        "text": "(125 megabytes, CD/Low capacity flash memory, Good for mailing/inexpensive to\nbuy)"
+        "text": "(125 megabytes, CD/Low capacity flash memory, Good for mailing/inexpensive to buy)"
       },
       {
         "key": "B",
-        "text": "(90 megabytes, CD/Low capacity flash memory, Good for mailing/inexpensive to\nbuy)"
+        "text": "(90 megabytes, CD/Low capacity flash memory, Good for mailing/inexpensive to buy)"
       },
       {
         "key": "C",
@@ -7469,7 +7469,7 @@
       },
       {
         "key": "D",
-        "text": "(c), (d) and (e) only\n(46 – 50)"
+        "text": "(c), (d) and (e) only (46 – 50)"
       }
     ],
     "correctOption": "B",
@@ -8253,7 +8253,7 @@
       },
       {
         "key": "D",
-        "text": "To allow the file to be read by a variety of applications\nRead the given passage and answer the questions that follow:\nHuman beings are not completely free to socially construct their own behaviour. They have a shared\nbiological nature. The nature is remarkably uniform throughout the world, given the fact that most\ncontemporary humans outside of Africa descended from a single relatively small group of individuals\nsome fifty thousand years ago. This shared nature does not determine political behaviour, but it frames\nand limits the nature of institutions that are possible. It also means that human politics is subject to\ncertain recurring patterns of behaviour across time and across cultures. This shared nature can be\ndescribed in certain propositions like that the human beings never existed in a pre-social state.\nThe idea that human beings at one time existed as isolated individuals, who interacted either through\nanarchic violence (Hobbes) or in pacific ignorance of one another (Rousseau), is not correct. Human\nbeings as well as their primate ancestors always lived in kin-based social groups of varying sizes.\nIndeed, they lived in these social units for a sufficiently long period of time that the cognitive and\nemotional faculties needed to promote social cooperation evolved and became hardwired in their\ngenetic endowments. This means that a rational-choice model of collective action, in which individuals\ncalculate that they will be better off by cooperating with one another, vastly understates the degree of\nsocial cooperation that exists in human societies and misunderstands the motives that underlie it.\nThe next one is the idea of natural human sociability. This is built around two principles, kin selection\nand reciprocal altruism. The principle of kin selection or inclusive fitness states that human beings will\nact altruistically toward genetic relatives (or individuals believed to be genetic relatives) in rough\nproportion to their shared genes. The principle of reciprocal altruism says that human beings tend to\ndevelop relationships of mutual benefit or mutual harm as they interact with other individuals over\ntime. Reciprocal altruism, unlike kin selection, does not depend on genetic relatedness: it does\nhowever, depend upon repeated, direct personal interaction."
+        "text": "To allow the file to be read by a variety of applications Read the given passage and answer the questions that follow: Human beings are not completely free to socially construct their own behaviour. They have a shared biological nature. The nature is remarkably uniform throughout the world, given the fact that most contemporary humans outside of Africa descended from a single relatively small group of individuals some fifty thousand years ago. This shared nature does not determine political behaviour, but it frames and limits the nature of institutions that are possible. It also means that human politics is subject to certain recurring patterns of behaviour across time and across cultures. This shared nature can be described in certain propositions like that the human beings never existed in a pre-social state. The idea that human beings at one time existed as isolated individuals, who interacted either through anarchic violence (Hobbes) or in pacific ignorance of one another (Rousseau), is not correct. Human beings as well as their primate ancestors always lived in kin-based social groups of varying sizes. Indeed, they lived in these social units for a sufficiently long period of time that the cognitive and emotional faculties needed to promote social cooperation evolved and became hardwired in their genetic endowments. This means that a rational-choice model of collective action, in which individuals calculate that they will be better off by cooperating with one another, vastly understates the degree of social cooperation that exists in human societies and misunderstands the motives that underlie it. The next one is the idea of natural human sociability. This is built around two principles, kin selection and reciprocal altruism. The principle of kin selection or inclusive fitness states that human beings will act altruistically toward genetic relatives (or individuals believed to be genetic relatives) in rough proportion to their shared genes. The principle of reciprocal altruism says that human beings tend to develop relationships of mutual benefit or mutual harm as they interact with other individuals over time. Reciprocal altruism, unlike kin selection, does not depend on genetic relatedness: it does however, depend upon repeated, direct personal interaction."
       }
     ],
     "correctOption": "B",
@@ -8609,15 +8609,15 @@
       },
       {
         "key": "B",
-        "text": "Read the document from the CD-ROM, modify the document, then save it back to the CD-\nROM"
+        "text": "Read the document from the CD-ROM, modify the document, then save it back to the CD- ROM"
       },
       {
         "key": "C",
-        "text": "Rename the document from the CD-ROM, read and modify the document, then save it to the\nhard drive"
+        "text": "Rename the document from the CD-ROM, read and modify the document, then save it to the hard drive"
       },
       {
         "key": "D",
-        "text": "Copy the document from the CD-ROM to the hard drive, read the document, modify it, and\nsave it back to the CD-ROM"
+        "text": "Copy the document from the CD-ROM to the hard drive, read the document, modify it, and save it back to the CD-ROM"
       }
     ],
     "correctOption": "A",
@@ -9233,7 +9233,7 @@
       },
       {
         "key": "D",
-        "text": "Cyber trespass\nRead the given passage and answer the questions that follow\nThe ‘new middle class’ in India is upwardly mobile, educated mostly in English and works in\nprofessional, technical and/or managerial careers. It is connected to global networks of consumption,\nconsuming global brands and aspiring toward lifestyles of conspicuous consumption. The identity of\nthis class is defined by its participation in global commodity chains. The market defines the identity\nof the middle class, as a site of identity formation, expression and aspiration. Also salient within the\nnew middle class are several strata. The highest stratum is occupied by the white collar corporate mid-\nto-high level managers who actively participate in transnational capitalism. What connects these\nvarious groups in the elite class is a common vision of the nation-state narrated in the miracle of the\nmarket. The articulation of the market as the centre of India's economic growth and development is\nthe overarching anchor for the various discourses of the policy-making and implementation. The\nmiddle class in India make up a segment of India's elite. They participate in the consumption culture\nof India. This culture is enabled by rapid reforms and punctuated in the rise of urban hubs of belonging.\nBelonging in this is recrafted in the story of consumption and lifestyles. Here consumption is equated\nto development and modernisation."
+        "text": "Cyber trespass Read the given passage and answer the questions that follow The ‘new middle class’ in India is upwardly mobile, educated mostly in English and works in professional, technical and/or managerial careers. It is connected to global networks of consumption, consuming global brands and aspiring toward lifestyles of conspicuous consumption. The identity of this class is defined by its participation in global commodity chains. The market defines the identity of the middle class, as a site of identity formation, expression and aspiration. Also salient within the new middle class are several strata. The highest stratum is occupied by the white collar corporate mid- to-high level managers who actively participate in transnational capitalism. What connects these various groups in the elite class is a common vision of the nation-state narrated in the miracle of the market. The articulation of the market as the centre of India's economic growth and development is the overarching anchor for the various discourses of the policy-making and implementation. The middle class in India make up a segment of India's elite. They participate in the consumption culture of India. This culture is enabled by rapid reforms and punctuated in the rise of urban hubs of belonging. Belonging in this is recrafted in the story of consumption and lifestyles. Here consumption is equated to development and modernisation."
       }
     ],
     "correctOption": "C",
@@ -9333,11 +9333,11 @@
     "options": [
       {
         "key": "A",
-        "text": "Indian citizens who sign up for a Digi locker account get a dedicated cloud storage space\nthat is limited to their Aadhar number."
+        "text": "Indian citizens who sign up for a Digi locker account get a dedicated cloud storage space that is limited to their Aadhar number."
       },
       {
         "key": "B",
-        "text": "It aims to eliminate the use of physical documents and provide access to their digital\ndocuments anytime, anywhere and share it online."
+        "text": "It aims to eliminate the use of physical documents and provide access to their digital documents anytime, anywhere and share it online."
       },
       {
         "key": "C",
@@ -9793,7 +9793,7 @@
       },
       {
         "key": "D",
-        "text": "Rakesh\nRead the passage and answer below questions:\nTo end both mass poverty and political uncertainty, the newly liberated nations required economic\ndevelopment. Rapid economic growth was required not only to raise living standards, but also to\nsustain a spirit of national solidarity. Such was the broadly accepted consensus, which, however,\nadmitted of variations in policies adopted or \trejected by post-colonial \tgovernments. Where\ncommunists were in charge, there was a push to nationalise industries and eliminate private sector\nproduction units. In agriculture, family farms were discouraged. Yet even in non-communist countries\nthe state assumed a pre-dominant role in industrial production. Yet agriculture remained in private\nhands. Some countries left feudal systems of landholding intact; others gave ownership rights to\ntenants or sharecroppers. There were also variations on the question of international trade and capital\nflows. Some countries rigorously protected their own industries from external competition, erecting\nhigh tariff barriers. Others adopted a more flexible trade regime, selectively permitting foreign goods\nand capital into their territory. An important factor in the history of modern Asian nations is that of\nforeign policy. Countries governed by communist parties were allied with the Soviet Union, while\nother Asian countries allied with the United States. The latter were attracted by Western financial and\ntechnical aid. Yet other countries chose to strike out on a path of non-alignment, choosing not to\nclosely identify with either the Russians or the Americans."
+        "text": "Rakesh Read the passage and answer below questions: To end both mass poverty and political uncertainty, the newly liberated nations required economic development. Rapid economic growth was required not only to raise living standards, but also to sustain a spirit of national solidarity. Such was the broadly accepted consensus, which, however, admitted of variations in policies adopted or \trejected by post-colonial \tgovernments. Where communists were in charge, there was a push to nationalise industries and eliminate private sector production units. In agriculture, family farms were discouraged. Yet even in non-communist countries the state assumed a pre-dominant role in industrial production. Yet agriculture remained in private hands. Some countries left feudal systems of landholding intact; others gave ownership rights to tenants or sharecroppers. There were also variations on the question of international trade and capital flows. Some countries rigorously protected their own industries from external competition, erecting high tariff barriers. Others adopted a more flexible trade regime, selectively permitting foreign goods and capital into their territory. An important factor in the history of modern Asian nations is that of foreign policy. Countries governed by communist parties were allied with the Soviet Union, while other Asian countries allied with the United States. The latter were attracted by Western financial and technical aid. Yet other countries chose to strike out on a path of non-alignment, choosing not to closely identify with either the Russians or the Americans."
       }
     ],
     "correctOption": "D",
@@ -10633,7 +10633,7 @@
       },
       {
         "key": "D",
-        "text": "2 T Bytes\nChoose the correct answer from the option given below :"
+        "text": "2 T Bytes Choose the correct answer from the option given below :"
       }
     ],
     "correctOption": "A",
@@ -10733,11 +10733,11 @@
     "options": [
       {
         "key": "A",
-        "text": "OCR \t(I) Used to scan typed or handwritten\ndocuments"
+        "text": "OCR \t(I) Used to scan typed or handwritten documents"
       },
       {
         "key": "B",
-        "text": "OMR \t(II) Used to mark multiple-choice\nexaminations"
+        "text": "OMR \t(II) Used to mark multiple-choice examinations"
       },
       {
         "key": "C",
@@ -10745,7 +10745,7 @@
       },
       {
         "key": "D",
-        "text": "Instant Messaging \t(IV) Synchronous Communication\nChoose the correct answer from the option given below :"
+        "text": "Instant Messaging \t(IV) Synchronous Communication Choose the correct answer from the option given below :"
       }
     ],
     "correctOption": "C",
@@ -11017,7 +11017,7 @@
       },
       {
         "key": "B",
-        "text": "A software that communicates with the operating system and translates data into a format\nunderstood by the device"
+        "text": "A software that communicates with the operating system and translates data into a format understood by the device"
       },
       {
         "key": "C",
@@ -11389,7 +11389,7 @@
       },
       {
         "key": "D",
-        "text": "CDRONI\nChoose the correct answer' from the options given Below:"
+        "text": "CDRONI Choose the correct answer' from the options given Below:"
       }
     ],
     "correctOption": "C",
@@ -11445,7 +11445,7 @@
       },
       {
         "key": "D",
-        "text": "1 000000 Bytes\nChoose the correct answer from the options given below:"
+        "text": "1 000000 Bytes Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "B",
@@ -11549,7 +11549,7 @@
       },
       {
         "key": "B",
-        "text": "A software that communicates with the operating system and translates data into a format\nunderstood by the device"
+        "text": "A software that communicates with the operating system and translates data into a format understood by the device"
       },
       {
         "key": "C",
@@ -11585,7 +11585,7 @@
       },
       {
         "key": "D",
-        "text": "B, C and D only\nQuestion ID:- 11048"
+        "text": "B, C and D only Question ID:- 11048"
       }
     ],
     "correctOption": "A",
@@ -12313,7 +12313,7 @@
       },
       {
         "key": "D",
-        "text": "CDROM\nChoose the correct answer from the options given below:"
+        "text": "CDROM Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "C",
@@ -12329,19 +12329,19 @@
     "options": [
       {
         "key": "A",
-        "text": "Magnetic Tape \t(I) Used in digital cameras photo printers\nand cell phones"
+        "text": "Magnetic Tape \t(I) Used in digital cameras photo printers and cell phones"
       },
       {
         "key": "B",
-        "text": "Memory Card \t(II) Uses laser beam technology to read or\nwrite data"
+        "text": "Memory Card \t(II) Uses laser beam technology to read or write data"
       },
       {
         "key": "C",
-        "text": "Hard Disk \t(III) Used for data archival purposes but\nmust be accessed sequentially"
+        "text": "Hard Disk \t(III) Used for data archival purposes but must be accessed sequentially"
       },
       {
         "key": "D",
-        "text": "DVD \t(IV) A set of metal disks mounted on a\nspindle\nChoose the correct answer from the options given below:"
+        "text": "DVD \t(IV) A set of metal disks mounted on a spindle Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "A",
@@ -12397,7 +12397,7 @@
       },
       {
         "key": "D",
-        "text": "1 000 000 KBytes\nChoose the correct answer from the options given below:"
+        "text": "1 000 000 KBytes Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "B",
@@ -12481,7 +12481,7 @@
       },
       {
         "key": "D",
-        "text": "SSD\nChoose the correct answer from the options given below :"
+        "text": "SSD Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "D",
@@ -12509,7 +12509,7 @@
       },
       {
         "key": "D",
-        "text": "VOIP \t(IV) Collaborative web\nChoose the correct answer from the options given below :"
+        "text": "VOIP \t(IV) Collaborative web Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "A",
@@ -12561,7 +12561,7 @@
       },
       {
         "key": "C",
-        "text": "Better medical education across the country\nChoose the correct answer from the options given below :"
+        "text": "Better medical education across the country Choose the correct answer from the options given below :"
       },
       {
         "key": "D",
@@ -12957,7 +12957,7 @@
       },
       {
         "key": "D",
-        "text": "A - III, B - I, C - IV, D - II\nRead the given passage and answer the questions that follow\nThe social structure of most developing countries no longer consists of a tinyupper class\nconfronting a very large and mainly rural lower class, as earlier stereotypes had it.\nIntermediate strata have grown and diversified until theyare, in atleast some respects\n(recruitment to position of power, control of major political movements) dominant. In\nalmost all of these countries, however, the 'middle strata' remain minorities (sometimes very\nsmall minorities) and have not achieved sufficient homogeneity of characteristics and\ninterests to entitle them to the label of class.\nThe key differences between them and the middle classes in the past of the countries that\nare now industrialised or developed seem to be the following: first, the much greater\nimportance of the role of formal education in giving access to middle (as well as upper)\nstatus; second, the much greater importance of salaried employment, particularly in the\npublic sector, in relation to self-employment in the professions or in small businesses; third,\nthe presence of the 'demonstration effect' from the high income countries continually tending\nto stretch consumption aspirations beyond income capacity. Independent, frugal,\nentrepreneurially minded middle groups can still be identified, and some of them are coping\nresiliently with economic globalisation and other challenges. However, many factors in the\nsituations inwhich they have found themselves- technological dependency, the dominance\nof large-scale enterprises, the bureaucratisation of the rules of the game- generally restricted\nthem to secondary roles in economic evolution. Their educational aspiration for their children\nhave been likely to divert most of these into bureaucratic or professional occupations.\nMoreover, in many cases,they have belonged to cultural minorities or alien immigrant groups\nencountering resistance once they become economically conspicuous."
+        "text": "A - III, B - I, C - IV, D - II Read the given passage and answer the questions that follow The social structure of most developing countries no longer consists of a tinyupper class confronting a very large and mainly rural lower class, as earlier stereotypes had it. Intermediate strata have grown and diversified until theyare, in atleast some respects (recruitment to position of power, control of major political movements) dominant. In almost all of these countries, however, the 'middle strata' remain minorities (sometimes very small minorities) and have not achieved sufficient homogeneity of characteristics and interests to entitle them to the label of class. The key differences between them and the middle classes in the past of the countries that are now industrialised or developed seem to be the following: first, the much greater importance of the role of formal education in giving access to middle (as well as upper) status; second, the much greater importance of salaried employment, particularly in the public sector, in relation to self-employment in the professions or in small businesses; third, the presence of the 'demonstration effect' from the high income countries continually tending to stretch consumption aspirations beyond income capacity. Independent, frugal, entrepreneurially minded middle groups can still be identified, and some of them are coping resiliently with economic globalisation and other challenges. However, many factors in the situations inwhich they have found themselves- technological dependency, the dominance of large-scale enterprises, the bureaucratisation of the rules of the game- generally restricted them to secondary roles in economic evolution. Their educational aspiration for their children have been likely to divert most of these into bureaucratic or professional occupations. Moreover, in many cases,they have belonged to cultural minorities or alien immigrant groups encountering resistance once they become economically conspicuous."
       }
     ],
     "correctOption": "C",
@@ -12981,11 +12981,11 @@
       },
       {
         "key": "C",
-        "text": "Hard Disk \t(III) Part that stores instructions and data\ntemporarily for use"
+        "text": "Hard Disk \t(III) Part that stores instructions and data temporarily for use"
       },
       {
         "key": "D",
-        "text": "Compiler \t(IV) Part that translates source program to\nexecutable program\nChoose the correct answer from the options given below:"
+        "text": "Compiler \t(IV) Part that translates source program to executable program Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "A",
@@ -13013,7 +13013,7 @@
       },
       {
         "key": "D",
-        "text": "Monitor, Printer, and Scanner are all output devices.\nChoose the correct answer from the options given below:"
+        "text": "Monitor, Printer, and Scanner are all output devices. Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "D",
@@ -13029,7 +13029,7 @@
     "options": [
       {
         "key": "A",
-        "text": "Monologic teaching method \t(I) Cybernetics and computer-aided\ninstruction"
+        "text": "Monologic teaching method \t(I) Cybernetics and computer-aided instruction"
       },
       {
         "key": "B",
@@ -13041,7 +13041,7 @@
       },
       {
         "key": "D",
-        "text": "Self study based teaching method \t(IV) Simulation and role playing\nChoose the correct answer from the options given below:"
+        "text": "Self study based teaching method \t(IV) Simulation and role playing Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "B",
@@ -13125,7 +13125,7 @@
       },
       {
         "key": "D",
-        "text": "RAM\n(E) Register\nChoose the correct answer from the options given below :"
+        "text": "RAM (E) Register Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "C",
@@ -13181,7 +13181,7 @@
       },
       {
         "key": "D",
-        "text": "CRT \t(IV) Non-Writable Memory\nChoose the correct answer from the options given below :"
+        "text": "CRT \t(IV) Non-Writable Memory Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "D",
@@ -13237,7 +13237,7 @@
       },
       {
         "key": "D",
-        "text": "100 000 MBytes\n(E) 1 000 000 KBytes\nChoose the correct answer from the options given below:"
+        "text": "100 000 MBytes (E) 1 000 000 KBytes Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "B",
@@ -13289,7 +13289,7 @@
       },
       {
         "key": "C",
-        "text": "The contents of most forms of RAM are volatile, thus making them unsuitable for long\nterm data storage.\nChoose the correct answer from the options given below:"
+        "text": "The contents of most forms of RAM are volatile, thus making them unsuitable for long term data storage. Choose the correct answer from the options given below:"
       },
       {
         "key": "D",
@@ -13517,7 +13517,7 @@
       },
       {
         "key": "D",
-        "text": "CSV\n(E) TXT\nChoose the correct answer from the options given below:"
+        "text": "CSV (E) TXT Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "B",
@@ -13541,7 +13541,7 @@
       },
       {
         "key": "C",
-        "text": "CD-ROM\nChoose the correct answer from the options given below :"
+        "text": "CD-ROM Choose the correct answer from the options given below :"
       },
       {
         "key": "D",
@@ -13569,7 +13569,7 @@
       },
       {
         "key": "C",
-        "text": "Better medical education across the country\nChoose the correct answer from the options given below :"
+        "text": "Better medical education across the country Choose the correct answer from the options given below :"
       },
       {
         "key": "D",
@@ -13601,7 +13601,7 @@
       },
       {
         "key": "D",
-        "text": "SSD\nChoose the correct answer from the options given below :"
+        "text": "SSD Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "D",
@@ -13713,7 +13713,7 @@
       },
       {
         "key": "D",
-        "text": "VOIP \t(IV) Collaborative web\nChoose the correct answer from the options given below :"
+        "text": "VOIP \t(IV) Collaborative web Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "A",
@@ -14021,7 +14021,7 @@
       },
       {
         "key": "D",
-        "text": "328\nList I List II\n(a) Web browser (i) Hard Disk\n(b) Operating system (ii) Chrome\n(c) Secondary memory (iii)MS-Word\n(d) Application software (iv) DOS\nChoose the correct answer from the options given below:\n1. a. - iii, b - ii, c - i, d - iv\n2. a - ii, b. - iv, c - i, d - iii\n3. a - iii, b - i, c. - ii, d - iv\n4. a - iii, b - i, c - iv, d. – ii\nA web browser is a software application for accessing information on the World Wide Web.\n44. Which of the following constitutes the 'ability' (can do) component for describing the\ncompetence of a teacher?\n(a). Confidence in performing teaching task\n(b). Knowledge of the subject being taught\n(c). Skill in analyzing the learning tasks\n(d). Experience in handling learning task related situations\n(e). Commitment to organizing teaching-learning tasks\nChoose the correct answer from the options given below:"
+        "text": "328 List I List II (a) Web browser (i) Hard Disk (b) Operating system (ii) Chrome (c) Secondary memory (iii)MS-Word (d) Application software (iv) DOS Choose the correct answer from the options given below: 1. a. - iii, b - ii, c - i, d - iv 2. a - ii, b. - iv, c - i, d - iii 3. a - iii, b - i, c. - ii, d - iv 4. a - iii, b - i, c - iv, d. – ii A web browser is a software application for accessing information on the World Wide Web. 44. Which of the following constitutes the 'ability' (can do) component for describing the competence of a teacher? (a). Confidence in performing teaching task (b). Knowledge of the subject being taught (c). Skill in analyzing the learning tasks (d). Experience in handling learning task related situations (e). Commitment to organizing teaching-learning tasks Choose the correct answer from the options given below:"
       }
     ],
     "correctOption": "D",
@@ -14273,7 +14273,7 @@
       },
       {
         "key": "D",
-        "text": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)\nList I(Type of media) List II (Example)\n(a) Synchronous media (i) Application of multi-media\n(b) Asynchronous media (ii) Interactive multi-media\n(c) Rich media (iii) E-mail\n(d) Hyper media (iv) Telephone\nChoose the correct answer from the options given below :"
+        "text": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii) List I(Type of media) List II (Example) (a) Synchronous media (i) Application of multi-media (b) Asynchronous media (ii) Interactive multi-media (c) Rich media (iii) E-mail (d) Hyper media (iv) Telephone Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "A",
@@ -14329,7 +14329,7 @@
       },
       {
         "key": "D",
-        "text": "Multi-media (IV) Broadcasting\nChoose the correct answer from the options given below :"
+        "text": "Multi-media (IV) Broadcasting Choose the correct answer from the options given below :"
       }
     ],
     "correctOption": "A",
@@ -14385,7 +14385,7 @@
       },
       {
         "key": "D",
-        "text": "850\nSub Question No : 27"
+        "text": "850 Sub Question No : 27"
       }
     ],
     "correctOption": "B",
@@ -14413,7 +14413,7 @@
       },
       {
         "key": "D",
-        "text": "3 time\nSub Question No : 28"
+        "text": "3 time Sub Question No : 28"
       }
     ],
     "correctOption": "B",
@@ -14441,7 +14441,7 @@
       },
       {
         "key": "D",
-        "text": "2\nSub Question No : 29"
+        "text": "2 Sub Question No : 29"
       }
     ],
     "correctOption": "D",
@@ -14670,6 +14670,34 @@
     ],
     "correctOption": "C",
     "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U08-529",
+    "paper": 1,
+    "unitId": 8,
+    "unitTitle": "ICT (Information & Communication Tech)",
+    "shift": "2nd December 2019 Morning Shift | Q.1",
+    "questionText": "In the following list which belongs to the category of learner centred approaches?\n(i) SWAYAM\n(ii) Computer aided instruction\n(iii) MOOCS\n(iv) Quizzes\n(v) Buzz sections\nSelect the correct answer from the options given below",
+    "options": [
+      {
+        "key": "A",
+        "text": "(i) and (iii)"
+      },
+      {
+        "key": "B",
+        "text": "(ii) and (iii)"
+      },
+      {
+        "key": "C",
+        "text": "(ii) and (iv)"
+      },
+      {
+        "key": "D",
+        "text": "(iii) and (v)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Category: Definition | Key Pollutants"
   },
   {
     "id": "P1-U08-530",
@@ -15092,6 +15120,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P1-U08-555",
+    "paper": 1,
+    "unitId": 8,
+    "unitTitle": "ICT (Information & Communication Tech)",
+    "shift": "Shift_29 | Q.2",
+    "questionText": "In a developing country like India which among the following statements is indicative\nof challenges in the context of computer based testing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Many teachers do not have knowledge of computer"
+      },
+      {
+        "key": "B",
+        "text": "Computer will destroy guru-shishya relationship"
+      },
+      {
+        "key": "C",
+        "text": "Indian government can't afford to buy a large number of computers"
+      },
+      {
+        "key": "D",
+        "text": "In remote locations availability of computer and electricity is not feasible"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+  },
+  {
     "id": "P1-U08-556",
     "paper": 1,
     "unitId": 8,
@@ -15421,7 +15477,7 @@
       },
       {
         "key": "D",
-        "text": "CSV, MP3, PDF\nRead the given passage and answer the questions that follow\nThe motives for direct investments abroad are generally the same as earning higher\nreturns, possibly resulting from higher growth rates abroad, more favorable tax\ntreatment or greater availability of infrastructure and diversifying risks. Indeed, it has\nbeen found that firms with a strong international orientation, either through exports or\nthrough foreign production and/or sales facilities, are more profitable, and have a much\nsmaller variability in profits than purely domestic firms. Although these reasons are\nsufficient to explain international investments they leave one basic question unanswered\nwith regard to direct foreign investments. That is, they cannot explain why the residents\nof a nation do not borrow from other nations and themselves make real investments in\ntheir own nation rather than accept direct investments from abroad. After all, the\nresidents of a nation can be expected to be more familiar with local conditions, and thus\nto be at a competitive advantage with respect to foreign investors. There are several\nexplanations for this. The most important is that many large corporations, usually in\nmonopolistic and oligopolistic markets, often have some unique production knowledge\nor managerial skill that could easily and profitably be utilized abroad and over which the\ncorporation wants to retain direct control. In such a situation, the firm will make direct\ninvestments abroad. This involves horizontal integration or the production abroad of a\ndifferentiated product that is also produced at home. This helps serve the foreign\nmarket better by adapting to local conditions than through exports."
+        "text": "CSV, MP3, PDF Read the given passage and answer the questions that follow The motives for direct investments abroad are generally the same as earning higher returns, possibly resulting from higher growth rates abroad, more favorable tax treatment or greater availability of infrastructure and diversifying risks. Indeed, it has been found that firms with a strong international orientation, either through exports or through foreign production and/or sales facilities, are more profitable, and have a much smaller variability in profits than purely domestic firms. Although these reasons are sufficient to explain international investments they leave one basic question unanswered with regard to direct foreign investments. That is, they cannot explain why the residents of a nation do not borrow from other nations and themselves make real investments in their own nation rather than accept direct investments from abroad. After all, the residents of a nation can be expected to be more familiar with local conditions, and thus to be at a competitive advantage with respect to foreign investors. There are several explanations for this. The most important is that many large corporations, usually in monopolistic and oligopolistic markets, often have some unique production knowledge or managerial skill that could easily and profitably be utilized abroad and over which the corporation wants to retain direct control. In such a situation, the firm will make direct investments abroad. This involves horizontal integration or the production abroad of a differentiated product that is also produced at home. This helps serve the foreign market better by adapting to local conditions than through exports."
       }
     ],
     "correctOption": "B",
@@ -15477,7 +15533,7 @@
       },
       {
         "key": "D",
-        "text": "Action research\n46. Through which Act University Grants Commission came into existence?"
+        "text": "Action research 46. Through which Act University Grants Commission came into existence?"
       }
     ],
     "correctOption": "D",
@@ -15596,6 +15652,34 @@
     "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
+    "id": "P1-U08-584",
+    "paper": 1,
+    "unitId": 8,
+    "unitTitle": "ICT (Information & Communication Tech)",
+    "shift": "20th December 2018 (Morning shift) | Q.4",
+    "questionText": "Which among the following can be used as an asynchronous teaching aid ?\n(a) Skype\n(b) Blog\n(c) Facebook post\n(d) Online chat\n(e) Email\n(f) Google Hangout\nOptions :",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (c) and (e)"
+      },
+      {
+        "key": "B",
+        "text": "(a), (c) and (f)"
+      },
+      {
+        "key": "C",
+        "text": "(a), (b) and (c)"
+      },
+      {
+        "key": "D",
+        "text": "(c), (e) and (f)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P1-U08-585",
     "paper": 1,
     "unitId": 8,
@@ -15617,7 +15701,7 @@
       },
       {
         "key": "D",
-        "text": "Blind review\nRead the passage carefully and answer questions 11 to l5:\nToday, in the digital age, who owns information owns the future. In this digital world, we face a\nfundamental choice between open and closed. In an open world information is shared by\nall freely available lo everyone. In a closed world information is exclusively owned and\ncontrolled by a few. Today, we live in a closed world a world of extraordinary and growing\nconcentration in power and wealth. A world where innovation Is held back and distorted by\nthe dead hand of monopoly, where essential medicines are affordable only to the rich, where\nfreedom is threaten by manipulation, exclusion and exploitation, and each click you make,\nevery step you take, they will be watching you. by contrast, in an open world all of us would\nbe enriched by the freedom to use, enjoy and build on everything from statistics and\nresearch to newspaper stories and books , from software and films to music and medical\nformulae. In an open world, we would pay innovators and creators more and more fairly,\nusing market-driven remuneration rights in place of intellectual property monopoly rights. As\nthey have improved, digital technologies have taken on ever more of the tasks that humans\nused to do, from manufacturing cars to scheduling appointments. And in the next few\ndecades, artificial intelligence may well be not only driving our cars for us but drafting legal\ncontracts and performing surgery. On the face, it, we have much to gain if machines can\nspare us tedious or routine tasks and perform them with greater accuracy. The danger,\nthough, is that robots run on information software, data algorithms and at present the\nownership of this sort of information is unequal. And because it is protected by our closed\nsystem of intellectual Property rights."
+        "text": "Blind review Read the passage carefully and answer questions 11 to l5: Today, in the digital age, who owns information owns the future. In this digital world, we face a fundamental choice between open and closed. In an open world information is shared by all freely available lo everyone. In a closed world information is exclusively owned and controlled by a few. Today, we live in a closed world a world of extraordinary and growing concentration in power and wealth. A world where innovation Is held back and distorted by the dead hand of monopoly, where essential medicines are affordable only to the rich, where freedom is threaten by manipulation, exclusion and exploitation, and each click you make, every step you take, they will be watching you. by contrast, in an open world all of us would be enriched by the freedom to use, enjoy and build on everything from statistics and research to newspaper stories and books , from software and films to music and medical formulae. In an open world, we would pay innovators and creators more and more fairly, using market-driven remuneration rights in place of intellectual property monopoly rights. As they have improved, digital technologies have taken on ever more of the tasks that humans used to do, from manufacturing cars to scheduling appointments. And in the next few decades, artificial intelligence may well be not only driving our cars for us but drafting legal contracts and performing surgery. On the face, it, we have much to gain if machines can spare us tedious or routine tasks and perform them with greater accuracy. The danger, though, is that robots run on information software, data algorithms and at present the ownership of this sort of information is unequal. And because it is protected by our closed system of intellectual Property rights."
       }
     ],
     "correctOption": "D",
@@ -15701,7 +15785,7 @@
       },
       {
         "key": "D",
-        "text": "(a) and (c)\nStudy the table given above carefully. It shows the number of students appeared, passed\nand failed in five subjects. The full marks in each subject is also given. Some of the cells have\nmissing data. You might need to determine some of the missing data to answer the\nquestions below.\nSubject Total number of\nstudents\nappeared\nTotal number of\nstudents who\npassed\nNumber of\nstudents who\nfailed\nMaximum/full\nmarks in the\nsubject\nEnglish 600 - 36 600\nMathemtics - 240 60 -\nScience 300 216 - 400\nSocial Studies 360 - 48 400\nComputer - 168 32 400"
+        "text": "(a) and (c) Study the table given above carefully. It shows the number of students appeared, passed and failed in five subjects. The full marks in each subject is also given. Some of the cells have missing data. You might need to determine some of the missing data to answer the questions below. Subject Total number of students appeared Total number of students who passed Number of students who failed Maximum/full marks in the subject English 600 - 36 600 Mathemtics - 240 60 - Science 300 216 - 400 Social Studies 360 - 48 400 Computer - 168 32 400"
       }
     ],
     "correctOption": "A",
@@ -15848,6 +15932,62 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P1-U08-608",
+    "paper": 1,
+    "unitId": 8,
+    "unitTitle": "ICT (Information & Communication Tech)",
+    "shift": "JUNE 2015 | Q.1",
+    "questionText": "Which of the following represents one billion characters?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Terabyte"
+      },
+      {
+        "key": "B",
+        "text": "Kilobyte"
+      },
+      {
+        "key": "C",
+        "text": "Megabyte"
+      },
+      {
+        "key": "D",
+        "text": "Gigabyte"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U08-609",
+    "paper": 1,
+    "unitId": 8,
+    "unitTitle": "ICT (Information & Communication Tech)",
+    "shift": "JUNE 2015 | Q.3",
+    "questionText": "Which one of the following represents the binary equivalent of the decimal number 25?",
+    "options": [
+      {
+        "key": "A",
+        "text": "11011"
+      },
+      {
+        "key": "B",
+        "text": "10101"
+      },
+      {
+        "key": "C",
+        "text": "01101"
+      },
+      {
+        "key": "D",
+        "text": "11001"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P1-U08-610",
     "paper": 1,
     "unitId": 8,
@@ -15901,6 +16041,34 @@
       }
     ],
     "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P1-U08-612",
+    "paper": 1,
+    "unitId": 8,
+    "unitTitle": "ICT (Information & Communication Tech)",
+    "shift": "DECEMBER 2014 | Q.3",
+    "questionText": "Binary equivalent of decimal number 35 is",
+    "options": [
+      {
+        "key": "A",
+        "text": "100011"
+      },
+      {
+        "key": "B",
+        "text": "110001"
+      },
+      {
+        "key": "C",
+        "text": "110101"
+      },
+      {
+        "key": "D",
+        "text": "101011"
+      }
+    ],
+    "correctOption": "A",
     "cheatSheetRule": null
   },
   {
@@ -16100,6 +16268,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P1-U08-620",
+    "paper": 1,
+    "unitId": 8,
+    "unitTitle": "ICT (Information & Communication Tech)",
+    "shift": "Shift_60 | Q.1",
+    "questionText": "The post-industrial society is designated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Information society"
+      },
+      {
+        "key": "B",
+        "text": "Technology society"
+      },
+      {
+        "key": "C",
+        "text": "Mediated society"
+      },
+      {
+        "key": "D",
+        "text": "Non-agricultural society"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P1-U08-621",
     "paper": 1,
     "unitId": 8,
@@ -16145,7 +16341,7 @@
       },
       {
         "key": "C",
-        "text": "remaining the claim unchanged while the evidence in its support is found to exhibit\ngreater frailty."
+        "text": "remaining the claim unchanged while the evidence in its support is found to exhibit greater frailty."
       },
       {
         "key": "D",
@@ -16725,15 +16921,15 @@
     "options": [
       {
         "key": "A",
-        "text": "Number of bits required for IPv4 address is more than number of bits required for IPv6\naddress."
+        "text": "Number of bits required for IPv4 address is more than number of bits required for IPv6 address."
       },
       {
         "key": "B",
-        "text": "Number of bits required for IPv4 address is same as number of bits required for IPv6\naddress."
+        "text": "Number of bits required for IPv4 address is same as number of bits required for IPv6 address."
       },
       {
         "key": "C",
-        "text": "Number of bits required for IPv4 address is less than number of bits required for IPv6\naddress."
+        "text": "Number of bits required for IPv4 address is less than number of bits required for IPv6 address."
       },
       {
         "key": "D",

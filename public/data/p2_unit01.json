@@ -581,7 +581,7 @@
       },
       {
         "key": "D",
-        "text": "All God's Chillun Got Wings\nComprehension (91-95)\nAll round me are words, and words and words,\nThey grow on me like leaves, they never\nSeem to stop their slow growing\nFrom within... But I tell my self, words\nAre a nuisance, beware of them, they\nCan be so many things, a\nChasm where running feet must pause, to\nLook, a sea with paralyzing waves,\nA blast of burning air or, A knife most willing to cut your best\nFriend's throat... words are a nuisance, but.\nThey grow on me like leaves on a tree,\nThey never run to stop their coming,\nFrom a silence, somewhere deep within..."
+        "text": "All God's Chillun Got Wings Comprehension (91-95) All round me are words, and words and words, They grow on me like leaves, they never Seem to stop their slow growing From within... But I tell my self, words Are a nuisance, beware of them, they Can be so many things, a Chasm where running feet must pause, to Look, a sea with paralyzing waves, A blast of burning air or, A knife most willing to cut your best Friend's throat... words are a nuisance, but. They grow on me like leaves on a tree, They never run to stop their coming, From a silence, somewhere deep within..."
       }
     ],
     "correctOption": "C",
@@ -896,6 +896,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U01-34",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: DECEMBER 2023 SHIFT I | Q.4",
+    "questionText": "Who among the following described drama in the following words?\n\"A true play is three dimensional; it is literature that walks and talks before our eyes.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "Marjorie Boulton"
+      },
+      {
+        "key": "B",
+        "text": "Allardyce Nicoll"
+      },
+      {
+        "key": "C",
+        "text": "G.B. Shaw"
+      },
+      {
+        "key": "D",
+        "text": "Arthur Miller"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U01-35",
     "paper": 2,
     "unitId": 1,
@@ -1176,6 +1204,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U01-45",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.1",
+    "questionText": "Who among the following has written the play Angels in America?",
+    "options": [
+      {
+        "key": "A",
+        "text": "David Mammet"
+      },
+      {
+        "key": "B",
+        "text": "August Wilson"
+      },
+      {
+        "key": "C",
+        "text": "Sam Shepard"
+      },
+      {
+        "key": "D",
+        "text": "Tony Kushner"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U01-46",
     "paper": 2,
     "unitId": 1,
@@ -1305,7 +1361,7 @@
       },
       {
         "key": "C",
-        "text": "A person’s posture, speech and the mental habit of perception, classification, appreciation, feeling and\naction."
+        "text": "A person’s posture, speech and the mental habit of perception, classification, appreciation, feeling and action."
       },
       {
         "key": "D",
@@ -1568,6 +1624,62 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U01-60",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.1",
+    "questionText": "Arrange the following works in the chronological order of their publication:\n(a) Tara\n(b) Mister Behram\n(c) Goa\n(d) Marriage-Poem\n(e) The Dumb Dancer\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(b), (d), (c), (a), (e)"
+      },
+      {
+        "key": "B",
+        "text": "(d), (e), (c), (a), (b)"
+      },
+      {
+        "key": "C",
+        "text": "(d), (c), (e), (a), (b)"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c), (b), (e), (d)"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-61",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.3",
+    "questionText": "Which of the following plays may be considered as a parody of Shakespeare's Macbeth, and some parts of\nHamlet and King Lear?",
+    "options": [
+      {
+        "key": "A",
+        "text": "G.B. Shaw’s Pygmalion"
+      },
+      {
+        "key": "B",
+        "text": "Luigi Pirandello’s Bellavita"
+      },
+      {
+        "key": "C",
+        "text": "August Strindberg’s The Dance of Death"
+      },
+      {
+        "key": "D",
+        "text": "Alfred Jarry’s Ubu Roi"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U01-62",
     "paper": 2,
     "unitId": 1,
@@ -1633,19 +1745,19 @@
     "options": [
       {
         "key": "A",
-        "text": "The former of the two is related to some abstract idea(s) or theory, and the latter relies on experience and\nobservation alone."
+        "text": "The former of the two is related to some abstract idea(s) or theory, and the latter relies on experience and observation alone."
       },
       {
         "key": "B",
-        "text": "The former of the two is based on the measurement of quantity or amount, and the latter is concerned\nwith qualitative phenomena."
+        "text": "The former of the two is based on the measurement of quantity or amount, and the latter is concerned with qualitative phenomena."
       },
       {
         "key": "C",
-        "text": "The former of the two includes surveys and fact-finding enquiries, and the latter uses information already\navailable to make a critrical evaluation of the material"
+        "text": "The former of the two includes surveys and fact-finding enquiries, and the latter uses information already available to make a critrical evaluation of the material"
       },
       {
         "key": "D",
-        "text": "The former aims at finding a solution for an immediate problem, and the latter is concerned mainly with\ngeneralizations and formulation of theory."
+        "text": "The former aims at finding a solution for an immediate problem, and the latter is concerned mainly with generalizations and formulation of theory."
       }
     ],
     "correctOption": "A",
@@ -2576,6 +2688,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U01-98",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.1",
+    "questionText": "\"What needs my Shakespeare for his honoured bones\nThe labour of an age in piled stones?\nOr that his hallowed reliques should be hid\nUnder a star-ypointing pyramid?\"\nThese lines are written by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ben Jonson"
+      },
+      {
+        "key": "B",
+        "text": "John Milton"
+      },
+      {
+        "key": "C",
+        "text": "Robert Browning"
+      },
+      {
+        "key": "D",
+        "text": "William Wordsworth"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U01-99",
     "paper": 2,
     "unitId": 1,
@@ -2854,6 +2994,34 @@
     ],
     "correctOption": "B",
     "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U01-110",
+    "paper": 2,
+    "unitId": 1,
+    "unitTitle": "Drama",
+    "shift": "Shift: OCTOBER 2022 SHIFT I | Q.3",
+    "questionText": "Which among the following are true about Harold Pinter?\n(a) Harold Pinter was born in the year 1925.\n(b) He was influenced by Samuel Beckett and the Theatre of the Absurd.\n(c) The Caretaker and The Alchemist are his famous plays.\n(d) Stanley is a character in The Birthday Party.\n(e) Betrayal is a story of a married couple.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (d) and (e) only"
+      },
+      {
+        "key": "B",
+        "text": "(b), (d) and (e) only"
+      },
+      {
+        "key": "C",
+        "text": "(b), (c) and (d) only"
+      },
+      {
+        "key": "D",
+        "text": "(a), (c) and (d) only"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
   },
   {
     "id": "P2-U01-111",
@@ -3157,7 +3325,7 @@
       },
       {
         "key": "D",
-        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV)\nRead the following passage, and answer the questions that follow: (91-95)\nHowever, faced with this world of faithful and complicated objects, the child can only identify himself\nas owner, as user, never as creator, he does not invent the world, he uses it: there are, prepared for him,\nactions without adventure, without wonder, without joy. He is turned into a little stay-at-home\nhouseholder who does not even have to invent the mainsprings of adult causality: they are supplied to\nhim ready-made: he has only to help himself, he is never allowed to discover anything from start to\nfinish. The merest set of blocks, provided it is not too refined, implies a very different learning of the\nworld: then, the child does not in any way create meaningful objects, it matters little to him whether\nthey have an adult name; the actions he performs are not those of a user but those of a demiurge. He\ncreates forms which walk, which roll, he creates life, not property: objects now act by themselves, they\nare no longer an inert and complicated material in the palm of his hand."
+        "text": "(a)-(II), (b)-(I), (c)-(III), (d)-(IV) Read the following passage, and answer the questions that follow: (91-95) However, faced with this world of faithful and complicated objects, the child can only identify himself as owner, as user, never as creator, he does not invent the world, he uses it: there are, prepared for him, actions without adventure, without wonder, without joy. He is turned into a little stay-at-home householder who does not even have to invent the mainsprings of adult causality: they are supplied to him ready-made: he has only to help himself, he is never allowed to discover anything from start to finish. The merest set of blocks, provided it is not too refined, implies a very different learning of the world: then, the child does not in any way create meaningful objects, it matters little to him whether they have an adult name; the actions he performs are not those of a user but those of a demiurge. He creates forms which walk, which roll, he creates life, not property: objects now act by themselves, they are no longer an inert and complicated material in the palm of his hand."
       }
     ],
     "correctOption": "D",
@@ -3409,7 +3577,7 @@
       },
       {
         "key": "D",
-        "text": "The tormentor married her.\nRead the following extract and answer the questions that follow:\nThe solemn temples, the great globe itself,\nYea, all which it inherit, shall dissolve\nAnd, like this insubstantial pageant faded,\nLeave not a rack behind. We are such stuff\nAs dreams are made on, and our little life\nIs rounded with a sleep.\nShakespeare, The Tempest"
+        "text": "The tormentor married her. Read the following extract and answer the questions that follow: The solemn temples, the great globe itself, Yea, all which it inherit, shall dissolve And, like this insubstantial pageant faded, Leave not a rack behind. We are such stuff As dreams are made on, and our little life Is rounded with a sleep. Shakespeare, The Tempest"
       }
     ],
     "correctOption": "A",
@@ -3465,7 +3633,7 @@
       },
       {
         "key": "D",
-        "text": "A \tIII, B \tIV,C \tI, D – II\n12.Which of the following novels has its epigraph taken from the Katha Upanishad?"
+        "text": "A \tIII, B \tIV,C \tI, D – II 12.Which of the following novels has its epigraph taken from the Katha Upanishad?"
       }
     ],
     "correctOption": "B",
@@ -3773,7 +3941,7 @@
       },
       {
         "key": "D",
-        "text": "The workings of nature\nRead the following extract and answer the questions that follow:\nIs man no more than this? Consider him well. Thou ow'st the worm no silk, the beast no hide,\nthe sheep no wool, the cat no perfume. --- Ha! here's three on's are sophisticated. Thou art the\nthing itself; unaccommodated man is no more than such a poor, bare, forked animal as thou art.\n- Shakespeare, King Lear"
+        "text": "The workings of nature Read the following extract and answer the questions that follow: Is man no more than this? Consider him well. Thou ow'st the worm no silk, the beast no hide, the sheep no wool, the cat no perfume. --- Ha! here's three on's are sophisticated. Thou art the thing itself; unaccommodated man is no more than such a poor, bare, forked animal as thou art. - Shakespeare, King Lear"
       }
     ],
     "correctOption": "B",
@@ -3801,7 +3969,7 @@
       },
       {
         "key": "D",
-        "text": "Man is not as well endowed as some other animals.\nRead the following extract and answer the questions that follow:\nIs man no more than this? Consider him well. Thou ow'st the worm no silk, the beast no hide,\nthe sheep no wool, the cat no perfume. --- Ha! here's three on's are sophisticated. Thou art the\nthing itself; unaccommodated man is no more than such a poor, bare, forked animal as thou art.\n- Shakespeare, King Lear"
+        "text": "Man is not as well endowed as some other animals. Read the following extract and answer the questions that follow: Is man no more than this? Consider him well. Thou ow'st the worm no silk, the beast no hide, the sheep no wool, the cat no perfume. --- Ha! here's three on's are sophisticated. Thou art the thing itself; unaccommodated man is no more than such a poor, bare, forked animal as thou art. - Shakespeare, King Lear"
       }
     ],
     "correctOption": "D",

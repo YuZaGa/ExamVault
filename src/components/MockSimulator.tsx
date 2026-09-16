@@ -23,6 +23,7 @@ import {
   Trophy,
   Info
 } from 'lucide-react';
+import { FormattedQuestionText } from './FormattedQuestionText';
 
 interface MockSimulatorProps {
   onBack: () => void;
@@ -906,7 +907,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
 
               {/* Question Text */}
               <div className="question-text-box">
-                {currentReviewQ.questionText}
+                <FormattedQuestionText text={currentReviewQ.questionText} />
               </div>
 
               {/* Options Grid */}
@@ -1307,7 +1308,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
         </div>
 
         <div className="question-text-box">
-          {currentQ.questionText}
+          <FormattedQuestionText text={currentQ.questionText} />
         </div>
 
         {/* Options Grid */}

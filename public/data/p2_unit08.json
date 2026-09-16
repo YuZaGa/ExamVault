@@ -112,6 +112,34 @@
     "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
   },
   {
+    "id": "P2-U08-6",
+    "paper": 2,
+    "unitId": 8,
+    "unitTitle": "Literary Criticism",
+    "shift": "Shift: JUNE 2024 SHIFT I | Q.2",
+    "questionText": "Alexander Pope's famous quote, \"A little knowledge is a dangerous thing,\" appears in which one\nof the following works?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Essay on Criticism"
+      },
+      {
+        "key": "B",
+        "text": "The Dunciad"
+      },
+      {
+        "key": "C",
+        "text": "Essay on Man"
+      },
+      {
+        "key": "D",
+        "text": "The Rape of the Lock"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+  },
+  {
     "id": "P2-U08-7",
     "paper": 2,
     "unitId": 8,
@@ -1113,7 +1141,7 @@
       },
       {
         "key": "D",
-        "text": "a Marxist\n(96-100)\nRead the following passage and answer the questions that follow:\nAt school the study of literature can still involve a close reading or ‘practical criticism’ of a novel, play or poem\nwithout much or any recourse to external material. Practical criticism is the method of analysing a poem, in\nisolation from the circumstances of its production, developed by I. A. Richards (1893-1979) in the 1920s. He felt\nthat concentration upon ‘the words on the page’, the technical aspects of the ways verse creates effects, would\nresult in meaningful judgements upon whether a poem was intrinsically ‘good’ or simply reputedly so. The\nmethodology of practical criticism seeks coherence in images, themes and patterns of language. Richards and his\ncolleagues felt that this practice was ‘scientific’ and led to objective value judgements. He was part of a group of\nlecturers at Cambridge University who played a crucial role in the development of the discipline of English\nLiterature and whose methodology influenced the critical practices of the New Critics, John Crowe Ransom\n(1888-1974) and Cleanth Brooks (1906-94) and their colleagues in the US. Their ‘scientific’ examination of\nliterature asserted a hierarchy of texts, those that held universal meaning and significance through aesthetic form\nand those deemed too formulaic to warrant academic scrutiny. The first revered group of texts is often referred to\nas the literary canon."
+        "text": "a Marxist (96-100) Read the following passage and answer the questions that follow: At school the study of literature can still involve a close reading or ‘practical criticism’ of a novel, play or poem without much or any recourse to external material. Practical criticism is the method of analysing a poem, in isolation from the circumstances of its production, developed by I. A. Richards (1893-1979) in the 1920s. He felt that concentration upon ‘the words on the page’, the technical aspects of the ways verse creates effects, would result in meaningful judgements upon whether a poem was intrinsically ‘good’ or simply reputedly so. The methodology of practical criticism seeks coherence in images, themes and patterns of language. Richards and his colleagues felt that this practice was ‘scientific’ and led to objective value judgements. He was part of a group of lecturers at Cambridge University who played a crucial role in the development of the discipline of English Literature and whose methodology influenced the critical practices of the New Critics, John Crowe Ransom (1888-1974) and Cleanth Brooks (1906-94) and their colleagues in the US. Their ‘scientific’ examination of literature asserted a hierarchy of texts, those that held universal meaning and significance through aesthetic form and those deemed too formulaic to warrant academic scrutiny. The first revered group of texts is often referred to as the literary canon."
       }
     ],
     "correctOption": "C",

@@ -525,7 +525,7 @@
       },
       {
         "key": "D",
-        "text": "(d), (c) and (e) only\nComprehension: (91-95)\nRead the following passage and answer the questions that follows:\nOne key development in the evolving discussion surrounding popular culture which occurred during\nthe early twentieth century was the association of popular culture with the United States of America.\nThrough Hollywood and associated modes of popular entertainment, USA was beginning to exercise\ninternational cultural influence. The term 'Mass culture' is particularly relevant in this context as it\nrefers to both the effects of American culture as well as to a specific theoretical debate that emerged\nin America during the post-war period. Dominic Strinati contends in his An Introduction to Theories\nof Popular Culture (1995) that 'mass culture refers to popular culture which is produced by the\nindustrial techniques of mass production, and marketed for profit to a mass public of consumers.'\nSuch a view of popular culture argues that the industrial revolution produces a series of atomised\n\n\nindividuals who had not only lost touch with the communities of shared interest to which they once\nbelonged but that they had also been subjected to the process of mechanisation and alienation. This\nrendered them ripe for systematic cultural manipulation through uniform, mass produced formulaic\nproducts designed to evoke frivolous, escapist and superficial pleasures."
+        "text": "(d), (c) and (e) only Comprehension: (91-95) Read the following passage and answer the questions that follows: One key development in the evolving discussion surrounding popular culture which occurred during the early twentieth century was the association of popular culture with the United States of America. Through Hollywood and associated modes of popular entertainment, USA was beginning to exercise international cultural influence. The term 'Mass culture' is particularly relevant in this context as it refers to both the effects of American culture as well as to a specific theoretical debate that emerged in America during the post-war period. Dominic Strinati contends in his An Introduction to Theories of Popular Culture (1995) that 'mass culture refers to popular culture which is produced by the industrial techniques of mass production, and marketed for profit to a mass public of consumers.' Such a view of popular culture argues that the industrial revolution produces a series of atomised individuals who had not only lost touch with the communities of shared interest to which they once belonged but that they had also been subjected to the process of mechanisation and alienation. This rendered them ripe for systematic cultural manipulation through uniform, mass produced formulaic products designed to evoke frivolous, escapist and superficial pleasures."
       }
     ],
     "correctOption": "C",
@@ -553,7 +553,7 @@
       },
       {
         "key": "D",
-        "text": "Both mechanised and alienated individual\nComprehension: (96-100)\nRead the following poem and answer the questions that follows:\nIn all my wand'rings round this world of care,\nIn all my griefs-and God has giv'n my share\nI still had hopes, my latest hours to crown,\nAmidst these humble bow'rs to lay me down;\nTo husband out life's taper at the close,\nAnd keep the flame from wasting by repose;\nI still had hopes, for pride attends us still,\nAmidst the swains to show my book learn'd skill,\nAround my fire an ev'ning group to draw,\nAnd tell of all I felt, and all I saw."
+        "text": "Both mechanised and alienated individual Comprehension: (96-100) Read the following poem and answer the questions that follows: In all my wand'rings round this world of care, In all my griefs-and God has giv'n my share I still had hopes, my latest hours to crown, Amidst these humble bow'rs to lay me down; To husband out life's taper at the close, And keep the flame from wasting by repose; I still had hopes, for pride attends us still, Amidst the swains to show my book learn'd skill, Around my fire an ev'ning group to draw, And tell of all I felt, and all I saw."
       }
     ],
     "correctOption": "D",
@@ -950,6 +950,34 @@
     ],
     "correctOption": "B",
     "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-36",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2024 SHIFT II | Q.4",
+    "questionText": "From which book of John Milton's poem Paradise Lost the epigraph of Mary Shelley's novel\nFrankenstein taken when Adam asks God:\n\"Did I request thee, maker from my clay to mould me man? Did I solicit thee, From darkness to\npromote me?\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "Book I"
+      },
+      {
+        "key": "B",
+        "text": "Book II"
+      },
+      {
+        "key": "C",
+        "text": "Book X"
+      },
+      {
+        "key": "D",
+        "text": "Book XII"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": "Frankenstein: Coined/Proposed by *The Modern Prometheus* (Mary Shelley (1818))"
   },
   {
     "id": "P2-U02-37",
@@ -1521,19 +1549,19 @@
     "options": [
       {
         "key": "A",
-        "text": "Parampariterupaka (consequential metaphor) because here the superimposition, undermined\nby a resemblance, is the cause of another superimposition."
+        "text": "Parampariterupaka (consequential metaphor) because here the superimposition, undermined by a resemblance, is the cause of another superimposition."
       },
       {
         "key": "B",
-        "text": "Nirangarupaka (entire metaphor) because here upameya is superimposed by upamana\ntogether with its subordinate parts."
+        "text": "Nirangarupaka (entire metaphor) because here upameya is superimposed by upamana together with its subordinate parts."
       },
       {
         "key": "C",
-        "text": "Malarupaka (deficient metaphorserial) because here upameya is superimposed by serial of\nupamanas."
+        "text": "Malarupaka (deficient metaphorserial) because here upameya is superimposed by serial of upamanas."
       },
       {
         "key": "D",
-        "text": "Mishrittrupaka (mixed metaphor) because here the common attribute, the words implying\ncomparison, upamana and upameya, all are expressed."
+        "text": "Mishrittrupaka (mixed metaphor) because here the common attribute, the words implying comparison, upamana and upameya, all are expressed."
       }
     ],
     "correctOption": "A",
@@ -1621,6 +1649,34 @@
       }
     ],
     "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-61",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT I | Q.4",
+    "questionText": "Thomas Love Peacock authored the essay___________",
+    "options": [
+      {
+        "key": "A",
+        "text": "“Revolt of the Tartars”"
+      },
+      {
+        "key": "B",
+        "text": "“An Essay on the Principles of Human Action”"
+      },
+      {
+        "key": "C",
+        "text": "“Four Ages of Poetry”"
+      },
+      {
+        "key": "D",
+        "text": "“Seven Lamps of Architecture”"
+      }
+    ],
+    "correctOption": "C",
     "cheatSheetRule": null
   },
   {
@@ -2041,6 +2097,62 @@
       }
     ],
     "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-77",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.2",
+    "questionText": "Match List I with List II\nLIST I \tLIST II\n(a) Christopher Hill \t(I) Milton\n(b) Catherine Belsey \t(II) Milton's Language\n(c) E. M. W. Tillyard \t(III) John Milton: Language, Gender, Power\n(d) Thomas N Corns \t(IV) Milton and the English Revolution\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a)-(IV), (b)-(III), (c)-(I), (d)-(II)"
+      },
+      {
+        "key": "B",
+        "text": "(a)-(II), (b)-(III), (c)-(IV), (d)-(I)"
+      },
+      {
+        "key": "C",
+        "text": "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
+      },
+      {
+        "key": "D",
+        "text": "(a)-(III), (b)-(I), (c)-(II), (d)-(IV)"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-78",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: JUNE 2023 SHIFT II | Q.4",
+    "questionText": "Arrange the chronological sequence in which the following poems of Louis McNeice were published:\n(a) “Sunday Morning”\n(b) “Bagpipe Music”\n(c) “Star-Gazer”\n(d) “Entirely”\n(e) “Prayer Before Birth”\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(a), (b), (d), (e), (c)"
+      },
+      {
+        "key": "B",
+        "text": "(b), (e), (a), (c), (d)"
+      },
+      {
+        "key": "C",
+        "text": "(c), (d), (e), (b), (a)"
+      },
+      {
+        "key": "D",
+        "text": "(d), (b), (c), (a), (e)"
+      }
+    ],
+    "correctOption": "A",
     "cheatSheetRule": null
   },
   {
@@ -2561,7 +2673,7 @@
       },
       {
         "key": "B",
-        "text": "The poem is concerned about humans' propensity to go to war despite all the catastrophes it creates in its\nwake."
+        "text": "The poem is concerned about humans' propensity to go to war despite all the catastrophes it creates in its wake."
       },
       {
         "key": "C",
@@ -2601,6 +2713,118 @@
       }
     ],
     "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-99",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.1",
+    "questionText": "“When nature prompted and no law denied\nPromiscuous use of concubine and bride;\nThen Israel’s monarch after Heaven’s own heart,\nHis vigorous warmth did variously impart\nTo wives and slaves.”\nFrom which poem are these lines taken?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Absalom and Achitophel: A Poem"
+      },
+      {
+        "key": "B",
+        "text": "MacFlecknoe"
+      },
+      {
+        "key": "C",
+        "text": "A Song for St. Cecilia’s Day"
+      },
+      {
+        "key": "D",
+        "text": "Alexander’s Feast"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-100",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.2",
+    "questionText": "Which of the following poems is written by Oliver Goldsmith?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A Deserted Village"
+      },
+      {
+        "key": "B",
+        "text": "A Deserted Villa"
+      },
+      {
+        "key": "C",
+        "text": "The Deserted Village"
+      },
+      {
+        "key": "D",
+        "text": "A Deserted City"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-101",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.3",
+    "questionText": "Tribute to Papa is a book of poems written by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kamala Das"
+      },
+      {
+        "key": "B",
+        "text": "Mamta Kalia"
+      },
+      {
+        "key": "C",
+        "text": "Suniti Namjoshi"
+      },
+      {
+        "key": "D",
+        "text": "Meena Alexander"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-102",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT I | Q.4",
+    "questionText": "Which of the following poems is not written by Sylvia Plath?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lady Lazarus"
+      },
+      {
+        "key": "B",
+        "text": "Ariel"
+      },
+      {
+        "key": "C",
+        "text": "Daddy"
+      },
+      {
+        "key": "D",
+        "text": "To Airtel"
+      }
+    ],
+    "correctOption": "D",
     "cheatSheetRule": null
   },
   {
@@ -2765,7 +2989,7 @@
       },
       {
         "key": "D",
-        "text": "(a), (d), (b), (c), (e)\n78.Arrange the works in chronological sequence:\n(a) Rajmohan’s Wife\n(b) A Bend in the Ganges\n(c) Kanthapura\n(d) Untouchable\n(e) Distant Drum"
+        "text": "(a), (d), (b), (c), (e) 78.Arrange the works in chronological sequence: (a) Rajmohan’s Wife (b) A Bend in the Ganges (c) Kanthapura (d) Untouchable (e) Distant Drum"
       }
     ],
     "correctOption": "D",
@@ -2793,7 +3017,7 @@
       },
       {
         "key": "D",
-        "text": "(A) is not correct but (R) is correct.\nRead the following poem and answer the question:\nTalking in Bed\nTalking in bed ought to be easiest,\nLying together there goes back so far,\nAn emblem of two people being honest.\nYet more and more time passes silently.\nOutside, the wind’s incomplete unrest\nBuilds and disperses clouds about the sky,\nAnd dark towns heap up on the horizon.\nNone of this cares for us. Nothing shows why\nAt this unique distance from isolation\nIt becomes still more difficult to find\nWords at once true and kind,\nOr not untrue and not unkind.\nPhilip Larkin"
+        "text": "(A) is not correct but (R) is correct. Read the following poem and answer the question: Talking in Bed Talking in bed ought to be easiest, Lying together there goes back so far, An emblem of two people being honest. Yet more and more time passes silently. Outside, the wind’s incomplete unrest Builds and disperses clouds about the sky, And dark towns heap up on the horizon. None of this cares for us. Nothing shows why At this unique distance from isolation It becomes still more difficult to find Words at once true and kind, Or not untrue and not unkind. Philip Larkin"
       }
     ],
     "correctOption": "B",
@@ -2933,7 +3157,7 @@
       },
       {
         "key": "D",
-        "text": "at once honest and touching\nRead the following passage and answer the questions that follows:\nPoetry in its use of language continually distorts and denies the structure of reality to exalt the structure\nof the self. By means of rhyme, assonance or alliteration it couples together words which have no\nrational connection, that is, no nexus through the world of external reality. It breaks the word up into\nlines of arbitrary length, cutting across their logical construction. It breaks down their associations,\nderived from the world of external reality, by means of inversion and every variety of artificial stressing\nand counterpoint. Thus the world of external reality recedes and the world of instinct, the affective\nemotional linkage behind the words, becomes the world of reality... In the novel, too, the subjective\nelements are valued for themselves, and rise to view, but in a different way. The novel blots out external\nreality by substituting a more or less consistent mock reality which has sufficient ‘stuff’ to stand\nbetween the reader and reality. This means that in the novel the emotional associations attach not to\nwords but to the moving current of mock reality symbolised by the words. This is why rhythm,\n‘preciousness’, and style are alien to the novel; why the novel translates so well; why novels are not\ncomposed of words. They are composed of scenes, actions, stuff, people, just as plays are."
+        "text": "at once honest and touching Read the following passage and answer the questions that follows: Poetry in its use of language continually distorts and denies the structure of reality to exalt the structure of the self. By means of rhyme, assonance or alliteration it couples together words which have no rational connection, that is, no nexus through the world of external reality. It breaks the word up into lines of arbitrary length, cutting across their logical construction. It breaks down their associations, derived from the world of external reality, by means of inversion and every variety of artificial stressing and counterpoint. Thus the world of external reality recedes and the world of instinct, the affective emotional linkage behind the words, becomes the world of reality... In the novel, too, the subjective elements are valued for themselves, and rise to view, but in a different way. The novel blots out external reality by substituting a more or less consistent mock reality which has sufficient ‘stuff’ to stand between the reader and reality. This means that in the novel the emotional associations attach not to words but to the moving current of mock reality symbolised by the words. This is why rhythm, ‘preciousness’, and style are alien to the novel; why the novel translates so well; why novels are not composed of words. They are composed of scenes, actions, stuff, people, just as plays are."
       }
     ],
     "correctOption": "A",
@@ -2965,6 +3189,90 @@
       }
     ],
     "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-116",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.2",
+    "questionText": "Who among the following praised Chaucer's translation of Roman de la rose?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Eustache Deschamps"
+      },
+      {
+        "key": "B",
+        "text": "Boccaccio"
+      },
+      {
+        "key": "C",
+        "text": "Jean de Meun"
+      },
+      {
+        "key": "D",
+        "text": "Guillaume de Lorris"
+      }
+    ],
+    "correctOption": "A",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-117",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.3",
+    "questionText": "For The Unfallen is a book of poems written by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ted Hughes"
+      },
+      {
+        "key": "B",
+        "text": "Sylvia Plath"
+      },
+      {
+        "key": "C",
+        "text": "Geoffrey Hill"
+      },
+      {
+        "key": "D",
+        "text": "A.E. Housman"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-118",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: MARCH 2023 SHIFT II | Q.4",
+    "questionText": "\"The Princess: A Medley\" by Tennyson is",
+    "options": [
+      {
+        "key": "A",
+        "text": "a lyric"
+      },
+      {
+        "key": "B",
+        "text": "an elegy"
+      },
+      {
+        "key": "C",
+        "text": "a narrative poem"
+      },
+      {
+        "key": "D",
+        "text": "a dramatic monologue"
+      }
+    ],
+    "correctOption": "C",
     "cheatSheetRule": null
   },
   {
@@ -3325,7 +3633,7 @@
       },
       {
         "key": "D",
-        "text": "the poet wildly guesses that his father is dead.\nRead the following passage and answer the questions that follow:\nIn this sense, one can think of literature less as some inherent quality or set of qualities displayed by\ncertain kinds of writing all the way from Beowulf to Virginia Woolf, than as a number of ways in which\npeople relate themselves to writing. It would not be easy to isolate, from all that has been variously\ncalled 'literature', some constant set of inherent features. In fact, it would be as impossible as trying to\nidentify the single distinguishing feature which all games have in common. There is no 'essence' of\nliterature whatsoever. Any bit of writing may be read 'non-pragmatically', if that is what reading a text as\nliterature means, just as any writing may be read 'poetically'. If I pore over the railway timetable not to\ndiscover a train connection but to stimulate in myself general reflections on the speed and complexity of\nmodern existence, then I might be said to be reading it as literature. John M. Ellis has argued that the\nterm 'literature' operates rather like the word 'weed': weeds are not particular kinds of plant, but just any\nkind of plant which for some reason or another a gardener does not want around. Perhaps 'literature'\nmeans something like the opposite: any kind of writing which for some reason or another somebody\nvalues highly. As the philosophers might say, 'literature' and 'weed' are functional rather than ontological\nterms: they tell us about what we do, not about the fixed being of things."
+        "text": "the poet wildly guesses that his father is dead. Read the following passage and answer the questions that follow: In this sense, one can think of literature less as some inherent quality or set of qualities displayed by certain kinds of writing all the way from Beowulf to Virginia Woolf, than as a number of ways in which people relate themselves to writing. It would not be easy to isolate, from all that has been variously called 'literature', some constant set of inherent features. In fact, it would be as impossible as trying to identify the single distinguishing feature which all games have in common. There is no 'essence' of literature whatsoever. Any bit of writing may be read 'non-pragmatically', if that is what reading a text as literature means, just as any writing may be read 'poetically'. If I pore over the railway timetable not to discover a train connection but to stimulate in myself general reflections on the speed and complexity of modern existence, then I might be said to be reading it as literature. John M. Ellis has argued that the term 'literature' operates rather like the word 'weed': weeds are not particular kinds of plant, but just any kind of plant which for some reason or another a gardener does not want around. Perhaps 'literature' means something like the opposite: any kind of writing which for some reason or another somebody values highly. As the philosophers might say, 'literature' and 'weed' are functional rather than ontological terms: they tell us about what we do, not about the fixed being of things."
       }
     ],
     "correctOption": "A",
@@ -3541,11 +3849,11 @@
       },
       {
         "key": "B",
-        "text": "It turns English Poetry away from the social and intellectual sophistication of the\nseventeenth and the eighteenth-century poetry"
+        "text": "It turns English Poetry away from the social and intellectual sophistication of the seventeenth and the eighteenth-century poetry"
       },
       {
         "key": "C",
-        "text": "It takes poetry out of the confines of reason and intellect to the unravished and unspoilt\nbeauties of nature"
+        "text": "It takes poetry out of the confines of reason and intellect to the unravished and unspoilt beauties of nature"
       },
       {
         "key": "D",
@@ -3836,6 +4144,34 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U02-150",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: OCTOBER 2022 SHIFT II | Q.3",
+    "questionText": "Derek Alton Walcott in the poem The Sea is History n makes a parallel between",
+    "options": [
+      {
+        "key": "A",
+        "text": "Evolution of mankind and nature"
+      },
+      {
+        "key": "B",
+        "text": "Evolution of human history and religion"
+      },
+      {
+        "key": "C",
+        "text": "Evolution of Paganism and Christianity"
+      },
+      {
+        "key": "D",
+        "text": "Evolution of Christianity and slavery of the Blacks"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U02-151",
     "paper": 2,
     "unitId": 2,
@@ -4109,7 +4445,7 @@
       },
       {
         "key": "D",
-        "text": "Visual\nRead the following passage and answer the questions that follow:\nSuch is the matter of imaginative or artistic literature - this transcript not of mere fact, but of fact in its\ninfinite variety, as modified by human preference in all its infinitely varied forms. It will be good\nliterary art not because it is brilliant or sober, or rich, or impulsive, or severe, but just in proportion as\nits representation of that sense, that soul fact, is true, verse being only one department of such literature,\nand imaginative prose, it may be thought, being the special art of the modern world. That imaginative\nprose should be the special and opportune art of the modern world results from two important facts\nabout the latter. first, the chaotic variety and complexity of its interests, making the intellectual issue,\nthe really master currents of the present time incalculable- a condition of mind little susceptible of the\nrestraint proper to verse form, so that the most characteristic verse of the nineteenth century has been\nlawless verse; and secondly, an all pervading naturalism, a curiosity about everything whatever as it\nreally is, involving a certain humility of attitude, cognate to what must, after all , be the less ambitious\nform of literature. And prose thus asserting itself as the special and privileged artistic faculty of the\npresent day, will be, however critics may try to narrow its scope, as varied in its excellence as humanity\nitself reflecting on the facts of its latest experience- an instrument of many stops, meditative, observant,\ndescriptive, eloquent, analytic, plaintive, fervid."
+        "text": "Visual Read the following passage and answer the questions that follow: Such is the matter of imaginative or artistic literature - this transcript not of mere fact, but of fact in its infinite variety, as modified by human preference in all its infinitely varied forms. It will be good literary art not because it is brilliant or sober, or rich, or impulsive, or severe, but just in proportion as its representation of that sense, that soul fact, is true, verse being only one department of such literature, and imaginative prose, it may be thought, being the special art of the modern world. That imaginative prose should be the special and opportune art of the modern world results from two important facts about the latter. first, the chaotic variety and complexity of its interests, making the intellectual issue, the really master currents of the present time incalculable- a condition of mind little susceptible of the restraint proper to verse form, so that the most characteristic verse of the nineteenth century has been lawless verse; and secondly, an all pervading naturalism, a curiosity about everything whatever as it really is, involving a certain humility of attitude, cognate to what must, after all , be the less ambitious form of literature. And prose thus asserting itself as the special and privileged artistic faculty of the present day, will be, however critics may try to narrow its scope, as varied in its excellence as humanity itself reflecting on the facts of its latest experience- an instrument of many stops, meditative, observant, descriptive, eloquent, analytic, plaintive, fervid."
       }
     ],
     "correctOption": "D",
@@ -4165,7 +4501,7 @@
       },
       {
         "key": "D",
-        "text": "complex and natural instincts of a poet\nRead the following poem and answer the questions that follow:\nSMOKE\nLight - winged Smoke! Icarian bird,\nMelting thy pinions in thy upward flight;\nLark without song, and the messenger of dawn,\nCircling above the hamlets as thy nest;\nOr else, departing dream, and shadowy form\nOf midnight vision, gathering up thy skirts;\nBy night star-veiling, and by day\nDarkening the light and blotting out the sun:\nGo thou, my incense, upward from this hearth,\nAnd ask the gods to pardon this clear flame.\nHenry David Thoreau"
+        "text": "complex and natural instincts of a poet Read the following poem and answer the questions that follow: SMOKE Light - winged Smoke! Icarian bird, Melting thy pinions in thy upward flight; Lark without song, and the messenger of dawn, Circling above the hamlets as thy nest; Or else, departing dream, and shadowy form Of midnight vision, gathering up thy skirts; By night star-veiling, and by day Darkening the light and blotting out the sun: Go thou, my incense, upward from this hearth, And ask the gods to pardon this clear flame. Henry David Thoreau"
       }
     ],
     "correctOption": "B",
@@ -4250,6 +4586,90 @@
       {
         "key": "D",
         "text": "fire in the village"
+      }
+    ],
+    "correctOption": "D",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-166",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.1",
+    "questionText": "What is meant by 'traditional use of poetry'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Promoting doubtful pleasure"
+      },
+      {
+        "key": "B",
+        "text": "Promoting joyous expectations"
+      },
+      {
+        "key": "C",
+        "text": "Promoting serious ideas"
+      },
+      {
+        "key": "D",
+        "text": "Promoting social honesty in life"
+      }
+    ],
+    "correctOption": "B",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-167",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.2",
+    "questionText": "If 'selfhood' of a poet is the subject of poetry, then 'originality' shall spring from:",
+    "options": [
+      {
+        "key": "A",
+        "text": "creating ideal pleasures"
+      },
+      {
+        "key": "B",
+        "text": "re living the past joys"
+      },
+      {
+        "key": "C",
+        "text": "some truth of untruths"
+      },
+      {
+        "key": "D",
+        "text": "truth of self recognition"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-168",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT I | Q.3",
+    "questionText": "In the context of the above which is closest to being true?",
+    "options": [
+      {
+        "key": "A",
+        "text": "There can be no use of poetry."
+      },
+      {
+        "key": "B",
+        "text": "Man may be the true subject of poetry."
+      },
+      {
+        "key": "C",
+        "text": "Poetry can have no true subject."
+      },
+      {
+        "key": "D",
+        "text": "The poet himself may be the subject. Read the following poem and answer the questions that follow: No worst, there is none. No worst, there is none. Pitched past pitch of grief, More pangs will, schooled at forepangs, wilder wring. Comforter, where, where is your comforting? Mary, mother of us, where is your relief? My cries heave, herds long; huddle in a main, a chief Woe, world sorrow; on an age old anvil wince and sing Then lull, then leave off. Fury had shrieked 'No lingering! Let me be fell: force I must be brief.\"' O the mind, mind has mountains; cliffs of fall Frightful, sheer, no man fathomed. Hold them cheap May who ne'er hung there. Nor does long our small Durance deal with that steep or deep. Here! creep, Wretch, under a comfort serves in a whirlwind: all Life death does end and each day dies with sleep. Gerard Manley Hopkins"
       }
     ],
     "correctOption": "D",
@@ -4377,7 +4797,7 @@
     "options": [
       {
         "key": "A",
-        "text": "aesthetics.\nList I \tList II\n(Poet) \t(Language)\nA. Charles Baudelaire \tI. French\nB. Heinrich Heine \tII. German\nC. Sylvia Path \tIII. English\nD. Jose Marti \tIV. Spanish"
+        "text": "aesthetics. List I \tList II (Poet) \t(Language) A. Charles Baudelaire \tI. French B. Heinrich Heine \tII. German C. Sylvia Path \tIII. English D. Jose Marti \tIV. Spanish"
       },
       {
         "key": "B",
@@ -4480,6 +4900,62 @@
     "cheatSheetRule": null
   },
   {
+    "id": "P2-U02-177",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.3",
+    "questionText": "The “principal worries of our life” follow us if we:\nA. detach our self from family life.\nB. are deep into buying and selling.\nC. mentally abstain from hustle and bustle.\nD. are in to schools of philosophy.\nChoose the correct answer from the options given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A and C only"
+      },
+      {
+        "key": "B",
+        "text": "B and C only"
+      },
+      {
+        "key": "C",
+        "text": "B and D only"
+      },
+      {
+        "key": "D",
+        "text": "C and D only Read the following poem and answer the questions that follow: A Prayer for Old Age God guard me from those thoughts men think In the mind alone; He that sings a lasting song Thinks in a marrow-bone; From all that makes a wise old man That can be praised of all; O what am I that I should not seem For the song's sake a fool? I pray--for fashion's word is out And prayer comes round again -- That I may seem, though I die old, A foolish, passionate man. - W.B.Yeats"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
+    "id": "P2-U02-178",
+    "paper": 2,
+    "unitId": 2,
+    "unitTitle": "Poetry",
+    "shift": "Shift: DECEMBER 2021 SHIFT II | Q.4",
+    "questionText": "In the second stanza the poet thinks of:",
+    "options": [
+      {
+        "key": "A",
+        "text": "what all earns all others’ praise."
+      },
+      {
+        "key": "B",
+        "text": "what all makes a wise old man."
+      },
+      {
+        "key": "C",
+        "text": "what he does not want to appear."
+      },
+      {
+        "key": "D",
+        "text": "what he thinks he is, a fool. Read the following poem and answer the questions that follow: A Prayer for Old Age God guard me from those thoughts men think In the mind alone; He that sings a lasting song Thinks in a marrow-bone; From all that makes a wise old man That can be praised of all; O what am I that I should not seem For the song's sake a fool? I pray--for fashion's word is out And prayer comes round again -- That I may seem, though I die old, A foolish, passionate man. - W.B.Yeats"
+      }
+    ],
+    "correctOption": "C",
+    "cheatSheetRule": null
+  },
+  {
     "id": "P2-U02-179",
     "paper": 2,
     "unitId": 2,
@@ -4501,7 +4977,7 @@
       },
       {
         "key": "D",
-        "text": "He is old but happy in not being wise.\nRead the following poem and answer the questions that follow:\nA Prayer for Old Age\nGod guard me from those thoughts men think\nIn the mind alone;\nHe that sings a lasting song\nThinks in a marrow-bone;\nFrom all that makes a wise old man\nThat can be praised of all;\nO what am I that I should not seem\nFor the song's sake a fool?\nI pray--for fashion's word is out\nAnd prayer comes round again --\nThat I may seem, though I die old,\nA foolish, passionate man.\n- W.B.Yeats"
+        "text": "He is old but happy in not being wise. Read the following poem and answer the questions that follow: A Prayer for Old Age God guard me from those thoughts men think In the mind alone; He that sings a lasting song Thinks in a marrow-bone; From all that makes a wise old man That can be praised of all; O what am I that I should not seem For the song's sake a fool? I pray--for fashion's word is out And prayer comes round again -- That I may seem, though I die old, A foolish, passionate man. - W.B.Yeats"
       }
     ],
     "correctOption": "D",

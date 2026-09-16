@@ -108,6 +108,7 @@ body {
   letter-spacing: -0.02em;
   background: linear-gradient(to right, #FFFFFF, #CBD5E1);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -302,9 +303,118 @@ body {
   font-weight: 500;
   line-height: 1.65;
   color: #F1F5F9;
-  white-space: pre-line;
   margin-bottom: 24px;
 }
+
+/* Clean, Simple Question Formatting */
+.simple-question-container {
+  width: 100%;
+}
+
+.simple-question-body {
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.65;
+  color: #F1F5F9;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.simple-context-box {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+  margin-bottom: 20px;
+}
+
+.simple-context-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #A5B4FC;
+  margin-bottom: 8px;
+}
+
+.simple-context-body {
+  font-size: 0.94rem;
+  line-height: 1.65;
+  color: #E2E8F0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 380px;
+  overflow-y: auto;
+}
+
+/* Match The Following Simple Table */
+.simple-match-box {
+  margin-bottom: 16px;
+}
+
+.simple-match-intro {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #F8FAFC;
+  margin-bottom: 12px;
+  line-height: 1.45;
+}
+
+.simple-match-table-wrapper {
+  overflow-x: auto;
+  margin: 14px 0;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-md);
+  background: rgba(15, 23, 42, 0.4);
+}
+
+.simple-match-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.simple-match-table th {
+  padding: 10px 14px;
+  background: rgba(255, 255, 255, 0.04);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #38BDF8;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.simple-match-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #F1F5F9;
+  vertical-align: top;
+}
+
+.simple-match-table tr:last-child td {
+  border-bottom: none;
+}
+
+.simple-match-key {
+  font-weight: 700;
+  color: #A5B4FC;
+  margin-right: 4px;
+}
+
+.simple-match-key.roman {
+  color: #6EE7B7;
+}
+
+.simple-match-outro {
+  font-size: 0.95rem;
+  color: #CBD5E1;
+  font-style: italic;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+
 
 /* Option Buttons - Tactile Thumb Targets (>=54px height) */
 .options-grid {
