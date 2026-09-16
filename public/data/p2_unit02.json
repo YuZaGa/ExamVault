@@ -25,7 +25,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-3",
@@ -81,7 +81,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-5",
@@ -445,7 +445,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-18",
@@ -865,7 +865,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-33",
@@ -1313,7 +1313,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-49",
@@ -1705,7 +1705,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "Gurcharan Das: Coined/Proposed by *Larins Sahib* (1968), *Mira*, *9 Jakhoo Hill* (Sultan Padamsee Award (1968) for *Larins Sahib* (set in 1846 Punjab after First Anglo-Sikh War).)"
   },
   {
     "id": "P2-U02-63",
@@ -2433,7 +2433,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-89",
@@ -2461,7 +2461,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-90",
@@ -2973,27 +2973,27 @@
     "unitId": 2,
     "unitTitle": "Poetry",
     "shift": "Shift: MARCH 2023 SHIFT I | Q.77",
-    "questionText": "Arrange the following poets in accordance with their years of birth.\n(a) Rudyard Kipling\n(b) Robert Browning\n(c) John Masefield\n(d) A. E. Housman\n(e) John Donne",
+    "questionText": "Arrange the following poets in accordance with their years of birth.\n(a) Rudyard Kipling\n(b) Robert Browning\n(c) John Masefield\n(d) A. E. Housman\n(e) John Donne\n(A) (e), (a), (b), (d), (c)\n(B) (e), (b), (a), (c), (d)\n(C) (e), (b), (a), (d), (c)\n(D) (a), (d), (b), (c), (e)\n78.Arrange the works in chronological sequence:\n(a) Rajmohan’s Wife\n(b) A Bend in the Ganges\n(c) Kanthapura\n(d) Untouchable\n(e) Distant Drum",
     "options": [
       {
         "key": "A",
-        "text": "(e), (a), (b), (d), (c)"
+        "text": "(a), (b), (c), (d), (e)"
       },
       {
         "key": "B",
-        "text": "(e), (b), (a), (c), (d)"
+        "text": "(a), (c), (d), (e), (b)"
       },
       {
         "key": "C",
-        "text": "(e), (b), (a), (d), (c)"
+        "text": "(a), (d), (c), (b), (e)"
       },
       {
         "key": "D",
-        "text": "(a), (d), (b), (c), (e) 78.Arrange the works in chronological sequence: (a) Rajmohan’s Wife (b) A Bend in the Ganges (c) Kanthapura (d) Untouchable (e) Distant Drum"
+        "text": "(a), (e), (d), (c), (b)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-109",
@@ -3525,7 +3525,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-128",
@@ -4337,7 +4337,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-157",
@@ -4449,7 +4449,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-161",
@@ -5065,7 +5065,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-183",
@@ -5121,7 +5121,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Critic: Coined/Proposed by Landmark Work & Year (Core Concept / Verbatim Argument Tested)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U02-185",

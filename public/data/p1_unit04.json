@@ -221,7 +221,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-10",
@@ -305,7 +305,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-13",
@@ -473,7 +473,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-19",
@@ -1229,7 +1229,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-46",
@@ -1257,7 +1257,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-47",
@@ -1397,7 +1397,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-52",
@@ -1565,7 +1565,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-58",
@@ -1929,7 +1929,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-71",
@@ -2237,7 +2237,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-82",
@@ -2853,7 +2853,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-104",
@@ -3525,7 +3525,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-128",
@@ -3581,7 +3581,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-130",
@@ -3749,7 +3749,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-136",
@@ -3777,7 +3777,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-137",
@@ -3917,7 +3917,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-142",
@@ -3973,7 +3973,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-144",
@@ -4197,7 +4197,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-152",
@@ -4365,7 +4365,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-158",
@@ -4561,7 +4561,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "2020: National Education Policy (NEP 2020) | Dr. K. Kasturirangan"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-165",
@@ -4905,23 +4905,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "04-03-2023 COM_FN | Q.18",
-    "questionText": "Which of the following are the characteristics of interactive communication?\n(a) It is decentralised.\n(b) It is state controlled.\n(c) It is highly centralized.\n(d) It is a two-way communication.\n(e) It provides universal citizenship.\nChoose the correct answer from the options given below:",
+    "questionText": "Which of the following are the characteristics of interactive communication?\n(a) It is decentralised.\n(b) It is state controlled.\n(c) It is highly centralized.\n(d) It is a two-way communication.\n(e) It provides universal citizenship.\nChoose the correct answer from the options given below:\n(A) (a), (b),( c) only\n(B) (b), (c), (d) only\n(C) (c), (d), (e) only\n(D) (a), (d), (e) only\n(a) Many asides while speaking\n(b) Fruitful discussions\n(c) Use of relevant transitions\n(d) Finding out the correct context\n(e) Pressurising the students with authoritarian commands.\nChoose the correct answer from the options given below:\n(A) (a), (b) and (c) only\n(B) (b), (c) and (d) only\n(C) (c), (d) and (e) only\n(D) (a), (d) and (e) only\n20. Given below are two statements:\nStatement (I): The new technologies have brought in 'Market Specific Communication'.\nStatement (II): The second media age has made the interactive technologies of communication to\nchange the mediascape.\nIn the light of the above statements, choose the correct answer from the options given below:\n(A) Both Statement (I) and Statement (II) are true.\n(B) Both Statement (I) and Statement (II) are false.\n(C) Statement (I) is true but Statement (II) is false.\n(D) Statement (I) is false but Statement (II) is true.\n21. In a certain coding language:\n(a) 'odopadofao' means’order packed food'\n(b) 'padofaosadigo' means 'packed food is good'\n(c) 'digoyaomao' means 'good young man'\n(d) 'Yao maosasito' means 'young man is strong'\nWhich of the following means 'order' and 'strong', respectively in that language?\n(A) 'yao' and 'mao\n(B) 'digo' and 'mao'\n(C) 'pado' and 'sito'\n(D) 'odo' and 'sito'\n22. In a competitive examination held in the year 2000, a total of 6,00,000 (6.0 lakh) students appeared\nand 40% passed the examination. Forty percent (40%) of the total students were females and the\nrest were males. The pass percentage among the males was 50%. Find the pass percentage among\nthe females.",
     "options": [
       {
         "key": "A",
-        "text": "(a), (b),( c) only"
+        "text": "25%"
       },
       {
         "key": "B",
-        "text": "(b), (c), (d) only"
+        "text": "30%"
       },
       {
         "key": "C",
-        "text": "(c), (d), (e) only"
+        "text": "35%"
       },
       {
         "key": "D",
-        "text": "(a), (d), (e) only (a) Many asides while speaking (b) Fruitful discussions (c) Use of relevant transitions (d) Finding out the correct context (e) Pressurising the students with authoritarian commands. Choose the correct answer from the options given below:"
+        "text": "40%"
       }
     ],
     "correctOption": "D",
@@ -5345,7 +5345,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-195",
@@ -5373,7 +5373,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-196",
@@ -5513,7 +5513,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Category: Definition | Key Pollutants"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-201",
@@ -5569,7 +5569,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-203",
@@ -5625,7 +5625,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-205",
@@ -5765,7 +5765,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Scale: Core Property | Permissible Mathematical Operations"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-210",
@@ -5793,7 +5793,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-211",
@@ -5933,7 +5933,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-216",
@@ -6045,7 +6045,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-220",
@@ -6185,7 +6185,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-225",
@@ -6521,7 +6521,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-237",
@@ -6633,7 +6633,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-241",
@@ -7557,7 +7557,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-274",
@@ -7837,7 +7837,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-284",
@@ -8817,7 +8817,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-319",
@@ -9013,7 +9013,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-326",
@@ -9041,7 +9041,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-327",
@@ -9237,7 +9237,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-334",
@@ -9265,7 +9265,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-335",
@@ -9405,7 +9405,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-340",
@@ -9713,7 +9713,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-351",
@@ -9797,7 +9797,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-354",
@@ -10189,7 +10189,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-368",
@@ -10197,23 +10197,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_45 | Q.12",
-    "questionText": "From the list given below, identify the Psychological barriers to\ncommunication",
+    "questionText": "From the list given below, identify the Psychological barriers to\ncommunication\n(A) Noise\n(B) Invisibility\n(C) Prejudice\n(D) Disinterest\n(E) Inattention\nChoose the most appropriate answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Noise"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "B",
-        "text": "Invisibility"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Prejudice"
+        "text": "(C), (D) and (E) only"
       },
       {
         "key": "D",
-        "text": "Disinterest (E) Inattention Choose the most appropriate answer from the options given below :"
+        "text": "(A), (C) and (D) only"
       }
     ],
     "correctOption": "C",
@@ -10413,7 +10413,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-376",
@@ -10469,7 +10469,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-378",
@@ -10693,7 +10693,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": "Upward: Subordinates $\\to$ Superiors (Staff $\\to$ Management) | Reports, grievances, suggestions. Prone to gatekeeping and filtering."
   },
   {
     "id": "P1-U04-386",
@@ -10917,7 +10917,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-394",
@@ -11037,23 +11037,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_51 | Q.25",
-    "questionText": "Feedback rejects the reactions of the audience when:",
+    "questionText": "Feedback rejects the reactions of the audience when:\n(A) One knows the effects of communication.\n(B) One knows the quality of content of the message.\n(C) One knows the future prospect of the object of communication.\n(D) One knows the financial implications of the communication.\nChoose the most appropriate answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "One knows the effects of communication."
+        "text": "A, B, D only"
       },
       {
         "key": "B",
-        "text": "One knows the quality of content of the message."
+        "text": "A, C, D only"
       },
       {
         "key": "C",
-        "text": "One knows the future prospect of the object of communication."
+        "text": "B, D, C only"
       },
       {
         "key": "D",
-        "text": "One knows the financial implications of the communication. Choose the most appropriate answer from the options given below:"
+        "text": "A, B, C only"
       }
     ],
     "correctOption": "D",
@@ -11085,7 +11085,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-400",
@@ -11253,7 +11253,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-406",
@@ -11449,7 +11449,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-413",
@@ -11757,7 +11757,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-424",
@@ -11813,7 +11813,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-426",
@@ -12373,7 +12373,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-446",
@@ -12381,23 +12381,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_60 | Q.37",
-    "questionText": "Feedback reflects the reactions of the audience when:",
+    "questionText": "Feedback reflects the reactions of the audience when:\n(A) One knows the effects of communication.\n(B) One knows the quality of content of the message.\n(C) One knows the future prospect of the object of communication.\n(D) One knows the financial implications of the communication.\nChoose the most appropriate answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "One knows the effects of communication."
+        "text": "(A), (B), (D) only"
       },
       {
         "key": "B",
-        "text": "One knows the quality of content of the message."
+        "text": "(B). (D), (C) only"
       },
       {
         "key": "C",
-        "text": "One knows the future prospect of the object of communication."
+        "text": "(A), (C), (D) only"
       },
       {
         "key": "D",
-        "text": "One knows the financial implications of the communication. Choose the most appropriate answer from the options given below:"
+        "text": "(A). (B), (C) only"
       }
     ],
     "correctOption": "D",
@@ -12409,27 +12409,27 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_61 | Q.11",
-    "questionText": "Match List I with List II :\nList I \tList II\n(Types of Communication) \t(Main features)",
+    "questionText": "Match List I with List II :\nList I \tList II\n(Types of Communication) \t(Main features)\n(A) \tDownward Communication \t(I) Grows primarily to meet\norganizational/member’s need for\ncommunication\n(B) \tUpward Communication \t(II) It forms a useful link in decision\nmaking for task coordination\n(C) \tHorizontal Communication \t(III) Provides management with feedback\nabout current issues and problems\n(D) \tGrapevine Communication \t(IV) It is the most common\ncommunication system in an organization\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Downward Communication \t(I) Grows primarily to meet organizational/member’s need for communication"
+        "text": "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
       },
       {
         "key": "B",
-        "text": "Upward Communication \t(II) It forms a useful link in decision making for task coordination"
+        "text": "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Horizontal Communication \t(III) Provides management with feedback about current issues and problems"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Grapevine Communication \t(IV) It is the most common communication system in an organization Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)- (II), (D)-(I)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Downward: Superiors $\\to$ Subordinates (Management $\\to$ Staff) | Policies, instructions, feedback. Prone to distortion and loss of detail."
   },
   {
     "id": "P1-U04-448",
@@ -12465,23 +12465,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_61 | Q.28",
-    "questionText": "Identify the barriers to communication from the list given below :",
+    "questionText": "Identify the barriers to communication from the list given below :\n(A)Time and distance\n(B) By-passed instructions\n(C) Encoding of thoughts and ideas\n(D) Decoding of thoughts and ideas\n(E) Logical sequence\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Time and distance"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "By-passed instructions"
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Encoding of thoughts and ideas"
+        "text": "(C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Decoding of thoughts and ideas (E) Logical sequence Choose the correct answer from the options given below :"
+        "text": "(D) and (E) only"
       }
     ],
     "correctOption": "A",
@@ -12569,7 +12569,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-453",
@@ -12681,7 +12681,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-457",
@@ -12709,7 +12709,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-458",
@@ -12849,7 +12849,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-463",
@@ -12997,27 +12997,27 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_64 | Q.30",
-    "questionText": "Match List I with List II.\nList I - Elements of Communication \tList II - Characteristic feature",
+    "questionText": "Match List I with List II.\nList I - Elements of Communication \tList II - Characteristic feature\n(A) Source \t(I) Means used to convey the message\n(B) Receiver \t(II) Set of verbal and nonverbal cues from a\nsource\n(C) Message \t(III) A person who interprets the message\n(D) Channel \t(IV) A person or an event which provides\nverbal/non verbal cues.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Source \t(I) Means used to convey the message"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
       },
       {
         "key": "B",
-        "text": "Receiver \t(II) Set of verbal and nonverbal cues from a source"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Message \t(III) A person who interprets the message"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Channel \t(IV) A person or an event which provides verbal/non verbal cues. Choose the correct answer from the options given below:"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-469",
@@ -13025,23 +13025,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_64 | Q.32",
-    "questionText": "Physical barriers to communication are rapidly disappearing, but psychological obstacles\nremain owing to which of the following?",
+    "questionText": "Physical barriers to communication are rapidly disappearing, but psychological obstacles\nremain owing to which of the following?\n(A) By formal language\n(B) By visual presentation\n(C) By use of technology\n(D) By emotional appeal\n(E) By cultural attitude\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "By formal language"
+        "text": "(A), (D) and (E) only"
       },
       {
         "key": "B",
-        "text": "By visual presentation"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "C",
-        "text": "By use of technology"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "By emotional appeal (E) By cultural attitude Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "A",
@@ -13053,23 +13053,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_65 | Q.20",
-    "questionText": "Why do we communicate?",
+    "questionText": "Why do we communicate?\n(A) For social interaction.\n(B) For happiness sake.\n(C) For messages to be understood.\n(D) For sharing of experience.\n(E) For protection of traditions.\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "For social interaction."
+        "text": "(A), (C), (E) only"
       },
       {
         "key": "B",
-        "text": "For happiness sake."
+        "text": "(B), (C), (D) only"
       },
       {
         "key": "C",
-        "text": "For messages to be understood."
+        "text": "(A), (C), (D) only"
       },
       {
         "key": "D",
-        "text": "For sharing of experience. (E) For protection of traditions. Choose the correct answer from the options given below :"
+        "text": "(A), (B), (E) only"
       }
     ],
     "correctOption": "C",
@@ -13109,23 +13109,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_65 | Q.35",
-    "questionText": "Match List I with List II\nList I \tList II\nTypes of communication \tFunction served",
+    "questionText": "Match List I with List II\nList I \tList II\nTypes of communication \tFunction served\n(A) Mass communication \t(I) Corridor discussion\n(B) Intrapersonal communication \t(II) Classroom Teaching\n(C) Group communication \t(III) For communicates with oneself\n(D) Interpersonal communication \tIV) For mechanical message transmission\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Mass communication \t(I) Corridor discussion"
+        "text": "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
       },
       {
         "key": "B",
-        "text": "Intrapersonal communication \t(II) Classroom Teaching"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Group communication \t(III) For communicates with oneself"
+        "text": "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
       },
       {
         "key": "D",
-        "text": "Interpersonal communication \tIV) For mechanical message transmission Choose the correct answer from the options given below :"
+        "text": "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
       }
     ],
     "correctOption": "A",
@@ -13157,7 +13157,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-474",
@@ -13193,27 +13193,27 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_66 | Q.20",
-    "questionText": "Match List I with List II\nList I - Styles that impede communication \tList II – Characteristic feature",
+    "questionText": "Match List I with List II\nList I - Styles that impede communication \tList II – Characteristic feature\n(A) Placating \t(I) Doing or saying what is irrelevant\n(B) Blaming \t(II) Being overcorrect\n(C) Computing \t(III) Fault finding and acting as superior\n(D) Distracting \t(IV) Talking in an ingratiating way\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Placating \t(I) Doing or saying what is irrelevant"
+        "text": "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
       },
       {
         "key": "B",
-        "text": "Blaming \t(II) Being overcorrect"
+        "text": "(A)-(II), (B)-(I), (C)-(IV), (D)- (III)"
       },
       {
         "key": "C",
-        "text": "Computing \t(III) Fault finding and acting as superior"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Distracting \t(IV) Talking in an ingratiating way Choose the correct answer from the options given below:"
+        "text": "(A)-(IV), (B)-(III), (C)- (II), (D)-(I)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-476",
@@ -13277,23 +13277,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_66 | Q.41",
-    "questionText": "Which of the following are parameters of an effective communication?",
+    "questionText": "Which of the following are parameters of an effective communication?\n(A) Freedom to see and hear. What is here?\n(B) Freedom to say. What one thinks and feels?\n(C) Freedom to decide. What should be. was. are. will be?\n(D) Freedom to feel. What one feels?\n(E) Freedom of always waiting for permission.\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
-        "text": "Freedom to see and hear. What is here?"
+        "text": "(A), (B) and (D) only"
       },
       {
         "key": "B",
-        "text": "Freedom to say. What one thinks and feels?"
+        "text": "(A), (B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Freedom to decide. What should be. was. are. will be?"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Freedom to feel. What one feels? (E) Freedom of always waiting for permission. Choose the correct answer from the options given below:"
+        "text": "(C), (D) and (E) only"
       }
     ],
     "correctOption": "A",
@@ -13473,19 +13473,19 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_68 | Q.24",
-    "questionText": "Match List I with List II:\nList I \tList II\nModels of communication\nCharacteristic feature",
+    "questionText": "Match List I with List II:\nList I \tList II\nModels of communication\nCharacteristic feature\n(A) Mathematical model \tI. Perceiving\n(B) Circular model\nII. Global village concept.\n(C) Medium-centric model \tIII. Linear",
     "options": [
       {
         "key": "A",
-        "text": "Mathematical model \tI. Perceiving"
+        "text": "– (111) , (B) – (1V) , (C) – (11) , (D)-(1)"
       },
       {
         "key": "B",
-        "text": "Circular model II. Global village concept."
+        "text": "A -(IV). (B) –( 1) , (C) – (III) , (D)-(II)"
       },
       {
         "key": "C",
-        "text": "Medium-centric model \tIII. Linear"
+        "text": "- (I), (B) –(11) , (C) – (111) , (D) –(1V)"
       },
       {
         "key": "D",
@@ -13493,7 +13493,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-486",
@@ -13501,23 +13501,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_68 | Q.39",
-    "questionText": "a persuasion plan of an educational communicator involves :",
+    "questionText": "a persuasion plan of an educational communicator involves :\n(A) Sequencing of ideas\n(B) Repeated emphasis\n(C) Choice of words\n(D) Reference line\n(E) Personalisation of issues\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Sequencing of ideas"
+        "text": "(A). (C). (D) only"
       },
       {
         "key": "B",
-        "text": "Repeated emphasis"
+        "text": "(A). (B). (C) only"
       },
       {
         "key": "C",
-        "text": "Choice of words"
+        "text": "(B), (C), (D) only"
       },
       {
         "key": "D",
-        "text": "Reference line (E) Personalisation of issues Choose the correct answer from the options given below :"
+        "text": "(C), (D), (E) only"
       }
     ],
     "correctOption": "A",
@@ -13529,23 +13529,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_68 | Q.42",
-    "questionText": "The sequence of steps in organizing written material for communication is :",
+    "questionText": "The sequence of steps in organizing written material for communication is :\n(A) Read over\n(B) Evaluate\n(C) Jot down points\n(D) Construct an outline\n(E) Describe\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Read over"
+        "text": "(A), (B), (C), (D), (E)"
       },
       {
         "key": "B",
-        "text": "Evaluate"
+        "text": "(C), (A), (B), (D), (E)"
       },
       {
         "key": "C",
-        "text": "Jot down points"
+        "text": "(C), (D), (A), (E), (B)"
       },
       {
         "key": "D",
-        "text": "Construct an outline (E) Describe Choose the correct answer from the options given below :"
+        "text": "(B), (A), (D), (E), (C)"
       }
     ],
     "correctOption": "B",
@@ -13613,23 +13613,23 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_69 | Q.33",
-    "questionText": "Identify the barriers to communication from the list given below :",
+    "questionText": "Identify the barriers to communication from the list given below :\n(A) Time and distance\n(B) By-passed instructions\n(C) Encoding of thoughts and ideas\n(D) Decoding of thoughts and ideas\n(E) Logical sequence\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Time and distance"
+        "text": "(A) and (B) only"
       },
       {
         "key": "B",
-        "text": "By-passed instructions"
+        "text": "(B) and (C) only"
       },
       {
         "key": "C",
-        "text": "Encoding of thoughts and ideas"
+        "text": "(C) and (D) only"
       },
       {
         "key": "D",
-        "text": "Decoding of thoughts and ideas (E) Logical sequence Choose the correct answer from the options given below :"
+        "text": "(D) and (E) only"
       }
     ],
     "correctOption": "A",
@@ -13669,27 +13669,27 @@
     "unitId": 4,
     "unitTitle": "Communication",
     "shift": "Shift_69 | Q.39",
-    "questionText": "Match List I with List II :\nList I \tList II\n(Types of Communication) \t(Main features)",
+    "questionText": "Match List I with List II :\nList I \tList II\n(Types of Communication) \t(Main features)\n(A) \tDownward Communication \t(I) Grows primarily to meet\norganizational/member’s need for\ncommunication\n(B) \tUpward Communication \t(II) It forms a useful link in decision making\nfor task coordination\n(C) \tHorizontal Communication \t(III) Provides management with feedback\nabout current issues and problems\n(D) \tGrapevine Communication \t(IV) It is the most common communication\nsystem in an organization\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Downward Communication \t(I) Grows primarily to meet organizational/member’s need for communication"
+        "text": "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
       },
       {
         "key": "B",
-        "text": "Upward Communication \t(II) It forms a useful link in decision making for task coordination"
+        "text": "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
       },
       {
         "key": "C",
-        "text": "Horizontal Communication \t(III) Provides management with feedback about current issues and problems"
+        "text": "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
       },
       {
         "key": "D",
-        "text": "Grapevine Communication \t(IV) It is the most common communication system in an organization Choose the correct answer from the options given below :"
+        "text": "(A)-(IV), (B)-(III), (C)- (II), (D)-(I)"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Downward: Superiors $\\to$ Subordinates (Management $\\to$ Staff) | Policies, instructions, feedback. Prone to distortion and loss of detail."
   },
   {
     "id": "P1-U04-493",
@@ -13969,7 +13969,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-503",
@@ -14053,7 +14053,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-506",
@@ -14109,7 +14109,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-508",
@@ -14165,7 +14165,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-510",
@@ -14193,7 +14193,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-511",
@@ -14277,7 +14277,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-518",
@@ -14333,7 +14333,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-520",
@@ -15397,7 +15397,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-561",
@@ -15733,7 +15733,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U04-586",

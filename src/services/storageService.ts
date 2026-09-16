@@ -15,7 +15,8 @@ const STORAGE_KEYS = {
   MISTAKES: 'examvault_mistakes',
   STARRED: 'examvault_starred',
   MOCKS: 'examvault_mocks',
-  HABITS: 'examvault_habits'
+  HABITS: 'examvault_habits',
+  EXCLUDED: 'examvault_excluded_questions'
 };
 
 class StorageService {
@@ -305,6 +306,35 @@ class StorageService {
     return updated;
   }
 
+  // --- EXCLUDED / REPORTED QUESTIONS ---
+
+  public getExcludedQuestionIds(): Set<string> {
+    const stored = localStorage.getItem(STORAGE_KEYS.EXCLUDED);
+    if (!stored) return new Set();
+    try {
+      const arr = JSON.parse(stored);
+      return new Set(Array.isArray(arr) ? arr : []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  public excludeQuestion(questionId: string): void {
+    const ids = this.getExcludedQuestionIds();
+    ids.add(questionId);
+    localStorage.setItem(STORAGE_KEYS.EXCLUDED, JSON.stringify(Array.from(ids)));
+  }
+
+  public unexcludeQuestion(questionId: string): void {
+    const ids = this.getExcludedQuestionIds();
+    ids.delete(questionId);
+    localStorage.setItem(STORAGE_KEYS.EXCLUDED, JSON.stringify(Array.from(ids)));
+  }
+
+  public isQuestionExcluded(questionId: string): boolean {
+    return this.getExcludedQuestionIds().has(questionId);
+  }
+
   // --- SYNC EXPORT & IMPORT ---
 
   public exportStateJson(): string {
@@ -314,7 +344,8 @@ class StorageService {
       mistakes: this.getMistakes(),
       starred: this.getStarredDoubts(),
       mocks: this.getMockResults(),
-      habits: localStorage.getItem(STORAGE_KEYS.HABITS) ? JSON.parse(localStorage.getItem(STORAGE_KEYS.HABITS)!) : {}
+      habits: localStorage.getItem(STORAGE_KEYS.HABITS) ? JSON.parse(localStorage.getItem(STORAGE_KEYS.HABITS)!) : {},
+      excluded: Array.from(this.getExcludedQuestionIds())
     };
     return btoa(unescape(encodeURIComponent(JSON.stringify(state))));
   }
@@ -329,6 +360,7 @@ class StorageService {
       if (state.starred) localStorage.setItem(STORAGE_KEYS.STARRED, JSON.stringify(state.starred));
       if (state.mocks) localStorage.setItem(STORAGE_KEYS.MOCKS, JSON.stringify(state.mocks));
       if (state.habits) localStorage.setItem(STORAGE_KEYS.HABITS, JSON.stringify(state.habits));
+      if (state.excluded) localStorage.setItem(STORAGE_KEYS.EXCLUDED, JSON.stringify(state.excluded));
       this.profile = state.profile || null;
       return true;
     } catch {

@@ -333,7 +333,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-14",
@@ -417,7 +417,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-17",
@@ -445,7 +445,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "1960: Coined/Proposed by R.K. Narayan (*The Guide*)"
   },
   {
     "id": "P2-U03-18",
@@ -585,7 +585,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-23",
@@ -641,7 +641,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-25",
@@ -837,7 +837,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-32",
@@ -949,7 +949,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-36",
@@ -2125,7 +2125,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "1993: Coined/Proposed by Vikram Seth (*A Suitable Boy*)"
   },
   {
     "id": "P2-U03-78",
@@ -2377,7 +2377,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "2008: Coined/Proposed by Aravind Adiga (*The White Tiger*)"
   },
   {
     "id": "P2-U03-87",
@@ -2769,7 +2769,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-101",
@@ -2853,7 +2853,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": "Cyrus Mistry: Coined/Proposed by *Doongaji House* (1977) (Sultan Padamsee Award (1978); depicts Parsi family decay in Bombay; also wrote novel *Chronicle of a Corpse Bearer* (Sahitya Akademi 2014).)"
   },
   {
     "id": "P2-U03-104",
@@ -3609,7 +3609,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-131",
@@ -3749,7 +3749,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-136",
@@ -3973,7 +3973,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-144",
@@ -4281,7 +4281,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Category: Coined/Proposed by Canonical Sequence (Chronological Order) (Exact Years)"
+    "cheatSheetRule": "Antonio Gramsci: Coined/Proposed by *Prison Notebooks* (1929–1935) (\"Hegemony\" (ruling class dominates not just by force, but by manufactured consent via civil society); Traditional vs. Organic Intellectuals.)"
   },
   {
     "id": "P2-U03-155",
@@ -4981,7 +4981,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-180",
@@ -5009,7 +5009,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-181",
@@ -5681,7 +5681,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-205",
@@ -5849,7 +5849,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-211",
@@ -6445,7 +6445,7 @@
     "unitId": 3,
     "unitTitle": "Fiction & Short Story",
     "shift": "Shift: MARCH 2023 SHIFT I | Q.58",
-    "questionText": "Which among the following is correct in the context of R. K Narayan?\n(a) His The Guide is an open-ended novel.\n(b) Most of the characters of his novels are from elite section of society.\n(c) He wrote a short story titled “The Martyr’s Corner.”\n(d) He received the Booker’s prize for his novel The Vendor of Sweets.\n(e) Malgudi is a real-life city in Karnataka.\nChoose the correct option given below:",
+    "questionText": "Which among the following is correct in the context of R. K Narayan?\n(a) His The Guide is an open-ended novel.\n(b) Most of the characters of his novels are from elite section of society.\n(c) He wrote a short story titled “The Martyr’s Corner.”\n(d) He received the Booker’s prize for his novel The Vendor of Sweets.\n(e) Malgudi is a real-life city in Karnataka.\nChoose the correct option given below:\n(A) (a), (b) and (c)\n(B) (a) and (c)\n(C) (a), (c) and (d)\n(D) (a), (c) and (e)\n\n\n(a) J. C. Ransom — Criticism, Inc.\n(b) William Empson — Seven Types of Ambiguity\n(c) C. Brooks and R. P. Warren — Understanding Poetry\n(d) R. P. Blackmur — In Search of the New Criticism\n(e) Allen Tate — The New Apologists for Poetry\nChoose the correct answer from the options given below:",
     "options": [
       {
         "key": "A",
@@ -6453,15 +6453,15 @@
       },
       {
         "key": "B",
-        "text": "(a) and (c)"
+        "text": "(a), (b) and (d)"
       },
       {
         "key": "C",
-        "text": "(a), (c) and (d)"
+        "text": "(b), (c) and (e)"
       },
       {
         "key": "D",
-        "text": "(a), (c) and (e) (a) J. C. Ransom — Criticism, Inc. (b) William Empson — Seven Types of Ambiguity (c) C. Brooks and R. P. Warren — Understanding Poetry (d) R. P. Blackmur — In Search of the New Criticism (e) Allen Tate — The New Apologists for Poetry Choose the correct answer from the options given below:"
+        "text": "(b), (d) and (e)"
       }
     ],
     "correctOption": "B",
@@ -6773,7 +6773,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-244",
@@ -6941,7 +6941,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-250",
@@ -7277,7 +7277,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-262",
@@ -7501,7 +7501,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-270",
@@ -8033,7 +8033,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-289",
@@ -8117,7 +8117,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-292",
@@ -8173,7 +8173,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-294",
@@ -8453,7 +8453,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-304",
@@ -8733,7 +8733,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-314",
@@ -9377,7 +9377,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Coined/Proposed by Author (Landmark Awarded Work)"
+    "cheatSheetRule": null
   },
   {
     "id": "P2-U03-337",

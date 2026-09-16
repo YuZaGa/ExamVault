@@ -111,3 +111,22 @@ export interface UserProfile {
   soundEnabled: boolean;
   hapticEnabled: boolean;
 }
+
+export type ReportReason = 'broken_table' | 'wrong_answer' | 'missing_options' | 'garbled_text' | 'other';
+
+export interface ReportedQuestion {
+  id?: string;
+  questionId: string;
+  paper: 1 | 2;
+  unitId: number;
+  unitTitle?: string;
+  shift?: string;
+  reason: ReportReason;
+  details?: string;
+  questionText: string;
+  correctOption: OptionKey;
+  options: Option[];
+  status: 'pending' | 'resolved';
+  reportedAt: string;
+  resolvedAt?: string;
+}

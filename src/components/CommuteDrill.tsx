@@ -12,9 +12,11 @@ import {
   Sparkles, 
   RotateCcw,
   Award,
-  BookOpen
+  BookOpen,
+  Flag
 } from 'lucide-react';
 import { FormattedQuestionText } from './FormattedQuestionText';
+import { ReportQuestionModal } from './ReportQuestionModal';
 
 interface CommuteDrillProps {
   questions: Question[];
@@ -47,6 +49,20 @@ export const CommuteDrill: React.FC<CommuteDrillProps> = ({
   const isStarred = currentQ ? storageService.isStarred(currentQ.id) : false;
   const currentSelected = selectedAnswers[currentIndex];
   const isAnswered = currentSelected !== undefined;
+  const [reportingQuestion, setReportingQuestion] = useState<Question | null>(null);
+  const [reportToast, setReportToast] = useState<string | null>(null);
+
+  const handleReportSuccess = (_questionId: string) => {
+    setReportToast('Question reported & excluded from pack');
+    setTimeout(() => setReportToast(null), 3500);
+
+    // Skip ahead immediately
+    if (currentIndex < questions.length - 1) {
+      setCurrentIndex(prev => prev + 1);
+    } else {
+      setIsCompleted(true);
+    }
+  };
 
   // Countdown timer effect
   useEffect(() => {
@@ -410,8 +426,37 @@ export const CommuteDrill: React.FC<CommuteDrillProps> = ({
           <span className="unit-tag">
             P{currentQ.paper} • U{currentQ.unitId} {currentQ.unitTitle}
           </span>
-          <span className="shift-tag">{currentQ.shift}</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <span className="shift-tag">{currentQ.shift}</span>
+            <button
+              onClick={() => setReportingQuestion(currentQ)}
+              className="icon-btn"
+              title="Report broken or glitched question"
+              style={{ 
+                padding: '4px 8px', 
+                height: 'auto', 
+                borderRadius: '6px', 
+                fontSize: '0.72rem', 
+                display: 'flex', 
+                alignItems: 'center', 
+                gap: '4px', 
+                color: '#F87171', 
+                border: '1px solid rgba(239, 68, 68, 0.25)', 
+                background: 'rgba(239, 68, 68, 0.08)' 
+              }}
+            >
+              <Flag size={12} />
+              <span>Report</span>
+            </button>
+          </div>
         </div>
+
+        {/* Report Toast Notification */}
+        {reportToast && (
+          <div style={{ padding: '8px 12px', borderRadius: '8px', background: 'rgba(239, 68, 68, 0.15)', border: '1px solid rgba(239, 68, 68, 0.3)', marginBottom: '16px', display: 'flex', alignItems: 'center', gap: '8px', color: '#FCA5A5', fontSize: '0.82rem', fontWeight: 600 }}>
+            <span>{reportToast}</span>
+          </div>
+        )}
 
         {/* 2x Purge Notification Banner if conquered */}
         {purgedQuestions[currentQ.id] && (
@@ -506,6 +551,16 @@ export const CommuteDrill: React.FC<CommuteDrillProps> = ({
           </button>
         </div>
       </div>
+
+      {/* Report Broken Question Modal */}
+      {reportingQuestion && (
+        <ReportQuestionModal
+          question={reportingQuestion}
+          isOpen={!!reportingQuestion}
+          onClose={() => setReportingQuestion(null)}
+          onReportSuccess={handleReportSuccess}
+        />
+      )}
     </div>
   );
 };

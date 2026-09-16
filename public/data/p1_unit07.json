@@ -25,7 +25,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-2",
@@ -53,7 +53,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-3",
@@ -81,7 +81,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-4",
@@ -109,7 +109,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-5",
@@ -137,7 +137,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-6",
@@ -165,7 +165,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-7",
@@ -193,7 +193,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-8",
@@ -221,7 +221,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-9",
@@ -249,7 +249,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-10",
@@ -277,7 +277,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-11",
@@ -305,7 +305,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-12",
@@ -333,7 +333,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-13",
@@ -361,7 +361,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-14",
@@ -389,7 +389,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-15",
@@ -417,7 +417,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-16",
@@ -725,7 +725,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-27",
@@ -753,7 +753,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-28",
@@ -781,7 +781,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-29",
@@ -809,7 +809,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-30",
@@ -837,7 +837,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-31",
@@ -1985,7 +1985,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-72",
@@ -2013,7 +2013,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-73",
@@ -2041,7 +2041,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-74",
@@ -2069,7 +2069,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-75",
@@ -2097,7 +2097,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-76",
@@ -2125,7 +2125,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-77",
@@ -2153,7 +2153,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-78",
@@ -2181,7 +2181,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-79",
@@ -2209,7 +2209,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-80",
@@ -2237,7 +2237,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-81",
@@ -2545,7 +2545,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-92",
@@ -2573,7 +2573,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-93",
@@ -2601,7 +2601,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-94",
@@ -2629,7 +2629,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-95",
@@ -2657,7 +2657,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-96",
@@ -2825,7 +2825,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-102",
@@ -2853,7 +2853,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-103",
@@ -2881,7 +2881,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-104",
@@ -2909,7 +2909,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-105",
@@ -2937,7 +2937,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-106",
@@ -2965,7 +2965,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-107",
@@ -2993,7 +2993,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-108",
@@ -3021,7 +3021,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-109",
@@ -3049,7 +3049,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-110",
@@ -3077,7 +3077,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-111",
@@ -3805,7 +3805,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-137",
@@ -3833,7 +3833,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-138",
@@ -3861,7 +3861,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-139",
@@ -3889,7 +3889,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-140",
@@ -3917,7 +3917,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-141",
@@ -3945,7 +3945,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-142",
@@ -3973,7 +3973,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-143",
@@ -4001,7 +4001,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-144",
@@ -4029,7 +4029,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-145",
@@ -4057,7 +4057,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-146",
@@ -4225,7 +4225,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-152",
@@ -4253,7 +4253,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-153",
@@ -4281,7 +4281,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-155",
@@ -4309,7 +4309,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-156",
@@ -4477,7 +4477,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-162",
@@ -4505,7 +4505,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-163",
@@ -4533,7 +4533,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-164",
@@ -4561,7 +4561,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-165",
@@ -4589,7 +4589,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-166",
@@ -4617,7 +4617,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-167",
@@ -4645,7 +4645,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-168",
@@ -4673,7 +4673,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-169",
@@ -4701,7 +4701,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-170",
@@ -4729,7 +4729,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-171",
@@ -4897,7 +4897,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-177",
@@ -4925,7 +4925,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-178",
@@ -4953,7 +4953,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-179",
@@ -4981,7 +4981,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-180",
@@ -5009,7 +5009,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-182",
@@ -5037,7 +5037,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-183",
@@ -5065,7 +5065,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-184",
@@ -5093,7 +5093,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-185",
@@ -5121,7 +5121,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-186",
@@ -5149,7 +5149,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-187",
@@ -5177,7 +5177,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-189",
@@ -5205,7 +5205,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-191",
@@ -5373,7 +5373,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-197",
@@ -5401,7 +5401,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-198",
@@ -5429,7 +5429,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-199",
@@ -5457,7 +5457,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-200",
@@ -5485,7 +5485,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-204",
@@ -5513,7 +5513,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-205",
@@ -5541,7 +5541,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-206",
@@ -5569,7 +5569,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "1960: Berlo's SMCR Model | David K. Berlo"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-207",
@@ -5597,7 +5597,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "1960: Berlo's SMCR Model | David K. Berlo"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-208",
@@ -5625,7 +5625,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "1960: Berlo's SMCR Model | David K. Berlo"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-209",
@@ -5653,7 +5653,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "1960: Berlo's SMCR Model | David K. Berlo"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-210",
@@ -5681,7 +5681,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "1960: Berlo's SMCR Model | David K. Berlo"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-211",
@@ -5849,7 +5849,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-217",
@@ -5877,7 +5877,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-218",
@@ -5905,7 +5905,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-219",
@@ -5933,7 +5933,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-220",
@@ -5961,7 +5961,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-221",
@@ -5989,7 +5989,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-222",
@@ -6017,7 +6017,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-223",
@@ -6045,7 +6045,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-224",
@@ -6073,7 +6073,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-225",
@@ -6101,7 +6101,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-227",
@@ -6213,7 +6213,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-232",
@@ -6241,7 +6241,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-233",
@@ -6269,7 +6269,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-234",
@@ -6297,7 +6297,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-235",
@@ -6325,7 +6325,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-236",
@@ -6353,7 +6353,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-237",
@@ -6381,7 +6381,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-239",
@@ -6409,7 +6409,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-241",
@@ -6437,7 +6437,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-243",
@@ -6465,7 +6465,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-244",
@@ -6493,7 +6493,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-245",
@@ -6521,7 +6521,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-246",
@@ -6549,7 +6549,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-247",
@@ -6577,7 +6577,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-248",
@@ -6605,7 +6605,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-249",
@@ -6633,7 +6633,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-250",
@@ -6661,7 +6661,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-251",
@@ -6689,7 +6689,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-252",
@@ -6717,7 +6717,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-253",
@@ -6745,7 +6745,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-254",
@@ -6773,7 +6773,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-255",
@@ -6801,7 +6801,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-256",
@@ -7109,7 +7109,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-267",
@@ -7137,7 +7137,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-268",
@@ -7165,7 +7165,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-269",
@@ -7193,7 +7193,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-270",
@@ -7221,7 +7221,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-271",
@@ -7473,7 +7473,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-281",
@@ -7501,7 +7501,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-282",
@@ -7529,7 +7529,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-283",
@@ -7557,7 +7557,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-284",
@@ -7585,7 +7585,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-285",
@@ -7613,7 +7613,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-286",
@@ -7641,7 +7641,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-287",
@@ -7669,7 +7669,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-288",
@@ -7697,7 +7697,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-289",
@@ -7725,7 +7725,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-290",
@@ -7753,7 +7753,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-291",
@@ -7781,7 +7781,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-292",
@@ -7809,7 +7809,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-293",
@@ -7837,7 +7837,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-294",
@@ -7865,7 +7865,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-295",
@@ -7893,7 +7893,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-296",
@@ -7921,7 +7921,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-297",
@@ -7949,7 +7949,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-298",
@@ -7977,7 +7977,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-299",
@@ -8005,7 +8005,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-300",
@@ -8033,7 +8033,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-301",
@@ -8061,7 +8061,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-305",
@@ -8509,7 +8509,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-321",
@@ -8537,7 +8537,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-322",
@@ -8565,7 +8565,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-323",
@@ -8593,7 +8593,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-324",
@@ -8621,7 +8621,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-325",
@@ -8789,7 +8789,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-331",
@@ -8817,7 +8817,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-332",
@@ -8845,7 +8845,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-333",
@@ -8873,7 +8873,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-334",
@@ -8901,7 +8901,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-335",
@@ -9069,7 +9069,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-341",
@@ -9097,7 +9097,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-342",
@@ -9125,7 +9125,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-343",
@@ -9153,7 +9153,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-344",
@@ -9181,7 +9181,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-345",
@@ -9209,7 +9209,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-346",
@@ -9237,7 +9237,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-347",
@@ -9265,7 +9265,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-348",
@@ -9293,7 +9293,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-349",
@@ -9321,7 +9321,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-350",
@@ -9349,7 +9349,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-351",
@@ -9377,7 +9377,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-352",
@@ -9405,7 +9405,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-353",
@@ -9433,7 +9433,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-354",
@@ -9461,7 +9461,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-355",
@@ -9769,7 +9769,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-366",
@@ -9797,7 +9797,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-367",
@@ -9825,7 +9825,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-368",
@@ -9853,7 +9853,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-369",
@@ -9881,7 +9881,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-370",
@@ -10245,7 +10245,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-383",
@@ -10469,7 +10469,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-391",
@@ -10497,7 +10497,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-392",
@@ -10525,7 +10525,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-393",
@@ -10553,7 +10553,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-394",
@@ -10581,7 +10581,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-395",
@@ -10749,7 +10749,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-401",
@@ -10777,7 +10777,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-402",
@@ -10805,7 +10805,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-403",
@@ -10833,7 +10833,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-404",
@@ -10861,7 +10861,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-405",
@@ -11009,27 +11009,27 @@
     "unitId": 7,
     "unitTitle": "Data Interpretation",
     "shift": "Shift_69 | Q.5",
-    "questionText": "India’s cultural diplomacy is centered around",
+    "questionText": "India’s cultural diplomacy is centered around\n(A) Ramayan\n(B) Multilateral engagements\n(C) Business Promotion\n(D) People to people contacts\nChoose the correct answer from the options given below :",
     "options": [
       {
         "key": "A",
-        "text": "Ramayan"
+        "text": "(A) and (D) only"
       },
       {
         "key": "B",
-        "text": "Multilateral engagements"
+        "text": "(A), (C) and (D) only"
       },
       {
         "key": "C",
-        "text": "Business Promotion"
+        "text": "(B), (C) and (D) only"
       },
       {
         "key": "D",
-        "text": "People to people contacts Choose the correct answer from the options given below :"
+        "text": "(B) and (D) only Consider the following table that shows the percentage (%) distribution of the number of the personal computers (PCs) sold by a dealer from July to December -2019 and the ratio between the number of the PCs sold of HP and DELL companies during the same six months . total number of PCs sold in all this six months put together is"
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": null
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-411",
@@ -11197,7 +11197,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U07-417",
@@ -11225,7 +11225,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U07-418",
@@ -11253,7 +11253,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U07-419",
@@ -11281,7 +11281,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U07-420",
@@ -11309,7 +11309,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Feature: Positivism (Scientific / Quantitative) | Post-Positivism / Interpretivism (Qualitative)"
+    "cheatSheetRule": "Stratified Sampling: Probability | Population divided into homogeneous strata (e.g. Gender, Faculty, Grade), and random samples drawn from *each* stratum."
   },
   {
     "id": "P1-U07-421",
@@ -11317,27 +11317,27 @@
     "unitId": 7,
     "unitTitle": "Data Interpretation",
     "shift": "12.11.2020 AN | Q.2",
-    "questionText": "Rs 256\n3 . Rs 302\n4. Rs 308\nQ.13\n\"Planets are big. Therefore, the atoms from which they are made are big\". This\ninference commits which kind of fallacy?",
+    "questionText": "Rs 256\n3 . Rs 302\n4. Rs 308\nQ.13\n\"Planets are big. Therefore, the atoms from which they are made are big\". This\ninference commits which kind of fallacy?\n(A) Fallacy of Division\n(B) Fallacy of Ambiguity\n(C) Fallacy of Equivocation\n(D) Ad populum\nQ.14\nThe research form which will be an appropriate fit for improving efficacy of formative\nassessment would be:\n(A) Fundamental research\n(B) Applied research\n(C) Action research\n(D) Ethnographic research\nQ.15\nIn the following statements, identify those which are related to characteristics and\nbasic requirements of teaching at the understanding level\na) Teaching stresses recitations of facts and information\nb) Teaching becomes an activity to promote seeing of relationships among facts\nand information\nc) The teacher expects that students will be able to translate and interpret the\nmeanings in their own words\nd) The teacher insists on recall and recognition of facts presented\ne) The teacher gives a large number of examples to being home the main ideas\nSelect the correct answer from the following options\n(A) a), b) and c) only\n(B) c), d) and e) only\n(C) a), d) and e) only\n(D) b), c) and e) only\nQ.16\nInappropriate application of ICT in research is an example of:\n(A) Technical lapse on the part of the researcher\n(B) Inadequate provision of ICT resources\n(C) Violation of research ethics\n(D) Absence of technical expertise of ICT resources\nQ.17\nWhich of the following are the learner related factors in determining effectiveness of\nteaching?\na) Task relevant competencies of learners\nb) Content mastery of the teacher\nc) Choice of teaching methods\nd) Composition of the class room\ne) Readiness level of student\nChoose the correct answer from the options below\n(A) b) and c) only\n(B) a) and e) only\n(C) d) and e) only\n(D) b) and e) only\nQ.18\nWhich of the following is correct about the sentence, \"Some men are not married\"?\n(A) The subject is distributed\n(B) The predicate is distributed\n(C) Both subject and predicate are distributed\n(D) Neither subject or predicate is distributed\nQ.19\nIf UGCNET = 35, then CSIRNET=\n(A) 42\n(B) 43\n(C) 44\n(D) 45\nQ.20\nGiven below are two statements. One is labelled as Assertion (A) and other is labelled\nas Reason (R)\nAssertion (A): While communicatingwith students. Ateacher should go beyond what is\nprescribed.\nReason (R): Non-verbal cues definitely convey what is intended by the teacher.\nIn the light of the above two statements, choose the correct option from those given\nbelow\n(A) Both A) and R) are true. and R) is the correct explanation of A)\n(B) Both A) and R) are true but R) is NOT the correct explanation of A)\n(C) A) is true. but R) is false\n(D) A) is false. but R) is true\nQ.21\nWhich one of the following is not a sense-organ according to classical Indian school\nof logic?\n(A) Manas\n(B) Savikalpaka\n(C) Caksuh\n(D) Srotra\nQ.22\nMOTION is to RUN as EMOTION is to:\n(A) FURIOUS\n(B) FEELING\n(C) HEART\n(D) ENJOY\nQ.23\n\"Some teachers are not sincere\" is an example of which category of proposit ion?\n(A) Universal negative\n(B) Universal affirmative\n(C) Particular affirmative\n(D) Particular negative\nQ.24\nIn the two sets which follow, Set I gives certain terms used in research while Set II offer\ntheir description. Match the two sets\nSet I Set II\n(Terms used in research) (Description)\na) A postulate i) It causes obtained results to vary in a\nparticular direction\nb) A construct ii) It is something which can change\neither quantitatively or\nqualitatively\nc) Variable iii) It is the statement of the principle\nassumed. in the absence\nof direct evidence\nd) Systematic error iv) Though not directly observable, is\nconsidered to exist\nSelect the correct answer from the following options:\n(A) a) - i); b) - ii); c) - iii); d) - iv)\n(B) a) - iii); b) - iv); c) - ii); d) - i)\n(C) a) - ii); b) - i); c) - iii); d) - iv)\n(D) a) - iv); b) - iii); c) - i); d) - ii)\nQ.25\nA university teacher conducts research study where lecture-cum demonstration\nmethod is used to assess the effect on students' level of participation in terms of the\nsocio-economic status (SES) of their family and its habitat. Which variable in this study\nwill be called an independent variable?\n(A) Lecture-cum demonstration method\n(B) Students level of participation\n(C) SES of their family\n(D) Habitat of the family\nComprehension:\nThe following table gives the percentage of total students and also girl students\nenrolled in five schools (A - E). The total number of students is 4500, while the\ntotal number of girl students is 2000. Based on the data of table, answer the\nquestions that follow.\nPercentage of total number of student and girl students in five schools\nSchool name % of Total Students % of Girl Students Enrolled\nA 20% 15%\nB 30% 35%\nC 25% 12%\nD 15% 25%\nE 10% 13%\nSubQuestion No : 26\nQ.26\nIf 10% of the girls enrolled in C, change their school to E, then what will be the\naggregate number of girls then in E?\n(A) 214\n(B) 234\n(C) 274\n(D) 284\nSubQuestion No : 27\nQ.27\nThe total number of boys enrolled in schools C, D and E is\n(A) 965\n(B) 1250\n(C) 1021\n(D) 1325\nSubQuestion No : 28\nQ.28\nThe ratio of number of girls enrolled in school B to that of the number of boys enrolled\nin D\nIS\n(A) 1:4\n(B) 4:1\n(C) 1:3\n(D) 3:1\nSubQuestion No : 29\nQ.29\nThe number of girls enrolled in B, C and D constitutes what percentage (%) of total\nnumber of students in schools?\n(A) 30%\n(B) 31%\n(C) 32%\n(D) 33%\nQ.30\nThe total number of girls enrolled in schools A and B together is\n(A) 740\n(B) 760\n(C) 940\n(D) 1000\nQ.31\nFor research in policy relevant areas, which of the following organizations is entrusted\nwith the initiative 'Impress'?\n(A) IIAS\n(B) ICSSR\n(C) ICPR\n(D) ICHR\nQ.32\nOne aspect of E-governance deals with flow of information between the Government\nand citizens. Which of the following are Government to Citizens (G2C) initiatives?\na) e • Help\nb) e . Health\nc) e - Tendering\nd) e - Feedback\nChoose the correct option from those given below\n(A) a) and b) only\n(B) c) and d) only\n(C) b) and d) only\n(D) b) and c) only\nQ.33\nFrom the following list, identify the Greenhouse Gases adopted in the Kyoto Protocol\ni) Carbon dioxide\nii) Methane\niii) Nitrous oxide\niv) Hydl'Oflurocarbons\nv) Perflurocarbons\nvi) Sulphur hexafluoride\nSelect the most appropriate answer from the options given below:\n(A) i), ii), iv) and v) only\n(B) i), iv), v) and vi) only\n(C) ii), iv), v) and vi) only\n(D) i), ii), iii), iv), v) and vi)\nQ.34\nWhich of the following is a residential centre for free and creative enquiry into the\nfundamental themes and problems of life and thought?\n(A) Dr Zakir Hussain Memorial College Trust\n(B) Sri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeeth\n(C) Indian Institute of Advanced Study\n(D) National Assessment and Accreditation Council\nQ.35\nHow many unique combinations of O's and l 's can be made with 5-binary-digit code?\n(A) 16\n(B) 32\n(C) 64\n(D) 128\nQ.36\nPolar Stratospheric Clouds are associated with which of the following environmental\nissues?\n(A) Flash floods\n(B) Acid rain\n(C) Ozone layer depletion\n(D) Photo-chemical smog\nQ.37\nCapturing the imagination and initiative of the student is of crucial importance in\n(A) Case method of teaching\n(B) Concept Mapping\n(C) Peer instruction\n(D) Quizzes\nQ.38\nSustainable Development Goal - 'Life below water' aims at conserving and sustainably\nusing\n(A) Ground water resources\n(B) Rivers, streams, ponds and lake resources\n(C) Oceans, sea and marine resources\n(D) Wetland resources\nQ.39\nWhich of the following keys of keyboard are called modifier keys?\na) Ctrl\nb) Shift\nc) End\nd) Alt\nChoose the correct option from those given below:\n(A) a), b) and c)\n(B) a), b) and d)\n(C) a), c) and d)\n(D) b), c) and d)\nQ.40\nThe impact of noise pollution on human health is governed by:\na) Intensity of noise\nb) Duration of noise\nc) Socio-economic stat us of an individual\nd) Sensitivity of human ear\ne) Frequency range of noise\nChoose your· answer from the options given below:\n(A) a). b), d) and e) only\n(B) a), b) and c) only\n(C) a). c), d) and e) only\n(D) a), b), c), d) and e)\nQ.41\nClimate pledges under Paris Agreement cover what fraction of greenhouse gas\nemissions reduction needed to limit the global warming below 2° C?\n(A) 1/3\n(B) 2/3\n(C) 1/2\n(D) ¾\nQ.42\nWhich of the following portals include the list of 'on-line courses'?\na) Ariia.gov.in\nb) Swaya.m.gov.in\nc) Mic.a.c.in\nd) Nptel.ac.in\nChoose the correct option from those given below\n(A) a) and c) only\n(B) a) and d) only\n(C) b) and c) only\n(D) b) and d) only\nQ.43\nA vital role in human resource development of a country canteredon skilled manpower,\nproductivity and the quality of life of its people is focused on which of the\nfollowingdomains?\n(A) Professional education\n(B) Formal education\n(C) Lifelong education\n(D) Technical education\nQ.44\nThe teaching in the universities of ancient India was controlled by board of eminent\nTeachers. The affairs of which university were administered by the Board of Vikmmsila\nUniversity?\n(A) Jagaddala University\n(B) Valabhi University\n(C) Nalanda University\n(D) Odantapuri University\n.\nThe process through which an illegitimate website pretends to be a specific legitimate\nwebsite is known as:",
     "options": [
       {
         "key": "A",
-        "text": "Fallacy of Division"
+        "text": "Sniffing"
       },
       {
         "key": "B",
-        "text": "Fallacy of Ambiguity"
+        "text": "Spoofing"
       },
       {
         "key": "C",
-        "text": "Fallacy of Equivocation"
+        "text": "Back Doors"
       },
       {
         "key": "D",
-        "text": "Ad populum Q.14 The research form which will be an appropriate fit for improving efficacy of formative assessment would be:"
+        "text": "War Dialing Comprehension:"
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Equivocation: — | Shifting between two different meanings of the same word within a single argument."
+    "cheatSheetRule": "Acid Rain: $< 5.6$ | Acidic"
   },
   {
     "id": "P1-U07-422",
@@ -11345,27 +11345,27 @@
     "unitId": 7,
     "unitTitle": "Data Interpretation",
     "shift": "Shift_67 | Q.4",
-    "questionText": "The ‘Sociogram’ technique is used to study",
+    "questionText": "The ‘Sociogram’ technique is used to study\n(A) Vocational Interest\n(B) Professional Competence\n(C) Human Relations\n(D) Achievement Motivation\n46. Who among the following appointed by the Governor can be removed by only the\nPresident of India?\n(A) Chief Minister of a State\n(B) A member of the State Public Service Commission\n(C) Advocate-General\n(D) Vice-Chancellor of a State University\n47. If two small circles represent the class of the ‘men’ and the class of the ‘plants’ and the big\ncircle represents ‘mortality’, which one of the following figures represent the proposition ‘All\nmen are mortal.’ ?\nThe following table presents the production of electronic items (TVs and LCDs) in a factory\nduring the period from 2006 to 2010. Study the table carefully and answer the questions from\n48 to 52:\nYear 2006 2007 2008 2009 2010\nTV 6000 9000 13000 11000 8000\nLCDs 7000 9400 9000 10000 12000\n48. In which year, the total production of electronic items is maximum?\n(A) 2006\n(B) 2007\n(C) 2008\n(D) 2010\n49. What is the difference between averages of production of LCDs and TVs from 2006 to\n2008?\n(A) 3000\n(B) 2867\n(C) 3015\n(D) 2400\n50. What is the year in which production of TVs is half the production of LCDs in the year\n2010?\n(A) 2007\n(B) 2006\n(C) 2009\n(D) 2008\n51. What is the ratio of production of LCDs in the years 2008 and 2010?\n(A) 4 : 3\n(B) 3 : 4\n(C) 1 : 3\n(D) 2 : 3\n52. What is the ratio of production of TVs in the years 2006 and 2007?\n(A) 6 : 7\n(B) 7 : 6\n(C) 2 : 3\n(D) 3 : 2\n53. Some students in a class exhibit great curiosity for learning. It may be because such\nchildren\n(A) Are gifted\n(B) Come from rich families\n(C) Show artificial behaviour\n(D) Create indiscipline in the class\n54. The most important quality of a good teacher is\n(A) Sound knowledge of subject matter\n(B) Good communication skills\n(C) Concern for students’ welfare\n(D) Effective leadership qualities\n55. Which one of the following is appropriate in respect of teacher student relationship?\n(A) Very informal and intimate\n(B) Limited to classroom only\n(C) Cordial and respectful\n(D) Indifferent\n56. The academic performance of students can be improved if parents are encouraged to\n(A) supervise the work of their wards\n(B) arrange for extra tuition\n(C) remain unconcerned about it\n(D) interact with teachers frequently\n57. In a lively classroom situation, there is likely to be\n(A) occasional roars of laughter\n(B) complete silence\n(C) frequent teacher-student dialogue\n(D) loud discussion among students\n58. If a parent approaches the teacher to do some favour to his/her ward in the examination,\nthe teacher should\n(A) try to help him\n(B) ask him not to talk in those terms\n(C) refuse politely and firmly\n(D) ask him rudely to go away\n59. Which of the following phrases is not relevant to describe the meaning of research as a\nprocess?\n(A) Systematic Activity\n(B) Objective Observation\n(C) Trial and Error\n(D) Problem Solving\n60. Which of the following is not an example of a continuous variable?",
     "options": [
       {
         "key": "A",
-        "text": "Vocational Interest"
+        "text": "Family size"
       },
       {
         "key": "B",
-        "text": "Professional Competence"
+        "text": "Intelligence"
       },
       {
         "key": "C",
-        "text": "Human Relations"
+        "text": "Height"
       },
       {
         "key": "D",
-        "text": "Achievement Motivation"
+        "text": "Attitude"
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Relation: Proposition Pair | Truth Value Rule"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-423",
@@ -11393,7 +11393,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-424",
@@ -11421,7 +11421,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-425",
@@ -11449,7 +11449,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-426",
@@ -11477,7 +11477,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-427",
@@ -11505,7 +11505,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-428",
@@ -11533,7 +11533,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-429",
@@ -11561,7 +11561,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-430",
@@ -11589,7 +11589,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-431",
@@ -11617,7 +11617,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-432",
@@ -11645,7 +11645,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
   },
   {
     "id": "P1-U07-433",
@@ -11673,7 +11673,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-434",
@@ -11701,7 +11701,7 @@
       }
     ],
     "correctOption": "A",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-435",
@@ -11729,7 +11729,7 @@
       }
     ],
     "correctOption": "C",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-436",
@@ -11757,7 +11757,7 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-437",
@@ -11785,7 +11785,7 @@
       }
     ],
     "correctOption": "B",
-    "cheatSheetRule": "Year: Model Name | Formulated By"
+    "cheatSheetRule": null
   },
   {
     "id": "P1-U07-438",
@@ -11897,6 +11897,6 @@
       }
     ],
     "correctOption": "D",
-    "cheatSheetRule": "Ratio: Equal intervals with an absolute / true zero (zero means total absence of attribute). | All arithmetic operations ($+, -, \\times, \\div$)"
+    "cheatSheetRule": null
   }
 ]
