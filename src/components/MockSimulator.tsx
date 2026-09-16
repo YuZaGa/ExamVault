@@ -61,6 +61,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
   const [totalTime, setTotalTime] = useState(0);
   const timerRef = useRef<any>(null);
   const endTimeRef = useRef<number>(0);
+  const startTimeRef = useRef<number>(0);
 
   // Maintain fresh refs for timer-triggered callbacks
   const answersRef = useRef(answers);
@@ -87,8 +88,14 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
     setLoading(true);
     try {
       const qs = await questionService.generateMockExam(paper);
+      if (!qs || qs.length === 0) {
+        alert('Could not generate mock exam questions. Please verify your connection and try again.');
+        return;
+      }
       const durationSecs = paper === 1 ? 60 * 60 : 120 * 60; // 60m for P1, 120m for P2
-      endTimeRef.current = Date.now() + durationSecs * 1000;
+      const now = Date.now();
+      startTimeRef.current = now;
+      endTimeRef.current = now + durationSecs * 1000;
       setQuestions(qs);
       setTotalTime(durationSecs);
       setTimeRemaining(durationSecs);
@@ -102,6 +109,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
       setSelectedMock(paper);
     } catch (err) {
       console.error('Error starting mock exam:', err);
+      alert('An unexpected error occurred while preparing the mock exam.');
     } finally {
       setLoading(false);
     }
@@ -203,6 +211,9 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
     let unattempted = 0;
     const unitBreakdown: Record<string, { correct: number; total: number }> = {};
 
+    const elapsedSecs = Math.round((Date.now() - (startTimeRef.current || (Date.now() - (currTotalTime - currTimeRemaining) * 1000))) / 1000);
+    const timeTaken = Math.min(currTotalTime, Math.max(1, elapsedSecs));
+
     currQuestions.forEach((q, idx) => {
       const userAns = currAnswers[idx];
       const isAttempted = userAns !== undefined;
@@ -231,7 +242,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
           unitId: q.unitId,
           selectedOption: userAns,
           isCorrect,
-          timeSpentSeconds: currQuestions.length > 0 ? Math.round(Math.max(1, currTotalTime - currTimeRemaining) / currQuestions.length) : 0,
+          timeSpentSeconds: currQuestions.length > 0 ? Math.round(timeTaken / currQuestions.length) : 0,
           timestamp: Date.now()
         }, q);
       }
@@ -246,7 +257,6 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
 
     const marksEarned = correct * 2;
     const accuracy = currQuestions.length > 0 ? Math.round((correct / currQuestions.length) * 100) : 0;
-    const timeTaken = Math.max(1, currTotalTime - currTimeRemaining);
 
     const mockResult: MockExamResult = {
       id: 'mock_' + Date.now(),
@@ -278,6 +288,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
   };
 
   const formatResultDate = (timestamp: number) => {
+    if (!timestamp || isNaN(timestamp)) return 'Earlier';
     const d = new Date(timestamp);
     return d.toLocaleDateString(undefined, {
       month: 'short',
@@ -644,11 +655,15 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
       : unattemptedIndices;
 
     if (isReviewMode) {
-      const currentReviewQ = questions[currentIndex];
+      const isCurrentInFilter = filteredIndices.includes(currentIndex);
+      const currentReviewQ = isCurrentInFilter ? questions[currentIndex] : null;
       const isStarred = currentReviewQ ? (doubtStarred[currentReviewQ.id] || storageService.isStarred(currentReviewQ.id)) : false;
       const userChoice = answers[currentIndex];
       const isCorrect = userChoice === currentReviewQ?.correctOption;
       const isAttempted = userChoice !== undefined;
+      const currPos = filteredIndices.indexOf(currentIndex);
+      const hasPrev = currPos > 0;
+      const hasNext = currPos >= 0 && currPos < filteredIndices.length - 1;
 
       return (
         <div style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
@@ -664,7 +679,7 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
             </button>
 
             <span style={{ fontFamily: 'var(--font-heading)', fontSize: '0.9rem', fontWeight: 800, color: 'var(--text-main)' }}>
-              Mock Review (Paper {selectedMock})
+              Mock Review (Paper {selectedMock}) {filteredIndices.length > 0 && `• ${currPos >= 0 ? currPos + 1 : 1}/${filteredIndices.length}`}
             </span>
 
             <button 
@@ -791,6 +806,9 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
                       key={idx}
                       onClick={() => {
                         setCurrentIndex(idx);
+                        if (!filteredIndices.includes(idx)) {
+                          setReviewFilter('all');
+                        }
                         setShowPalette(false);
                       }}
                       style={{
@@ -971,14 +989,11 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
                 <button 
                   className="btn-secondary" 
                   onClick={() => {
-                    const currPos = filteredIndices.indexOf(currentIndex);
-                    if (currPos > 0) {
+                    if (hasPrev) {
                       setCurrentIndex(filteredIndices[currPos - 1]);
-                    } else if (currentIndex > 0) {
-                      setCurrentIndex(currentIndex - 1);
                     }
                   }}
-                  disabled={currentIndex === 0}
+                  disabled={!hasPrev}
                   style={{ flex: 1, minHeight: '46px' }}
                 >
                   <ArrowLeft size={16} />
@@ -988,14 +1003,11 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
                 <button 
                   className="btn-primary" 
                   onClick={() => {
-                    const currPos = filteredIndices.indexOf(currentIndex);
-                    if (currPos >= 0 && currPos < filteredIndices.length - 1) {
+                    if (hasNext) {
                       setCurrentIndex(filteredIndices[currPos + 1]);
-                    } else if (currentIndex < questions.length - 1) {
-                      setCurrentIndex(currentIndex + 1);
                     }
                   }}
-                  disabled={currentIndex === questions.length - 1}
+                  disabled={!hasNext}
                   style={{ flex: 2, minHeight: '46px' }}
                 >
                   <span>Next Question</span>
@@ -1004,10 +1016,30 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
               </div>
             </div>
           ) : (
-            <div className="glass-card" style={{ textAlign: 'center', padding: '30px' }}>
-              <p style={{ color: 'var(--text-muted)' }}>No questions in this filter.</p>
-              <button className="btn-secondary" onClick={() => setReviewFilter('all')} style={{ marginTop: '12px' }}>
-                Show All Questions
+            <div className="glass-card" style={{ textAlign: 'center', padding: '36px 20px' }}>
+              <p style={{ fontFamily: 'var(--font-heading)', fontWeight: 700, fontSize: '1rem', color: 'var(--text-main)', marginBottom: '6px' }}>
+                {reviewFilter === 'incorrect' 
+                  ? '🎉 No Mistakes Found!' 
+                  : reviewFilter === 'correct'
+                  ? 'No Correct Answers'
+                  : reviewFilter === 'unattempted'
+                  ? 'No Skipped Questions'
+                  : 'No questions in this category.'}
+              </p>
+              <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginBottom: '16px' }}>
+                {reviewFilter === 'incorrect' 
+                  ? 'You answered every attempted question correctly in this CBT mock simulation.' 
+                  : 'Select another category above or review all questions.'}
+              </p>
+              <button 
+                className="btn-secondary" 
+                onClick={() => { 
+                  setReviewFilter('all'); 
+                  setCurrentIndex(0); 
+                }} 
+                style={{ margin: '0 auto', width: 'auto' }}
+              >
+                Show All Questions ({questions.length})
               </button>
             </div>
           )}
@@ -1104,6 +1136,37 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
             </div>
           )}
 
+          {/* Unit Score Breakdown for current submission */}
+          {pastResults.length > 0 && pastResults[0]?.unitBreakdown && Object.keys(pastResults[0].unitBreakdown).length > 0 && (
+            <div style={{ textAlign: 'left', background: 'var(--bg-surface)', padding: '14px', borderRadius: '12px', border: '1px solid var(--border-subtle)', marginBottom: '20px' }}>
+              <div style={{ fontSize: '0.8rem', fontWeight: 800, color: 'var(--text-main)', marginBottom: '10px' }}>
+                Unit Score Breakdown
+              </div>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                {Object.entries(pastResults[0].unitBreakdown).map(([unitName, uStat]) => {
+                  const unitPct = uStat.total > 0 ? Math.round((uStat.correct / uStat.total) * 100) : 0;
+                  const barColor = unitPct >= 70 ? 'var(--color-emerald)' : unitPct >= 50 ? 'var(--color-amber)' : 'var(--color-rose)';
+
+                  return (
+                    <div key={unitName} style={{ display: 'flex', flexDirection: 'column', gap: '3px' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', fontSize: '0.74rem' }}>
+                        <span style={{ color: 'var(--text-main)', fontWeight: 600, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', maxWidth: '70%' }}>
+                          {unitName}
+                        </span>
+                        <span style={{ color: barColor, fontWeight: 700 }}>
+                          {uStat.correct}/{uStat.total} ({unitPct}%)
+                        </span>
+                      </div>
+                      <div style={{ width: '100%', height: '4px', background: 'rgba(255, 255, 255, 0.08)', borderRadius: '2px', overflow: 'hidden' }}>
+                        <div style={{ width: `${unitPct}%`, height: '100%', background: barColor, borderRadius: '2px' }} />
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
           <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
             <button 
               className="btn-primary" 
@@ -1129,6 +1192,17 @@ export const MockSimulator: React.FC<MockSimulatorProps> = ({ onBack }) => {
             </button>
           </div>
         </div>
+      </div>
+    );
+  }
+
+  if (!currentQ) {
+    return (
+      <div style={{ padding: '30px', textAlign: 'center' }}>
+        <p style={{ color: 'var(--text-muted)', marginBottom: '12px' }}>Question not available.</p>
+        <button className="btn-secondary" onClick={() => setSelectedMock(null)} style={{ margin: '0 auto', width: 'auto' }}>
+          Return to Mock Selection
+        </button>
       </div>
     );
   }
